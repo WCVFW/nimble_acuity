@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import DSMainMenu from "./Data science services/mainmenu";
 
 interface Subtopic {
   id: number;
@@ -145,6 +146,7 @@ const GlobalOutsourcingProgram = () => {
     return (
     <div className="px-6 py-20 flex flex-col items-center bg-gray-50">
       {/* Intro Section */}
+      <DSMainMenu/>
       <div className="w-full max-w-5xl text-center mb-16">
         <h1 className="text-4xl font-bold mb-6 text-gray-900">
           Global Outsourcing / Offshoring Program Management

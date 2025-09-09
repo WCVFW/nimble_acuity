@@ -1,215 +1,118 @@
-import React, { useState } from "react";
+import React from "react";
+import DSmainmenu from "./DataServices/DSmainmenu";
 
-const ITSoftwareCloudCybersecurity = () => {
-  const [activeIndex, setActiveIndex] = useState<number | null>(null);
-
-  const subtopics = [
-    {
-      title: "IT Helpdesk & Desktop Support",
-      description:
-        "Provide end-user support for hardware, software, and troubleshooting issues. Ensures smooth daily operations and minimizes downtime for employees."
-    },
-    {
-      title: "Managed Services (MSP) & Monitoring",
-      description:
-        "Proactively monitor IT infrastructure, servers, and networks to prevent issues. MSP services improve efficiency and reduce unexpected outages."
-    },
-    {
-      title: "Network Design & Administration",
-      description:
-        "Plan, deploy, and manage secure and scalable networks, ensuring high availability, bandwidth optimization, and reliable connectivity."
-    },
-    {
-      title: "VoIP/PBX Setup & Management",
-      description:
-        "Implement and maintain modern telephony systems, enabling cost-effective communication through VoIP and PBX platforms."
-    },
-    {
-      title: "Cloud Migration (AWS/Azure/GCP)",
-      description:
-        "Seamlessly move applications, workloads, and data to cloud platforms, ensuring minimal disruption and maximum scalability."
-    },
-    {
-      title: "Infrastructure-as-Code (Terraform)",
-      description:
-        "Automate infrastructure provisioning and configuration using IaC tools like Terraform, enabling consistency and faster deployments."
-    },
-    {
-      title: "CI/CD Pipeline Setup",
-      description:
-        "Build automated integration and deployment pipelines to streamline software delivery, improve code quality, and accelerate releases."
-    },
-    {
-      title: "SRE & Reliability Engineering",
-      description:
-        "Implement site reliability engineering practices to enhance uptime, scalability, and operational efficiency of critical systems."
-    },
-    {
-      title: "Web/Mobile Application Development",
-      description:
-        "Design and build high-performing web and mobile applications tailored to business needs with modern frameworks and best practices."
-    },
-    {
-      title: "API Development & Integration",
-      description:
-        "Develop secure and scalable APIs, integrate third-party services, and enable seamless data exchange across applications."
-    },
-    {
-      title: "Microservices Architecture Consulting",
-      description:
-        "Guide businesses in adopting microservices to improve scalability, resilience, and flexibility in software systems."
-    },
-    {
-      title: "Database Administration (SQL/NoSQL)",
-      description:
-        "Manage relational and non-relational databases, ensuring performance tuning, backups, and high availability."
-    },
-    {
-      title: "Data Warehouse & ETL/ELT Pipelines",
-      description:
-        "Design and implement data pipelines to centralize information, enabling advanced analytics and business intelligence reporting."
-    },
-    {
-      title: "Backup & Disaster Recovery",
-      description:
-        "Ensure business continuity with automated backups, redundancy strategies, and disaster recovery planning."
-    },
-    {
-      title: "Identity & Access Management (SSO/MFA)",
-      description:
-        "Secure systems with strong authentication, single sign-on, and multi-factor authentication to protect sensitive resources."
-    },
-    {
-      title: "Pen-Testing & Vulnerability Assessments",
-      description:
-        "Identify and address security weaknesses through penetration testing and vulnerability scanning to reduce cyber risks."
-    },
-    {
-      title: "SOC Monitoring & Incident Response",
-      description:
-        "Provide 24/7 security monitoring, threat detection, and incident response to safeguard against cyberattacks."
-    },
-    {
-      title: "Endpoint Protection & EDR Management",
-      description:
-        "Deploy endpoint protection and advanced EDR solutions to detect, prevent, and respond to threats on devices."
-    },
-    {
-      title: "Patch Management & Hardening",
-      description:
-        "Regularly apply updates, security patches, and system hardening measures to reduce vulnerabilities and improve resilience."
-    },
-    {
-      title: "MDM & Endpoint Lifecycle",
-      description:
-        "Implement mobile device management and oversee the full lifecycle of endpoints from deployment to retirement."
-    },
-    {
-      title: "IT Asset Management & CMDB",
-      description:
-        "Maintain accurate records of IT assets and configuration management databases for improved visibility and efficiency."
-    },
-    {
-      title: "IT Policy & SOP Documentation",
-      description:
-        "Develop clear IT policies and standard operating procedures to ensure compliance, consistency, and security."
-    },
-    {
-      title: "Software Licensing Management",
-      description:
-        "Track and optimize software licenses to ensure compliance and reduce unnecessary expenses."
-    },
-    {
-      title: "QA Automation & Test Management",
-      description:
-        "Automate software testing processes to improve quality assurance, reduce bugs, and speed up delivery cycles."
-    },
-    {
-      title: "UX/UI Design & Prototyping",
-      description:
-        "Design user-friendly interfaces and interactive prototypes that enhance digital product usability and customer experience."
-    },
-    {
-      title: "Robotic Process Automation (RPA)",
-      description:
-        "Automate repetitive business processes using RPA tools, improving efficiency and reducing human errors."
-    },
-    {
-      title: "Low-Code / No-Code Solutions",
-      description:
-        "Enable rapid application development with low-code/no-code platforms, empowering business users to build apps quickly."
-    },
-    {
-      title: "IoT Device Integration",
-      description:
-        "Connect and manage Internet of Things (IoT) devices, enabling real-time monitoring, automation, and analytics."
-    },
-    {
-      title: "Blockchain Solution Prototyping",
-      description:
-        "Explore blockchain applications with prototyping services for secure, decentralized solutions and smart contracts."
-    },
-    {
-      title: "SOC 2 / ISO 27001 Readiness & Audits",
-      description:
-        "Prepare organizations for SOC 2 and ISO 27001 compliance by assessing controls, implementing security measures, and assisting with audits."
-    }
+const ITSoftwareCloudCybersecurity: React.FC = () => {
+  const services = [
+    { title: "Data Entry Services", description: "We have been in the data entry business for over 24 years and our services are backed by this solid experience in handling diverse requirements." },
+    { title: "Data Annotation Services", description: "Accurate data annotation is crucial for AI/ML systems to continuously assimilate and integrate all the data points. With our precision tagging, your systems can achieve just that." },
+    { title: "Image Annotation Services", description: "Enhance your AI and machine learning projects with our precise Image Annotation Services." },
+    { title: "eBooks Conversion Services", description: "Unlock new audiences and formats while maintaining the integrity of your original material with our versatile eBooks Conversion Services." },
+    { title: "Document Digitization Services", description: "Embrace the digital era to preserve important records with our comprehensive Document Digitization Services." },
+    { title: "Data Processing Services", description: "Data processing is critical if you want to get the most out of your data. We make data processing easy so you can focus on higher-value tasks." },
+    { title: "Data Conversion Services", description: "Our team of data experts have been handling data conversion requirements for a diverse clientele from across the world." },
+    { title: "OCR Services", description: "Our optical character recognition services are provided by a seasoned team of data processing specialists. Easily convert your data into digital formats." },
+    { title: "Data Extraction Services", description: "Leverage the power of data to drive informed decisions and business growth with our precise Data Extraction Services." },
+    { title: "Offline Data Entry Services", description: "Maintain data accuracy and organization even without an internet connection with our reliable Offline Data Entry Services." },
   ];
 
-  const toggleCard = (index: number) => {
-    setActiveIndex(activeIndex === index ? null : index);
-  };
+  const stats = [
+    { value: "40%", label: "Cost Reduction" },
+    { value: "8-24 Hrs", label: "Faster Turnaround" },
+    { value: "500+", label: "Satisfied Clients" },
+    { value: "350+", label: "Skilled Data Management Experts" },
+    { value: "99%", label: "Accuracy" },
+    { value: "21", label: "Years Experience" },
+  ];
 
   return (
-    <div className="px-6 py-20 flex flex-col items-center bg-gray-50">
-      {/* Intro Section */}
-      <div className="w-full max-w-5xl text-center mb-16">
-        <h1 className="text-4xl font-bold mb-6 text-gray-900">
-          IT, Software, Cloud & Cybersecurity
-        </h1>
-        <p className="text-gray-600 text-lg leading-relaxed">
-          Our IT, Software, Cloud & Cybersecurity services cover the full spectrum
-          of modern technology needs—from infrastructure management and software development
-          to cloud migration and advanced security operations. Explore our offerings
-          designed to enhance scalability, security, and innovation.
+    <div className="font-sans text-gray-800">
+      {/* Hero Section */}
+      <DSmainmenu/>
+      <section className="bg-blue-50 py-16">
+        <div className="max-w-6xl mx-auto px-4 text-center">
+          <h1 className="text-4xl font-bold mb-4">Data Support Services We Offer</h1>
+          <p className="text-lg text-gray-700">
+            Delivering world-class data support services and solutions to a global clientele for over 23 years.
+          </p>
+        </div>
+      </section>
+
+      {/* Services Section */}
+      <section className="py-12 max-w-6xl mx-auto px-4">
+        <h2 className="text-3xl font-bold mb-8 text-center">Our Services</h2>
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
+          {services.map((service, idx) => (
+            <div key={idx} className="bg-white shadow-lg rounded-lg p-6 hover:shadow-xl transition duration-300">
+              <h3 className="text-xl font-semibold mb-2">{service.title}</h3>
+              <p className="text-gray-600">{service.description}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* Stats Section */}
+      <section className="bg-gray-50 py-12">
+        <div className="max-w-6xl mx-auto px-4 grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6 text-center">
+          {stats.map((stat, idx) => (
+            <div key={idx} className="p-6 bg-white shadow rounded-lg">
+              <p className="text-3xl font-bold text-blue-600">{stat.value}</p>
+              <p className="mt-2 text-gray-600">{stat.label}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* Philippines Delivery Center */}
+      <section className="py-12 max-w-6xl mx-auto px-4 text-center">
+        <h2 className="text-3xl font-bold mb-4">Data Support Services in the Philippines</h2>
+        <p className="text-gray-700 max-w-3xl mx-auto">
+          Our global delivery center in the Philippines employs highly experienced professionals and offers the infrastructure and systems to provide world-class data support services within extremely quick turnaround times.
         </p>
-      </div>
+      </section>
 
-      {/* Cards Section */}
-      <div className="w-full max-w-6xl grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-        {subtopics.map((item, index) => (
-          <div
-            key={index}
-            onClick={() => toggleCard(index)}
-            className="relative cursor-pointer p-6 rounded-xl shadow-md bg-white border border-gray-100 transition-all duration-300 hover:shadow-lg"
-          >
-            {/* Title */}
-            <h2 className="text-lg font-semibold text-gray-900 mb-3">
-              {item.title}
-            </h2>
+      {/* Key Differentiators */}
+      <section className="bg-blue-50 py-12 max-w-6xl mx-auto px-4">
+        <h2 className="text-3xl font-bold mb-6 text-center">Key Differentiators</h2>
+        <ul className="list-disc ml-6 text-gray-700 space-y-2">
+          <li>Over 26+ years of experience in delivering comprehensive data support solutions.</li>
+          <li>Ensured high project visibility, guaranteed quality, and faster turnaround.</li>
+          <li>Substantial cost savings for clients across industries.</li>
+          <li>Expertise in handling complex data entry, conversion, and processing requirements.</li>
+        </ul>
+      </section>
 
-            {/* Content */}
-            <p
-              className={`text-gray-600 text-sm leading-relaxed transition-all duration-300 ${
-                activeIndex === index
-                  ? "max-h-40 opacity-100"
-                  : "max-h-0 opacity-0 overflow-hidden"
-              }`}
-            >
-              {item.description}
-            </p>
+      {/* Industries Section */}
+      <section className="py-12 max-w-6xl mx-auto px-4">
+        <h2 className="text-3xl font-bold mb-4 text-center">Industries We Serve</h2>
+        <p className="text-gray-700 text-center">
+          Our data support company caters to multiple industries including logistics, customs brokerage, finance, legal, e-commerce, healthcare, and more. We help clients manage, digitize, and process crucial business data efficiently.
+        </p>
+      </section>
 
-            {/* Arrow */}
-            <span
-              className={`absolute bottom-4 right-4 text-gray-400 text-xl transform transition-transform duration-300 ${
-                activeIndex === index ? "rotate-180" : "rotate-0"
-              }`}
-            >
-              ▼
-            </span>
-          </div>
-        ))}
-      </div>
+      {/* Case Studies & Articles */}
+      <section className="bg-blue-600 py-16 text-white text-center">
+        <h2 className="text-3xl font-bold mb-4">Case Studies & Articles</h2>
+        <p className="mb-6 max-w-2xl mx-auto">
+          Explore how Outsource2india has helped companies manage important business data, and read our insights on data entry, processing, conversion, analytics, and more.
+        </p>
+        <a
+          href="/contact"
+          className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+        >
+          Contact Us
+        </a>
+      </section>
+
+      {/* Testimonials */}
+      <section className="py-12 max-w-6xl mx-auto px-4">
+        <h2 className="text-3xl font-bold mb-6 text-center">What Our Clients Say</h2>
+        <div className="bg-white shadow-lg rounded-lg p-8 text-center max-w-3xl mx-auto">
+          <p className="text-gray-700 mb-4 italic">
+            "Working with Outsource2india has been a great experience. They quickly learned our line of business, adapted to our requirements and have consistently performed well."
+          </p>
+          <p className="font-semibold">Spokesperson, Executive recruitment firm in US</p>
+        </div>
+      </section>
     </div>
   );
 };
