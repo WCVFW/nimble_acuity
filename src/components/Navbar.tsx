@@ -22,6 +22,7 @@ const Navbar = () => {
   const services: NavItem[] = [
     { name: "Finance, Accounting & FinOps", href: "/services/finance-accounting-finops" },
 <<<<<<< HEAD
+<<<<<<< HEAD
     { name: "Legal, Corporate & Compliance", href: "/services/legal-corporate-compliance" },
     { name: "Healthcare & MedTech Support", href: "/services/healthcare-medtech-support" },
     { name: "IT, Software, Cloud & Cybersecurity", href: "/services/it-software-cloud-cybersecurity" },
@@ -46,6 +47,19 @@ const Navbar = () => {
     { name: "Global Outsourcing / Offshoring Program Management", href: "/services/global-outsourcing-offshoring" },
     { name: "Research and analysis", href: "/services/import-export-services" },
 >>>>>>> Santhiya
+=======
+    { name: "Legal, Corporate & Compliance", href: "/services/legal-corporate-compliance" },
+    { name: "Healthcare BPO", href: "/services/healthcare-BPO-Service" },
+    { name: "Marketing, Sales, Creative & Media", href: "/services/marketing-sales-creative-media" },
+    { name: "Mortgage Service", href: "/services/MortgageService" },
+    { name: "Data, AI, Analytics & Research", href: "/services/data-ai-analytics-research" },
+    { name: "Software Development", href: "#" },
+    { name: "Customer Experience, Communications & Telephony", href: "/services/customer-experience-communications-telephony" },
+    { name: "Operations, Procurement, Supply Chain & Manufacturing Support", href: "/services/operations-procurement-supplychain-manufacturing" },
+    { name: "HR, Training, Admin & Specialized Professional Services", href: "/services/hr-training-admin-specialized-services" },
+    { name: "Global Outsourcing / Offshoring Program Management", href: "/services/global-outsourcing-offshoring" },
+    { name: "Import–Export Services (execution catalog)", href: "/services/import-export-services" },
+>>>>>>> shenbagavel
   ];
 
   const isActive = (href: string): boolean => location.pathname === href;
@@ -73,9 +87,14 @@ const Navbar = () => {
               {/* Home Link */}
               <Link
                 to="/"
+<<<<<<< HEAD
                 className={`px-3 py-2 text-sm font-medium transition-colors hover:text-[#006A7C] ${
                   isActive("/") ? "text-[#006A7C]" : "text-gray-900"
                 }`}
+=======
+                className={`px-3 py-2 text-sm font-medium transition-colors hover:text-[#006A7C] ${isActive("/") ? "text-[#006A7C]" : "text-gray-900"
+                  }`}
+>>>>>>> shenbagavel
               >
                 Home
               </Link>
@@ -86,6 +105,7 @@ const Navbar = () => {
                 onMouseEnter={() => setIsServicesDropdownOpen(true)}
                 onMouseLeave={() => setIsServicesDropdownOpen(false)}
               >
+<<<<<<< HEAD
                 
                 <Link
                 to="/services">
@@ -96,6 +116,17 @@ const Navbar = () => {
                 >
                   Services <ChevronDown className={`ml-1 h-4 w-4 transition-transform duration-200 ${isServicesDropdownOpen ? "rotate-180" : ""}`} />
                 </button>
+=======
+
+                <Link
+                  to="/services">
+                  <button
+                    className={`flex items-center px-3 py-2 text-sm font-medium transition-colors hover:text-[#006A7C] ${isServicesPage ? "text-[#006A7C]" : "text-gray-900"
+                      }`}
+                  >
+                    Services <ChevronDown className={`ml-1 h-4 w-4 transition-transform duration-200 ${isServicesDropdownOpen ? "rotate-180" : ""}`} />
+                  </button>
+>>>>>>> shenbagavel
                 </Link>
 
                 {/* Centered Dropdown */}
@@ -126,9 +157,14 @@ const Navbar = () => {
                 <Link
                   key={item.name}
                   to={item.href}
+<<<<<<< HEAD
                   className={`px-3 py-2 text-sm font-medium transition-colors hover:text-[#006A7C] ${
                     isActive(item.href) ? "text-[#006A7C]" : "text-gray-900"
                   }`}
+=======
+                  className={`px-3 py-2 text-sm font-medium transition-colors hover:text-[#006A7C] ${isActive(item.href) ? "text-[#006A7C]" : "text-gray-900"
+                    }`}
+>>>>>>> shenbagavel
                 >
                   {item.name}
                 </Link>
@@ -157,9 +193,14 @@ const Navbar = () => {
               <Link
                 key={item.name}
                 to={item.href}
+<<<<<<< HEAD
                 className={`block px-3 py-2 text-sm font-medium transition-colors hover:bg-gray-100 hover:text-[#006A7C] rounded-md ${
                   isActive(item.href) ? "text-[#006A7C] bg-gray-100" : "text-gray-900"
                 }`}
+=======
+                className={`block px-3 py-2 text-sm font-medium transition-colors hover:bg-gray-100 hover:text-[#006A7C] rounded-md ${isActive(item.href) ? "text-[#006A7C] bg-gray-100" : "text-gray-900"
+                  }`}
+>>>>>>> shenbagavel
                 onClick={handleMobileLinkClick}
               >
                 {item.name}
@@ -180,11 +221,18 @@ const Navbar = () => {
                     <Link
                       key={service.name}
                       to={service.href}
+<<<<<<< HEAD
                       className={`block pl-6 pr-3 py-2 text-sm transition-colors hover:bg-[#006A7C] hover:text-white rounded-md ${
                         isActive(service.href)
                           ? "text-[#006A7C] bg-gray-50"
                           : "text-gray-900"
                       }`}
+=======
+                      className={`block pl-6 pr-3 py-2 text-sm transition-colors hover:bg-[#006A7C] hover:text-white rounded-md ${isActive(service.href)
+                        ? "text-[#006A7C] bg-gray-50"
+                        : "text-gray-900"
+                        }`}
+>>>>>>> shenbagavel
                       onClick={handleMobileLinkClick}
                     >
                       {service.name}

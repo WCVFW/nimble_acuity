@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> shenbagavel
 import React, { useState } from "react";
 
 
@@ -211,6 +214,7 @@ const LegalCorporateCompliance = () => {
           </div>
         ))}
       </div>
+<<<<<<< HEAD
 =======
 import React from "react";
 import { 
@@ -292,12 +296,18 @@ const CreativeDesignPage: React.FC = () => {
         </button>
       </section>
 >>>>>>> Santhiya
+=======
+>>>>>>> shenbagavel
     </div>
   );
 };
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 export default LegalCorporateCompliance;
 =======
 export default CreativeDesignPage;
 >>>>>>> Santhiya
+=======
+export default LegalCorporateCompliance;
+>>>>>>> shenbagavel

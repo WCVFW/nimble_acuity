@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+<<<<<<< HEAD
 
 interface MegaMenuLink {
   text: string;
@@ -352,6 +353,17 @@ const FinanceAccountingFinOps = () => {
 
         </div>
       </nav>
+=======
+import { createRoot } from "react-dom/client";
+import AccountsHeader from "@/pages/services/accounts-services/accounting-services/AccountsHeader"; 
+
+// The main page component now uses the new AccountsHeader component.
+const FinanceAccountingFinOps = () => {
+  return (
+    <div className="bg-gray-50 font-sans text-gray-800 min-h-screen">
+      {/* Reusable Header Component */}
+      <AccountsHeader />
+>>>>>>> shenbagavel
 
       {/* Main Content Section */}
       <div className="pt-24 px-4 md:px-6 max-w-7xl mx-auto">
@@ -412,9 +424,23 @@ const FinanceAccountingFinOps = () => {
           </section>
         </div>
       </div>
+<<<<<<< HEAD
 
+=======
+>>>>>>> shenbagavel
     </div>
   );
 };
 
+<<<<<<< HEAD
 export default FinanceAccountingFinOps;
+=======
+// Main App component to render the page
+const App = () => {
+  return (
+    <FinanceAccountingFinOps />
+  );
+};
+
+export default App;
+>>>>>>> shenbagavel
