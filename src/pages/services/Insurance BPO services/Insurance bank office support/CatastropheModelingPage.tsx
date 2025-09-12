@@ -51,7 +51,11 @@ export default function CatastropheModelingPage(): JSX.Element {
       <section className="bg-gradient-to-r from-sky-700 to-indigo-700 text-white text-center py-20 px-6">
         <div className="max-w-5xl mx-auto">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">
+<<<<<<< HEAD
             Outsource Catastrophe Modeling for Insurance
+=======
+            Nimble Catastrophe Modeling for Insurance
+>>>>>>> Santhiya
           </h1>
           <p className="text-lg md:text-xl mb-6">
             Manage risk, monitor exposures, and prepare for rare catastrophic events with expert CAT modeling services.
@@ -143,7 +147,11 @@ export default function CatastropheModelingPage(): JSX.Element {
 
       {/* Benefits */}
       <section className="py-12 px-6 max-w-6xl mx-auto">
+<<<<<<< HEAD
         <h2 className="text-2xl md:text-3xl font-semibold text-center mb-8">Why Choose O2I for CAT Modeling?</h2>
+=======
+        <h2 className="text-2xl md:text-3xl font-semibold text-center mb-8">Why Choose Nimble Acuity for CAT Modeling?</h2>
+>>>>>>> Santhiya
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {benefits.map((b, i) => (
             <div key={i} className="flex items-start gap-3 bg-white p-4 rounded shadow-sm">
@@ -180,7 +188,11 @@ export default function CatastropheModelingPage(): JSX.Element {
 
       {/* Final CTA */}
       <section className="bg-gradient-to-r from-sky-700 to-indigo-700 text-white text-center py-16 px-6">
+<<<<<<< HEAD
         <h2 className="text-2xl md:text-3xl font-bold mb-4">Outsource Catastrophe Modeling to O2I</h2>
+=======
+        <h2 className="text-2xl md:text-3xl font-bold mb-4">Nimble Catastrophe Modeling to Nimble Acuity</h2>
+>>>>>>> Santhiya
         <p className="max-w-3xl mx-auto mb-6">
           Get production-ready CAT models, unbiased exposure analysis and insured-loss estimates — delivered securely and at scale.
         </p>

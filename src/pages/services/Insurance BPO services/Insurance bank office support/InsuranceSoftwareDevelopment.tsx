@@ -58,9 +58,15 @@ export default function InsuranceSoftwareDevelopment(): JSX.Element {
       <Imainmenu/>
       <section className="bg-gradient-to-r from-indigo-700 to-sky-600 text-white py-20 px-6 text-center">
         <div className="max-w-4xl mx-auto">
+<<<<<<< HEAD
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Outsource Insurance Software Development Services</h1>
           <p className="text-lg md:text-xl mb-6">
             Get efficient, innovative, customized and cost-effective insurance software by partnering with Outsource2india.
+=======
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">Nimble Insurance Software Development Services</h1>
+          <p className="text-lg md:text-xl mb-6">
+            Get efficient, innovative, customized and cost-effective insurance software by partnering with Nimble Acuity.
+>>>>>>> Santhiya
           </p>
           <div className="flex justify-center gap-4">
             <Button size="lg" variant="secondary">Get Started</Button>
@@ -72,7 +78,11 @@ export default function InsuranceSoftwareDevelopment(): JSX.Element {
       {/* Intro */}
       <section className="max-w-6xl mx-auto py-12 px-6 text-center">
         <p className="text-gray-700">
+<<<<<<< HEAD
           If developing insurance software in-house is expensive or you lack domain expertise, outsource to our experienced
+=======
+          If developing insurance software in-house is expensive or you lack domain expertise, Nimble to our experienced
+>>>>>>> Santhiya
           team to access talent, cut costs and accelerate delivery without compromising quality.
         </p>
       </section>
@@ -150,7 +160,11 @@ export default function InsuranceSoftwareDevelopment(): JSX.Element {
 
       {/* Benefits */}
       <section className="bg-gray-50 py-12 px-6">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold text-center mb-8">Why Choose O2I for Insurance Software Development?</h2>
+=======
+        <h2 className="text-3xl font-semibold text-center mb-8">Why Choose Nimble Acuity for Insurance Software Development?</h2>
+>>>>>>> Santhiya
         <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {benefits.map((b, i) => (
             <div key={i} className="flex items-start gap-3 bg-white p-4 rounded shadow-sm">
@@ -172,7 +186,11 @@ export default function InsuranceSoftwareDevelopment(): JSX.Element {
 
       {/* Final CTA */}
       <section className="bg-indigo-700 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold mb-4">Outsource Insurance Software Services to O2I</h2>
+=======
+        <h2 className="text-3xl font-bold mb-4">Nimble Insurance Software Services to Nimble Acuity</h2>
+>>>>>>> Santhiya
         <p className="max-w-3xl mx-auto mb-6">If you’re looking for cost-effective, secure, and fast insurance software development, let’s talk. Get in touch today!</p>
         <div className="flex justify-center gap-4">
           <Button size="lg" variant="secondary">Contact Us</Button>

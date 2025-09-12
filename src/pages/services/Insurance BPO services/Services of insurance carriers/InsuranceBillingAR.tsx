@@ -8,12 +8,20 @@ const InsuranceBillingAR: React.FC = () => {
       <Imainmenu/>
       <section className="bg-indigo-700 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Billing and Accounts Receivable Services
+=======
+          Nimble Insurance Billing and Accounts Receivable Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Get accurate and error-free insurance billing and AR services at an
           affordable price by partnering with{" "}
+<<<<<<< HEAD
           <span className="font-semibold">Outsource2india</span>.
+=======
+          <span className="font-semibold">Nimble Acuity</span>.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -22,7 +30,11 @@ const InsuranceBillingAR: React.FC = () => {
         <p>
           Is your billing and accounts receivable team unable to handle the high
           volume of work? Are you struggling to maintain accuracy without the
+<<<<<<< HEAD
           latest technologies? Outsource2india is your one-stop partner for
+=======
+          latest technologies? Nimble Acuity is your one-stop partner for
+>>>>>>> Santhiya
           insurance billing and AR services.
         </p>
         <p>
@@ -133,7 +145,11 @@ const InsuranceBillingAR: React.FC = () => {
       {/* Why Choose Us */}
       <section className="bg-indigo-50 py-12 px-6">
         <h2 className="text-3xl font-bold mb-8 text-center">
+<<<<<<< HEAD
           Why Choose O2I for Insurance Billing & AR Services?
+=======
+          Why Choose Nimble Acuity for Insurance Billing & AR Services?
+>>>>>>> Santhiya
         </h2>
         <ul className="max-w-5xl mx-auto grid md:grid-cols-2 gap-6 text-lg text-gray-700">
           <li>
@@ -203,7 +219,11 @@ const InsuranceBillingAR: React.FC = () => {
       {/* Final CTA */}
       <section className="bg-indigo-700 text-white py-16 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Billing & Accounts Receivable Services to O2I
+=======
+          Nimble Insurance Billing & Accounts Receivable Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6 max-w-3xl mx-auto text-lg">
           With expert teams, advanced tools, and proven processes, we deliver

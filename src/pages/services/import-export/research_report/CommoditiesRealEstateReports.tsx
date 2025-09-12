@@ -8,7 +8,11 @@ const CommoditiesRealEstateReports: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Commodities and Real Estate Reports Services
+=======
+          Nimble Commodities and Real Estate Reports Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto">
           Make use of actionable intelligence by accessing professional and
@@ -28,7 +32,11 @@ const CommoditiesRealEstateReports: React.FC = () => {
           decisions.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india is a leading provider of commodities and real estate
+=======
+          Nimble Acuity is a leading provider of commodities and real estate
+>>>>>>> Santhiya
           reports services worldwide. Our solutions help businesses better
           navigate both global and local landscapes with flexible and
           cost-effective reporting.
@@ -132,7 +140,11 @@ const CommoditiesRealEstateReports: React.FC = () => {
       {/* Why Choose Us */}
       <section className="max-w-6xl mx-auto py-12 px-6">
         <h2 className="text-3xl font-semibold text-center mb-10">
+<<<<<<< HEAD
           Why Choose Outsource2india?
+=======
+          Why Choose Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
@@ -199,7 +211,11 @@ const CommoditiesRealEstateReports: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-600 text-white text-center py-16 px-6">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Commodities and Real Estate Reports Services to O2I
+=======
+          Nimble Commodities and Real Estate Reports Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6">
           Get customized, in-depth reports that provide actionable intelligence

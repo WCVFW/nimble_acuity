@@ -11,7 +11,11 @@ const JewelryClippingRetouching: React.FC = () => {
           Jewelry Image Clipping & Retouching Services
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           How Outsource2india helped a Minnesota-based jewelry expert enhance product images and scale their e-Commerce business.
+=======
+          How Nimble Acuity helped a Minnesota-based jewelry expert enhance product images and scale their e-Commerce business.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -31,7 +35,11 @@ const JewelryClippingRetouching: React.FC = () => {
           <ul className="list-disc list-inside space-y-2">
             <li>Image clipping and retouching for rings, necklaces, and bracelets</li>
             <li>Trial service of 10 images to evaluate accuracy</li>
+<<<<<<< HEAD
             <li>Outsource $2,000 worth of images with a target of 5,000 finished images per week</li>
+=======
+            <li>Nimble $2,000 worth of images with a target of 5,000 finished images per week</li>
+>>>>>>> Santhiya
           </ul>
         </div>
 
@@ -51,7 +59,11 @@ const JewelryClippingRetouching: React.FC = () => {
         <div className="bg-white p-8 shadow-lg rounded-lg">
           <h2 className="text-2xl font-semibold mb-4">Our Solution</h2>
           <p>
+<<<<<<< HEAD
             A trial of 10 images was completed within one day using Adobe Photoshop, meeting exact client specifications. Following the successful trial, 11,000+ images were outsourced, processed by four editors simultaneously with Dropbox cloud collaboration. Images were enhanced with gloss, shine, and blemish removal.
+=======
+            A trial of 10 images was completed within one day using Adobe Photoshop, meeting exact client specifications. Following the successful trial, 11,000+ images were Nimbled, processed by four editors simultaneously with Dropbox cloud collaboration. Images were enhanced with gloss, shine, and blemish removal.
+>>>>>>> Santhiya
           </p>
         </div>
 
@@ -78,9 +90,15 @@ const JewelryClippingRetouching: React.FC = () => {
 
       {/* Call to Action */}
       <section className="bg-yellow-600 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Outsource Jewelry Image Editing Services</h2>
         <p className="max-w-3xl mx-auto mb-6">
           Outsource2india is ISO 9001:2015 certified with 26+ years of experience in photo editing services. We ensure flawless quality, faster turnaround, and confidentiality with ISO/IEC 27001:2022 compliance.
+=======
+        <h2 className="text-3xl font-semibold mb-4">Nimble Jewelry Image Editing Services</h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Nimble Acuity is ISO 9001:2015 certified with 26+ years of experience in photo editing services. We ensure flawless quality, faster turnaround, and confidentiality with ISO/IEC 27001:2022 compliance.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-yellow-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Today

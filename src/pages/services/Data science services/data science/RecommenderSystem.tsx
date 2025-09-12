@@ -18,7 +18,11 @@ const RecommenderSystem: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-gradient-to-r from-indigo-700 to-purple-600 text-white py-16 px-6 text-center">
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Recommender System Development Services
+=======
+          Nimble Recommender System Development Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Build intelligent systems that boost cross-sell and up-sell by
@@ -129,7 +133,11 @@ const RecommenderSystem: React.FC = () => {
       {/* Benefits Section */}
       <section className="bg-gray-100 py-16 px-6">
         <h2 className="text-3xl font-bold text-center mb-12">
+<<<<<<< HEAD
           Benefits of Partnering with O2I
+=======
+          Benefits of Partnering with Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
           {[

@@ -11,7 +11,11 @@ const IntegratedBusinessPlanning: React.FC = () => {
         <div className="absolute -bottom-24 -left-24 h-72 w-72 rounded-full bg-black/10 blur-3xl" />
         <div className="max-w-7xl mx-auto px-6 py-20 text-center relative">
           <h1 className="text-4xl md:text-5xl font-bold leading-tight">
+<<<<<<< HEAD
             Outsource Integrated Business Planning Services
+=======
+            Nimble Integrated Business Planning Services
+>>>>>>> Santhiya
           </h1>
           <p className="mt-5 max-w-3xl mx-auto text-lg md:text-xl text-white/90">
             Get access to high-quality and accurate integrated business planning services to
@@ -142,10 +146,17 @@ const IntegratedBusinessPlanning: React.FC = () => {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* Why O2I */}
       <section className="max-w-7xl mx-auto px-6 py-16">
         <h2 className="text-3xl font-bold text-center mb-4">
           Why Outsource Integrated Business Planning to O2I?
+=======
+      {/* Why Nimble Acuity */}
+      <section className="max-w-7xl mx-auto px-6 py-16">
+        <h2 className="text-3xl font-bold text-center mb-4">
+          Why Nimble Integrated Business Planning to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <p className="text-center text-gray-600 max-w-3xl mx-auto">
           Decades of multi-industry experience, proven playbooks, and a pragmatic approach to
@@ -318,7 +329,11 @@ const IntegratedBusinessPlanning: React.FC = () => {
           <div className="grid md:grid-cols-3 gap-6 items-center">
             <div className="md:col-span-2">
               <p className="text-lg md:text-xl leading-relaxed">
+<<<<<<< HEAD
                 “Outsource2india has been a tremendous resource for our team. They are very precise
+=======
+                “Nimble Acuity has been a tremendous resource for our team. They are very precise
+>>>>>>> Santhiya
                 and attentive to all our needs and have been able to learn our procedures quicker
                 than I ever thought possible.”
               </p>
@@ -339,7 +354,11 @@ const IntegratedBusinessPlanning: React.FC = () => {
       {/* CTA */}
       <section id="contact" className="bg-gray-50">
         <div className="max-w-7xl mx-auto px-6 py-16 text-center">
+<<<<<<< HEAD
           <h2 className="text-3xl font-bold">Outsource Integrated Business Planning to O2I</h2>
+=======
+          <h2 className="text-3xl font-bold">Nimble Integrated Business Planning to Nimble Acuity</h2>
+>>>>>>> Santhiya
           <p className="mt-4 text-gray-700 max-w-3xl mx-auto">
             We align your S&OP, finance, and strategy into a single, integrated plan—powered by
             robust processes, secure data, and seasoned practitioners. Let’s design an IBP that

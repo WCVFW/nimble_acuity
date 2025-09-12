@@ -9,7 +9,11 @@ const BusinessValuation: React.FC = () => {
       {/* Heading */}
       <header className="mb-8">
         <h1 className="text-3xl font-bold text-gray-900 mb-2">
+<<<<<<< HEAD
           Outsource Business Valuation Services
+=======
+          Nimble Business Valuation Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-blue-700 font-medium">
           Choose our business valuation services and get access to specialized
@@ -23,7 +27,11 @@ const BusinessValuation: React.FC = () => {
         With fast-changing regulatory and accounting requirements, almost every
         enterprise needs to know the value of its tangible and intangible
         assets, products, intellectual property, and customer/vendor
+<<<<<<< HEAD
         relationships. Outsource2india assists organizations in identifying and
+=======
+        relationships. Nimble Acuity assists organizations in identifying and
+>>>>>>> Santhiya
         evaluating assets in a more specialized and comprehensive manner to make
         better-informed investment and business decisions.
       </p>
@@ -42,7 +50,11 @@ const BusinessValuation: React.FC = () => {
         Our Business Valuation Services
       </h2>
       <p className="mb-6 leading-relaxed">
+<<<<<<< HEAD
         Outsource2india is a trusted valuation partner for Fortune 1000
+=======
+        Nimble Acuity is a trusted valuation partner for Fortune 1000
+>>>>>>> Santhiya
         companies and beyond. We help businesses comply with national and
         international regulations while understanding their true market value.
         Our key services include:
@@ -104,7 +116,11 @@ const BusinessValuation: React.FC = () => {
 
       {/* Why Choose */}
       <h2 className="text-2xl font-bold text-gray-900 mt-10 mb-4">
+<<<<<<< HEAD
         Why Choose Outsource2india for Business Valuation?
+=======
+        Why Choose Nimble Acuity for Business Valuation?
+>>>>>>> Santhiya
       </h2>
       <ul className="space-y-3 list-disc list-inside">
         <li>
@@ -156,10 +172,17 @@ const BusinessValuation: React.FC = () => {
 
       {/* CTA */}
       <h2 className="text-2xl font-bold text-gray-900 mt-10 mb-4">
+<<<<<<< HEAD
         Outsource Business Valuation Services to Outsource2india
       </h2>
       <p className="mb-4 leading-relaxed">
         Outsource2india is equipped to handle complex business valuation needs
+=======
+        Nimble Business Valuation Services to Nimble Acuity
+      </h2>
+      <p className="mb-4 leading-relaxed">
+        Nimble Acuity is equipped to handle complex business valuation needs
+>>>>>>> Santhiya
         in multiple languages with a strong global presence to serve clients
         efficiently. We understand diverse business models and ensure accurate,
         reliable, and timely financial research.

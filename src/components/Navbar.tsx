@@ -21,6 +21,7 @@ const Navbar = () => {
 
   const services: NavItem[] = [
     { name: "Finance, Accounting & FinOps", href: "/services/finance-accounting-finops" },
+<<<<<<< HEAD
     { name: "Legal, Corporate & Compliance", href: "/services/legal-corporate-compliance" },
     { name: "Healthcare & MedTech Support", href: "/services/healthcare-medtech-support" },
     { name: "IT, Software, Cloud & Cybersecurity", href: "/services/it-software-cloud-cybersecurity" },
@@ -32,6 +33,19 @@ const Navbar = () => {
     { name: "HR, Training, Admin & Specialized Professional Services", href: "/services/hr-training-admin-specialized-services" },
     { name: "Global Outsourcing / Offshoring Program Management", href: "/services/global-outsourcing-offshoring" },
     { name: "Import–Export Services (execution catalog)", href: "/services/import-export-services" },
+=======
+    { name: "Creative design", href: "/services/legal-corporate-compliance" },
+    { name: "Healthcare & MedTech Support", href: "/services/healthcare-medtech-support" },
+    { name: "Data Services", href: "/services/it-software-cloud-cybersecurity" },
+    { name: "Data, AI, Analytics & Research", href: "/services/data-ai-analytics-research" },
+    { name: "Insurance BPO Services", href: "/services/marketing-sales-creative-media" },
+    { name: "Customer Experience, Communications & Telephony", href: "/services/customer-experience-communications-telephony" },
+    { name: "Photo Editing", href: "/services/operations-procurement-supplychain-manufacturing" },
+    { name: "Real Estate, Facilities, Energy & Environment", href: "/services/real-estate-facilities-energy-environment" },
+    { name: "Data sciences", href: "/services/hr-training-admin-specialized-services" },
+    { name: "Global Outsourcing / Offshoring Program Management", href: "/services/global-outsourcing-offshoring" },
+    { name: "Research and analysis", href: "/services/import-export-services" },
+>>>>>>> Santhiya
   ];
 
   const isActive = (href: string): boolean => location.pathname === href;

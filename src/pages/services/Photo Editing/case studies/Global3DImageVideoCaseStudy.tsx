@@ -11,7 +11,11 @@ const Global3DImageVideoCaseStudy: React.FC = () => {
           Image Editing & Video Creation Services for Global 3D Visualization Leader
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           Outsource2india helped a global 3D real-space visualization company efficiently edit property images and create video snippets at scale.
+=======
+          Nimble Acuity helped a global 3D real-space visualization company efficiently edit property images and create video snippets at scale.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -33,11 +37,19 @@ const Global3DImageVideoCaseStudy: React.FC = () => {
           </p>
         </div>
 
+<<<<<<< HEAD
         {/* O2I Solution */}
         <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
           <h2 className="text-2xl font-semibold mb-4">O2I's Solution</h2>
           <p>
             O2I executed a three-trial approach using Photoshop CC, Lightroom CC, and custom web applications:
+=======
+        {/* Nimble Acuity Solution */}
+        <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
+          <h2 className="text-2xl font-semibold mb-4">Nimble Acuity's Solution</h2>
+          <p>
+            Nimble Acuity executed a three-trial approach using Photoshop CC, Lightroom CC, and custom web applications:
+>>>>>>> Santhiya
           </p>
           <ul className="list-disc list-inside space-y-2 mt-4">
             <li>
@@ -66,14 +78,22 @@ const Global3DImageVideoCaseStudy: React.FC = () => {
         <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
           <h2 className="text-2xl font-semibold mb-4">Results & Client Benefits</h2>
           <p>
+<<<<<<< HEAD
             Based on trial quality, the client signed a full-time contract. Initially, 20,000 images per month were outsourced, increasing to 100,000 images within three months. The client praised O2I's speed, efficient allocation of resources, quality of image selection, and design expertise.
+=======
+            Based on trial quality, the client signed a full-time contract. Initially, 20,000 images per month were Nimbled, increasing to 100,000 images within three months. The client praised Nimble Acuity's speed, efficient allocation of resources, quality of image selection, and design expertise.
+>>>>>>> Santhiya
           </p>
         </div>
       </section>
 
       {/* Call to Action */}
       <section className="bg-indigo-600 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Experience the Quality of O2I Services</h2>
+=======
+        <h2 className="text-3xl font-semibold mb-4">Experience the Quality of Nimble Acuity Services</h2>
+>>>>>>> Santhiya
         <p className="max-w-3xl mx-auto mb-6">
           Try our image editing and video creation services for free before outsourcing your projects. Get high-quality output, skilled resources, and ISO-certified services.
         </p>

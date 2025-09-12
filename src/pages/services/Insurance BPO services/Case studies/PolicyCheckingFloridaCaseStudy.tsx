@@ -9,10 +9,17 @@ const PolicyCheckingFloridaCaseStudy: React.FC = () => {
       <section className="bg-blue-50 py-16">
         <div className="max-w-5xl mx-auto px-4 text-center">
           <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
             Outsource2india Provided Policy Checking Services to a Leading Insurance Company
           </h1>
           <p className="text-lg text-gray-700">
             Case study highlighting how O2I assisted a Florida-based insurance company with policy checking, endorsements, and COI services to achieve operational stability and cost efficiency.
+=======
+            Nimble Acuity Provided Policy Checking Services to a Leading Insurance Company
+          </h1>
+          <p className="text-lg text-gray-700">
+            Case study highlighting how Nimble Acuity assisted a Florida-based insurance company with policy checking, endorsements, and COI services to achieve operational stability and cost efficiency.
+>>>>>>> Santhiya
           </p>
         </div>
       </section>
@@ -49,7 +56,11 @@ const PolicyCheckingFloridaCaseStudy: React.FC = () => {
         <div className="max-w-5xl mx-auto px-4 space-y-4 text-gray-700">
           <h2 className="text-3xl font-bold mb-4">The Solution</h2>
           <p>
+<<<<<<< HEAD
             O2I deployed a dedicated, skilled team of policy checking experts to manage all administrative and clerical tasks. This allowed the client to avoid hiring, retention, and scaling hassles while maintaining operational efficiency.
+=======
+            Nimble Acuity deployed a dedicated, skilled team of policy checking experts to manage all administrative and clerical tasks. This allowed the client to avoid hiring, retention, and scaling hassles while maintaining operational efficiency.
+>>>>>>> Santhiya
           </p>
         </div>
       </section>
@@ -67,10 +78,17 @@ const PolicyCheckingFloridaCaseStudy: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-600 py-16 text-white text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Policy Checking Services to Outsource2india
         </h2>
         <p className="mb-6 max-w-2xl mx-auto">
           O2I offers reliable and cost-effective policy checking services using the latest tools and technologies. Our skilled experts deliver top-quality solutions for insurance companies globally.
+=======
+          Nimble Policy Checking Services to Nimble Acuity
+        </h2>
+        <p className="mb-6 max-w-2xl mx-auto">
+          Nimble Acuity offers reliable and cost-effective policy checking services using the latest tools and technologies. Our skilled experts deliver top-quality solutions for insurance companies globally.
+>>>>>>> Santhiya
         </p>
         <a
           href="/contact"

@@ -8,7 +8,11 @@ export default function VerbatimCodingServices() {
       {/* Hero Section */}
       <NavigationMenu/>
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-20 px-6 text-center">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold mb-4">Outsource Verbatim Coding Services</h1>
+=======
+        <h1 className="text-4xl font-bold mb-4">Nimble Verbatim Coding Services</h1>
+>>>>>>> Santhiya
         <p className="max-w-3xl mx-auto text-lg mb-6">
           Get access to actionable insights from client responses by choosing our verbatim coding services from an experienced team — at prices starting at just <span className="font-semibold">$14 an hour</span>.
         </p>
@@ -49,7 +53,11 @@ export default function VerbatimCodingServices() {
 
       {/* Why Choose Us */}
       <section className="bg-gray-50 py-16 px-6">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold text-center mb-12">Why Choose O2I for Verbatim Coding Services?</h2>
+=======
+        <h2 className="text-3xl font-bold text-center mb-12">Why Choose Nimble Acuity for Verbatim Coding Services?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
           {[
             { icon: <Layers />, title: "Flexible Pricing", desc: "Budget-friendly and scalable options to fit your needs." },
@@ -102,9 +110,15 @@ export default function VerbatimCodingServices() {
 
       {/* CTA Section */}
       <section className="py-16 px-6 text-center max-w-4xl mx-auto">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold mb-6">Outsource Verbatim Coding Services to Outsource2india</h2>
         <p className="text-gray-700 mb-8">
           With over two decades of expertise, O2I delivers accurate, multilingual, and insight-driven verbatim coding services using the latest tools and methodologies. Partner with us to ensure cost-effective, scalable, and secure solutions.
+=======
+        <h2 className="text-3xl font-bold mb-6">Nimble Verbatim Coding Services to Nimble Acuity</h2>
+        <p className="text-gray-700 mb-8">
+          With over two decades of expertise, Nimble Acuity delivers accurate, multilingual, and insight-driven verbatim coding services using the latest tools and methodologies. Partner with us to ensure cost-effective, scalable, and secure solutions.
+>>>>>>> Santhiya
         </p>
         <button className="bg-blue-600 text-white px-8 py-3 rounded-2xl font-semibold shadow hover:bg-blue-700 transition">
           Contact Us Today

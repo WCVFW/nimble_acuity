@@ -116,7 +116,11 @@ const DataScienceService: React.FC = () => {
         <DSMainMenu/>
         <div className="text-center mb-12">
           <h1 className="text-3xl font-bold text-gray-900">
+<<<<<<< HEAD
             Outsource Data Science as a Service
+=======
+            Nimble Data Science as a Service
+>>>>>>> Santhiya
           </h1>
           <p className="mt-4 text-lg text-gray-600 max-w-3xl mx-auto">
             Reduce operational costs, improve targeting, and unlock business

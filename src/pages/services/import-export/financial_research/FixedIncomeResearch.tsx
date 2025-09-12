@@ -9,10 +9,17 @@ export default function FixedIncomeResearch() {
       <NavigationMenu/>
       <div className="text-center mb-12">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource Fixed Income Research Services
         </h1>
         <p className="text-lg text-gray-700 max-w-3xl mx-auto">
           Outsource2india is one of the most preferred fixed income research
+=======
+          Nimble Fixed Income Research Services
+        </h1>
+        <p className="text-lg text-gray-700 max-w-3xl mx-auto">
+          Nimble Acuity is one of the most preferred fixed income research
+>>>>>>> Santhiya
           service providers, trusted by satisfied clients worldwide. With over{" "}
           <strong>26+ years of expertise</strong> in financial research, our
           experts deliver insights on complex financial environments and guide
@@ -24,7 +31,11 @@ export default function FixedIncomeResearch() {
       {/* Services Intro */}
       <div className="max-w-4xl mx-auto text-gray-600 mb-12 space-y-4">
         <p>
+<<<<<<< HEAD
           By outsourcing fixed income research services to Outsource2india, you
+=======
+          By outsourcing fixed income research services to Nimble Acuity, you
+>>>>>>> Santhiya
           gain access to industry-best expertise in analyzing credit risks,
           studying corporate bonds, and ensuring compliance with global
           standards. We deliver high-end reports, models, and strategies that
@@ -99,7 +110,11 @@ export default function FixedIncomeResearch() {
 
       {/* Benefits */}
       <h2 className="text-2xl font-semibold text-gray-900 mb-6 text-center">
+<<<<<<< HEAD
         Benefits of Hiring Outsource2india
+=======
+        Benefits of Hiring Nimble Acuity
+>>>>>>> Santhiya
       </h2>
       <ul className="max-w-3xl mx-auto text-gray-700 space-y-3 list-disc list-inside mb-12">
         <li>Over 26+ years of experience in the financial industry</li>
@@ -113,10 +128,17 @@ export default function FixedIncomeResearch() {
       {/* CTA */}
       <div className="text-center mt-12">
         <h2 className="text-2xl font-semibold text-gray-900 mb-4">
+<<<<<<< HEAD
           Partner with Outsource2india for Fixed Income Research
         </h2>
         <p className="text-gray-700 max-w-3xl mx-auto mb-6">
           From credit analysis to financial modeling, Outsource2india provides
+=======
+          Partner with Nimble Acuity for Fixed Income Research
+        </h2>
+        <p className="text-gray-700 max-w-3xl mx-auto mb-6">
+          From credit analysis to financial modeling, Nimble Acuity provides
+>>>>>>> Santhiya
           comprehensive fixed income research tailored to your needs. Connect
           with us today and make confident investment decisions with expert
           guidance.

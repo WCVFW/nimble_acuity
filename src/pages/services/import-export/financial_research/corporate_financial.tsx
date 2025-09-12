@@ -10,7 +10,11 @@ const CorporateFinanceSupport: React.FC = () => {
       {/* Heading */}
       <header className="mb-8">
         <h1 className="text-3xl font-bold text-gray-900 mb-2">
+<<<<<<< HEAD
           Outsource Corporate Finance Support Services
+=======
+          Nimble Corporate Finance Support Services
+>>>>>>> Santhiya
         </h1>
         <h2 className="text-xl font-semibold text-blue-700">
           Corporate Finance Support Services
@@ -20,7 +24,11 @@ const CorporateFinanceSupport: React.FC = () => {
       {/* Intro */}
       <p className="mb-4 leading-relaxed">
         Be it fundraising, acquisitions, disposals, flotations or equity issues
+<<<<<<< HEAD
         or any other legal hassles, Outsource2india provides the complete
+=======
+        or any other legal hassles, Nimble Acuity provides the complete
+>>>>>>> Santhiya
         spectrum of corporate (financial, transactional, and operational)
         support services to financial institutions and corporates. With over two
         decades of knowledge in the marketplace and domain expertise, we work
@@ -34,12 +42,20 @@ const CorporateFinanceSupport: React.FC = () => {
         post-acquisition integration, capital market advisory, competition
         tracking, etc. With a list of clients ranging from telecom, healthcare,
         retail, energy, manufacturing, media, technology, marketing industries,
+<<<<<<< HEAD
         Outsource2india is committed to provide business transformation services
+=======
+        Nimble Acuity is committed to provide business transformation services
+>>>>>>> Santhiya
         with a skill delivering the best.
       </p>
 
       <p className="mb-6 leading-relaxed">
+<<<<<<< HEAD
         At Outsource2india, our team of financial consultants is well versed
+=======
+        At Nimble Acuity, our team of financial consultants is well versed
+>>>>>>> Santhiya
         with rules and regulations pertaining to key industry sectors and
         provides a focused approach to identify and facilitate potential
         consultation and services to maximize profitability.
@@ -47,12 +63,20 @@ const CorporateFinanceSupport: React.FC = () => {
 
       {/* Subheading */}
       <h3 className="text-2xl font-bold text-gray-900 mb-4">
+<<<<<<< HEAD
         O2I&apos;s Corporate Finance Support Services - Combining Industry
+=======
+        Nimble Acuity&apos;s Corporate Finance Support Services - Combining Industry
+>>>>>>> Santhiya
         Expertise with Deep Insight
       </h3>
 
       <p className="mb-6 leading-relaxed">
+<<<<<<< HEAD
         Outsource2india works side by side with its clients to help them create
+=======
+        Nimble Acuity works side by side with its clients to help them create
+>>>>>>> Santhiya
         unprecedented financial advancement through our strategic corporate
         finance support services. We offer suitable and specialized services to
         help you focus on your core business operations while taking the load
@@ -123,7 +147,11 @@ const CorporateFinanceSupport: React.FC = () => {
       {/* Benefits */}
       <h3 className="text-2xl font-bold text-gray-900 mt-10 mb-4">
         Benefits of Outsourcing Corporate Finance Support Services to
+<<<<<<< HEAD
         Outsource2india
+=======
+        Nimble Acuity
+>>>>>>> Santhiya
       </h3>
       <ul className="space-y-3 list-disc list-inside">
         <li>
@@ -150,7 +178,11 @@ const CorporateFinanceSupport: React.FC = () => {
 
       {/* Call to Action */}
       <h3 className="text-2xl font-bold text-gray-900 mt-10 mb-4">
+<<<<<<< HEAD
         Outsource Corporate Finance Support Services to India
+=======
+        Nimble Corporate Finance Support Services to India
+>>>>>>> Santhiya
       </h3>
       <p className="mb-6 leading-relaxed">
         We combine timely response and secure transactions with domain expertise

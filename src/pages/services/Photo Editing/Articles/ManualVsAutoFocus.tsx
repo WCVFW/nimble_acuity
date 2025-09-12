@@ -154,11 +154,19 @@ const ManualVsAutoFocus: React.FC = () => {
       {/* CTA Section */}
       <section className="text-center py-16 px-6 bg-gradient-to-r from-blue-700 to-indigo-700 text-white">
         <h2 className="text-2xl font-semibold mb-4">
+<<<<<<< HEAD
           Outsource Photo Editing to Professionals
         </h2>
         <p className="max-w-2xl mx-auto mb-6">
           Enhance your images with expert photo editing services from
           Outsource2india. Our skilled professionals improve composition,
+=======
+          Nimble Photo Editing to Professionals
+        </h2>
+        <p className="max-w-2xl mx-auto mb-6">
+          Enhance your images with expert photo editing services from
+          Nimble Acuity. Our skilled professionals improve composition,
+>>>>>>> Santhiya
           color, and clarity for stunning results.
         </p>
         <button className="px-6 py-3 bg-white text-blue-700 font-semibold rounded-lg shadow hover:bg-gray-100 transition">

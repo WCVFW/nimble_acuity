@@ -66,7 +66,11 @@ const InsuranceAccountingBilling: React.FC = () => {
       <Imainmenu/>
       <section className="text-center space-y-4">
         <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+<<<<<<< HEAD
           Outsource Insurance Accounting & Billing Services
+=======
+          Nimble Insurance Accounting & Billing Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-gray-700 text-lg">
           Improve cashflow, streamline billing, and manage accounts efficiently with our expert services.
@@ -123,7 +127,11 @@ const InsuranceAccountingBilling: React.FC = () => {
 
       {/* Why Choose Us */}
       <section>
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-6 text-center">Why Choose O2I?</h2>
+=======
+        <h2 className="text-3xl font-semibold mb-6 text-center">Why Choose Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-2 gap-4 text-gray-700">
           {whyChooseUs.map((item, idx) => (
             <div key={idx} className="border-l-4 border-blue-600 pl-4 py-2 bg-blue-50 rounded">

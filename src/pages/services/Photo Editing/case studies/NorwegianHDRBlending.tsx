@@ -11,7 +11,11 @@ const NorwegianHDRBlending: React.FC = () => {
           HDR Blending Services for Norwegian Photography Client
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           Learn how Outsource2india helped a top Oslo-based photography firm with high-quality HDR blending services for real estate images.
+=======
+          Learn how Nimble Acuity helped a top Oslo-based photography firm with high-quality HDR blending services for real estate images.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -73,9 +77,15 @@ const NorwegianHDRBlending: React.FC = () => {
 
       {/* Call to Action */}
       <section className="bg-blue-600 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Outsource HDR Blending Services</h2>
         <p className="max-w-3xl mx-auto mb-6">
           Outsource2india is ISO 9001:2015 certified with 26+ years of experience. We deliver high-quality HDR blending services while ensuring ISO/IEC 27001:2022 compliance for data security.
+=======
+        <h2 className="text-3xl font-semibold mb-4">Nimble HDR Blending Services</h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Nimble Acuity is ISO 9001:2015 certified with 26+ years of experience. We deliver high-quality HDR blending services while ensuring ISO/IEC 27001:2022 compliance for data security.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-blue-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Today

@@ -10,7 +10,11 @@ export default function SchoolPhotoEditing() {
       {/* Hero Section */}
       <PEMainMenu/>
       <section className="bg-gradient-to-r from-purple-100 to-pink-100 py-20 text-center">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold mb-4">Outsource School Photo Editing Services</h1>
+=======
+        <h1 className="text-4xl font-bold mb-4">Nimble School Photo Editing Services</h1>
+>>>>>>> Santhiya
         <p className="text-lg mb-6 max-w-2xl mx-auto">
           Efficient, cost-effective, and high-quality school photo editing! We save your time with precise cropping, masking, and halo removal. Transform your school photos with us today.
         </p>
@@ -133,14 +137,22 @@ export default function SchoolPhotoEditing() {
       <section className="bg-gray-100 py-16 px-4 text-center">
         <Star className="w-10 h-10 text-yellow-500 mx-auto mb-4" />
         <blockquote className="max-w-2xl mx-auto italic text-lg">
+<<<<<<< HEAD
           "The quality of Artwork delivered during the trial period was exceptional and that helped us to decide on our new Outsourced Partner."
+=======
+          "The quality of Artwork delivered during the trial period was exceptional and that helped us to decide on our new Nimbled Partner."
+>>>>>>> Santhiya
         </blockquote>
         <p className="mt-4 font-medium">Director – Operations, Netherlands</p>
       </section>
 
       {/* CTA */}
       <section className="py-20 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Outsource School Photo Editing Services to Us</h2>
+=======
+        <h2 className="text-3xl font-semibold mb-4">Nimble School Photo Editing Services to Us</h2>
+>>>>>>> Santhiya
         <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
           Focus on capturing precious moments while we refine and perfect your school photos. Let us be your editing partner today!
         </p>

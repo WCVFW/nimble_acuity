@@ -25,7 +25,11 @@ const CustomerIntelligencePage: React.FC = () => {
           transition={{ duration: 0.6 }}
           className="text-4xl md:text-5xl font-bold"
         >
+<<<<<<< HEAD
           Outsource Customer Intelligence Services
+=======
+          Nimble Customer Intelligence Services
+>>>>>>> Santhiya
         </motion.h1>
         <p className="mt-6 max-w-3xl mx-auto text-lg">
           We provide you with customer intelligence on shoppers' online
@@ -134,7 +138,11 @@ const CustomerIntelligencePage: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-16 px-6 max-w-6xl mx-auto">
         <h2 className="text-3xl font-bold text-center mb-12">
+<<<<<<< HEAD
           Why Choose O2I for Customer Intelligence?
+=======
+          Why Choose Nimble Acuity for Customer Intelligence?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {[

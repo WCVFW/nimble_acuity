@@ -9,7 +9,11 @@ const AssetManagementSupport: React.FC = () => {
       {/* Heading */}
       <header className="mb-8">
         <h1 className="text-3xl font-bold text-gray-900 mb-2">
+<<<<<<< HEAD
           Outsource Asset Management Support Services
+=======
+          Nimble Asset Management Support Services
+>>>>>>> Santhiya
         </h1>
         <h2 className="text-xl font-semibold text-blue-700">
           Asset Management Support Services
@@ -18,7 +22,11 @@ const AssetManagementSupport: React.FC = () => {
 
       {/* Intro */}
       <p className="mb-4 leading-relaxed">
+<<<<<<< HEAD
         Outsource2india provides a comprehensive range of asset management
+=======
+        Nimble Acuity provides a comprehensive range of asset management
+>>>>>>> Santhiya
         support services for the investment management industry. Our skilled
         asset management experts help you get over human resource constraints,
         cost pressures, legal and compliance issues, and technology shifts in a
@@ -31,7 +39,11 @@ const AssetManagementSupport: React.FC = () => {
 
       <p className="mb-6 leading-relaxed">
         As a chosen asset management support services partner for a growing list
+<<<<<<< HEAD
         of satisfied clients, Outsource2india aids in creating a smart and
+=======
+        of satisfied clients, Nimble Acuity aids in creating a smart and
+>>>>>>> Santhiya
         specialized asset management plan with our reliable and consistent
         support services.
       </p>
@@ -42,7 +54,11 @@ const AssetManagementSupport: React.FC = () => {
       </h3>
 
       <p className="mb-6 leading-relaxed">
+<<<<<<< HEAD
         At Outsource2india, our asset management experts offer a gamut of
+=======
+        At Nimble Acuity, our asset management experts offer a gamut of
+>>>>>>> Santhiya
         support services that are custom designed to suit your growing
         requirements. We work closely with you to plan out the right set of
         services to ensure maximum ROI. Our range of services include:
@@ -125,7 +141,11 @@ const AssetManagementSupport: React.FC = () => {
 
       {/* Benefits */}
       <h3 className="text-2xl font-bold text-gray-900 mt-10 mb-4">
+<<<<<<< HEAD
         Benefits of Outsourcing Financial Analysis Services to O2I
+=======
+        Benefits of Outsourcing Financial Analysis Services to Nimble Acuity
+>>>>>>> Santhiya
       </h3>
       <ul className="space-y-3 list-disc list-inside">
         <li>
@@ -144,10 +164,17 @@ const AssetManagementSupport: React.FC = () => {
 
       {/* Call to Action */}
       <h3 className="text-2xl font-bold text-gray-900 mt-10 mb-4">
+<<<<<<< HEAD
         Outsource Asset Management Services to India
       </h3>
       <p className="mb-4 leading-relaxed">
         With over two decades of experience, Outsource2india leverages the
+=======
+        Nimble Asset Management Services to India
+      </h3>
+      <p className="mb-4 leading-relaxed">
+        With over two decades of experience, Nimble Acuity leverages the
+>>>>>>> Santhiya
         latest software for bookkeeping, asset management, data management, and
         tax preparation to deliver the best service.
       </p>

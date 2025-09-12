@@ -121,10 +121,17 @@ const AICustomerExperience: React.FC = () => {
         {/* CTA */}
         <section>
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">
+<<<<<<< HEAD
             Contact Outsource2india for Your AI Requirements
           </h2>
           <p className="text-gray-700 mb-4">
             Outsource2india has delivered digital and AI-driven solutions for
+=======
+            Contact Nimble Acuity for Your AI Requirements
+          </h2>
+          <p className="text-gray-700 mb-4">
+            Nimble Acuity has delivered digital and AI-driven solutions for
+>>>>>>> Santhiya
             over a decade, from lead scoring and process automation to big data,
             predictive analytics, and recommender systems.
           </p>

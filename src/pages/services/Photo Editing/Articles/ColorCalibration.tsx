@@ -99,7 +99,11 @@ const ColorCalibration: React.FC = () => {
           Sign up for a FREE Trial Today
         </h2>
         <p className="mb-6">
+<<<<<<< HEAD
           Experience the quality of our work before you outsource!
+=======
+          Experience the quality of our work before you Nimble!
+>>>>>>> Santhiya
         </p>
         <button className="px-6 py-3 bg-indigo-600 text-white font-medium rounded-lg shadow-md hover:bg-indigo-700 transition">
           Try it now! Stop editing. Start clicking

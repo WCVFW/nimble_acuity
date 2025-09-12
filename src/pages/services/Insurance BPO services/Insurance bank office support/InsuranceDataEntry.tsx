@@ -51,7 +51,11 @@ export default function InsuranceDataEntry(): JSX.Element {
       <Imainmenu/>
       <section className="bg-gradient-to-r from-indigo-600 to-blue-700 text-white py-20 px-6 text-center">
         <div className="max-w-4xl mx-auto">
+<<<<<<< HEAD
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Outsource Insurance Data Entry Services</h1>
+=======
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">Nimble Insurance Data Entry Services</h1>
+>>>>>>> Santhiya
           <p className="text-lg md:text-xl">High accuracy, fast turnaround and domain expertise — trusted by insurance firms worldwide.</p>
           <div className="mt-8">
             <Button size="lg" className="bg-white text-blue-700 font-semibold">Get 1 Week Free Trial</Button>
@@ -65,7 +69,11 @@ export default function InsuranceDataEntry(): JSX.Element {
           Insurance companies collect and process large volumes of data every day. Accurate data entry unlocks analytics, improves decision-making, and streamlines operations. Our specialized team is trained on major insurance systems and delivers high-quality, timely results.
         </p>
         <p>
+<<<<<<< HEAD
           With 26+ years of experience, Outsource2india handles all types of insurance data entry — from new business and applications to complex acquisition integrations and analytics-ready datasets.
+=======
+          With 26+ years of experience, Nimble Acuity handles all types of insurance data entry — from new business and applications to complex acquisition integrations and analytics-ready datasets.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -120,7 +128,11 @@ export default function InsuranceDataEntry(): JSX.Element {
 
       {/* Why Choose Us */}
       <section className="py-12 px-6 max-w-6xl mx-auto">
+<<<<<<< HEAD
         <h2 className="text-2xl font-bold text-center mb-8">Why Choose O2I for Insurance Data Entry?</h2>
+=======
+        <h2 className="text-2xl font-bold text-center mb-8">Why Choose Nimble Acuity for Insurance Data Entry?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-2 gap-6">
           <ul className="space-y-3 list-inside list-disc text-gray-700">
             <li>Highly trained data-entry specialists with domain experience</li>
@@ -141,7 +153,11 @@ export default function InsuranceDataEntry(): JSX.Element {
       {/* Closing CTA */}
       <section className="bg-blue-700 text-white py-12 px-6 text-center">
         <div className="max-w-4xl mx-auto">
+<<<<<<< HEAD
           <h3 className="text-2xl font-semibold mb-4">Outsource Insurance Data Entry Services to Us</h3>
+=======
+          <h3 className="text-2xl font-semibold mb-4">Nimble Insurance Data Entry Services to Us</h3>
+>>>>>>> Santhiya
           <p className="mb-6">If you need accurate, scalable and secure data entry services for your insurance business, our experts are ready to help. We also provide data analytics, accounting & billing, and document indexing as complementary services.</p>
           <Button size="lg" className="bg-white text-blue-700">Contact Us</Button>
         </div>

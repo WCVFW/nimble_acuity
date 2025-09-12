@@ -10,7 +10,11 @@ const QualitativeDataAnalysisPage: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Qualitative Data Analysis Services
+=======
+          Nimble Qualitative Data Analysis Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Move from data chaos to information clarity. Convert large volumes of
@@ -83,7 +87,11 @@ const QualitativeDataAnalysisPage: React.FC = () => {
       <section className="py-12 px-6 text-center max-w-3xl mx-auto">
         <h2 className="text-3xl font-bold mb-6">Testimonials</h2>
         <blockquote className="italic">
+<<<<<<< HEAD
           “The services that Outsource2india provided helped us achieve
+=======
+          “The services that Nimble Acuity provided helped us achieve
+>>>>>>> Santhiya
           substantial cost and time savings on several difficult projects.”
         </blockquote>
         <p className="mt-4 font-semibold">
@@ -214,7 +222,11 @@ const QualitativeDataAnalysisPage: React.FC = () => {
       {/* CTA */}
       <section className="py-16 px-6 bg-blue-900 text-white text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Qualitative Data Analysis Services to O2I
+=======
+          Nimble Qualitative Data Analysis Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto">
           We provide end-to-end solutions from data collection to insightful

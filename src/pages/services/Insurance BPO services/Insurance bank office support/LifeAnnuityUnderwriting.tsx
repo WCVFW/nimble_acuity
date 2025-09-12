@@ -10,7 +10,11 @@ const LifeAnnuityUnderwriting: React.FC = () => {
       {/* Hero Section */}
       <Imainmenu/>
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold mb-4">Outsource Life/Annuity Insurance Underwriting Services</h1>
+=======
+        <h1 className="text-4xl font-bold mb-4">Nimble Life/Annuity Insurance Underwriting Services</h1>
+>>>>>>> Santhiya
         <p className="text-lg max-w-3xl mx-auto">
           Streamline risk assessment, reduce costs, and improve efficiency by outsourcing your life and annuity insurance underwriting needs to our expert team.
         </p>
@@ -53,7 +57,11 @@ const LifeAnnuityUnderwriting: React.FC = () => {
 
       {/* Process Section */}
       <section className="bg-gray-100 py-16 px-6">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold text-center mb-12">O2I's Life Insurance Underwriting Process</h2>
+=======
+        <h2 className="text-3xl font-semibold text-center mb-12">Nimble Acuity's Life Insurance Underwriting Process</h2>
+>>>>>>> Santhiya
         <div className="grid grid-cols-1 md:grid-cols-5 gap-6">
           {["Requirement Analysis","Strategic Planning","Underwriting Implementation","Verification & Validation","Final Delivery"].map((step, idx) => (
             <Card key={idx} className="shadow-md">
@@ -80,7 +88,11 @@ const LifeAnnuityUnderwriting: React.FC = () => {
 
       {/* Benefits Section */}
       <section className="bg-blue-50 py-16 px-6">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold text-center mb-12">Why Choose O2I for Life/Annuity Underwriting?</h2>
+=======
+        <h2 className="text-3xl font-semibold text-center mb-12">Why Choose Nimble Acuity for Life/Annuity Underwriting?</h2>
+>>>>>>> Santhiya
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
           {["Flexible Pricing Options","Data Security (ISO/IEC 27001:2022)","Quick Turnaround Time","Experienced Life Insurance Underwriters","High-quality ISO Certified Services","Best Infrastructure","Dedicated Project Manager","24/7 Availability","Scalable Solutions"].map((benefit, idx) => (
             <Card key={idx} className="shadow-md">
@@ -104,9 +116,15 @@ const LifeAnnuityUnderwriting: React.FC = () => {
 
       {/* Final CTA */}
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold mb-4">Outsource Life/Annuity Insurance Underwriting to Us</h2>
         <p className="max-w-3xl mx-auto mb-6">
           Partner with Outsource2india for reliable, cost-effective, and efficient life/annuity insurance underwriting services. Get in touch with us today to streamline your processes and improve outcomes.
+=======
+        <h2 className="text-3xl font-bold mb-4">Nimble Life/Annuity Insurance Underwriting to Us</h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Partner with Nimble Acuity for reliable, cost-effective, and efficient life/annuity insurance underwriting services. Get in touch with us today to streamline your processes and improve outcomes.
+>>>>>>> Santhiya
         </p>
         <Button className="bg-white text-blue-900 hover:bg-gray-200">Contact Us</Button>
       </section>

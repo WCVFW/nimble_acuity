@@ -14,7 +14,11 @@ const OutsourcingIndiaResearch: React.FC = () => {
       <p className="mb-4">
         India is no longer known only for BPO services. Global industries have
         realized that apart from technical support and software development,
+<<<<<<< HEAD
         India is also a great place to outsource research & analysis services.
+=======
+        India is also a great place to Nimble research & analysis services.
+>>>>>>> Santhiya
         Presence of specialized resources with multi-domain expertise, combined
         with exceptional processes have made India an ideal outsourcing
         destination for high-end processes like financial research analysis,
@@ -40,9 +44,15 @@ const OutsourcingIndiaResearch: React.FC = () => {
         <li>12-hour time-zone difference advantage</li>
       </ul>
 
+<<<<<<< HEAD
       {/* Why Outsource */}
       <h2 className="text-2xl font-semibold mb-4 text-blue-600">
         Why Outsource Research & Analysis Services to India?
+=======
+      {/* Why Nimble */}
+      <h2 className="text-2xl font-semibold mb-4 text-blue-600">
+        Why Nimble Research & Analysis Services to India?
+>>>>>>> Santhiya
       </h2>
       <div className="space-y-4 mb-8">
         <div>
@@ -97,10 +107,17 @@ const OutsourcingIndiaResearch: React.FC = () => {
 
       {/* Process */}
       <h2 className="text-2xl font-semibold mb-4 text-blue-600">
+<<<<<<< HEAD
         Research & Analysis Services Outsourcing Process at O2I
       </h2>
       <ol className="list-decimal ml-6 space-y-2 mb-8">
         <li>Client fills in O2I's 'Contact Us' form and gets a call from our sales team</li>
+=======
+        Research & Analysis Services Outsourcing Process at Nimble Acuity
+      </h2>
+      <ol className="list-decimal ml-6 space-y-2 mb-8">
+        <li>Client fills in Nimble Acuity's 'Contact Us' form and gets a call from our sales team</li>
+>>>>>>> Santhiya
         <li>Extensive requirement analysis of client’s needs is conducted</li>
         <li>Pilot project is executed (if required)</li>
         <li>Pricing details are confirmed and SLAs are signed</li>
@@ -111,11 +128,19 @@ const OutsourcingIndiaResearch: React.FC = () => {
 
       {/* CTA */}
       <h2 className="text-2xl font-semibold mb-4 text-blue-600">
+<<<<<<< HEAD
         Outsource Research & Analysis Services to Outsource2india
       </h2>
       <p className="mb-4">
         Backed with a large team of researchers, analysts, and statisticians,
         Outsource2india is a leading provider of financial research analysis,
+=======
+        Nimble Research & Analysis Services to Nimble Acuity
+      </h2>
+      <p className="mb-4">
+        Backed with a large team of researchers, analysts, and statisticians,
+        Nimble Acuity is a leading provider of financial research analysis,
+>>>>>>> Santhiya
         market research analysis, and business research analysis. With our
         insightful dashboards, accurate reports, and other services, you can
         always stay a step ahead of your competitors.

@@ -64,21 +64,36 @@ const BookkeepingPage: React.FC = () => {
       <Imainmenu/>
       <section className="bg-gradient-to-r from-blue-900 to-blue-600 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Bookkeeping & Forensic Accounting Services
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Cut costs, boost efficiency, and secure your financial records with
           O2I’s expert bookkeeping and forensic accounting support.
+=======
+          Nimble Insurance Bookkeeping & Forensic Accounting Services
+        </h1>
+        <p className="max-w-3xl mx-auto text-lg">
+          Cut costs, boost efficiency, and secure your financial records with
+          Nimble Acuity’s expert bookkeeping and forensic accounting support.
+>>>>>>> Santhiya
         </p>
         <button className="mt-6 bg-yellow-400 text-blue-900 font-semibold px-6 py-3 rounded-lg shadow hover:bg-yellow-300">
           Get Free Trial
         </button>
       </section>
 
+<<<<<<< HEAD
       {/* Why Outsource */}
       <section className="max-w-6xl mx-auto py-12 px-6">
         <h2 className="text-2xl font-bold mb-6 text-center">
           Why Insurance Companies Outsource to Us?
+=======
+      {/* Why Nimble */}
+      <section className="max-w-6xl mx-auto py-12 px-6">
+        <h2 className="text-2xl font-bold mb-6 text-center">
+          Why Insurance Companies Nimble to Us?
+>>>>>>> Santhiya
         </h2>
         <ul className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 text-lg">
           <li className="bg-white shadow rounded-lg p-6">
@@ -153,7 +168,11 @@ const BookkeepingPage: React.FC = () => {
           Get Started with a 1-Week Free Trial
         </h2>
         <p className="max-w-2xl mx-auto mb-6 text-lg">
+<<<<<<< HEAD
           Try our services free for 7 days and experience the O2I advantage
+=======
+          Try our services free for 7 days and experience the Nimble Acuity advantage
+>>>>>>> Santhiya
           before you commit.
         </p>
         <button className="bg-yellow-400 text-blue-900 font-semibold px-8 py-4 rounded-lg shadow hover:bg-yellow-300">

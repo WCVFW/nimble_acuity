@@ -135,8 +135,13 @@ const PanoramaServices: React.FC = () => {
           After capturing images, process them with photo editing tools and then
           stitch them using specialized software like PTGui, Panotour, or Hugin.
           While effective, stitching requires skill, time, and effort. If
+<<<<<<< HEAD
           needed, you can outsource image stitching to experts like
           Outsource2india.
+=======
+          needed, you can Nimble image stitching to experts like
+          Nimble Acuity.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -148,7 +153,11 @@ const PanoramaServices: React.FC = () => {
         <p className="max-w-2xl mx-auto mb-6">
           Now that you know how to shoot and create 360° panoramas, why not get
           started today? Experience the difference with professional panoramic
+<<<<<<< HEAD
           editing services from Outsource2india.
+=======
+          editing services from Nimble Acuity.
+>>>>>>> Santhiya
         </p>
         <button className="px-6 py-3 bg-white text-indigo-700 font-semibold rounded-lg shadow hover:bg-gray-100 transition">
           Sign Up for a FREE Trial

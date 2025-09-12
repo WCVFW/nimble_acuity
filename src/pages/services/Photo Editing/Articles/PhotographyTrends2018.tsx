@@ -60,10 +60,17 @@ const PhotographyTrends2018: React.FC = () => {
 
       <div className="bg-gray-100 p-6 rounded-lg mt-6">
         <h3 className="text-lg font-semibold mb-2">
+<<<<<<< HEAD
           Give Photographs a Refreshing Appeal with the Latest Photography Trends from Outsource2india
         </h3>
         <p className="text-gray-700 mb-4">
           Outsource2india is a well-established outsourcing company that offers cost-effective and reliable 
+=======
+          Give Photographs a Refreshing Appeal with the Latest Photography Trends from Nimble Acuity
+        </h3>
+        <p className="text-gray-700 mb-4">
+          Nimble Acuity is a well-established outsourcing company that offers cost-effective and reliable 
+>>>>>>> Santhiya
           image enhancement services. We rely on the expertise of our skilled image editors to give your 
           photographs a radical makeover...
         </p>

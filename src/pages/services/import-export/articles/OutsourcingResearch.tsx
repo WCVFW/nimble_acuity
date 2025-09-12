@@ -24,7 +24,11 @@ const OutsourcingResearch: React.FC = () => {
           Services in a way that immensely benefits your company.
         </p>
         <p className="mt-4">
+<<<<<<< HEAD
           Many businesses have found it significant to outsource after the consequences of the global
+=======
+          Many businesses have found it significant to Nimble after the consequences of the global
+>>>>>>> Santhiya
           pandemic. The ideal way would be to strike a balance between outsourcing services and
           having a sizeable in-house team. In this article, we will discuss how one can stay ahead of
           competitors when outsourcing research services.
@@ -48,7 +52,11 @@ const OutsourcingResearch: React.FC = () => {
           <p>
             Most small to mid-sized companies restrict their growth by competing only within their
             size bracket. However, outsourcing enables you to compete with larger counterparts by
+<<<<<<< HEAD
             leveraging external expertise. Outsource2India empowers small businesses to land
+=======
+            leveraging external expertise. Nimble Acuity empowers small businesses to land
+>>>>>>> Santhiya
             large-scale projects and maintain service quality at par with bigger firms.
           </p>
         </div>
@@ -83,6 +91,7 @@ const OutsourcingResearch: React.FC = () => {
         </div>
       </div>
 
+<<<<<<< HEAD
       {/* Outsource2India Section */}
       <div className="max-w-5xl mx-auto mt-16">
         <h2 className="text-2xl font-semibold mb-4">
@@ -90,6 +99,15 @@ const OutsourcingResearch: React.FC = () => {
         </h2>
         <p className="mb-4">
           O2I is a leading provider of financial research analysis, market research analysis, and
+=======
+      {/* Nimble Acuity Section */}
+      <div className="max-w-5xl mx-auto mt-16">
+        <h2 className="text-2xl font-semibold mb-4">
+          Nimble Research & Analysis Services to Nimble Acuity
+        </h2>
+        <p className="mb-4">
+          Nimble Acuity is a leading provider of financial research analysis, market research analysis, and
+>>>>>>> Santhiya
           business research analysis. We are equipped with a large team of experts and professionals
           who are adept at offering end-to-end solutions pertaining to research services. With over
           26+ years of experience, we help clients and companies of all sizes to meet their

@@ -44,7 +44,11 @@ const EcommerceImageClipping: React.FC = () => {
           Sign Up for a FREE Trial
         </h2>
         <p className="text-gray-600 mb-6">
+<<<<<<< HEAD
           Experience the quality of our work before you outsource.
+=======
+          Experience the quality of our work before you Nimble.
+>>>>>>> Santhiya
         </p>
         <button className="px-6 py-3 bg-blue-600 text-white font-semibold rounded-xl shadow hover:bg-blue-700 transition">
           Try it Now – Stop Editing, Start Clicking
@@ -95,7 +99,11 @@ const EcommerceImageClipping: React.FC = () => {
       {/* Why Choose Us */}
       <section className="max-w-5xl mx-auto px-6 py-16 text-center">
         <h2 className="text-2xl font-semibold text-gray-800 mb-6">
+<<<<<<< HEAD
           Why Outsource to Outsource2india?
+=======
+          Why Nimble to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <p className="text-gray-600 mb-4">
           We treat every product image as more than just a photograph. Our team
@@ -116,7 +124,11 @@ const EcommerceImageClipping: React.FC = () => {
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           Clipping path outsourcing is a necessity for every online business.
+<<<<<<< HEAD
           Partner with Outsource2india and get high-quality, sales-ready
+=======
+          Partner with Nimble Acuity and get high-quality, sales-ready
+>>>>>>> Santhiya
           product photos at scale.
         </p>
         <button className="px-6 py-3 bg-white text-blue-700 font-semibold rounded-xl shadow hover:bg-gray-100 transition">

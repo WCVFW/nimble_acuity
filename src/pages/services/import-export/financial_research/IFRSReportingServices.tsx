@@ -9,7 +9,11 @@ export default function IFRSReportingServices() {
       {/* Header */}
       <div className="text-center mb-12">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource IFRS Reporting Services
+=======
+          Nimble IFRS Reporting Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-700 max-w-3xl mx-auto">
           Get access to compliant reports and reduce your capital costs by
@@ -27,7 +31,11 @@ export default function IFRSReportingServices() {
           international financial reporting standards in the industry.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india is one such IFRS reporting service providing company
+=======
+          Nimble Acuity is one such IFRS reporting service providing company
+>>>>>>> Santhiya
           that can cater to all your requirements with ease. We have some of the
           most skilled resources that can provide you with customized services.
           We leverage the latest tools and technologies while delivering
@@ -84,7 +92,11 @@ export default function IFRSReportingServices() {
 
       {/* Why Choose */}
       <h2 className="text-2xl font-semibold text-gray-900 mb-6 text-center">
+<<<<<<< HEAD
         Why Outsource IFRS Services to O2I?
+=======
+        Why Nimble IFRS Services to Nimble Acuity?
+>>>>>>> Santhiya
       </h2>
       <div className="grid md:grid-cols-2 gap-6 mb-12">
         {[
@@ -161,7 +173,11 @@ export default function IFRSReportingServices() {
           Testimonials
         </h2>
         <blockquote className="text-gray-700 italic">
+<<<<<<< HEAD
           “The services that Outsource2india provided helped us achieve
+=======
+          “The services that Nimble Acuity provided helped us achieve
+>>>>>>> Santhiya
           substantial cost and time savings on several difficult projects.”
         </blockquote>
         <p className="mt-2 text-sm text-gray-600">
@@ -173,10 +189,17 @@ export default function IFRSReportingServices() {
       {/* Call to Action */}
       <div className="text-center">
         <h2 className="text-2xl font-semibold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource IFRS Services to Outsource2india
         </h2>
         <p className="text-gray-700 max-w-3xl mx-auto mb-6">
           Outsource2india is a leading provider of IFRS services in India. With
+=======
+          Nimble IFRS Services to Nimble Acuity
+        </h2>
+        <p className="text-gray-700 max-w-3xl mx-auto mb-6">
+          Nimble Acuity is a leading provider of IFRS services in India. With
+>>>>>>> Santhiya
           18000+ happy clients and 10+ global delivery centers, we help you save
           time, cut costs up to 60%, and get reliable reporting services.
         </p>

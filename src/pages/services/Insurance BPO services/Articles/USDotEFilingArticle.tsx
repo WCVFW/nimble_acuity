@@ -114,7 +114,11 @@ const USDotEFilingArticle: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-600 py-16 text-white text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource E-filing of US DOT and Compliance Checks to Outsource2india
+=======
+          Nimble E-filing of US DOT and Compliance Checks to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6 max-w-2xl mx-auto">
           Our team of experts ensures accurate e-filing and compliance checks using cloud-based automation, saving you time and avoiding penalties.

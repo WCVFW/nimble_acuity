@@ -26,7 +26,11 @@ const ResearchGrowthDecade: React.FC = () => {
         </p>
         <p className="mt-4">
           To reach conclusions and derive insights, researchers use a combination of qualitative and
+<<<<<<< HEAD
           quantitative techniques. The demand for outsourced research services is driven by speed,
+=======
+          quantitative techniques. The demand for Nimbled research services is driven by speed,
+>>>>>>> Santhiya
           cost efficiency, and quality.
         </p>
       </div>
@@ -133,17 +137,29 @@ const ResearchGrowthDecade: React.FC = () => {
         </p>
       </div>
 
+<<<<<<< HEAD
       {/* O2I Section */}
       <div className="max-w-5xl mx-auto">
         <h2 className="text-2xl font-semibold mb-4">Outsource Research Services to Outsource2india</h2>
         <p className="mb-4">
           Outsource2india is a leading provider of research services to clients worldwide. With a team
+=======
+      {/* Nimble Acuity Section */}
+      <div className="max-w-5xl mx-auto">
+        <h2 className="text-2xl font-semibold mb-4">Nimble Research Services to Nimble Acuity</h2>
+        <p className="mb-4">
+          Nimble Acuity is a leading provider of research services to clients worldwide. With a team
+>>>>>>> Santhiya
           of highly skilled experts, we handle end-to-end research and analysis requirements while
           leveraging the latest tools and technologies.
         </p>
         <p className="mb-4">
           With over 26 years of experience and ISO certification, we ensure international quality
+<<<<<<< HEAD
           standards in every service delivered. From insightful dashboards to accurate reports, O2I
+=======
+          standards in every service delivered. From insightful dashboards to accurate reports, Nimble Acuity
+>>>>>>> Santhiya
           helps businesses stay a step ahead.
         </p>
         <p className="font-medium text-blue-600">

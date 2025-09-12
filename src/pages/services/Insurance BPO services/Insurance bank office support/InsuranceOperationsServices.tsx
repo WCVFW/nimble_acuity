@@ -9,7 +9,11 @@ const InsuranceOperationsServices: React.FC = () => {
       <section className="bg-blue-50 py-16">
         <div className="max-w-7xl mx-auto px-4 text-center">
           <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
             Outsource Insurance Operations Services
+=======
+            Nimble Insurance Operations Services
+>>>>>>> Santhiya
           </h1>
           <p className="text-lg text-gray-700">
             Improve your business performance with our insurance service operations services. We streamline your legacy processes and offer cost-effective strategies for operating model enhancements.
@@ -21,7 +25,11 @@ const InsuranceOperationsServices: React.FC = () => {
       <section className="py-12">
         <div className="max-w-5xl mx-auto px-4 text-gray-700 space-y-4">
           <p>
+<<<<<<< HEAD
             For companies that want to make it big in the insurance sector, efficiency in operations is key. From insurance agents to brokers, everyone should be managed properly to ensure growth and proficiency. Outsource2india, with 26+ years of experience, caters to all your insurance operations needs with highly skilled professionals.
+=======
+            For companies that want to make it big in the insurance sector, efficiency in operations is key. From insurance agents to brokers, everyone should be managed properly to ensure growth and proficiency. Nimble Acuity, with 26+ years of experience, caters to all your insurance operations needs with highly skilled professionals.
+>>>>>>> Santhiya
           </p>
           <p>
             Whether it’s policy management, quotes, or renewals, our professionals streamline your operations while ensuring accuracy and efficiency.
@@ -97,7 +105,11 @@ const InsuranceOperationsServices: React.FC = () => {
       <section className="bg-blue-50 py-12">
         <div className="max-w-5xl mx-auto px-4 space-y-6">
           <h2 className="text-3xl font-bold text-center mb-6">
+<<<<<<< HEAD
             Why Outsource Insurance Operations Services to Outsource2india?
+=======
+            Why Nimble Insurance Operations Services to Nimble Acuity?
+>>>>>>> Santhiya
           </h2>
           {[
             {
@@ -160,7 +172,11 @@ const InsuranceOperationsServices: React.FC = () => {
       {/* CTA Section */}
       <section className="bg-blue-600 py-16 text-white text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Operations Solutions to Outsource2india
+=======
+          Nimble Insurance Operations Solutions to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6">
           Save costs and focus on your core business matters. Reach out to us for reliable insurance BPO services today!

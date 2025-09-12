@@ -124,12 +124,20 @@ const BlockchainAnalytics: React.FC = () => {
         {/* Conclusion */}
         <section>
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">
+<<<<<<< HEAD
             Hire Outsource2india: Pioneer in Blockchain Technologies
+=======
+            Hire Nimble Acuity: Pioneer in Blockchain Technologies
+>>>>>>> Santhiya
           </h2>
           <p className="text-gray-700">
             Operational blockchain analytics is still in its infancy. However,
             continued innovations and investments will drive mainstream adoption
+<<<<<<< HEAD
             in the near future. Outsource2india helps clients leverage blockchain
+=======
+            in the near future. Nimble Acuity helps clients leverage blockchain
+>>>>>>> Santhiya
             technology for smarter and more accurate analytics with cost-effective
             solutions, vast industry knowledge, and seamless global delivery
             models.

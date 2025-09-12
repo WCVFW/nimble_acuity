@@ -12,7 +12,11 @@ const DigitalPhotographyServices: React.FC = () => {
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Impress your audience in just a split second with high-quality,
+<<<<<<< HEAD
           professionally edited photographs. At Outsource2india, we help
+=======
+          professionally edited photographs. At Nimble Acuity, we help
+>>>>>>> Santhiya
           businesses enhance visual appeal with reliable and cost-effective
           digital photography services.
         </p>
@@ -24,7 +28,11 @@ const DigitalPhotographyServices: React.FC = () => {
           With smartphones making photography accessible to all, the demand for
           high-quality photos has skyrocketed. Poor-quality images can cost you
           opportunities, but professional photography services ensure that your
+<<<<<<< HEAD
           visuals always leave a lasting impression. That’s where Outsource2india
+=======
+          visuals always leave a lasting impression. That’s where Nimble Acuity
+>>>>>>> Santhiya
           steps in.
         </p>
       </section>
@@ -99,10 +107,17 @@ const DigitalPhotographyServices: React.FC = () => {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* Reasons to Outsource */}
       <section className="py-12 px-6 max-w-5xl mx-auto">
         <h2 className="text-2xl font-semibold text-center mb-8">
           5 Reasons to Outsource Digital Photography Services to O2I
+=======
+      {/* Reasons to Nimble */}
+      <section className="py-12 px-6 max-w-5xl mx-auto">
+        <h2 className="text-2xl font-semibold text-center mb-8">
+          5 Reasons to Nimble Digital Photography Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc list-inside space-y-2">
           <li>Quick, efficient, and cost-effective photo editing services</li>
@@ -118,7 +133,11 @@ const DigitalPhotographyServices: React.FC = () => {
       {/* CTA Section */}
       <section className="text-center py-16 px-6 bg-gradient-to-r from-indigo-600 to-blue-600 text-white">
         <h2 className="text-2xl font-semibold mb-4">
+<<<<<<< HEAD
           Outsource Digital Photography Services Today
+=======
+          Nimble Digital Photography Services Today
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-2xl mx-auto mb-6">
           Get your photographs restored, retouched, converted, manipulated,
@@ -136,7 +155,11 @@ const DigitalPhotographyServices: React.FC = () => {
           Professional Photography Editing Services
         </h2>
         <p className="max-w-3xl mx-auto">
+<<<<<<< HEAD
           At Outsource2india, we ensure your images enhance marketing
+=======
+          At Nimble Acuity, we ensure your images enhance marketing
+>>>>>>> Santhiya
           collaterals, product catalogs, portfolios, and online stores with
           unmatched quality. Explore our gallery and partner with us for
           outstanding results.

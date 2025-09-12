@@ -8,7 +8,11 @@ const DataBenchmarkingPage: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-16 px-6 text-center">
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Data Benchmarking Services
+=======
+          Nimble Data Benchmarking Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto">
           Effectively and efficiently analyze how your business stacks up against
@@ -28,7 +32,11 @@ const DataBenchmarkingPage: React.FC = () => {
           differently from you.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india has over <strong>26+ years of experience</strong> in
+=======
+          Nimble Acuity has over <strong>26+ years of experience</strong> in
+>>>>>>> Santhiya
           providing data benchmarking services to international companies. We
           have assisted several large and small companies to identify and compare
           benchmarks to understand performance goals, measure important metrics,
@@ -108,7 +116,11 @@ const DataBenchmarkingPage: React.FC = () => {
       <section className="bg-blue-50 py-12 px-6">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-3xl font-bold text-center mb-10">
+<<<<<<< HEAD
             Benefits of Outsourcing Data Benchmarking to O2I
+=======
+            Benefits of Outsourcing Data Benchmarking to Nimble Acuity
+>>>>>>> Santhiya
           </h2>
           <div className="grid md:grid-cols-2 gap-8">
             {[
@@ -141,7 +153,11 @@ const DataBenchmarkingPage: React.FC = () => {
               Research Support for Global Marketing Strategy Firm
             </h3>
             <p>
+<<<<<<< HEAD
               O2I's experienced analysts provided robust and reliable research
+=======
+              Nimble Acuity's experienced analysts provided robust and reliable research
+>>>>>>> Santhiya
               services from both online and offline sources for a leading
               marketing strategy consulting firm.
             </p>
@@ -151,7 +167,11 @@ const DataBenchmarkingPage: React.FC = () => {
               KOL Identification for UK-based Healthcare Provider
             </h3>
             <p>
+<<<<<<< HEAD
               O2I used a proprietary methodology to research, collate, and
+=======
+              Nimble Acuity used a proprietary methodology to research, collate, and
+>>>>>>> Santhiya
               analyze KOL information for a leading UK-based provider of
               healthcare services.
             </p>
@@ -162,7 +182,11 @@ const DataBenchmarkingPage: React.FC = () => {
       {/* CTA */}
       <section className="bg-gradient-to-r from-indigo-700 to-blue-600 text-white py-16 px-6 text-center">
         <h2 className="text-3xl md:text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Data Benchmarking Services to Outsource2india
+=======
+          Nimble Data Benchmarking Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           With 26+ years of expertise, we help businesses compare performance,

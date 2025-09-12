@@ -8,10 +8,17 @@ const MediaResearchServices: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-blue-700 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Media Research Services
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Media exposure is just the beginning. With Outsource2india&apos;s
+=======
+          Nimble Media Research Services
+        </h1>
+        <p className="max-w-3xl mx-auto text-lg">
+          Media exposure is just the beginning. With Nimble Acuity&apos;s
+>>>>>>> Santhiya
           dynamic media research and monitoring solutions, you can track,
           analyze, and strengthen your brand identity through positive
           publicity.
@@ -24,7 +31,11 @@ const MediaResearchServices: React.FC = () => {
         <p className="mb-4">
           Today&apos;s media landscape—both online and offline—offers unmatched
           opportunities to connect with your audience. Recognizing the
+<<<<<<< HEAD
           importance of media presence, Outsource2india delivers specialized
+=======
+          importance of media presence, Nimble Acuity delivers specialized
+>>>>>>> Santhiya
           media intelligence services that align your exposure with revenue
           goals.
         </p>
@@ -101,6 +112,7 @@ const MediaResearchServices: React.FC = () => {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* Why Choose O2I */}
       <section className="bg-blue-50 py-12 px-6">
         <div className="max-w-6xl mx-auto">
@@ -109,12 +121,26 @@ const MediaResearchServices: React.FC = () => {
           </h2>
           <p className="mb-4">
             At Outsource2india, we tailor solutions to match your precise needs.
+=======
+      {/* Why Choose Nimble Acuity */}
+      <section className="bg-blue-50 py-12 px-6">
+        <div className="max-w-6xl mx-auto">
+          <h2 className="text-2xl font-semibold mb-6">
+            Why Choose Nimble Acuity for Media Research Services?
+          </h2>
+          <p className="mb-4">
+            At Nimble Acuity, we tailor solutions to match your precise needs.
+>>>>>>> Santhiya
             Our team extracts insights from diverse media channels—radio,
             television, magazines, and online platforms—so you stay ahead of
             market perceptions.
           </p>
           <p>
+<<<<<<< HEAD
             With a global presence and decades of expertise, O2I ensures
+=======
+            With a global presence and decades of expertise, Nimble Acuity ensures
+>>>>>>> Santhiya
             high-quality results, cost-effective delivery, and quick
             turnarounds.
           </p>
@@ -124,11 +150,19 @@ const MediaResearchServices: React.FC = () => {
       {/* CTA */}
       <section className="text-center py-16 px-6 bg-blue-700 text-white">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Media Research Services to India
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           Partner with one of the most trusted media research companies with a
           global presence. Let Outsource2india track, analyze, and optimize your
+=======
+          Nimble Media Research Services to India
+        </h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Partner with one of the most trusted media research companies with a
+          global presence. Let Nimble Acuity track, analyze, and optimize your
+>>>>>>> Santhiya
           media exposure to deliver measurable brand impact.
         </p>
         <button className="bg-white text-blue-700 px-6 py-3 rounded-lg font-semibold shadow hover:bg-gray-100">

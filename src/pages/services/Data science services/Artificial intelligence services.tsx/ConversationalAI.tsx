@@ -202,7 +202,11 @@ const ConversationalAI: React.FC = () => {
           Revolutionize Your Communication Strategies
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
+<<<<<<< HEAD
           Partner with O2I to implement human-like conversational AI that
+=======
+          Partner with Nimble Acuity to implement human-like conversational AI that
+>>>>>>> Santhiya
           transforms engagement, boosts retention, and maximizes ROI.
         </p>
         <Button size="lg" variant="secondary">

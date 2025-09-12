@@ -11,7 +11,11 @@ const MarketResearchReports: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-blue-50 py-16 text-center px-6">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Market Research Report Services
+=======
+          Nimble Market Research Report Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-700 max-w-3xl mx-auto">
           Get cost-effective, accurate, and reliable market research reports to
@@ -25,11 +29,19 @@ const MarketResearchReports: React.FC = () => {
           Are you looking for a cost-effective market research service to gather
           real-time information about your customers, market mood, competitor
           information, and many other important metrics to expand your business?
+<<<<<<< HEAD
           Outsource2india helps you start, organize, and evolve your business in
           a structured way.
         </p>
         <p>
           With <strong>26+ years of experience</strong>, O2I provides tailored
+=======
+          Nimble Acuity helps you start, organize, and evolve your business in
+          a structured way.
+        </p>
+        <p>
+          With <strong>26+ years of experience</strong>, Nimble Acuity provides tailored
+>>>>>>> Santhiya
           market research reports leveraging statistical analysis and industry
           expertise.
         </p>
@@ -116,7 +128,11 @@ const MarketResearchReports: React.FC = () => {
       {/* Benefits Section */}
       <section className="py-12 px-6 max-w-6xl mx-auto">
         <h2 className="text-2xl font-semibold mb-6 text-center">
+<<<<<<< HEAD
           Benefits of Choosing O2I
+=======
+          Benefits of Choosing Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {["Cost-effective Solutions", "Experienced Research Team", "Shorter Turnaround Time", "Advanced Infrastructure", "100% Data Security", "Scalable Services"].map(
@@ -179,7 +195,11 @@ const MarketResearchReports: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-600 text-white py-12 px-6 text-center">
         <h2 className="text-2xl font-semibold mb-4">
+<<<<<<< HEAD
           Outsource Market Research Report Creation to Outsource2india
+=======
+          Nimble Market Research Report Creation to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6 max-w-2xl mx-auto">
           Get accurate, timely, and cost-effective market research reports that

@@ -8,14 +8,22 @@ const CatiWebSurveys: React.FC = () => {
       <NavigationMenu/>
       <section className="text-center space-y-4">
         <h1 className="text-4xl font-bold">
+<<<<<<< HEAD
           Outsource CATI Web Surveys
+=======
+          Nimble CATI Web Surveys
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-700">
           Transform your business with CATI Web Surveys and know your competitors,
           reach out to significant customers, and get insightful feedback.
         </p>
         <p className="text-gray-600 max-w-3xl mx-auto">
+<<<<<<< HEAD
           Outsource2india brings the convenience of comprehensive CATI web surveys
+=======
+          Nimble Acuity brings the convenience of comprehensive CATI web surveys
+>>>>>>> Santhiya
           and call center CRM technology solutions under a single platform. With
           over two decades of experience, we’ve trained global clients in CATI web
           surveys and CRM market research.
@@ -76,7 +84,11 @@ const CatiWebSurveys: React.FC = () => {
 
       {/* Benefits */}
       <section className="space-y-4">
+<<<<<<< HEAD
         <h2 className="text-2xl font-semibold">Benefits of Outsourcing CATI Web Surveys to O2I</h2>
+=======
+        <h2 className="text-2xl font-semibold">Benefits of Outsourcing CATI Web Surveys to Nimble Acuity</h2>
+>>>>>>> Santhiya
         <ul className="list-disc list-inside text-gray-700 space-y-1">
           <li>Custom-priced CATI services</li>
           <li>Modern infrastructure facilities</li>
@@ -129,7 +141,11 @@ const CatiWebSurveys: React.FC = () => {
       {/* CTA */}
       <section className="text-center space-y-4">
         <h2 className="text-2xl font-bold">
+<<<<<<< HEAD
           Outsource CATI Web Surveys Services to Outsource2india
+=======
+          Nimble CATI Web Surveys Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="text-gray-700 max-w-2xl mx-auto">
           With over 26 years of experience in research services, we deliver

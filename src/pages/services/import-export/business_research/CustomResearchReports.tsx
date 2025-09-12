@@ -8,7 +8,11 @@ const CustomResearchReports: React.FC = () => {
       <NavigationMenu/>
       <section className="max-w-5xl mx-auto text-center mb-12">
         <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Custom Research Report Services
+=======
+          Nimble Custom Research Report Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg mb-6">
           Having the right information at your fingertips is key to making
@@ -18,7 +22,11 @@ const CustomResearchReports: React.FC = () => {
         </p>
         <p>
           Leveraging domain expertise, proprietary techniques, and advanced KPO
+<<<<<<< HEAD
           practices, Outsource2india ensures clients receive data-rich,
+=======
+          practices, Nimble Acuity ensures clients receive data-rich,
+>>>>>>> Santhiya
           actionable reports tailored to their needs.
         </p>
       </section>
@@ -26,7 +34,11 @@ const CustomResearchReports: React.FC = () => {
       {/* Services Offered */}
       <section className="max-w-5xl mx-auto mb-12">
         <h2 className="text-2xl font-semibold mb-6">
+<<<<<<< HEAD
           O2I&apos;s Custom Research Report Services
+=======
+          Nimble Acuity&apos;s Custom Research Report Services
+>>>>>>> Santhiya
         </h2>
         <p className="mb-4">
           We combine research objectivity, industry insight, and cutting-edge
@@ -115,10 +127,17 @@ const CustomResearchReports: React.FC = () => {
       {/* CTA */}
       <section className="max-w-4xl mx-auto text-center">
         <h2 className="text-2xl font-semibold mb-4">
+<<<<<<< HEAD
           Outsource High-quality Custom Research Report Services to O2I
         </h2>
         <p className="mb-6">
           With <strong>26+ years of experience</strong>, Outsource2india delivers
+=======
+          Nimble High-quality Custom Research Report Services to Nimble Acuity
+        </h2>
+        <p className="mb-6">
+          With <strong>26+ years of experience</strong>, Nimble Acuity delivers
+>>>>>>> Santhiya
           smart, accurate research reports that enable better information
           utilization and risk-free decision making. Our global delivery centers
           and expert research team ensure timely, reliable, and actionable

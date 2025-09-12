@@ -7,7 +7,11 @@ const ResearchOutsourcingCenter: React.FC = () => {
       {/* Title */}
       <NavigationMenu/>
       <h1 className="text-3xl font-bold mb-6 text-center">
+<<<<<<< HEAD
         Outsource Research Services Outsourcing Center
+=======
+        Nimble Research Services Outsourcing Center
+>>>>>>> Santhiya
       </h1>
 
       {/* Intro */}
@@ -20,11 +24,19 @@ const ResearchOutsourcingCenter: React.FC = () => {
         business activities.
       </p>
 
+<<<<<<< HEAD
       {/* Why Outsource */}
       <h2 className="text-2xl font-semibold mb-4">Why Outsource Research Services?</h2>
       <p className="mb-6">
         Research and Analytics are two of the most useful tools that any business
         can rely on. By outsourcing research and analytics to Outsource2india,
+=======
+      {/* Why Nimble */}
+      <h2 className="text-2xl font-semibold mb-4">Why Nimble Research Services?</h2>
+      <p className="mb-6">
+        Research and Analytics are two of the most useful tools that any business
+        can rely on. By outsourcing research and analytics to Nimble Acuity,
+>>>>>>> Santhiya
         you can not only understand the existing desires of your customers, but
         also grasp the future requirements of potential customers. With our
         research and analysis services, you can prepare for the future of your

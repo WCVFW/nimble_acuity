@@ -12,7 +12,11 @@ const MiamiInsuranceBackOfficeCaseStudy: React.FC = () => {
             Streamlined Insurance Back-office Operations for Miami-based Client
           </h1>
           <p className="text-lg text-gray-700">
+<<<<<<< HEAD
             Case study showcasing how Outsource2india optimized back-office operations for a leading Miami insurance agency.
+=======
+            Case study showcasing how Nimble Acuity optimized back-office operations for a leading Miami insurance agency.
+>>>>>>> Santhiya
           </p>
         </div>
       </section>
@@ -37,9 +41,15 @@ const MiamiInsuranceBackOfficeCaseStudy: React.FC = () => {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* The O2I Solution */}
       <section className="py-12 max-w-5xl mx-auto px-4 space-y-4 text-gray-700">
         <h2 className="text-3xl font-bold mb-4">The O2I Solution</h2>
+=======
+      {/* The Nimble Acuity Solution */}
+      <section className="py-12 max-w-5xl mx-auto px-4 space-y-4 text-gray-700">
+        <h2 className="text-3xl font-bold mb-4">The Nimble Acuity Solution</h2>
+>>>>>>> Santhiya
         <ul className="list-disc ml-6 space-y-2">
           <li>Set up a dedicated back-office team to allow the client’s staff to focus on critical tasks.</li>
           <li>Deployed agents experienced in personal, business, and general liability insurance.</li>
@@ -62,7 +72,11 @@ const MiamiInsuranceBackOfficeCaseStudy: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-600 py-16 text-white text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Choose Outsource2india for High-quality Insurance Back Office Support
+=======
+          Choose Nimble Acuity for High-quality Insurance Back Office Support
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6 max-w-2xl mx-auto">
           Our solutions ensure all client requirements are met efficiently, cost-effectively, and in alignment with existing processes. We help insurance agencies and carriers enhance productivity and reduce costs.

@@ -43,7 +43,11 @@ export default function ClothPatternTilingPage() {
           <div>
             <h2 className="text-3xl font-bold mb-4">Pixel-perfect patterns, production-ready outcomes</h2>
             <p className="mb-4">
+<<<<<<< HEAD
               At O2i, we combine Adobe Photoshop mastery with specialized tiling expertise to deliver
+=======
+              At Nimble Acuity, we combine Adobe Photoshop mastery with specialized tiling expertise to deliver
+>>>>>>> Santhiya
               seamless, custom patterns for textiles, wallpapers, web/UI, and 3D models. We know delays
               or discrepancies can derail entire product cycles—so we obsess over detail and execution.
             </p>
@@ -294,7 +298,11 @@ export default function ClothPatternTilingPage() {
 
       {/* CTA */}
       <section className="text-center px-6 py-20">
+<<<<<<< HEAD
         <h2 className="text-3xl md:text-4xl font-bold mb-4">Outsource Cloth Pattern Tiling Services to Us</h2>
+=======
+        <h2 className="text-3xl md:text-4xl font-bold mb-4">Nimble Cloth Pattern Tiling Services to Us</h2>
+>>>>>>> Santhiya
         <p className="text-gray-600 max-w-2xl mx-auto mb-6">
           Elevate design quality, reduce iterations, and accelerate time‑to‑market with our seamless pattern tiling teams.
         </p>

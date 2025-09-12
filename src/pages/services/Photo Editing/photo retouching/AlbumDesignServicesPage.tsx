@@ -159,7 +159,11 @@ const AlbumDesignServicesPage: React.FC = () => {
             <div className="lg:col-span-7">
 
               <h1 className="mt-0 text-2xl font-bold leading-tight text-gray-800 sm:text-4xl">
+<<<<<<< HEAD
                 Outsource Album Design Services
+=======
+                Nimble Album Design Services
+>>>>>>> Santhiya
               </h1>
               <p className="mt-4 text-lg text-gray-700">
                 Short on time or resources to design client albums? Our 100+ dedicated album designers
@@ -320,7 +324,11 @@ const AlbumDesignServicesPage: React.FC = () => {
       <section className="mx-auto max-w-7xl px-6 py-14 lg:px-8">
         <header className="max-w-3xl">
           <h2 className="text-2xl font-bold text-gray-900">
+<<<<<<< HEAD
             Benefits of Outsourcing Album Design Services to O2I
+=======
+            Benefits of Outsourcing Album Design Services to Nimble Acuity
+>>>>>>> Santhiya
           </h2>
           <p className="mt-2 text-gray-700">
             Secure, scalable, and obsessively quality-driven—built for high-volume creative teams.
@@ -417,7 +425,11 @@ const AlbumDesignServicesPage: React.FC = () => {
       <section className="mx-auto max-w-7xl px-6 py-14 lg:px-8">
         <div className="grid items-start gap-8 lg:grid-cols-12">
           <div className="lg:col-span-7">
+<<<<<<< HEAD
             <h2 className="text-2xl font-bold text-gray-900">Outsource Album Design Services to O2I</h2>
+=======
+            <h2 className="text-2xl font-bold text-gray-900">Nimble Album Design Services to Nimble Acuity</h2>
+>>>>>>> Santhiya
             <p className="mt-3 text-gray-700">
               For more than <strong>26+ years</strong>, we’ve delivered album design and photo editing to
               global customers across a wide spectrum of industries. Our deep understanding of client

@@ -21,7 +21,11 @@ const DataStackModernization: React.FC = () => {
       <DSMainMenu/>
       <section className="text-center space-y-4">
         <h1 className="text-4xl font-bold text-gray-900">
+<<<<<<< HEAD
           Outsource Data Stack Modernization Services
+=======
+          Nimble Data Stack Modernization Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Retain and extend the value of your legacy data to unleash hidden
@@ -37,7 +41,11 @@ const DataStackModernization: React.FC = () => {
           short in delivering deep, connected insights.
         </p>
         <p className="text-gray-600 leading-relaxed">
+<<<<<<< HEAD
           At Outsource2india, we help global clients migrate legacy data to
+=======
+          At Nimble Acuity, we help global clients migrate legacy data to
+>>>>>>> Santhiya
           modern platforms, optimize data warehouses, and adopt advanced
           modernization solutions. Our seasoned experts ensure you maximize the
           value of your data assets.
@@ -117,7 +125,11 @@ const DataStackModernization: React.FC = () => {
       {/* Why Choose Us */}
       <section className="space-y-8">
         <h2 className="text-2xl font-semibold text-gray-800">
+<<<<<<< HEAD
           Why Choose O2I for Data Stack Modernization?
+=======
+          Why Choose Nimble Acuity for Data Stack Modernization?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
           {[

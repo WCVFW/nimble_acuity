@@ -17,7 +17,11 @@ const AutomatedVisualInspection: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-gradient-to-r from-blue-700 to-indigo-700 text-white py-20 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Automated Visual Inspection Services
+=======
+          Nimble Automated Visual Inspection Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto mb-6">
           Optimize your production line with AI-powered automated visual
@@ -32,7 +36,11 @@ const AutomatedVisualInspection: React.FC = () => {
       {/* Intro */}
       <section className="py-16 px-6 max-w-5xl mx-auto text-center">
         <p className="text-lg mb-4">
+<<<<<<< HEAD
           Using AI, deep learning, and computer vision, O2I delivers visual
+=======
+          Using AI, deep learning, and computer vision, Nimble Acuity delivers visual
+>>>>>>> Santhiya
           inspection systems that detect even the smallest defects with
           unmatched speed and accuracy. From defect detection to predictive
           maintenance, our solutions integrate seamlessly with your production
@@ -131,7 +139,11 @@ const AutomatedVisualInspection: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-16 px-6 max-w-5xl mx-auto">
         <h2 className="text-3xl font-bold text-center mb-10">
+<<<<<<< HEAD
           Why Choose O2I for Automated Visual Inspection?
+=======
+          Why Choose Nimble Acuity for Automated Visual Inspection?
+>>>>>>> Santhiya
         </h2>
         <ul className="space-y-4">
           {[
@@ -191,7 +203,11 @@ const AutomatedVisualInspection: React.FC = () => {
       {/* Final CTA */}
       <section className="bg-indigo-700 text-white py-20 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Explore Automated Visual Inspection with O2I
+=======
+          Explore Automated Visual Inspection with Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           Reduce inspection time and costs with intelligent AVI systems.

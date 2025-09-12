@@ -11,7 +11,11 @@ export default function HeadshotRetouchingPage() {
       <PEMainMenu/>
       <section className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white py-20 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Headshot Retouching Services
+=======
+          Nimble Headshot Retouching Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-2xl mx-auto mb-6 text-lg">
           Leverage our professional headshot retouching services at unbeatable rates. Experience expert results delivered within 24 hours.
@@ -21,10 +25,17 @@ export default function HeadshotRetouchingPage() {
         </Button>
       </section>
 
+<<<<<<< HEAD
       {/* Why Outsource Section */}
       <section className="py-16 px-6 max-w-6xl mx-auto grid md:grid-cols-2 gap-8">
         <div>
           <h2 className="text-2xl font-bold mb-4">Why Outsource?</h2>
+=======
+      {/* Why Nimble Section */}
+      <section className="py-16 px-6 max-w-6xl mx-auto grid md:grid-cols-2 gap-8">
+        <div>
+          <h2 className="text-2xl font-bold mb-4">Why Nimble?</h2>
+>>>>>>> Santhiya
           <p className="mb-4">
             Headshot retouching is time-consuming and demands advanced tools. Our experts deliver precise, efficient, and cost-effective solutions—saving you time, manpower, and resources.
           </p>
@@ -140,7 +151,11 @@ export default function HeadshotRetouchingPage() {
 
       {/* CTA */}
       <section className="py-20 px-6 bg-gradient-to-r from-purple-600 to-indigo-600 text-center text-white">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold mb-4">Outsource Headshot Retouching Services to Us</h2>
+=======
+        <h2 className="text-3xl font-bold mb-4">Nimble Headshot Retouching Services to Us</h2>
+>>>>>>> Santhiya
         <p className="max-w-2xl mx-auto mb-6">
           Streamline your workflow, save resources, and get stunning headshots that impress. Flexible pricing and rapid turnaround guaranteed.
         </p>

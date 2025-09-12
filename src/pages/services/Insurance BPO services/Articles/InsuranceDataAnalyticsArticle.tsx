@@ -91,10 +91,17 @@ const InsuranceDataAnalyticsArticle: React.FC = () => {
       {/* CTA */}
       <section className="bg-green-600 py-16 text-white text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Boost the Revenue of your Insurance Firm with O2I's Insurance Data Analytics
         </h2>
         <p className="mb-6 max-w-2xl mx-auto">
           Outsource2india provides expert insurance data analytics services to help you improve sales, customer retention, and operational efficiency with cost-effective solutions.
+=======
+          Boost the Revenue of your Insurance Firm with Nimble Acuity's Insurance Data Analytics
+        </h2>
+        <p className="mb-6 max-w-2xl mx-auto">
+          Nimble Acuity provides expert insurance data analytics services to help you improve sales, customer retention, and operational efficiency with cost-effective solutions.
+>>>>>>> Santhiya
         </p>
         <a
           href="/contact"

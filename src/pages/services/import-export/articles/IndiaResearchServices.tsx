@@ -144,6 +144,7 @@ const IndiaResearchServices: React.FC = () => {
 
       {/* CTA */}
       <section className="text-center py-8 bg-blue-50 rounded-2xl shadow-md">
+<<<<<<< HEAD
         <h2 className="text-2xl font-semibold mb-4">Outsource your Research Services to O2I</h2>
         <p className="mb-6 max-w-3xl mx-auto">
           At Outsource2india, we’ve been in the business of Research Services outsourcing and
@@ -153,6 +154,17 @@ const IndiaResearchServices: React.FC = () => {
         </p>
         <button className="px-6 py-3 bg-blue-600 text-white rounded-xl shadow hover:bg-blue-700 transition">
           Contact Outsource2india
+=======
+        <h2 className="text-2xl font-semibold mb-4">Nimble your Research Services to Nimble Acuity</h2>
+        <p className="mb-6 max-w-3xl mx-auto">
+          At Nimble Acuity, we’ve been in the business of Research Services outsourcing and
+          other outsourcing services for over 26+ years now. If you would like to find out more
+          about outsourcing Research services to Nimble Acuity, please fill in the inquiry form and our
+          Customer Engagement Team will contact you within 24 hours or on the next working day.
+        </p>
+        <button className="px-6 py-3 bg-blue-600 text-white rounded-xl shadow hover:bg-blue-700 transition">
+          Contact Nimble Acuity
+>>>>>>> Santhiya
         </button>
       </section>
     </div>

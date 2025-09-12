@@ -120,6 +120,7 @@ const AiVsDoctors: React.FC = () => {
           deliver better, faster, and more accurate care.
         </p>
 
+<<<<<<< HEAD
         {/* O2I Section */}
         <div className="mt-12 bg-blue-50 border border-blue-200 rounded-xl p-6">
           <h2 className="text-2xl font-semibold text-blue-800 mb-3">
@@ -127,6 +128,15 @@ const AiVsDoctors: React.FC = () => {
           </h2>
           <p className="text-gray-700 mb-4">
             With 26+ years of experience, Outsource2india develops custom AI and
+=======
+        {/* Nimble Acuity Section */}
+        <div className="mt-12 bg-blue-50 border border-blue-200 rounded-xl p-6">
+          <h2 className="text-2xl font-semibold text-blue-800 mb-3">
+            Partner with Nimble Acuity
+          </h2>
+          <p className="text-gray-700 mb-4">
+            With 26+ years of experience, Nimble Acuity develops custom AI and
+>>>>>>> Santhiya
             data science solutions for healthcare. Our experts in deep learning,
             machine learning, and AI collaborate with healthcare professionals
             to create robust, intuitive systems.

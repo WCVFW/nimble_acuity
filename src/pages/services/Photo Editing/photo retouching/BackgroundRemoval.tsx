@@ -9,7 +9,11 @@ const BackgroundRemoval: React.FC = () => {
       {/* Hero Section */}
       <PEMainMenu/>
       <section className="text-center space-y-4">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold">Outsource Background Removal Services</h1>
+=======
+        <h1 className="text-4xl font-bold">Nimble Background Removal Services</h1>
+>>>>>>> Santhiya
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Transform the background of your images and let the images speak for
           your brand. Choose our background removal services and bring out the
@@ -75,7 +79,11 @@ const BackgroundRemoval: React.FC = () => {
 
       {/* Why Choose Us */}
       <section className="space-y-4">
+<<<<<<< HEAD
         <h2 className="text-2xl font-semibold">Why Outsource Background Removal Services to Us?</h2>
+=======
+        <h2 className="text-2xl font-semibold">Why Nimble Background Removal Services to Us?</h2>
+>>>>>>> Santhiya
         <ul className="list-disc pl-6 space-y-2 text-gray-700">
           <li>Experienced team with 5+ years in photo editing and 5M+ images annually.</li>
           <li>Fast turnaround time of 24–48 hours via global delivery centers.</li>

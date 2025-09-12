@@ -9,7 +9,11 @@ const RouteOptimization: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-16 px-6 text-center">
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Route Optimization Services
+=======
+          Nimble Route Optimization Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Leverage accurate and flexible routing algorithms that account for

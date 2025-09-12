@@ -10,7 +10,11 @@ const IntellectualProperty: React.FC = () => {
       <NavigationMenu/>
       <section className="text-center space-y-6">
         <h1 className="text-4xl md:text-5xl font-bold text-blue-800">
+<<<<<<< HEAD
           Outsource Intellectual Property & Open Innovation Services
+=======
+          Nimble Intellectual Property & Open Innovation Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto">
           Secure your Intellectual Property while leveraging open innovation to
@@ -26,7 +30,11 @@ const IntellectualProperty: React.FC = () => {
           <span className="font-semibold">intellectual property</span> and{" "}
           <span className="font-semibold">open innovation services</span> to
           reduce in-house R&D efforts, save costs, and stay competitive. At
+<<<<<<< HEAD
           Outsource2india (O2I), our team of{" "}
+=======
+          Nimble Acuity (Nimble Acuity), our team of{" "}
+>>>>>>> Santhiya
           <span className="font-semibold">
             data scientists, subject matter experts, legal analysts, and
             industry specialists
@@ -103,7 +111,11 @@ const IntellectualProperty: React.FC = () => {
       {/* Why Choose Us */}
       <section className="space-y-8">
         <h2 className="text-3xl font-bold text-blue-700 text-center">
+<<<<<<< HEAD
           Why Choose O2I?
+=======
+          Why Choose Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
@@ -147,7 +159,11 @@ const IntellectualProperty: React.FC = () => {
       {/* CTA */}
       <section className="text-center space-y-6 bg-blue-50 p-10 rounded-2xl shadow-inner">
         <h2 className="text-3xl font-bold text-blue-800">
+<<<<<<< HEAD
           Choose O2I for Intellectual Property & Open Innovation Services
+=======
+          Choose Nimble Acuity for Intellectual Property & Open Innovation Services
+>>>>>>> Santhiya
         </h2>
         <p className="text-gray-700 max-w-3xl mx-auto">
           We provide specialized intellectual property and open innovation

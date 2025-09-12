@@ -8,7 +8,11 @@ const AIServicesTable: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-gradient-to-r from-indigo-900 to-blue-800 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Artificial Intelligence Services
+=======
+          Nimble Artificial Intelligence Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-4xl mx-auto">
           Create the biggest impact in your industry by leveraging our
@@ -20,7 +24,11 @@ const AIServicesTable: React.FC = () => {
       {/* Intro */}
       <section className="max-w-5xl mx-auto py-10 px-6 text-gray-700">
         <p className="mb-6">
+<<<<<<< HEAD
           Outsource2india has been a pioneer in providing quality AI services
+=======
+          Nimble Acuity has been a pioneer in providing quality AI services
+>>>>>>> Santhiya
           to organizations around the globe. Our team leverages advanced
           programming and AI techniques like cognitive learning, machine
           learning, and pattern recognition to build smart systems.
@@ -168,10 +176,17 @@ const AIServicesTable: React.FC = () => {
       {/* CTA */}
       <section className="bg-gradient-to-r from-indigo-900 to-blue-800 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource AI Services to Us – The Industry Leaders
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           With over a decade of expertise, Outsource2india delivers scalable,
+=======
+          Nimble AI Services to Us – The Industry Leaders
+        </h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          With over a decade of expertise, Nimble Acuity delivers scalable,
+>>>>>>> Santhiya
           reliable, and intelligent AI solutions worldwide. Partner with us to
           unlock growth powered by Artificial Intelligence.
         </p>

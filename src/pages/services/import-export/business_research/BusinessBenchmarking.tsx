@@ -8,7 +8,11 @@ const BusinessBenchmarking: React.FC = () => {
       <NavigationMenu/>
       <section className="max-w-5xl mx-auto text-center mb-12">
         <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Business Benchmarking Services
+=======
+          Nimble Business Benchmarking Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg mb-6">
           Evaluate your business performance relative to the business strategy
@@ -57,7 +61,11 @@ const BusinessBenchmarking: React.FC = () => {
       {/* Why Choose Us */}
       <section className="max-w-5xl mx-auto mb-12">
         <h2 className="text-2xl font-semibold mb-6">
+<<<<<<< HEAD
           Why Choose O2I for Business Benchmarking Services?
+=======
+          Why Choose Nimble Acuity for Business Benchmarking Services?
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc pl-6 space-y-3">
           <li>✅ Affordable and cost-effective pricing packages</li>
@@ -101,7 +109,11 @@ const BusinessBenchmarking: React.FC = () => {
       <section className="max-w-4xl mx-auto text-center mb-12">
         <h2 className="text-2xl font-semibold mb-6">Testimonials</h2>
         <blockquote className="italic">
+<<<<<<< HEAD
           “The services that Outsource2india provided helped us achieve
+=======
+          “The services that Nimble Acuity provided helped us achieve
+>>>>>>> Santhiya
           substantial cost and time savings on several difficult projects. Their
           prompt attention to our requests and attention to detail is
           excellent.”
@@ -114,10 +126,17 @@ const BusinessBenchmarking: React.FC = () => {
       {/* CTA */}
       <section className="max-w-4xl mx-auto text-center">
         <h2 className="text-2xl font-semibold mb-4">
+<<<<<<< HEAD
           Outsource Business Benchmarking Services to Outsource2india
         </h2>
         <p className="mb-6">
           Outsource2india is a trusted leader in business benchmarking services,
+=======
+          Nimble Business Benchmarking Services to Nimble Acuity
+        </h2>
+        <p className="mb-6">
+          Nimble Acuity is a trusted leader in business benchmarking services,
+>>>>>>> Santhiya
           backed by 20+ years of experience. Our experts ensure top-quality
           insights, tailored solutions, and cost-effective delivery.
         </p>

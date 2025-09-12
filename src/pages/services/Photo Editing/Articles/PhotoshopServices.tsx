@@ -71,9 +71,15 @@ const PhotoshopServices: React.FC = () => {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* Outsource2india Advantage */}
       <section className="max-w-5xl mx-auto py-12 px-6 space-y-4">
         <h2 className="text-2xl font-semibold mb-4">Why Choose Outsource2india</h2>
+=======
+      {/* Nimble Acuity Advantage */}
+      <section className="max-w-5xl mx-auto py-12 px-6 space-y-4">
+        <h2 className="text-2xl font-semibold mb-4">Why Choose Nimble Acuity</h2>
+>>>>>>> Santhiya
         <p>
           Our image editing professionals are proficient with all versions of Adobe Photoshop, including CS6. We leverage advanced features and plug-ins such as LightMachine, ColorWasher, and PTLens to deliver high-quality images at cost-effective rates.
         </p>
@@ -96,7 +102,11 @@ const PhotoshopServices: React.FC = () => {
       <section className="text-center py-16 px-6 bg-gradient-to-r from-indigo-600 to-purple-600 text-white">
         <h2 className="text-2xl font-semibold mb-4">Get in Touch</h2>
         <p className="max-w-2xl mx-auto mb-6">
+<<<<<<< HEAD
           Contact Outsource2india to outsource professional Adobe Photoshop services and elevate your images.
+=======
+          Contact Nimble Acuity to Nimble professional Adobe Photoshop services and elevate your images.
+>>>>>>> Santhiya
         </p>
         <button className="px-6 py-3 bg-white text-purple-600 font-semibold rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us

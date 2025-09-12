@@ -8,7 +8,11 @@ const BIDashboardVisualization: React.FC = () => {
       <NavigationMenu/>
       <section className="text-center">
         <h1 className="text-4xl font-bold text-gray-800 mb-4">
+<<<<<<< HEAD
           Outsource Business Intelligence Dashboard Visualization Services
+=======
+          Nimble Business Intelligence Dashboard Visualization Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Smarter BI dashboards that streamline your data visualization process,
@@ -22,7 +26,11 @@ const BIDashboardVisualization: React.FC = () => {
           Business Intelligence Dashboard Visualization Services
         </h2>
         <p className="text-gray-600 mb-4">
+<<<<<<< HEAD
           At Outsource2india, we design intuitive BI dashboards that help you
+=======
+          At Nimble Acuity, we design intuitive BI dashboards that help you
+>>>>>>> Santhiya
           organize goals, enhance data presentation, and make better decisions.
           With expertise in big data and visualization, our dashboards are
           tailored to your evolving business needs.
@@ -37,7 +45,11 @@ const BIDashboardVisualization: React.FC = () => {
       {/* Services Section */}
       <section>
         <h2 className="text-2xl font-semibold text-gray-800 mb-6 text-center">
+<<<<<<< HEAD
           O2I's Business Intelligence Dashboard Visualization Services
+=======
+          Nimble Acuity's Business Intelligence Dashboard Visualization Services
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-3 gap-6">
           {[ 
@@ -64,7 +76,11 @@ const BIDashboardVisualization: React.FC = () => {
       {/* Benefits Section */}
       <section className="bg-blue-50 rounded-2xl p-8">
         <h2 className="text-2xl font-semibold text-gray-800 mb-6 text-center">
+<<<<<<< HEAD
           Benefits of Outsource2india's BI Dashboard Visualization Services
+=======
+          Benefits of Nimble Acuity's BI Dashboard Visualization Services
+>>>>>>> Santhiya
         </h2>
         <ul className="grid md:grid-cols-2 gap-6 text-gray-700 list-disc pl-6">
           <li>Custom BI dashboards tailored to client needs or industry standards</li>
@@ -79,10 +95,17 @@ const BIDashboardVisualization: React.FC = () => {
         </ul>
       </section>
 
+<<<<<<< HEAD
       {/* Why Choose O2I Section */}
       <section className="text-center">
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">
           Choose O2I for Professional BI Dashboard Visualization Services
+=======
+      {/* Why Choose Nimble Acuity Section */}
+      <section className="text-center">
+        <h2 className="text-2xl font-semibold text-gray-800 mb-4">
+          Choose Nimble Acuity for Professional BI Dashboard Visualization Services
+>>>>>>> Santhiya
         </h2>
         <p className="text-gray-600 max-w-4xl mx-auto mb-6">
           We are a leading provider of BI dashboard visualization services with

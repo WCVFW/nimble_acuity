@@ -11,7 +11,11 @@ const BusinessModelingPage: React.FC = () => {
       <NavigationMenu/>
       <section className="text-center py-16 px-6 max-w-5xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-bold mb-4 text-blue-700">
+<<<<<<< HEAD
           Outsource Business Modeling Services
+=======
+          Nimble Business Modeling Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg md:text-xl mb-6 text-gray-700">
           We fine-tune your business model so you gain a competitive advantage
@@ -31,7 +35,11 @@ const BusinessModelingPage: React.FC = () => {
           analytics tools to project your growth curve.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india supports companies across 160+ countries with financial
+=======
+          Nimble Acuity supports companies across 160+ countries with financial
+>>>>>>> Santhiya
           planning, business growth consultations, and financial modeling. Our
           business models help clients overcome complex challenges and capture
           future opportunities.
@@ -85,7 +93,11 @@ const BusinessModelingPage: React.FC = () => {
       {/* Benefits Section */}
       <section className="max-w-6xl mx-auto px-6 py-16">
         <h2 className="text-3xl font-bold text-center mb-10 text-blue-800">
+<<<<<<< HEAD
           Why Choose O2I for Business Modeling?
+=======
+          Why Choose Nimble Acuity for Business Modeling?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 gap-6">
           {[
@@ -109,7 +121,11 @@ const BusinessModelingPage: React.FC = () => {
             Client Testimonials
           </h2>
           <blockquote className="italic text-lg text-gray-700">
+<<<<<<< HEAD
             “The services that Outsource2india provided helped us achieve
+=======
+            “The services that Nimble Acuity provided helped us achieve
+>>>>>>> Santhiya
             substantial cost and time savings on several difficult projects.”
           </blockquote>
           <p className="text-gray-600">

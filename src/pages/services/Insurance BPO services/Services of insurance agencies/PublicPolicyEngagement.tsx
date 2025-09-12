@@ -62,7 +62,11 @@ const PublicPolicyEngagement: React.FC = () => {
       <section className="bg-gradient-to-r from-indigo-700 to-purple-600 text-white py-20 px-6 text-center">
         
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Public Policy Engagement Services
+=======
+          Nimble Public Policy Engagement Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg md:text-xl mb-6 max-w-3xl mx-auto">
           Get exceptional public policy engagement services to create a long-lasting impact in policymaking — rates starting at{" "}
@@ -127,7 +131,11 @@ const PublicPolicyEngagement: React.FC = () => {
 
       {/* Benefits */}
       <section className="bg-gray-100 py-12 px-6">
+<<<<<<< HEAD
         <h3 className="text-2xl font-bold text-center mb-8">Why Outsource to O2I?</h3>
+=======
+        <h3 className="text-2xl font-bold text-center mb-8">Why Nimble to Nimble Acuity?</h3>
+>>>>>>> Santhiya
         <div className="max-w-6xl mx-auto grid gap-6 grid-cols-1 md:grid-cols-3">
           {BENEFITS.map((b, idx) => (
             <div key={idx} className="bg-white rounded-lg shadow p-6">
@@ -140,7 +148,11 @@ const PublicPolicyEngagement: React.FC = () => {
       {/* Testimonial */}
       <section className="max-w-4xl mx-auto py-12 px-6 text-center">
         <blockquote className="italic text-lg text-gray-700">
+<<<<<<< HEAD
           “We chose Outsource2india for their reasonable cost, flexibility, and skilled team. They learned our workflows and delivered exactly as we wanted.”
+=======
+          “We chose Nimble Acuity for their reasonable cost, flexibility, and skilled team. They learned our workflows and delivered exactly as we wanted.”
+>>>>>>> Santhiya
         </blockquote>
         <p className="mt-4 font-semibold">— COO, Insurance Marketing Company, Florida</p>
       </section>
@@ -149,7 +161,11 @@ const PublicPolicyEngagement: React.FC = () => {
       <section className="bg-indigo-700 text-white py-16 px-6 text-center">
         <h3 className="text-2xl font-bold mb-4">Start Your 1-Week Free Trial</h3>
         <p className="mb-6 max-w-2xl mx-auto">
+<<<<<<< HEAD
           Try our public policy engagement services free for 7 days — experience the O2I advantage before you commit.
+=======
+          Try our public policy engagement services free for 7 days — experience the Nimble Acuity advantage before you commit.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-indigo-700 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100">
           Contact Us Now

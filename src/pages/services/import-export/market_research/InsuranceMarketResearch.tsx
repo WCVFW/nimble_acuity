@@ -18,7 +18,11 @@ export default function InsuranceMarketResearch() {
           transition={{ duration: 0.6 }}
           className="text-4xl font-bold mb-4"
         >
+<<<<<<< HEAD
           Outsource Insurance Market Research Services
+=======
+          Nimble Insurance Market Research Services
+>>>>>>> Santhiya
         </motion.h1>
         <p className="max-w-3xl mx-auto text-lg mb-6">
           Get comprehensive and in-depth insurance market research services provided by highly-experienced research analysts at prices starting from only <span className="font-semibold">$14/hour</span>.
@@ -33,7 +37,11 @@ export default function InsuranceMarketResearch() {
           Our experts provide research that helps you stay on top of the ever-evolving insurance sector with actionable insights.
         </p>
         <p className="text-lg">
+<<<<<<< HEAD
           Outsource2india (O2I) is a leading insurance market research service provider, delivering comprehensive reports 
+=======
+          Nimble Acuity (Nimble Acuity) is a leading insurance market research service provider, delivering comprehensive reports 
+>>>>>>> Santhiya
           that enable better-informed decisions and keep you ahead of the competition.
         </p>
       </section>
@@ -154,16 +162,26 @@ export default function InsuranceMarketResearch() {
       <section className="py-16 bg-gray-50 px-6 text-center">
         <h2 className="text-3xl font-semibold mb-6">What Our Clients Say</h2>
         <blockquote className="max-w-3xl mx-auto text-lg italic text-gray-700">
+<<<<<<< HEAD
           “The services that Outsource2india provided helped us achieve substantial cost and time savings on several difficult projects. Their prompt attention to our requests and attention to detail are excellent.”
+=======
+          “The services that Nimble Acuity provided helped us achieve substantial cost and time savings on several difficult projects. Their prompt attention to our requests and attention to detail are excellent.”
+>>>>>>> Santhiya
         </blockquote>
         <p className="mt-4 font-semibold">– Senior Vice President, Automotive & Transportation Industry Solutions Group</p>
       </section>
 
       {/* Final CTA */}
       <section className="py-20 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold mb-4">Outsource Insurance Market Research Services to Outsource2india</h2>
         <p className="max-w-3xl mx-auto mb-6">
           Partner with O2I for professional, cost-effective, and reliable insurance market research. 
+=======
+        <h2 className="text-3xl font-bold mb-4">Nimble Insurance Market Research Services to Nimble Acuity</h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Partner with Nimble Acuity for professional, cost-effective, and reliable insurance market research. 
+>>>>>>> Santhiya
           Our team provides customized insights to keep you ahead of the competition.
         </p>
         <Button size="lg">Contact Us Today</Button>

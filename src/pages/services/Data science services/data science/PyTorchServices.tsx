@@ -22,7 +22,11 @@ const PyTorchServices: React.FC = () => {
       <DSMainMenu/>
       <section className="text-center space-y-6">
         <h1 className="text-4xl md:text-5xl font-bold text-gray-900">
+<<<<<<< HEAD
           Outsource PyTorch Development Services
+=======
+          Nimble PyTorch Development Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Accelerate your deep learning projects using neural networks built by
@@ -41,7 +45,11 @@ const PyTorchServices: React.FC = () => {
           computations.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india has exceptional professional experience in PyTorch AI
+=======
+          Nimble Acuity has exceptional professional experience in PyTorch AI
+>>>>>>> Santhiya
           technology. Our developers are capable of satisfying PyTorch neural
           networks requirements as per client needs.
         </p>
@@ -130,7 +138,11 @@ const PyTorchServices: React.FC = () => {
       {/* Why Choose Us */}
       <section className="space-y-10">
         <h2 className="text-3xl font-semibold text-gray-800 text-center">
+<<<<<<< HEAD
           Why Choose O2I as your PyTorch Development Company?
+=======
+          Why Choose Nimble Acuity as your PyTorch Development Company?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
           {[
@@ -184,7 +196,11 @@ const PyTorchServices: React.FC = () => {
               </h3>
               <p className="text-gray-600">
                 A leading banking firm needed to automate document workflows.
+<<<<<<< HEAD
                 O2I developed an advanced big data-based platform within a quick
+=======
+                Nimble Acuity developed an advanced big data-based platform within a quick
+>>>>>>> Santhiya
                 time.
               </p>
             </CardContent>
@@ -206,10 +222,17 @@ const PyTorchServices: React.FC = () => {
 
       {/* CTA */}
       <section className="text-center bg-gradient-to-r from-blue-600 to-indigo-600 py-12 rounded-2xl text-white space-y-6">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold">Outsource PyTorch Requirements to O2I</h2>
         <p className="max-w-2xl mx-auto text-lg">
           Speed up your development process, deploy PyTorch models with robust
           pipelines, and optimize performance with O2I’s expert services.
+=======
+        <h2 className="text-3xl font-bold">Nimble PyTorch Requirements to Nimble Acuity</h2>
+        <p className="max-w-2xl mx-auto text-lg">
+          Speed up your development process, deploy PyTorch models with robust
+          pipelines, and optimize performance with Nimble Acuity’s expert services.
+>>>>>>> Santhiya
         </p>
         <button className="px-8 py-4 bg-white text-blue-700 rounded-xl font-semibold shadow-md hover:bg-gray-100 transition">
           Get a Free Quote

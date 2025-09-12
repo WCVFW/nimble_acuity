@@ -8,7 +8,11 @@ const LifeScienceInformatics: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-blue-50 py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Life Science Informatics Services
+=======
+          Nimble Life Science Informatics Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto mb-4">
           Leverage the power of life science informatics to unlock new actionable
@@ -27,7 +31,11 @@ const LifeScienceInformatics: React.FC = () => {
           you have come to the right place.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india is a life science informatics service provider and can
+=======
+          Nimble Acuity is a life science informatics service provider and can
+>>>>>>> Santhiya
           help you successfully address all your life science informatics needs.
           We use the power of computers and cutting-edge technology to enable
           you to easily test your hypothesis in a digital setting.
@@ -80,7 +88,11 @@ const LifeScienceInformatics: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-12 px-6 max-w-6xl mx-auto">
         <h2 className="text-3xl font-bold text-center mb-10">
+<<<<<<< HEAD
           Why Outsource Life Science Informatics Services to O2I?
+=======
+          Why Nimble Life Science Informatics Services to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {[
@@ -151,7 +163,11 @@ const LifeScienceInformatics: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-600 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Life Science Informatics Services to Outsource2india
+=======
+          Nimble Life Science Informatics Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6 text-lg">
           Our experienced team of life science informatics researchers can help

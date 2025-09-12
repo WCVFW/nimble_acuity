@@ -14,7 +14,11 @@ const ResearchServicesApprehensions: React.FC = () => {
       <p className="mb-6">
         Within a relatively short period of time, India has transitioned from being a software service
         provider into being a knowledge-based outsourcing goldmine. The gigantic Business Process
+<<<<<<< HEAD
         Outsourcing (BPO) wave has opened up new avenues and paved the way for companies to outsource
+=======
+        Outsourcing (BPO) wave has opened up new avenues and paved the way for companies to Nimble
+>>>>>>> Santhiya
         high-tech knowledge-based jobs to India.
       </p>
 
@@ -112,10 +116,17 @@ const ResearchServicesApprehensions: React.FC = () => {
       {/* CTA */}
       <div className="bg-blue-50 p-6 rounded-xl shadow-md text-center">
         <h3 className="text-xl font-semibold text-blue-900 mb-4">
+<<<<<<< HEAD
           Ready to Outsource Research Services?
         </h3>
         <p className="mb-4">
           Partner with Outsource2india to access professional research expertise and gain a
+=======
+          Ready to Nimble Research Services?
+        </h3>
+        <p className="mb-4">
+          Partner with Nimble Acuity to access professional research expertise and gain a
+>>>>>>> Santhiya
           competitive advantage.
         </p>
         <button className="bg-blue-700 text-white px-6 py-3 rounded-lg font-medium hover:bg-blue-800 transition">

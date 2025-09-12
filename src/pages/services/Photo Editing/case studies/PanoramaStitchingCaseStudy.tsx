@@ -11,7 +11,11 @@ const PanoramaStitchingCaseStudy: React.FC = () => {
           Panorama Stitching Services for Portland-based Client
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           Outsource2india helped a Portland, USA-based company with professional panorama stitching services for real estate images.
+=======
+          Nimble Acuity helped a Portland, USA-based company with professional panorama stitching services for real estate images.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -54,7 +58,11 @@ const PanoramaStitchingCaseStudy: React.FC = () => {
         <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
           <h2 className="text-2xl font-semibold mb-4">Full-Term Contract</h2>
           <p>
+<<<<<<< HEAD
             The client outsourced the entire project of 800-900 panoramas. Four full-time resources were assigned, delivering 300 panoramas in a month and completing the project on time.
+=======
+            The client Nimbled the entire project of 800-900 panoramas. Four full-time resources were assigned, delivering 300 panoramas in a month and completing the project on time.
+>>>>>>> Santhiya
           </p>
         </div>
 
@@ -62,16 +70,26 @@ const PanoramaStitchingCaseStudy: React.FC = () => {
         <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
           <h2 className="text-2xl font-semibold mb-4">Client Benefits</h2>
           <p>
+<<<<<<< HEAD
             The client was delighted with the quality, turnaround time, and cost-effectiveness. They saved approximately 50% of costs by outsourcing panorama stitching to Outsource2india.
+=======
+            The client was delighted with the quality, turnaround time, and cost-effectiveness. They saved approximately 50% of costs by outsourcing panorama stitching to Nimble Acuity.
+>>>>>>> Santhiya
           </p>
         </div>
       </section>
 
       {/* Call to Action */}
       <section className="bg-blue-600 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Outsource Real Estate Image Stitching Services</h2>
         <p className="max-w-3xl mx-auto mb-6">
           Outsource2india provides high-quality, cost-effective panorama stitching and image editing services globally using the latest tools and expert editors.
+=======
+        <h2 className="text-3xl font-semibold mb-4">Nimble Real Estate Image Stitching Services</h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Nimble Acuity provides high-quality, cost-effective panorama stitching and image editing services globally using the latest tools and expert editors.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-blue-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Today

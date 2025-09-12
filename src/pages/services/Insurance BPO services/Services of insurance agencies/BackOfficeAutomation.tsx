@@ -8,7 +8,11 @@ const BackOfficeAutomation: React.FC = () => {
       <Imainmenu/>
       <section className="bg-blue-700 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Back-Office Automation for Insurance
+=======
+          Nimble Back-Office Automation for Insurance
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Offshore Back-Office Automation Services for Insurance companies.
@@ -28,7 +32,11 @@ const BackOfficeAutomation: React.FC = () => {
         <p>
           Save time and cut costs through insurance back-office automation. Bring
           back your team’s focus on core business functions by outsourcing
+<<<<<<< HEAD
           intelligent process automation to Outsource2india. We provide RPA for
+=======
+          intelligent process automation to Nimble Acuity. We provide RPA for
+>>>>>>> Santhiya
           insurance companies in 160+ countries.
         </p>
         <p>
@@ -113,7 +121,11 @@ const BackOfficeAutomation: React.FC = () => {
       {/* Why Choose Us */}
       <section className="max-w-6xl mx-auto py-12 px-6">
         <h2 className="text-3xl font-bold mb-8 text-center">
+<<<<<<< HEAD
           Why Outsource Back-Office Automation to O2I?
+=======
+          Why Nimble Back-Office Automation to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <ul className="max-w-4xl mx-auto list-disc list-inside space-y-3 text-lg text-gray-700">
           <li>
@@ -143,7 +155,11 @@ const BackOfficeAutomation: React.FC = () => {
       <section className="bg-blue-50 py-12 px-6 text-center">
         <h2 className="text-3xl font-bold mb-8">Testimonials</h2>
         <blockquote className="max-w-3xl mx-auto text-lg italic">
+<<<<<<< HEAD
           “We enjoy working with Outsource2india and find the entire team very
+=======
+          “We enjoy working with Nimble Acuity and find the entire team very
+>>>>>>> Santhiya
           responsive and detail-oriented when it comes to following our policy
           checking instructions and identifying new forms.”
         </blockquote>

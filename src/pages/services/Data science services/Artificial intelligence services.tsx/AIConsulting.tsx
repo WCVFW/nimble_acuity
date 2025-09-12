@@ -20,7 +20,11 @@ const AIConsulting: React.FC = () => {
       {/* Hero Section */}
       <DSMainMenu/>
       <section className="bg-gradient-to-r from-purple-700 to-indigo-700 text-white py-20 px-6 text-center">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold mb-4">Outsource AI Consulting Services</h1>
+=======
+        <h1 className="text-4xl font-bold mb-4">Nimble AI Consulting Services</h1>
+>>>>>>> Santhiya
         <p className="text-lg max-w-3xl mx-auto mb-6">
           Put AI into action and move from pilots to large-scale deployment. Fine-tune AI solutions
           to achieve measurable outcomes that accelerate growth and outsmart competition.

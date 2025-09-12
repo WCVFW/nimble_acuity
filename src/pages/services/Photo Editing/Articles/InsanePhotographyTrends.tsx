@@ -54,7 +54,11 @@ const InsanePhotographyTrends: React.FC = () => {
           Sign up for a FREE Trial Today
         </h2>
         <p className="text-gray-700 mb-4">
+<<<<<<< HEAD
           Experience the quality of our photo editing services before you outsource. 
+=======
+          Experience the quality of our photo editing services before you Nimble. 
+>>>>>>> Santhiya
           Stop editing, start clicking – we’ll handle the rest.
         </p>
         <button className="px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 shadow">
@@ -65,10 +69,17 @@ const InsanePhotographyTrends: React.FC = () => {
       {/* Services Section */}
       <div className="p-6 border rounded-lg bg-white shadow-sm">
         <h2 className="text-xl font-semibold mb-4">
+<<<<<<< HEAD
           Choose O2I for the Best Photo Editing Services
         </h2>
         <p className="text-gray-700 mb-2">
           Outsource2india has been delivering professional photo editing services 
+=======
+          Choose Nimble Acuity for the Best Photo Editing Services
+        </h2>
+        <p className="text-gray-700 mb-2">
+          Nimble Acuity has been delivering professional photo editing services 
+>>>>>>> Santhiya
           worldwide for over 26+ years. Our skilled team is equipped with the latest 
           tools and trends to provide high-quality, cost-effective results.
         </p>

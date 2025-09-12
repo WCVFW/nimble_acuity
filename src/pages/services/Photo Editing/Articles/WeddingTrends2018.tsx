@@ -75,7 +75,11 @@ const WeddingTrends2018: React.FC = () => {
           Get Your Wedding Photos Professionally Edited
         </h2>
         <p className="text-gray-700 mb-4">
+<<<<<<< HEAD
           Outsource2india has over 26+ years of experience in wedding photo editing.
+=======
+          Nimble Acuity has over 26+ years of experience in wedding photo editing.
+>>>>>>> Santhiya
           Our expert team uses the latest tools to deliver high-quality, cost-effective
           services tailored to your needs.
         </p>

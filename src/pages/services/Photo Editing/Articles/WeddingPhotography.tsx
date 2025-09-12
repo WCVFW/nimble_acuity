@@ -97,7 +97,11 @@ const WeddingPhotography: React.FC = () => {
         </h3>
         <p className="text-gray-700 mb-4">
           A wedding is one of the most important days of a couple’s life, and their
+<<<<<<< HEAD
           photos deserve expert editing. Partner with Outsource2india for professional
+=======
+          photos deserve expert editing. Partner with Nimble Acuity for professional
+>>>>>>> Santhiya
           wedding photo post-processing to enhance your images beautifully.
         </p>
         <button className="px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 shadow">

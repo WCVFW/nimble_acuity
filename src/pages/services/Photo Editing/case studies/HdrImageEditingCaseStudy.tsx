@@ -11,7 +11,11 @@ const HdrImageEditingCaseStudy: React.FC = () => {
           HDR Image Editing for Video Production Services Company
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           Learn how Outsource2india successfully completed 80,000 HDR image edits including flash removal for a US-based video production and photography company within 20 days.
+=======
+          Learn how Nimble Acuity successfully completed 80,000 HDR image edits including flash removal for a US-based video production and photography company within 20 days.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -63,7 +67,11 @@ const HdrImageEditingCaseStudy: React.FC = () => {
           <ul className="list-disc list-inside space-y-2">
             <li>Completed 80,000 HDR images including flash removal within 20 days.</li>
             <li>Met the 95% quality benchmark set by the client.</li>
+<<<<<<< HEAD
             <li>Client was impressed and continued outsourcing new projects to O2I.</li>
+=======
+            <li>Client was impressed and continued outsourcing new projects to Nimble Acuity.</li>
+>>>>>>> Santhiya
             <li>Established a long-term business relationship with the client.</li>
           </ul>
         </div>
@@ -71,9 +79,15 @@ const HdrImageEditingCaseStudy: React.FC = () => {
 
       {/* Call to Action */}
       <section className="bg-purple-600 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Outsource Your HDR Image Editing</h2>
         <p className="max-w-3xl mx-auto mb-6">
           Our team delivers high-quality HDR image editing and flash removal services at speed and scale. Contact Outsource2india to outsource your large-volume image editing projects today.
+=======
+        <h2 className="text-3xl font-semibold mb-4">Nimble Your HDR Image Editing</h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Our team delivers high-quality HDR image editing and flash removal services at speed and scale. Contact Nimble Acuity to Nimble your large-volume image editing projects today.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-purple-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Now

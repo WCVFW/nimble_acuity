@@ -8,7 +8,11 @@ const CrossTabulationAnalysis: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Cross Tabulation Analysis Services
+=======
+          Nimble Cross Tabulation Analysis Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Get access to clean and reliable data that is easy to interpret to
@@ -26,7 +30,11 @@ const CrossTabulationAnalysis: React.FC = () => {
           may otherwise be difficult to interpret.
         </p>
         <p className="text-gray-700">
+<<<<<<< HEAD
           With over <strong>26+ years of experience</strong>, Outsource2india
+=======
+          With over <strong>26+ years of experience</strong>, Nimble Acuity
+>>>>>>> Santhiya
           provides precise, clean, and reliable cross-tabulation analysis,
           helping organizations make smarter business decisions.
         </p>
@@ -224,10 +232,17 @@ const CrossTabulationAnalysis: React.FC = () => {
       {/* CTA */}
       <section className="py-16 px-6 text-center bg-blue-600 text-white">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Cross Tabulation Analysis Services to O2I
         </h2>
         <p className="max-w-2xl mx-auto mb-6">
           With 26+ years of experience, O2I provides customized, reliable, and
+=======
+          Nimble Cross Tabulation Analysis Services to Nimble Acuity
+        </h2>
+        <p className="max-w-2xl mx-auto mb-6">
+          With 26+ years of experience, Nimble Acuity provides customized, reliable, and
+>>>>>>> Santhiya
           precise cross-tabulation services. Partner with us to gain actionable
           insights and improve your decision-making process.
         </p>

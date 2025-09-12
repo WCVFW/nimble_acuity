@@ -73,7 +73,11 @@ export default function PhotoManipulationPage() {
           transition={{ duration: 0.6 }}
           className="text-4xl md:text-5xl font-bold mb-4"
         >
+<<<<<<< HEAD
           Outsource Photo Manipulation Services
+=======
+          Nimble Photo Manipulation Services
+>>>>>>> Santhiya
         </motion.h1>
         <p className="text-lg max-w-3xl mx-auto mb-6">
           Boost brand awareness, increase sales, and elevate your visuals with professional photo manipulation services.
@@ -134,7 +138,11 @@ export default function PhotoManipulationPage() {
 
       {/* Why Choose Us */}
       <section className="py-16 px-6 max-w-6xl mx-auto">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold text-center mb-10">Why Choose O2I?</h2>
+=======
+        <h2 className="text-3xl font-bold text-center mb-10">Why Choose Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8">
           {reasons.map((reason, idx) => (
             <div key={idx} className="flex items-start gap-3 bg-white shadow rounded-2xl p-6 hover:shadow-md transition">
@@ -159,7 +167,11 @@ export default function PhotoManipulationPage() {
 
       {/* CTA */}
       <section className="bg-pink-600 text-white py-20 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl md:text-4xl font-bold mb-4">Outsource Your Photo Manipulation Today!</h2>
+=======
+        <h2 className="text-3xl md:text-4xl font-bold mb-4">Nimble Your Photo Manipulation Today!</h2>
+>>>>>>> Santhiya
         <p className="mb-6 max-w-2xl mx-auto">
           Enhance your images, boost engagement, and increase sales with our expert team. Contact us today for a free trial and quote.
         </p>

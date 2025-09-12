@@ -185,7 +185,11 @@ const serviceCategories = [
     ],
   },
   {
+<<<<<<< HEAD
     name: "Marketing, Sales, Creative & Media",
+=======
+    name: "Insurance BPO Services",
+>>>>>>> Santhiya
     path: "/services/marketing",
     sub: [
       { name: "Brand strategy & positioning", path: "/services/marketing/brand-strategy" },

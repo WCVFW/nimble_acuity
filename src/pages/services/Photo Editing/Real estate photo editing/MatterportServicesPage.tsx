@@ -12,7 +12,11 @@ const MatterportServicesPage: React.FC = () => {
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-indigo-700 to-purple-700 text-white py-20 px-6 text-center">
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Matterport Services
+=======
+          Nimble Matterport Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Navigate the challenges of real estate's visual demands with our
@@ -30,7 +34,11 @@ const MatterportServicesPage: React.FC = () => {
           Redefining Property Visualization
         </h2>
         <p className="text-gray-600 leading-relaxed text-center max-w-4xl mx-auto">
+<<<<<<< HEAD
           At O2I, we harness Matterport's advanced technology to create deeply
+=======
+          At Nimble Acuity, we harness Matterport's advanced technology to create deeply
+>>>>>>> Santhiya
           engaging 3D 360° virtual tours that make your properties stand out.
           From Google Maps integration, e-commerce, and tagging to 2D photos,
           our services enhance the value of your virtual tours while reducing
@@ -179,10 +187,17 @@ const MatterportServicesPage: React.FC = () => {
       {/* CTA */}
       <section className="bg-indigo-700 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-semibold mb-4">
+<<<<<<< HEAD
           Outsource Matterport Services to Us
         </h2>
         <p className="max-w-3xl mx-auto">
           Embrace the future of property visualization with O2I’s Matterport
+=======
+          Nimble Matterport Services to Us
+        </h2>
+        <p className="max-w-3xl mx-auto">
+          Embrace the future of property visualization with Nimble Acuity’s Matterport
+>>>>>>> Santhiya
           services. Boost efficiency, reduce costs, and deliver immersive
           experiences that captivate clients.
         </p>

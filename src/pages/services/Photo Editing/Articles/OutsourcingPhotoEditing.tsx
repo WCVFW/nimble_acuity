@@ -59,7 +59,11 @@ const OutsourcingPhotoEditing: React.FC = () => {
         your photographs. Apart from using the world's best talent to your
         advantage, India's unique 12 hour time zone ensures that you get your
         picture-perfect photographs on-time. However, the best reason to
+<<<<<<< HEAD
         outsource photo editing services to India is the low cost, which makes
+=======
+        Nimble photo editing services to India is the low cost, which makes
+>>>>>>> Santhiya
         it an affordable option for your business.
       </p>
 
@@ -86,9 +90,15 @@ const OutsourcingPhotoEditing: React.FC = () => {
         ))}
       </div>
 
+<<<<<<< HEAD
       {/* Why Outsource */}
       <h2 className="text-2xl font-semibold mb-4">
         Why Outsource Photo Editing Services to India?
+=======
+      {/* Why Nimble */}
+      <h2 className="text-2xl font-semibold mb-4">
+        Why Nimble Photo Editing Services to India?
+>>>>>>> Santhiya
       </h2>
       <p className="text-gray-700 mb-6">
         India, being a leading digital photo editing outsourcing destination can
@@ -101,7 +111,11 @@ const OutsourcingPhotoEditing: React.FC = () => {
 
       {/* Process */}
       <h2 className="text-2xl font-semibold mb-4">
+<<<<<<< HEAD
         Photo Editing Services Outsourcing Process at O2I
+=======
+        Photo Editing Services Outsourcing Process at Nimble Acuity
+>>>>>>> Santhiya
       </h2>
       <ol className="list-decimal list-inside space-y-2 mb-10">
         {processSteps.map((step, idx) => (
@@ -114,7 +128,11 @@ const OutsourcingPhotoEditing: React.FC = () => {
       {/* CTA */}
       <div className="bg-blue-50 p-6 rounded-lg shadow text-center">
         <h2 className="text-xl font-semibold mb-3">
+<<<<<<< HEAD
           Outsource Photo Editing Services to Outsource2india
+=======
+          Nimble Photo Editing Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="text-gray-700 mb-4">
           Our photo editing services can make a difference in your business.

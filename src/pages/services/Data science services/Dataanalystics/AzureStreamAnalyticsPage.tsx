@@ -29,7 +29,11 @@ export default function AzureStreamAnalyticsPage() {
       <section className="bg-gradient-to-r from-blue-50 to-blue-100 py-20 px-6 text-center">
         <motion.div {...fadeInUp}>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-6">
+<<<<<<< HEAD
             Outsource Azure Stream Analytics Services
+=======
+            Nimble Azure Stream Analytics Services
+>>>>>>> Santhiya
           </h1>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto mb-8">
             Effectively and efficiently analyze large streams of data using
@@ -94,13 +98,21 @@ export default function AzureStreamAnalyticsPage() {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* Why Choose O2I */}
+=======
+      {/* Why Choose Nimble Acuity */}
+>>>>>>> Santhiya
       <section className="bg-gray-50 py-16 px-6">
         <motion.h2
           {...fadeInUp}
           className="text-3xl font-bold text-gray-800 text-center mb-12"
         >
+<<<<<<< HEAD
           Why Choose Outsource2india for Stream Analytics?
+=======
+          Why Choose Nimble Acuity for Stream Analytics?
+>>>>>>> Santhiya
         </motion.h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
           {[
@@ -170,12 +182,20 @@ export default function AzureStreamAnalyticsPage() {
           {[
             {
               title:
+<<<<<<< HEAD
                 "O2I Developed a Big Data Platform for Document Processing Automation",
+=======
+                "Nimble Acuity Developed a Big Data Platform for Document Processing Automation",
+>>>>>>> Santhiya
               desc: "Our data scientists designed and implemented a big data-based platform to automate document workflows quickly for a client.",
             },
             {
               title:
+<<<<<<< HEAD
                 "O2I Architected an Open-Source Analytics Workbench for a Bank",
+=======
+                "Nimble Acuity Architected an Open-Source Analytics Workbench for a Bank",
+>>>>>>> Santhiya
               desc: "We created an open-source analytics platform for analyzing unstructured and structured data within tight deadlines.",
             },
           ].map((story, idx) => (
@@ -201,7 +221,11 @@ export default function AzureStreamAnalyticsPage() {
           {...fadeInUp}
           className="text-3xl md:text-4xl font-bold mb-6"
         >
+<<<<<<< HEAD
           Choose Outsource2india for World-Class Azure Stream Analytics
+=======
+          Choose Nimble Acuity for World-Class Azure Stream Analytics
+>>>>>>> Santhiya
         </motion.h2>
         <p className="max-w-2xl mx-auto text-blue-100 mb-8">
           Harness our expertise in Azure Stream Analytics to transform your data

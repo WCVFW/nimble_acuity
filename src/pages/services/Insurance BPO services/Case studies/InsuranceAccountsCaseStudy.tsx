@@ -12,7 +12,11 @@ const InsuranceAccountsCaseStudy: React.FC = () => {
             Case Study on Maintaining Insurance Accounts
           </h1>
           <p className="text-lg text-gray-700">
+<<<<<<< HEAD
             How Outsource2india helped a US-based insurance agency manage their accounts efficiently and accurately.
+=======
+            How Nimble Acuity helped a US-based insurance agency manage their accounts efficiently and accurately.
+>>>>>>> Santhiya
           </p>
         </div>
       </section>
@@ -60,7 +64,11 @@ const InsuranceAccountsCaseStudy: React.FC = () => {
               <strong>Quality:</strong> Met and exceeded customer expectations, leading to an increase in FTEs within a short period.
             </li>
             <li>
+<<<<<<< HEAD
               <strong>Value:</strong> The customer outsourced 40% of their back-office work to us due to high-quality, cost-effective services and ongoing feedback sessions.
+=======
+              <strong>Value:</strong> The customer Nimbled 40% of their back-office work to us due to high-quality, cost-effective services and ongoing feedback sessions.
+>>>>>>> Santhiya
             </li>
           </ul>
         </div>
@@ -69,10 +77,17 @@ const InsuranceAccountsCaseStudy: React.FC = () => {
       {/* CTA */}
       <section className="bg-green-600 py-16 text-white text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Your Insurance Back Office Support
         </h2>
         <p className="mb-6 max-w-2xl mx-auto">
           Partner with Outsource2india to manage your insurance accounts efficiently, accurately, and cost-effectively.
+=======
+          Nimble Your Insurance Back Office Support
+        </h2>
+        <p className="mb-6 max-w-2xl mx-auto">
+          Partner with Nimble Acuity to manage your insurance accounts efficiently, accurately, and cost-effectively.
+>>>>>>> Santhiya
         </p>
         <a
           href="/contact"

@@ -17,7 +17,11 @@ const NeuralNetworksServices: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-gradient-to-r from-purple-700 to-indigo-700 text-white py-20 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Artificial Neural Networks Services
+=======
+          Nimble Artificial Neural Networks Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto mb-6">
           Get access to industry-leading neural network solutions provided by
@@ -31,7 +35,11 @@ const NeuralNetworksServices: React.FC = () => {
       {/* Intro */}
       <section className="py-16 px-6 max-w-5xl mx-auto text-center">
         <p className="text-lg mb-4">
+<<<<<<< HEAD
           With 26+ years of expertise, O2I delivers high-quality neural network
+=======
+          With 26+ years of expertise, Nimble Acuity delivers high-quality neural network
+>>>>>>> Santhiya
           solutions for industries worldwide, from medicine to business. Our
           experts specialize in artificial and biological neural networks to
           help your organization make faster, smarter decisions.
@@ -96,7 +104,11 @@ const NeuralNetworksServices: React.FC = () => {
       {/* Why Choose Us */}
       <section className="bg-gray-50 py-16 px-6 max-w-5xl mx-auto">
         <h2 className="text-3xl font-bold text-center mb-10">
+<<<<<<< HEAD
           Why Outsource Artificial Neural Network Services to O2I?
+=======
+          Why Nimble Artificial Neural Network Services to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <ul className="space-y-4">
           {[
@@ -157,7 +169,11 @@ const NeuralNetworksServices: React.FC = () => {
       {/* Final CTA */}
       <section className="bg-indigo-700 text-white py-20 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Artificial Neural Networks Services to O2I
+=======
+          Nimble Artificial Neural Networks Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           With years of experience in ANN, we deliver scalable, secure, and

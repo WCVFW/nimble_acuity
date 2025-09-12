@@ -8,7 +8,11 @@ const HealthcareBenchmarking: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-gradient-to-r from-blue-600 to-teal-500 text-white py-16 px-6 text-center">
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Healthcare Benchmarking Services
+=======
+          Nimble Healthcare Benchmarking Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Identify the strengths and weaknesses of your healthcare system, locate performance gaps, and bridge them with new technologies and training methodologies.
@@ -27,7 +31,11 @@ const HealthcareBenchmarking: React.FC = () => {
           </p>
         </div>
         <div className="bg-blue-50 border border-blue-200 p-6 rounded-2xl shadow-sm">
+<<<<<<< HEAD
           <h3 className="text-xl font-bold mb-2">Why Choose O2I?</h3>
+=======
+          <h3 className="text-xl font-bold mb-2">Why Choose Nimble Acuity?</h3>
+>>>>>>> Santhiya
           <ul className="list-disc pl-6 space-y-2 text-gray-700">
             <li>Expert-led healthcare benchmarking services</li>
             <li>Comprehensive multi-dimensional analysis</li>
@@ -181,7 +189,11 @@ const HealthcareBenchmarking: React.FC = () => {
       <section className="bg-gradient-to-r from-teal-500 to-blue-600 text-white py-12 px-6 text-center">
         <h2 className="text-3xl font-semibold mb-4">Ready to Improve Your Healthcare Outcomes?</h2>
         <p className="mb-6">
+<<<<<<< HEAD
           Partner with Outsource2india for professional, reliable, and cost-effective healthcare benchmarking services.
+=======
+          Partner with Nimble Acuity for professional, reliable, and cost-effective healthcare benchmarking services.
+>>>>>>> Santhiya
         </p>
         <a
           href="#contact"

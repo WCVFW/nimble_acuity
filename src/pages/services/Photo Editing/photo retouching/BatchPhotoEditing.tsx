@@ -75,7 +75,11 @@ const BatchPhotoEditing: React.FC = () => {
         className="text-center max-w-4xl mx-auto"
       >
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource <span className="text-blue-600">Batch Photo Editing</span> Services
+=======
+          Nimble <span className="text-blue-600">Batch Photo Editing</span> Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600">
           Harness AI-powered automation, Lightroom presets, and Photoshop workflows

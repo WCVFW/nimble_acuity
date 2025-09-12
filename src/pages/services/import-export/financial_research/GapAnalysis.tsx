@@ -8,7 +8,11 @@ const GapAnalysis: React.FC = () => {
       <NavigationMenu/>
       <header className="mb-12 text-center">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource Gap Analysis Services
+=======
+          Nimble Gap Analysis Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600">
           Leverage critical intelligence and take proactive steps to improve the
@@ -29,7 +33,11 @@ const GapAnalysis: React.FC = () => {
           modify for sustainable growth.
         </p>
         <p>
+<<<<<<< HEAD
           <span className="font-semibold text-blue-600">Outsource2india (O2I)</span> brings over 26+ years of experience in
+=======
+          <span className="font-semibold text-blue-600">Nimble Acuity (Nimble Acuity)</span> brings over 26+ years of experience in
+>>>>>>> Santhiya
           providing professional gap analysis services. Our large team of skilled
           analysts conducts in-depth assessments of your current performance and
           business goals to craft reports that guide your business toward
@@ -123,7 +131,11 @@ const GapAnalysis: React.FC = () => {
       {/* Why Choose Us */}
       <div className="mb-12">
         <h2 className="text-2xl font-semibold text-gray-900 mb-6">
+<<<<<<< HEAD
           Why Choose Outsource2india For Gap Analysis Services?
+=======
+          Why Choose Nimble Acuity For Gap Analysis Services?
+>>>>>>> Santhiya
         </h2>
         <ul className="space-y-3 text-gray-700 list-disc list-inside">
           <li>Reliable and secure ISO/IEC 27001:2022 certified data management.</li>

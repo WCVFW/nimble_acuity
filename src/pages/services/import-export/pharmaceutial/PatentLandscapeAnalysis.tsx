@@ -8,7 +8,11 @@ export default function PatentLandscapeAnalysis() {
       {/* Hero Section */}
       <NavigationMenu/>
       <section className="bg-blue-50 py-16 px-6 text-center">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold mb-4">Outsource Patent Landscape Analysis</h1>
+=======
+        <h1 className="text-4xl font-bold mb-4">Nimble Patent Landscape Analysis</h1>
+>>>>>>> Santhiya
         <p className="text-lg max-w-3xl mx-auto mb-6">
           Get access to accurate and updated information on recent technological and patent developments at prices starting at <span className="font-semibold">$14/hour</span>.
         </p>
@@ -85,7 +89,11 @@ export default function PatentLandscapeAnalysis() {
 
       {/* Why Us Section */}
       <section className="bg-gray-50 py-16 px-6">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold text-center mb-12">Why Outsource Patent Research Services to Us?</h2>
+=======
+        <h2 className="text-3xl font-bold text-center mb-12">Why Nimble Patent Research Services to Us?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
           {[
             { title: "Cost-effective Prices", desc: "Flexible pricing tailored for startups to large MNCs." },

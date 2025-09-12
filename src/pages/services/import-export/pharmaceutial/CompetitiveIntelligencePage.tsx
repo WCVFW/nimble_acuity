@@ -9,7 +9,11 @@ const CompetitiveIntelligencePage: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Competitive Intelligence Research Services
+=======
+          Nimble Competitive Intelligence Research Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto">
           Stay ahead in the pharmaceutical industry with data-driven competitor insights, R&D analysis, and market strategies designed to give your business the competitive edge.
@@ -21,7 +25,11 @@ const CompetitiveIntelligencePage: React.FC = () => {
         <div>
           <h2 className="text-2xl font-semibold mb-4">Why Competitive Intelligence Matters</h2>
           <p className="mb-4">
+<<<<<<< HEAD
             Competitive intelligence research is critical in the pharmaceutical industry to identify competitors' terrain, development direction, pricing strategy, targets, and more. Outsource2india empowers pharmaceutical companies and biotech startups to make informed business decisions with ISO-certified processes and advanced insights.
+=======
+            Competitive intelligence research is critical in the pharmaceutical industry to identify competitors' terrain, development direction, pricing strategy, targets, and more. Nimble Acuity empowers pharmaceutical companies and biotech startups to make informed business decisions with ISO-certified processes and advanced insights.
+>>>>>>> Santhiya
           </p>
           <p>
             By outsourcing to us, you can capitalize on opportunities, mitigate risks, and navigate complex markets with confidence.
@@ -72,7 +80,11 @@ const CompetitiveIntelligencePage: React.FC = () => {
       {/* Why Choose Us */}
       <section className="max-w-6xl mx-auto py-12 px-6">
         <h2 className="text-2xl font-semibold text-center mb-8">
+<<<<<<< HEAD
           Why Outsource Competitive Intelligence to O2I?
+=======
+          Why Nimble Competitive Intelligence to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-3 gap-6">
           {[
@@ -94,10 +106,17 @@ const CompetitiveIntelligencePage: React.FC = () => {
       {/* CTA Section */}
       <section className="bg-blue-800 text-white py-16 text-center px-6">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Gain the Edge with O2I's Competitive Intelligence Research
         </h2>
         <p className="mb-6 max-w-2xl mx-auto">
           Partner with Outsource2india and leverage 26+ years of expertise to stay ahead of your competition. Get accurate, reliable, and actionable insights that drive your business forward.
+=======
+          Gain the Edge with Nimble Acuity's Competitive Intelligence Research
+        </h2>
+        <p className="mb-6 max-w-2xl mx-auto">
+          Partner with Nimble Acuity and leverage 26+ years of expertise to stay ahead of your competition. Get accurate, reliable, and actionable insights that drive your business forward.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-blue-800 font-semibold px-6 py-3 rounded-xl shadow hover:bg-gray-100 transition">
           Get in Touch

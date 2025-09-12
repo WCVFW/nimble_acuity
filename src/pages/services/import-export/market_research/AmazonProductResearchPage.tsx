@@ -322,13 +322,21 @@ export default function AmazonProductResearchPage() {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* Why O2I */}
+=======
+      {/* Why Nimble Acuity */}
+>>>>>>> Santhiya
       <section className={`${section} py-10`}>
         <motion.h2
           {...fadeUp}
           className="text-2xl sm:text-3xl font-semibold tracking-tight mb-6"
         >
+<<<<<<< HEAD
           Why Outsource Amazon Product Research to Outsource2india?
+=======
+          Why Nimble Amazon Product Research to Nimble Acuity?
+>>>>>>> Santhiya
         </motion.h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
@@ -423,7 +431,11 @@ export default function AmazonProductResearchPage() {
             </CardHeader>
             <CardContent className="space-y-4">
               <blockquote className="rounded-xl border bg-white p-5 text-slate-700">
+<<<<<<< HEAD
                 “The services Outsource2india provided helped us achieve
+=======
+                “The services Nimble Acuity provided helped us achieve
+>>>>>>> Santhiya
                 substantial cost and time savings on several difficult projects.
                 Their prompt attention to our requests and attention to detail
                 is excellent.”
@@ -506,7 +518,11 @@ export default function AmazonProductResearchPage() {
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
                 <h3 className="text-2xl font-semibold">
+<<<<<<< HEAD
                   Outsource Amazon Product Research Services to Transform Your
+=======
+                  Nimble Amazon Product Research Services to Transform Your
+>>>>>>> Santhiya
                   Marketplace Performance
                 </h3>
                 <p className="mt-3 text-slate-700">
@@ -578,7 +594,11 @@ export default function AmazonProductResearchPage() {
 
       <footer className="border-t">
         <div className={`${section} py-8 text-sm text-slate-500`}>
+<<<<<<< HEAD
           © {new Date().getFullYear()} Outsource2india — Amazon Product Research
+=======
+          © {new Date().getFullYear()} Nimble Acuity — Amazon Product Research
+>>>>>>> Santhiya
           Services
         </div>
       </footer>

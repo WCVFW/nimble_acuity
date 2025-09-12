@@ -10,7 +10,11 @@ const VirtualBookkeeping: React.FC = () => {
           Virtual Bookkeeping Services for Your Business
         </h1>
         <p className="text-lg mb-4">
+<<<<<<< HEAD
           Struggling to maintain accurate financial records? Leverage outsourced virtual bookkeeping services to update your books and generate precise financial reports.
+=======
+          Struggling to maintain accurate financial records? Leverage Nimbled virtual bookkeeping services to update your books and generate precise financial reports.
+>>>>>>> Santhiya
         </p>
         <p className="text-lg">
           Nimble Acuity offers scalable, remote bookkeeping solutions. Our expert bookkeepers reconcile accounts, categorize transactions, and provide personalized insights for tax season and financial clarity.

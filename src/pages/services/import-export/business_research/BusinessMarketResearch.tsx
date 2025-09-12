@@ -16,7 +16,11 @@ export default function BusinessMarketResearch() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
+<<<<<<< HEAD
           Outsource Business Market Research Services
+=======
+          Nimble Business Market Research Services
+>>>>>>> Santhiya
         </motion.h1>
         <motion.p
           className="max-w-3xl mx-auto text-lg md:text-xl mb-8"
@@ -25,7 +29,11 @@ export default function BusinessMarketResearch() {
           transition={{ delay: 0.3, duration: 0.8 }}
         >
           Gain strategic insights, beat competition, and transform data into
+<<<<<<< HEAD
           business intelligence with Outsource2india’s expert research services.
+=======
+          business intelligence with Nimble Acuity’s expert research services.
+>>>>>>> Santhiya
         </motion.p>
         <Button size="lg" variant="secondary">
           Contact Us Today
@@ -39,7 +47,11 @@ export default function BusinessMarketResearch() {
         </h2>
         <p className="text-lg leading-relaxed mb-6">
           Tighter marketing budgets, decreased ROI, and market fluctuations tempt
+<<<<<<< HEAD
           companies to cut expenses for market research. Outsource2india provides
+=======
+          companies to cut expenses for market research. Nimble Acuity provides
+>>>>>>> Santhiya
           custom business market research services to help you stay ahead in a
           fast-paced environment. With over two decades of experience, we deliver
           actionable insights through qualitative and quantitative techniques to
@@ -144,7 +156,11 @@ export default function BusinessMarketResearch() {
       {/* Benefits */}
       <section className="py-16 px-6 bg-gray-50">
         <h2 className="text-3xl font-bold text-center mb-12">
+<<<<<<< HEAD
           Benefits of Choosing Outsource2india
+=======
+          Benefits of Choosing Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 gap-6 max-w-6xl mx-auto">
           {[
@@ -167,7 +183,11 @@ export default function BusinessMarketResearch() {
       {/* Final CTA */}
       <section className="py-20 px-6 bg-gradient-to-r from-indigo-700 to-blue-600 text-white text-center">
         <h2 className="text-3xl md:text-4xl font-bold mb-6">
+<<<<<<< HEAD
           Partner with Outsource2india for All Your Business Market Research Needs
+=======
+          Partner with Nimble Acuity for All Your Business Market Research Needs
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto text-lg mb-8">
           Whether it’s B2B or consumer market research, we bring in expertise to

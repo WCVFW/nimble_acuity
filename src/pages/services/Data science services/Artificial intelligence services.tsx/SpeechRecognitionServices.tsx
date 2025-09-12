@@ -19,7 +19,11 @@ const SpeechRecognitionServices: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-20 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Speech Recognition Services
+=======
+          Nimble Speech Recognition Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto mb-6">
           Reduce front office operational costs while improving your bottom-line
@@ -244,7 +248,11 @@ const SpeechRecognitionServices: React.FC = () => {
       {/* Final CTA */}
       <section className="bg-indigo-700 text-white py-20 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Speech Recognition Services to O2I
+=======
+          Nimble Speech Recognition Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           Engage our end-to-end speech recognition services to benefit from

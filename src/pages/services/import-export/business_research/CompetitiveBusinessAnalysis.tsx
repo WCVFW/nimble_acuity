@@ -7,7 +7,11 @@ const CompetitiveBusinessAnalysis: React.FC = () => {
       {/* Header Section */}
       <NavigationMenu/>
       <h1 className="text-3xl font-bold text-gray-800 mb-4">
+<<<<<<< HEAD
         Outsource Competitive Business Analysis Services
+=======
+        Nimble Competitive Business Analysis Services
+>>>>>>> Santhiya
       </h1>
       <h2 className="text-xl font-semibold text-gray-700 mb-6">
         Competitive Business Analysis Services
@@ -21,7 +25,11 @@ const CompetitiveBusinessAnalysis: React.FC = () => {
       <p className="text-gray-600 mb-4">
         Identifying competitors, evaluating their business strategies, and
         determining their strengths & weaknesses, are highly crucial for a proper
+<<<<<<< HEAD
         marketing plan to usher growth and profitability. Outsource2india's
+=======
+        marketing plan to usher growth and profitability. Nimble Acuity's
+>>>>>>> Santhiya
         Competitive Business Analysis services offer a structured methodology
         targeted at completely understanding your customers' needs and
         identifying best ways to meet those needs. Our adept business analysts
@@ -32,7 +40,11 @@ const CompetitiveBusinessAnalysis: React.FC = () => {
       </p>
 
       <p className="text-gray-600 mb-6">
+<<<<<<< HEAD
         Supporting your business goals and objectives, Outsource2india helps you
+=======
+        Supporting your business goals and objectives, Nimble Acuity helps you
+>>>>>>> Santhiya
         improve your competitive advantage with effective strategies. We provide
         competitive business intelligence support through proven research and
         analytics methods that aid smarter decision-making based on market
@@ -44,7 +56,11 @@ const CompetitiveBusinessAnalysis: React.FC = () => {
         Competitive Business Analysis Services We Offer
       </h3>
       <p className="text-gray-600 mb-4">
+<<<<<<< HEAD
         At Outsource2india we offer comprehensive competitive business analysis
+=======
+        At Nimble Acuity we offer comprehensive competitive business analysis
+>>>>>>> Santhiya
         services to help organizations keep track of competition right from
         conception, products, technology, credibility, growth story, successes,
         failures to present state of maturity to gauge and forecast their
@@ -81,7 +97,11 @@ const CompetitiveBusinessAnalysis: React.FC = () => {
 
       {/* 4-Step Process */}
       <h3 className="text-2xl font-semibold text-gray-800 mb-4">
+<<<<<<< HEAD
         O2I's 4-Step Business Process Mapping
+=======
+        Nimble Acuity's 4-Step Business Process Mapping
+>>>>>>> Santhiya
       </h3>
       <ol className="list-decimal pl-6 text-gray-700 space-y-4 mb-8">
         <li>
@@ -105,14 +125,22 @@ const CompetitiveBusinessAnalysis: React.FC = () => {
 
       {/* Conclusion */}
       <p className="text-gray-600 mb-6">
+<<<<<<< HEAD
         Outsource2india's Business Process Mapping leads to a better
+=======
+        Nimble Acuity's Business Process Mapping leads to a better
+>>>>>>> Santhiya
         understanding of what the company is trying to achieve, a realigned
         sense of purpose, and several suggestions that streamline operations
         while simultaneously increasing customer satisfaction.
       </p>
 
       <p className="text-gray-600 mb-6">
+<<<<<<< HEAD
         As your competitive business analysis partner, Outsource2india offers
+=======
+        As your competitive business analysis partner, Nimble Acuity offers
+>>>>>>> Santhiya
         the valuable service of our proficient team of business analysts who
         provide the best-in-industry support to enterprises of all sizes. Our
         scalable workforce can meet requirements of varied complexities and
@@ -123,7 +151,11 @@ const CompetitiveBusinessAnalysis: React.FC = () => {
       <div className="bg-blue-50 border border-blue-200 p-6 rounded-2xl">
         <h4 className="text-lg font-semibold text-blue-700 mb-2">Contact Us</h4>
         <p className="text-gray-700">
+<<<<<<< HEAD
           Contact Outsource2india for outsourcing competitive business analysis
+=======
+          Contact Nimble Acuity for outsourcing competitive business analysis
+>>>>>>> Santhiya
           services to India. Our team will be glad to assist you.
         </p>
       </div>

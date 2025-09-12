@@ -8,7 +8,11 @@ const ConsumerMarketResearch: React.FC = () => {
        <NavigationMenu/>
       <section className="max-w-4xl mx-auto text-center mb-12">
         <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Consumer Market Research Services
+=======
+          Nimble Consumer Market Research Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg mb-6">
           Spot emerging trends, identify opportunities, and minimize risk with
@@ -57,7 +61,11 @@ const ConsumerMarketResearch: React.FC = () => {
       {/* Benefits Section */}
       <section className="max-w-5xl mx-auto mb-12">
         <h2 className="text-2xl font-semibold mb-4">
+<<<<<<< HEAD
           Why Choose Outsource2india?
+=======
+          Why Choose Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc pl-6 space-y-3">
           <li>✅ Cost-effective with flexible pricing models</li>
@@ -74,7 +82,11 @@ const ConsumerMarketResearch: React.FC = () => {
         <div className="space-y-4">
           <div>
             <h3 className="font-semibold">
+<<<<<<< HEAD
               O2I Provided Top-quality Primary Research Services to Leading
+=======
+              Nimble Acuity Provided Top-quality Primary Research Services to Leading
+>>>>>>> Santhiya
               Trade Advisors in China
             </h3>
             <p>
@@ -84,7 +96,11 @@ const ConsumerMarketResearch: React.FC = () => {
           </div>
           <div>
             <h3 className="font-semibold">
+<<<<<<< HEAD
               O2I Developed a Forecasting Model for a Healthcare Firm
+=======
+              Nimble Acuity Developed a Forecasting Model for a Healthcare Firm
+>>>>>>> Santhiya
             </h3>
             <p>
               A US-based healthcare firm partnered with us to create a reliable
@@ -98,7 +114,11 @@ const ConsumerMarketResearch: React.FC = () => {
       <section className="max-w-4xl mx-auto text-center mb-12">
         <h2 className="text-2xl font-semibold mb-4">Testimonials</h2>
         <blockquote className="italic">
+<<<<<<< HEAD
           “The services that Outsource2india provided helped us achieve
+=======
+          “The services that Nimble Acuity provided helped us achieve
+>>>>>>> Santhiya
           substantial cost and time savings on several difficult projects.”
         </blockquote>
         <p className="mt-2 font-medium">
@@ -110,7 +130,11 @@ const ConsumerMarketResearch: React.FC = () => {
       {/* CTA */}
       <section className="max-w-4xl mx-auto text-center">
         <h2 className="text-2xl font-semibold mb-4">
+<<<<<<< HEAD
           Outsource Consumer Market Research Services
+=======
+          Nimble Consumer Market Research Services
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6">
           With 26+ years of expertise, we help you plan research, analyze data,

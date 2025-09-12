@@ -46,11 +46,19 @@ const RenewalExposureSummary: React.FC = () => {
       <Imainmenu/>
       <section className="text-center space-y-4">
         <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-600 to-green-600 bg-clip-text text-transparent">
+<<<<<<< HEAD
           Outsource Insurance Renewal Exposure Summary Services
         </h1>
         <p className="text-gray-700 text-lg">
           Ensure accuracy and efficiency in policy renewals, claims, and premium
           calculations with Outsource2india’s expert support.
+=======
+          Nimble Insurance Renewal Exposure Summary Services
+        </h1>
+        <p className="text-gray-700 text-lg">
+          Ensure accuracy and efficiency in policy renewals, claims, and premium
+          calculations with Nimble Acuity’s expert support.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -101,7 +109,11 @@ const RenewalExposureSummary: React.FC = () => {
       {/* Benefits Section */}
       <section>
         <h2 className="text-3xl font-semibold mb-6 text-center">
+<<<<<<< HEAD
           Why Choose O2I?
+=======
+          Why Choose Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 gap-4 text-gray-700">
           {benefits.map((item, idx) => (
@@ -118,10 +130,17 @@ const RenewalExposureSummary: React.FC = () => {
       {/* Contact CTA */}
       <section className="text-center">
         <h2 className="text-3xl font-semibold mb-4">
+<<<<<<< HEAD
           Outsource Renewal Exposure Summary Services
         </h2>
         <p className="text-gray-700 mb-6">
           With 26+ years of expertise, Outsource2india helps insurance agencies
+=======
+          Nimble Renewal Exposure Summary Services
+        </h2>
+        <p className="text-gray-700 mb-6">
+          With 26+ years of expertise, Nimble Acuity helps insurance agencies
+>>>>>>> Santhiya
           manage renewals efficiently, reduce risks, and enhance profitability.
         </p>
         <button className="px-8 py-4 font-bold rounded-full text-white bg-gradient-to-r from-blue-600 to-green-600 hover:from-green-600 hover:to-blue-600 transition">

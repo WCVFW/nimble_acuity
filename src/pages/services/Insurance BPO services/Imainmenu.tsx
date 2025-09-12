@@ -110,7 +110,11 @@ const MenuLink: MenuSection[] = [
   description: "Explore insightful articles on insurance outsourcing, claims management, and data analytics in the insurance industry.",
   mainHref: "/insurance/articles/",
   links: [
+<<<<<<< HEAD
     { label: "Why Should You Outsource Insurance Services to a Professional Service Provider?", href: "/insurance/articles/why-outsource-insurance-services-to-professional-service-provider.asp" },
+=======
+    { label: "Why Should You Nimble Insurance Services to a Professional Service Provider?", href: "/insurance/articles/why-Nimble-insurance-services-to-professional-service-provider.asp" },
+>>>>>>> Santhiya
     { label: "All You Need to Know About Insurance Claims", href: "/insurance/articles/all-you-need-to-know-about-insurance-claims.asp" },
     { label: "Top 6 Ways Data Analytics is Transforming the Insurance Industry", href: "/insurance/articles/6-ways-data-analytics-transforming-insurance-industry.asp" },
     { label: "All You Need to Know about E-filing of US DOT", href: "/insurance/articles/all-you-need-to-know-about-e-filing-of-us-dot.asp" }
@@ -121,11 +125,19 @@ const MenuLink: MenuSection[] = [
   description: "Explore our customer success stories showcasing customized insurance solutions and back-office support for clients worldwide.",
   mainHref: "/insurance/case-studies/",
   links: [
+<<<<<<< HEAD
     { label: "O2I’s Insurance Back-office Support Helped a Florida-based Insurance Giant Scale with Cost Efficiency", href: "/insurance/case-studies/back-office-support-to-florida-based-insurance-agency.asp" },
     { label: "Outsource2india Provided Back-office Support to a Texas-based Insurance Agency", href: "/insurance/case-studies/back-office-support-for-texas-client.asp" },
     { label: "Outsource2india Helped a Brokerage Consulting Firm With Policy Checking", href: "/insurance/case-studies/policy-checking-for-brokerage-consulting-firm.asp" },
     { label: "Outsource2india Provided Business Processing Services to an Insurance Firm", href: "/insurance/case-studies/business-processing-to-insurance-firm.asp" },
     { label: "Outsource2india Provided Policy Checking Services to a Leading Insurance Company", href: "/insurance/case-studies/policy-checking-services-to-insurance-company.asp" },
+=======
+    { label: "Nimble Acuity’s Insurance Back-office Support Helped a Florida-based Insurance Giant Scale with Cost Efficiency", href: "/insurance/case-studies/back-office-support-to-florida-based-insurance-agency.asp" },
+    { label: "Nimble Acuity Provided Back-office Support to a Texas-based Insurance Agency", href: "/insurance/case-studies/back-office-support-for-texas-client.asp" },
+    { label: "Nimble Acuity Helped a Brokerage Consulting Firm With Policy Checking", href: "/insurance/case-studies/policy-checking-for-brokerage-consulting-firm.asp" },
+    { label: "Nimble Acuity Provided Business Processing Services to an Insurance Firm", href: "/insurance/case-studies/business-processing-to-insurance-firm.asp" },
+    { label: "Nimble Acuity Provided Policy Checking Services to a Leading Insurance Company", href: "/insurance/case-studies/policy-checking-services-to-insurance-company.asp" },
+>>>>>>> Santhiya
     { label: "Insurance Policy Checking Services for NY-based Insurance Service Provider", href: "/insurance/case-studies/policy-checking-new-york-client.asp" },
     { label: "Complete Insurance Back-Office Solutions for Renowned Health Insurance Company", href: "/insurance/case-studies/insurance-back-office-solutions-healthcare-provider.asp" },
     { label: "Streamlined Back-office Operations for Miami-based Client", href: "/insurance/case-studies/back-office-operations-miami-client.asp" },
@@ -138,6 +150,7 @@ const MenuLink: MenuSection[] = [
 
 ];
 
+<<<<<<< HEAD
 // ---------- DropdownMenu Component ----------
 const DropdownMenu: React.FC<DropdownProps> = ({
     title,
@@ -230,10 +243,66 @@ const DropdownMenu: React.FC<DropdownProps> = ({
             </div>
         </li>
     );
+=======
+// ---------- DropdownMenu Component (Desktop only) ----------
+const DropdownMenu: React.FC<MenuSection> = ({ title, mainHref, description, links }) => {
+  const dropdownRef = useRef<HTMLDivElement>(null);
+  const [alignRight, setAlignRight] = useState(false);
+
+  useEffect(() => {
+    const handlePosition = () => {
+      if (dropdownRef.current) {
+        const rect = dropdownRef.current.getBoundingClientRect();
+        const viewportWidth = window.innerWidth;
+        setAlignRight(rect.right > viewportWidth);
+      }
+    };
+    handlePosition();
+    window.addEventListener("resize", handlePosition);
+    return () => window.removeEventListener("resize", handlePosition);
+  }, []);
+
+  return (
+    <li className="relative group">
+      <button className="px-5 py-2 font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50 transition-all duration-300 rounded-lg text-left break-words">
+        {title}
+      </button>
+
+      <div
+        ref={dropdownRef}
+        className={`
+          absolute top-full mt-2 z-50 p-4
+          opacity-0 scale-95 -translate-y-2
+          group-hover:opacity-100 group-hover:scale-100 group-hover:translate-y-0
+          pointer-events-none group-hover:pointer-events-auto
+          bg-white rounded-xl border border-gray-200 shadow-lg
+          w-[90vw] sm:w-[400px] md:w-[600px] lg:w-[700px] xl:w-[800px]
+          max-h-[500px] overflow-auto
+          ${alignRight ? "right-0 origin-top-right" : "left-0 origin-top-left"}
+          transition-all duration-300 ease-out
+        `}
+      >
+        {description && <p className="text-sm text-gray-600 mb-2">{description}</p>}
+        <div className="grid grid-cols-2 gap-2">
+          {links.map((link, idx) => (
+            <a
+              key={idx}
+              href={link.href}
+              className="block px-3 py-2 rounded-md text-gray-700 text-sm font-medium hover:bg-blue-50 hover:text-blue-600 transition-all duration-200"
+            >
+              {link.label}
+            </a>
+          ))}
+        </div>
+      </div>
+    </li>
+  );
+>>>>>>> Santhiya
 };
 
 // ---------- Main Menu Component ----------
 const Imainmenu: React.FC = () => {
+<<<<<<< HEAD
     return (
         <nav className="sticky top-0 z-50 bg-white">
             <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
@@ -269,6 +338,120 @@ const Imainmenu: React.FC = () => {
     );
 };
 
+=======
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [expandedSections, setExpandedSections] = useState<number[]>([]);
+
+  const toggleSection = (idx: number) => {
+    setExpandedSections((prev) =>
+      prev.includes(idx) ? prev.filter((i) => i !== idx) : [...prev, idx]
+    );
+  };
+
+  return (
+    <nav className="sticky top-0 z-50 bg-white shadow-sm">
+      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div className="flex justify-between items-center py-4">
+          {/* Desktop Menu */}
+          <ul className="hidden md:flex items-center justify-start flex-wrap gap-2">
+              {MenuLink.map((section, idx) => {
+    if (idx === 2) {
+      // Direct link for index 2
+      return (
+        <li key={idx}>
+          <a
+            href={section.mainHref}
+            className="px-5 py-2 font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50 transition-all duration-300 rounded-lg text-left break-words"
+          >
+            {section.title}
+          </a>
+        </li>
+      );
+    }
+    return <DropdownMenu key={idx} {...section} />;
+  })}
+          </ul>
+
+          {/* Mobile Hamburger */}
+          <div className="md:hidden">
+            <button
+              onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+              className="inline-flex items-center justify-center p-2 rounded-md text-gray-700 hover:text-green-600 hover:bg-gray-100 transition-all duration-300"
+            >
+              {mobileMenuOpen ? (
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              ) : (
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+                </svg>
+              )}
+            </button>
+          </div>
+        </div>
+
+        {/* Mobile Accordion Menu */}
+        {mobileMenuOpen && (
+          <div className="md:hidden mt-2 p-2 bg-white rounded-xl shadow-lg">
+           {MenuLink.map((section, idx) => {
+  const isExpanded = expandedSections.includes(idx);
+
+  // If index 2, render a direct link
+  if (idx === 2) {
+    return (
+      <a
+        key={idx}
+        href={section.mainHref}
+        className="w-full block px-3 py-2 text-left font-semibold text-gray-800 hover:text-green-600 transition-all duration-300 rounded-lg border-b last:border-b-0 mb-2"
+      >
+        {section.title}
+      </a>
+    );
+  }
+
+  // Other sections with accordion
+  return (
+    <div key={idx} className="border-b last:border-b-0 mb-2">
+      <button
+        onClick={() => toggleSection(idx)}
+        className="w-full flex justify-between items-center px-3 py-2 text-left font-semibold text-gray-800 hover:text-green-600 transition-all duration-300 rounded-lg"
+      >
+        <span>{section.title}</span>
+        <span className="text-gray-500">{isExpanded ? "−" : "+"}</span>
+      </button>
+
+      {isExpanded && (
+        <div className="mt-1 pl-4">
+          {section.description && (
+            <p className="text-sm text-gray-600 mb-1">{section.description}</p>
+          )}
+          <div className="flex flex-col gap-1">
+            {section.links.map((link, linkIdx) => (
+              <a
+                key={linkIdx}
+                href={link.href}
+                className="text-sm text-gray-700 hover:text-green-600 hover:underline px-2 py-1 rounded-lg transition-all duration-200"
+              >
+                {link.label}
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+})}
+
+          </div>
+        )}
+      </div>
+    </nav>
+  );
+};
+
+
+>>>>>>> Santhiya
 export default Imainmenu
 
 

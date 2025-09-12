@@ -8,7 +8,11 @@ const PolicyAdministration: React.FC = () => {
       <Imainmenu/>
       <section className="bg-green-900 text-white py-12 px-6 text-center">
         <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Policy Administration, Maintenance, and Servicing
+=======
+          Nimble Policy Administration, Maintenance, and Servicing
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Professional and cost-effective insurance policy administration, maintenance, and servicing by expert teams at rates starting at $8/hour.
@@ -72,7 +76,11 @@ const PolicyAdministration: React.FC = () => {
       {/* Benefits */}
       <section className="bg-white py-10 px-6 max-w-5xl mx-auto">
         <h2 className="text-2xl font-semibold text-center mb-6">
+<<<<<<< HEAD
           Why Choose O2I for Policy Administration & Maintenance
+=======
+          Why Choose Nimble Acuity for Policy Administration & Maintenance
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc pl-6 space-y-2">
           <li>Affordable and flexible pricing packages starting at $8/hour</li>
@@ -105,7 +113,11 @@ const PolicyAdministration: React.FC = () => {
       {/* CTA */}
       <section className="bg-green-900 text-white py-12 px-6 text-center">
         <h2 className="text-2xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Your Policy Administration Today
+=======
+          Nimble Your Policy Administration Today
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           Leverage reliable, scalable, and cost-effective policy administration, maintenance, and servicing solutions for your business. Get in touch with us today!

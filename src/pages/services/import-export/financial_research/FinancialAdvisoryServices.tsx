@@ -14,7 +14,11 @@ export default function FinancialAdvisoryServices() {
         <p className="text-lg text-gray-700 max-w-3xl mx-auto">
           In today’s volatile economy, businesses face rising competition, strict
           regulations, and investor scrutiny. Partner with{" "}
+<<<<<<< HEAD
           <strong>Outsource2india</strong> for trusted financial advisory
+=======
+          <strong>Nimble Acuity</strong> for trusted financial advisory
+>>>>>>> Santhiya
           services tailored to your industry, culture, and strategic needs.
         </p>
       </div>
@@ -88,7 +92,11 @@ export default function FinancialAdvisoryServices() {
 
       {/* Why Choose Us */}
       <h2 className="text-2xl font-semibold text-gray-900 mb-6 text-center">
+<<<<<<< HEAD
         Why Choose Outsource2india?
+=======
+        Why Choose Nimble Acuity?
+>>>>>>> Santhiya
       </h2>
       <ul className="grid md:grid-cols-2 gap-4 text-gray-700 max-w-4xl mx-auto list-disc pl-6 mb-12">
         {[

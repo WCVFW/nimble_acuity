@@ -8,7 +8,11 @@ const ACORDFormsProcessing: React.FC = () => {
       <Imainmenu/>
       <section className="bg-blue-900 text-white py-12 px-6 text-center">
         <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource ACORD Forms Processing Services
+=======
+          Nimble ACORD Forms Processing Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Harness the power of our cost-effective and high-quality services to
@@ -27,7 +31,11 @@ const ACORDFormsProcessing: React.FC = () => {
           service provider? If so, we are here to help.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india (O2I) is a leading ACORD forms processing service
+=======
+          Nimble Acuity (Nimble Acuity) is a leading ACORD forms processing service
+>>>>>>> Santhiya
           provider offering a complete range of services. Our highly-experienced
           personnel can handle the entire forms processing workflow from start
           to finish, delivering accurate and timely results at some of the most
@@ -78,7 +86,11 @@ const ACORDFormsProcessing: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-10 px-6 max-w-5xl mx-auto">
         <h2 className="text-2xl font-semibold text-center mb-6">
+<<<<<<< HEAD
           Why Outsource ACORD Forms Processing to O2I?
+=======
+          Why Nimble ACORD Forms Processing to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc pl-6 space-y-2">
           <li>Affordable pricing starting at $8/hour</li>
@@ -118,7 +130,11 @@ const ACORDFormsProcessing: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-900 text-white py-12 px-6 text-center">
         <h2 className="text-2xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource ACORD Forms Processing to Outsource2india
+=======
+          Nimble ACORD Forms Processing to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           We are pioneers in delivering ACORD forms processing solutions that

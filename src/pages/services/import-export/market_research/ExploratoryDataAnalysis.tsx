@@ -16,7 +16,11 @@ export default function ExploratoryDataAnalysis() {
           transition={{ duration: 0.6 }}
           className="text-4xl font-bold mb-4"
         >
+<<<<<<< HEAD
           Outsource Exploratory Data Analysis Services
+=======
+          Nimble Exploratory Data Analysis Services
+>>>>>>> Santhiya
         </motion.h1>
         <p className="max-w-3xl mx-auto text-lg mb-6">
           We decrypt data points to help you gain crucial information about anomalies, irregularities,
@@ -31,7 +35,11 @@ export default function ExploratoryDataAnalysis() {
       <section className="max-w-5xl mx-auto text-center space-y-6">
         <h2 className="text-3xl font-semibold">Unlock the Power of Your Business Data</h2>
         <p>
+<<<<<<< HEAD
           At Outsource2india, we help companies mobilize, visualize, and analyze their data to gain deep insights
+=======
+          At Nimble Acuity, we help companies mobilize, visualize, and analyze their data to gain deep insights
+>>>>>>> Santhiya
           for informed decision-making. Through Exploratory Data Analysis (EDA), we uncover patterns, trends, and
           relationships that influence business growth.
         </p>
@@ -116,7 +124,11 @@ export default function ExploratoryDataAnalysis() {
 
       {/* Why Choose Us */}
       <section className="max-w-6xl mx-auto space-y-6">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold text-center">Why Choose O2I?</h2>
+=======
+        <h2 className="text-3xl font-semibold text-center">Why Choose Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-3 gap-6">
           {[
             "Cost-effective Services",
@@ -145,7 +157,11 @@ export default function ExploratoryDataAnalysis() {
       <section className="text-center py-16 bg-indigo-700 text-white rounded-2xl shadow-xl">
         <h2 className="text-3xl font-semibold mb-4">Ready to Unlock Hidden Insights?</h2>
         <p className="mb-6 max-w-2xl mx-auto">
+<<<<<<< HEAD
           Partner with Outsource2india for Exploratory Data Analysis services and make smarter, data-driven decisions.
+=======
+          Partner with Nimble Acuity for Exploratory Data Analysis services and make smarter, data-driven decisions.
+>>>>>>> Santhiya
         </p>
         <Button size="lg" className="rounded-full bg-white text-indigo-700 hover:bg-gray-200">
           Contact Us Today

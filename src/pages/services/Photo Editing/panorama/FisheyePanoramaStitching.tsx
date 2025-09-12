@@ -8,7 +8,11 @@ const FisheyePanoramaStitching: React.FC = () => {
       <PEMainMenu/>
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Fisheye Panorama Stitching Services
+=======
+          Nimble Fisheye Panorama Stitching Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           We turn your average fisheye photos into high-quality panoramas at
@@ -20,11 +24,19 @@ const FisheyePanoramaStitching: React.FC = () => {
       <section className="max-w-6xl mx-auto py-12 px-6 grid md:grid-cols-2 gap-8 items-center">
         <div>
           <h2 className="text-2xl font-semibold mb-4">
+<<<<<<< HEAD
             Why Outsource Fisheye Panorama Stitching?
           </h2>
           <p className="mb-4">
             Do you face hurdles in mapping straight lines in fisheye images?
             Outsource to us and let seasoned professionals fix stereographic
+=======
+            Why Nimble Fisheye Panorama Stitching?
+          </h2>
+          <p className="mb-4">
+            Do you face hurdles in mapping straight lines in fisheye images?
+            Nimble to us and let seasoned professionals fix stereographic
+>>>>>>> Santhiya
             disparity and perspective distortion with precision.
           </p>
           <ul className="list-disc list-inside space-y-2">
@@ -93,7 +105,11 @@ const FisheyePanoramaStitching: React.FC = () => {
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-8 items-center">
           <div>
             <h2 className="text-3xl font-semibold mb-4">
+<<<<<<< HEAD
               Why Choose O2I for Fisheye Panorama Stitching?
+=======
+              Why Choose Nimble Acuity for Fisheye Panorama Stitching?
+>>>>>>> Santhiya
             </h2>
             <ul className="list-disc list-inside space-y-2">
               <li>Flexible pricing – starts at just $7/hour</li>
@@ -119,7 +135,11 @@ const FisheyePanoramaStitching: React.FC = () => {
       {/* CTA */}
       <section className="bg-gradient-to-r from-indigo-600 to-blue-700 text-white text-center py-16 px-6">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Ready to Outsource Fisheye Panorama Stitching?
+=======
+          Ready to Nimble Fisheye Panorama Stitching?
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-2xl mx-auto mb-6">
           Partner with us today for flawless fisheye panoramas delivered on time

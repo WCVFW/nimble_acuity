@@ -8,7 +8,11 @@ const MarketTrendsReports: React.FC = () => {
       <NavigationMenu/>
       <section className="text-center mb-12">
         <h1 className="text-4xl font-bold mb-4 text-blue-800">
+<<<<<<< HEAD
           Outsource Market Trends Report Services
+=======
+          Nimble Market Trends Report Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-700 max-w-3xl mx-auto">
           Get access to high-quality market trends report services provided by a
@@ -23,7 +27,11 @@ const MarketTrendsReports: React.FC = () => {
           Are you looking for ways to stay in sync with your current market? Is
           there a gap in your understanding of current market trends which is
           impacting your productivity? Are constant fluctuations in the market
+<<<<<<< HEAD
           causing you to lose business? Outsource2india provides customized
+=======
+          causing you to lose business? Nimble Acuity provides customized
+>>>>>>> Santhiya
           market trends report solutions that are comprehensive and provide
           actionable intelligence.
         </p>
@@ -112,7 +120,11 @@ const MarketTrendsReports: React.FC = () => {
       {/* Why Choose Us */}
       <section className="mb-12">
         <h2 className="text-2xl font-bold mb-6 text-blue-700">
+<<<<<<< HEAD
           Why Choose Outsource2india for Market Trends Report Services?
+=======
+          Why Choose Nimble Acuity for Market Trends Report Services?
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc list-inside space-y-2 text-gray-800">
           <li>Cost-effective pricing without compromising quality.</li>
@@ -129,7 +141,11 @@ const MarketTrendsReports: React.FC = () => {
       <section className="mb-12">
         <h2 className="text-2xl font-bold mb-6 text-blue-700">Testimonials</h2>
         <blockquote className="border-l-4 border-blue-500 pl-4 italic text-gray-700">
+<<<<<<< HEAD
           “The services that Outsource2india provided helped us achieve
+=======
+          “The services that Nimble Acuity provided helped us achieve
+>>>>>>> Santhiya
           substantial cost and time savings on several difficult projects. Their
           prompt attention to our requests and attention to detail are
           excellent.”
@@ -142,10 +158,17 @@ const MarketTrendsReports: React.FC = () => {
       {/* CTA */}
       <section className="text-center bg-blue-50 py-10 rounded-2xl shadow-md">
         <h2 className="text-2xl font-bold mb-4 text-blue-800">
+<<<<<<< HEAD
           Outsource Market Trends Report to Outsource2india
         </h2>
         <p className="text-gray-700 max-w-2xl mx-auto mb-6">
           Outsource2india is a pioneer in providing high-quality market trends
+=======
+          Nimble Market Trends Report to Nimble Acuity
+        </h2>
+        <p className="text-gray-700 max-w-2xl mx-auto mb-6">
+          Nimble Acuity is a pioneer in providing high-quality market trends
+>>>>>>> Santhiya
           reports to clients across the world. Get in touch with us today for
           reliable and cost-effective solutions.
         </p>

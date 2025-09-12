@@ -13,7 +13,11 @@ const NoSQLtoSQLCaseStudy: React.FC = () => {
         {/* Header */}
         <header className="text-center">
           <h1 className="text-4xl font-bold text-gray-900 mb-3">
+<<<<<<< HEAD
             Outsource2india Designed a Plugin to Convert NoSQL to SQL for a US Restaurant Chain using Predictive Algorithm
+=======
+            Nimble Acuity Designed a Plugin to Convert NoSQL to SQL for a US Restaurant Chain using Predictive Algorithm
+>>>>>>> Santhiya
           </h1>
           <p className="text-lg text-gray-600">
             Case Study on Plugin Design Using Predictive Algorithm
@@ -88,10 +92,17 @@ const NoSQLtoSQLCaseStudy: React.FC = () => {
         {/* CTA */}
         <section className="bg-blue-50 p-6 rounded-2xl shadow-sm">
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">
+<<<<<<< HEAD
             Hire Outsource2india for Highly Efficient Data Science Solutions
           </h2>
           <p className="text-gray-700 mb-4">
             Outsource2india is a <strong>leading provider</strong> of{" "}
+=======
+            Hire Nimble Acuity for Highly Efficient Data Science Solutions
+          </h2>
+          <p className="text-gray-700 mb-4">
+            Nimble Acuity is a <strong>leading provider</strong> of{" "}
+>>>>>>> Santhiya
             <strong>data science and big data solutions</strong>, offering cost-effective
             and scalable services to global clients. Our{" "}
             <strong>expert data scientists and algorithm developers</strong> quickly

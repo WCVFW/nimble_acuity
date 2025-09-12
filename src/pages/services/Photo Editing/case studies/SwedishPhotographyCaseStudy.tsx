@@ -11,7 +11,11 @@ const SwedishPhotographyCaseStudy: React.FC = () => {
           Sports and Outdoor Photography Case Study for a Swedish Company
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           Outsource2india helped a Swedish sports and outdoor photography company achieve cost-effective, timely, and high-quality image editing solutions.
+=======
+          Nimble Acuity helped a Swedish sports and outdoor photography company achieve cost-effective, timely, and high-quality image editing solutions.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -45,9 +49,15 @@ const SwedishPhotographyCaseStudy: React.FC = () => {
           </ul>
         </div>
 
+<<<<<<< HEAD
         {/* O2I Solution */}
         <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
           <h2 className="text-2xl font-semibold mb-4">Outsource2india Solution</h2>
+=======
+        {/* Nimble Acuity Solution */}
+        <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
+          <h2 className="text-2xl font-semibold mb-4">Nimble Acuity Solution</h2>
+>>>>>>> Santhiya
           <ul className="list-disc list-inside space-y-2">
             <li>Allocated adequate and experienced resources for the project.</li>
             <li>Ensured data safety via secure VPN, enterprise antivirus, HIPS, NAC, and domain-level access restrictions.</li>
@@ -62,7 +72,11 @@ const SwedishPhotographyCaseStudy: React.FC = () => {
           <h2 className="text-2xl font-semibold mb-4">Benefits</h2>
           <ul className="list-disc list-inside space-y-2">
             <li>Achieved 60% annual cost savings.</li>
+<<<<<<< HEAD
             <li>Improved efficiency through Outsource2india's training programs.</li>
+=======
+            <li>Improved efficiency through Nimble Acuity's training programs.</li>
+>>>>>>> Santhiya
             <li>Reduced operating costs while maintaining high-quality output.</li>
             <li>Delivered affordable, quality images to customers with quick turnaround times.</li>
           </ul>
@@ -73,7 +87,11 @@ const SwedishPhotographyCaseStudy: React.FC = () => {
       <section className="bg-blue-600 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-semibold mb-4">Sign up for a FREE Trial</h2>
         <p className="max-w-3xl mx-auto mb-6">
+<<<<<<< HEAD
           Experience the quality of our work before outsourcing. Let Outsource2india help you achieve cost-effective and timely image editing solutions.
+=======
+          Experience the quality of our work before outsourcing. Let Nimble Acuity help you achieve cost-effective and timely image editing solutions.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-blue-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Get a Free Quote

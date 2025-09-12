@@ -17,7 +17,11 @@ const InternalAuditServices = () => {
           Are you looking to examine and assess your internal risks and set up an internal audit 
           function for your business? Are you on the lookout for skilled resources who can take 
           care of all your internal audit requirements? Then, the best option for you would be to 
+<<<<<<< HEAD
           outsource <strong>internal audit services</strong> to an experienced internal audit 
+=======
+          Nimble <strong>internal audit services</strong> to an experienced internal audit 
+>>>>>>> Santhiya
           service provider.
         </p>
         <p className="text-gray-700 mb-8">

@@ -10,7 +10,11 @@ const ABMServicesPage: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Account-based Marketing Services
+=======
+          Nimble Account-based Marketing Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto">
           Exceed your sales target with our multi-touch ABM solutions. Contact
@@ -82,7 +86,11 @@ const ABMServicesPage: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-16 px-6 max-w-6xl mx-auto">
         <h2 className="text-3xl font-semibold text-center mb-10">
+<<<<<<< HEAD
           Why Choose O2I for ABM Services?
+=======
+          Why Choose Nimble Acuity for ABM Services?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-3 gap-6">
           {[
@@ -122,7 +130,11 @@ const ABMServicesPage: React.FC = () => {
         <h2 className="text-3xl font-semibold mb-6">Testimonials</h2>
         <blockquote className="italic text-lg max-w-3xl mx-auto text-gray-700">
           “Let me thank you for the professional way in which you are managing
+<<<<<<< HEAD
           the project and meeting our deadlines. Outsource2india has been a
+=======
+          the project and meeting our deadlines. Nimble Acuity has been a
+>>>>>>> Santhiya
           tremendous resource for our team.”
         </blockquote>
         <p className="mt-4 font-semibold">— CEO, Technology Company, UK</p>
@@ -131,7 +143,11 @@ const ABMServicesPage: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-600 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Account-based Marketing Services to O2I
+=======
+          Nimble Account-based Marketing Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="text-lg mb-6 max-w-3xl mx-auto">
           As a premier ABM service provider, we help you generate accurate

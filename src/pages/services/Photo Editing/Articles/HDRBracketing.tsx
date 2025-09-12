@@ -86,7 +86,11 @@ const HDRBracketing: React.FC = () => {
           Shoot HDR Like a Pro
         </h2>
         <p className="max-w-2xl mx-auto mb-6">
+<<<<<<< HEAD
           With exposure and focus bracketing techniques, you can capture high-dynamic-range landscapes and interiors with ease. Outsource2india offers professional photo editing to enhance your HDR images.
+=======
+          With exposure and focus bracketing techniques, you can capture high-dynamic-range landscapes and interiors with ease. Nimble Acuity offers professional photo editing to enhance your HDR images.
+>>>>>>> Santhiya
         </p>
         <button className="px-6 py-3 bg-white text-purple-600 font-semibold rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us for HDR Editing

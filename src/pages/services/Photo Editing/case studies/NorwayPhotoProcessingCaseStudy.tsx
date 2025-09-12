@@ -11,7 +11,11 @@ const NorwayPhotoProcessingCaseStudy: React.FC = () => {
           Image Processing Case Study for a Norwegian Photography Company
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           Outsource2india helped a Norway-based photography company enhance images efficiently across its 13 studios while achieving cost savings and faster turnaround times.
+=======
+          Nimble Acuity helped a Norway-based photography company enhance images efficiently across its 13 studios while achieving cost savings and faster turnaround times.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -28,7 +32,11 @@ const NorwayPhotoProcessingCaseStudy: React.FC = () => {
         <div className="bg-white p-8 shadow-lg rounded-lg">
           <h2 className="text-2xl font-semibold mb-4">The Process</h2>
           <p>
+<<<<<<< HEAD
             The customer uploaded 100–120 folders daily, each containing 35–40 images. Despite the 4-hour time difference, Outsource2india consistently delivered enhanced images 48 hours ahead of the deadline.
+=======
+            The customer uploaded 100–120 folders daily, each containing 35–40 images. Despite the 4-hour time difference, Nimble Acuity consistently delivered enhanced images 48 hours ahead of the deadline.
+>>>>>>> Santhiya
           </p>
           <ul className="list-disc list-inside space-y-2 mt-4">
             <li>Image editing & enhancement</li>
@@ -58,7 +66,11 @@ const NorwayPhotoProcessingCaseStudy: React.FC = () => {
             <li>Quick turnaround: images delivered 48 hours ahead of schedule</li>
             <li>60% increase in sales for the customer</li>
             <li>Management able to focus on core business activities</li>
+<<<<<<< HEAD
             <li>Successful collaboration with onsite visit by O2I team</li>
+=======
+            <li>Successful collaboration with onsite visit by Nimble Acuity team</li>
+>>>>>>> Santhiya
           </ul>
         </div>
       </section>
@@ -67,7 +79,11 @@ const NorwayPhotoProcessingCaseStudy: React.FC = () => {
       <section className="bg-blue-600 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-semibold mb-4">Get Started Today</h2>
         <p className="max-w-3xl mx-auto mb-6">
+<<<<<<< HEAD
           Want your photography studio to gain a competitive edge? Contact Outsource2india to experience cost-effective, high-quality image processing services.
+=======
+          Want your photography studio to gain a competitive edge? Contact Nimble Acuity to experience cost-effective, high-quality image processing services.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-blue-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Now

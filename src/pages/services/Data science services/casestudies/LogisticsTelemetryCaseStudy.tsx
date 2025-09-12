@@ -13,7 +13,11 @@ const LogisticsTelemetryCaseStudy: React.FC = () => {
         {/* Header */}
         <header className="text-center">
           <h1 className="text-4xl font-bold text-gray-900 mb-3">
+<<<<<<< HEAD
             O2I Helped a Logistics and Security Services Company Dynamically Collect Telemetry Data from Vehicles
+=======
+            Nimble Acuity Helped a Logistics and Security Services Company Dynamically Collect Telemetry Data from Vehicles
+>>>>>>> Santhiya
           </h1>
           <p className="text-lg text-gray-600">
             Case Study on Dynamic Data Collection for Logistics Firm
@@ -26,7 +30,11 @@ const LogisticsTelemetryCaseStudy: React.FC = () => {
           <p className="text-gray-700">
             A <strong>global secure logistics, cash management, and security services provider</strong> 
             with revenue over <strong>3.9 billion USD</strong> and more than <strong>1000 fleet vehicles</strong>, 
+<<<<<<< HEAD
             approached Outsource2india for a customized route optimization solution. Operating mainly across 
+=======
+            approached Nimble Acuity for a customized route optimization solution. Operating mainly across 
+>>>>>>> Santhiya
             <strong> North America and Latin America</strong>, the company delivers highly secure assets to 
             over <strong>20,000 retail locations</strong>.
           </p>
@@ -53,7 +61,11 @@ const LogisticsTelemetryCaseStudy: React.FC = () => {
         <section>
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">Our Solution</h2>
           <p className="text-gray-700 mb-3">
+<<<<<<< HEAD
             O2I designed a solution to <strong>capture and process telemetry data in real time</strong> 
+=======
+            Nimble Acuity designed a solution to <strong>capture and process telemetry data in real time</strong> 
+>>>>>>> Santhiya
             using a Big Data cluster. This enabled:
           </p>
           <ul className="list-disc list-inside space-y-2 text-gray-700">
@@ -81,10 +93,17 @@ const LogisticsTelemetryCaseStudy: React.FC = () => {
         {/* CTA */}
         <section className="bg-blue-50 p-6 rounded-2xl shadow-sm">
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">
+<<<<<<< HEAD
             Get Customized Route Optimization Services at Outsource2india
           </h2>
           <p className="text-gray-700 mb-4">
             With over <strong>18 years of industry experience</strong>, Outsource2india is a trusted partner 
+=======
+            Get Customized Route Optimization Services at Nimble Acuity
+          </h2>
+          <p className="text-gray-700 mb-4">
+            With over <strong>18 years of industry experience</strong>, Nimble Acuity is a trusted partner 
+>>>>>>> Santhiya
             for <strong>complex route optimization projects</strong>. We also provide other data science 
             services, including <strong>automatic document classification</strong> and 
             <strong> lead scoring</strong>.

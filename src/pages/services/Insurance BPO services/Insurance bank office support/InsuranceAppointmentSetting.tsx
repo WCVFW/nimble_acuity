@@ -8,7 +8,11 @@ const InsuranceAppointmentSetting: React.FC = () => {
       <Imainmenu/>
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-16 px-6 text-center">
         <h1 className="text-3xl md:text-5xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Appointment Setting Services
+=======
+          Nimble Insurance Appointment Setting Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto">
           Experience the convenience of our reminder system, sending automated
@@ -70,7 +74,11 @@ const InsuranceAppointmentSetting: React.FC = () => {
       {/* Client Testimonial */}
       <section className="max-w-4xl mx-auto py-12 px-6 text-center">
         <blockquote className="italic text-gray-700">
+<<<<<<< HEAD
           “O2I has helped my business by providing a reliable and organized
+=======
+          “Nimble Acuity has helped my business by providing a reliable and organized
+>>>>>>> Santhiya
           back-office team to assist me in my day-to-day activities. They are
           very responsive and their communication is excellent.”
         </blockquote>
@@ -262,11 +270,19 @@ const InsuranceAppointmentSetting: React.FC = () => {
             {
               title:
                 "Maintenance of Insurance Accounts for US-based Insurance Agency",
+<<<<<<< HEAD
               desc: "Why should you outsource insurance services to a professional provider?",
             },
             {
               title:
                 "O2I Provided Insurance Back-office Operations for a Miami-based Client",
+=======
+              desc: "Why should you Nimble insurance services to a professional provider?",
+            },
+            {
+              title:
+                "Nimble Acuity Provided Insurance Back-office Operations for a Miami-based Client",
+>>>>>>> Santhiya
               desc: "Top 6 ways data analytics is transforming the insurance industry.",
             },
           ].map((article, idx) => (
@@ -287,7 +303,11 @@ const InsuranceAppointmentSetting: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-700 text-white text-center py-12 px-6">
         <h2 className="text-2xl md:text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Appointment Setting Services to O2I
+=======
+          Nimble Insurance Appointment Setting Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6 max-w-3xl mx-auto">
           We leverage analytics, CRM technology, and industry expertise to

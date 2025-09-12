@@ -121,7 +121,11 @@ export default function PhotoRestorationUK() {
           Ready to Revive Your Old Photos?
         </h2>
         <p className="mb-6 max-w-2xl mx-auto">
+<<<<<<< HEAD
           Outsource your photo restoration needs to us and experience tailored solutions, quick turnaround, and unmatched quality.
+=======
+          Nimble your photo restoration needs to us and experience tailored solutions, quick turnaround, and unmatched quality.
+>>>>>>> Santhiya
         </p>
         <Button size="lg" variant="secondary" className="rounded-2xl shadow-lg">
           Contact Us Today

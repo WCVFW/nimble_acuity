@@ -11,7 +11,11 @@ const NZBikeClippingCaseStudy: React.FC = () => {
           New Zealand Bike Designers: Image Clipping Case Study
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           How Outsource2india provided high-precision image clipping services for professional bike components to enhance brand growth.
+=======
+          How Nimble Acuity provided high-precision image clipping services for professional bike components to enhance brand growth.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -61,9 +65,15 @@ const NZBikeClippingCaseStudy: React.FC = () => {
 
       {/* Call to Action */}
       <section className="bg-blue-600 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Outsource Image Clipping Services</h2>
         <p className="max-w-3xl mx-auto mb-6">
           Outsource2india is ISO 9001:2015 certified with 26+ years of experience in image editing. We ensure accuracy, confidentiality, and timely delivery for every project.
+=======
+        <h2 className="text-3xl font-semibold mb-4">Nimble Image Clipping Services</h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Nimble Acuity is ISO 9001:2015 certified with 26+ years of experience in image editing. We ensure accuracy, confidentiality, and timely delivery for every project.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-blue-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Today

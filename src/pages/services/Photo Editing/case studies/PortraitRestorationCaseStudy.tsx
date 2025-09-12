@@ -11,7 +11,11 @@ const PortraitRestorationCaseStudy: React.FC = () => {
           Portrait Restoration Services for Australian Client
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           Outsource2india helped an Australian retail merchandising company restore 10,000 images, removing dust, scratches, and imperfections efficiently.
+=======
+          Nimble Acuity helped an Australian retail merchandising company restore 10,000 images, removing dust, scratches, and imperfections efficiently.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -69,9 +73,15 @@ const PortraitRestorationCaseStudy: React.FC = () => {
 
       {/* Call to Action */}
       <section className="bg-green-600 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Outsource Image Restoration Services</h2>
         <p className="max-w-3xl mx-auto mb-6">
           Outsource2india delivers cost-effective and high-quality portrait restoration services globally using expert editors and the latest Adobe Photoshop tools.
+=======
+        <h2 className="text-3xl font-semibold mb-4">Nimble Image Restoration Services</h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Nimble Acuity delivers cost-effective and high-quality portrait restoration services globally using expert editors and the latest Adobe Photoshop tools.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-green-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Today

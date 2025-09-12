@@ -8,11 +8,19 @@ const SupplyChainAnalytics: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Supply Chain Analytics Services
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Reduce operational costs, increase customer satisfaction, sustain
           business challenges, and augment profit with Outsource2india’s supply
+=======
+          Nimble Supply Chain Analytics Services
+        </h1>
+        <p className="max-w-3xl mx-auto text-lg">
+          Reduce operational costs, increase customer satisfaction, sustain
+          business challenges, and augment profit with Nimble Acuity’s supply
+>>>>>>> Santhiya
           chain analytics services.
         </p>
       </section>
@@ -126,7 +134,11 @@ const SupplyChainAnalytics: React.FC = () => {
       {/* CTA Section */}
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Supply Chain Analytics Services to Outsource2india
+=======
+          Nimble Supply Chain Analytics Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           With over two decades of experience, state-of-the-art infrastructure,

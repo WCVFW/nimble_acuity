@@ -10,7 +10,11 @@ const GhostMannequinServices: React.FC = () => {
       <PEMainMenu/>
       <section className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Ghost Mannequin Service
+=======
+          Nimble Ghost Mannequin Service
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg mb-6">
           Streamline your ghost mannequin process, minimize support staff, and
@@ -194,7 +198,11 @@ const GhostMannequinServices: React.FC = () => {
       {/* CTA Section */}
       <section className="py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Ghost Mannequin Services to Us
+=======
+          Nimble Ghost Mannequin Services to Us
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto text-lg mb-6 text-gray-600">
           Deliver well-edited apparel images without the hassle of in-house

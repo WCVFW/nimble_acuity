@@ -42,10 +42,17 @@ const PolicyCheckingAdministration: React.FC = () => {
       <Imainmenu/>
       <section className="text-center space-y-4">
         <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-600 to-green-600 bg-clip-text text-transparent">
+<<<<<<< HEAD
           Outsource Insurance Policy Checking & Administration
         </h1>
         <p className="text-gray-700 text-lg">
           Streamline your policy checking and administration processes with expert support from Outsource2india.
+=======
+          Nimble Insurance Policy Checking & Administration
+        </h1>
+        <p className="text-gray-700 text-lg">
+          Streamline your policy checking and administration processes with expert support from Nimble Acuity.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -79,7 +86,11 @@ const PolicyCheckingAdministration: React.FC = () => {
 
       {/* Benefits Section */}
       <section>
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-6 text-center">Why Choose O2I?</h2>
+=======
+        <h2 className="text-3xl font-semibold mb-6 text-center">Why Choose Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-2 gap-4 text-gray-700">
           {benefits.map((item, idx) => (
             <div key={idx} className="border-l-4 border-blue-600 pl-4 py-2 bg-blue-50 rounded">
@@ -91,7 +102,11 @@ const PolicyCheckingAdministration: React.FC = () => {
 
       {/* Contact CTA */}
       <section className="text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Outsource Policy Checking & Administration</h2>
+=======
+        <h2 className="text-3xl font-semibold mb-4">Nimble Policy Checking & Administration</h2>
+>>>>>>> Santhiya
         <p className="text-gray-700 mb-6">
           Let our experts manage policy checking and administration while you focus on core business operations.
         </p>

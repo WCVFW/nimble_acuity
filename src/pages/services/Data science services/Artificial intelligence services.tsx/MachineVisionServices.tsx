@@ -21,7 +21,11 @@ const MachineVisionServices: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-gradient-to-r from-indigo-600 to-purple-700 text-white py-20 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Machine Vision Services
+=======
+          Nimble Machine Vision Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto mb-6">
           Improve your manufacturing process with AI-driven machine vision.
@@ -38,7 +42,11 @@ const MachineVisionServices: React.FC = () => {
         <p className="text-lg mb-4">
           Machine vision services make factory automation, inspection, barcode
           reading, and packaging workflows seamless. Instead of investing in
+<<<<<<< HEAD
           costly infrastructure, outsource to O2I and reduce costs while gaining
+=======
+          costly infrastructure, Nimble to Nimble Acuity and reduce costs while gaining
+>>>>>>> Santhiya
           access to certified professionals.
         </p>
         <p className="text-lg">
@@ -127,7 +135,11 @@ const MachineVisionServices: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-16 px-6 max-w-5xl mx-auto">
         <h2 className="text-3xl font-bold text-center mb-10">
+<<<<<<< HEAD
           Why Outsource Machine Vision Services to O2I?
+=======
+          Why Nimble Machine Vision Services to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <ul className="space-y-4">
           {[
@@ -157,7 +169,11 @@ const MachineVisionServices: React.FC = () => {
             </CardHeader>
             <CardContent>
               <p>
+<<<<<<< HEAD
                 O2I developed a big data platform for a leading bank, enabling
+=======
+                Nimble Acuity developed a big data platform for a leading bank, enabling
+>>>>>>> Santhiya
                 faster and more accurate document processing.
               </p>
               <Button variant="link" className="mt-3">
@@ -185,7 +201,11 @@ const MachineVisionServices: React.FC = () => {
       {/* Final CTA */}
       <section className="bg-purple-700 text-white py-20 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Computer Vision Services to O2I
+=======
+          Nimble Computer Vision Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           Save costs, improve efficiency, and reduce risks with our AI-driven

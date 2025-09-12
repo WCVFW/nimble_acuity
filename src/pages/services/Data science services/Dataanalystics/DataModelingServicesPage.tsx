@@ -18,7 +18,11 @@ const DataModelingServicesPage: React.FC = () => {
           transition={{ duration: 0.6, ease: "easeOut" as const }}
           className="text-4xl font-bold text-gray-900 mb-6"
         >
+<<<<<<< HEAD
           Outsource Data Modeling Services
+=======
+          Nimble Data Modeling Services
+>>>>>>> Santhiya
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
@@ -76,7 +80,11 @@ const DataModelingServicesPage: React.FC = () => {
           transition={{ duration: 0.6, ease: "easeOut" as const }}
           className="text-3xl font-bold text-center mb-12"
         >
+<<<<<<< HEAD
           Why Choose O2I for Data Modeling Services?
+=======
+          Why Choose Nimble Acuity for Data Modeling Services?
+>>>>>>> Santhiya
         </motion.h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
           {[
@@ -154,7 +162,11 @@ const DataModelingServicesPage: React.FC = () => {
           transition={{ duration: 0.6, ease: "easeOut" as const }}
           className="text-3xl font-bold mb-6"
         >
+<<<<<<< HEAD
           Outsource Data Modeling Services to Outsource2india
+=======
+          Nimble Data Modeling Services to Nimble Acuity
+>>>>>>> Santhiya
         </motion.h2>
         <motion.p
           initial={{ opacity: 0, y: 20 }}

@@ -8,10 +8,17 @@ const BabySwimmingDesignCaseStudy: React.FC = () => {
       <PEMainMenu/>
       <section className="bg-blue-600 text-white py-20 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Baby & Toddler Swimming Coaching Company Outsources Design Manipulation Services to O2I
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           O2I provided high-quality image manipulation services for underwater baby photography, backgrounds, and limb corrections to a global swimming coaching company.
+=======
+          Baby & Toddler Swimming Coaching Company Nimbles Design Manipulation Services to Nimble Acuity
+        </h1>
+        <p className="max-w-3xl mx-auto text-lg">
+          Nimble Acuity provided high-quality image manipulation services for underwater baby photography, backgrounds, and limb corrections to a global swimming coaching company.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -35,13 +42,18 @@ const BabySwimmingDesignCaseStudy: React.FC = () => {
 
         {/* Challenges Faced */}
         <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
+<<<<<<< HEAD
           <h2 className="text-2xl font-semibold mb-4">Challenges Faced by O2I</h2>
+=======
+          <h2 className="text-2xl font-semibold mb-4">Challenges Faced by Nimble Acuity</h2>
+>>>>>>> Santhiya
           <ul className="list-disc list-inside space-y-2">
             <li>High-level design detailing required for background water creation.</li>
             <li>Limb manipulation needed precise edits for each image.</li>
           </ul>
         </div>
 
+<<<<<<< HEAD
         {/* O2I Solution */}
         <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
           <h2 className="text-2xl font-semibold mb-4">O2I's Solution</h2>
@@ -50,6 +62,16 @@ const BabySwimmingDesignCaseStudy: React.FC = () => {
           </p>
           <p className="mt-4">
             After the successful trial, the client visited O2I's delivery center in India and signed a full-time contract for manipulating 45,000 images per month.
+=======
+        {/* Nimble Acuity Solution */}
+        <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
+          <h2 className="text-2xl font-semibold mb-4">Nimble Acuity's Solution</h2>
+          <p>
+            Nimble Acuity conducted a free quality trial. Four folders with nine images each were sent via Dropbox, and two resources worked for a week to complete the trial. Backgrounds were recreated, and elements like baby limbs were manipulated (light, medium, heavy edits). Quality checks were done over two days, and the trial was approved.
+          </p>
+          <p className="mt-4">
+            After the successful trial, the client visited Nimble Acuity's delivery center in India and signed a full-time contract for manipulating 45,000 images per month.
+>>>>>>> Santhiya
           </p>
         </div>
 
@@ -57,7 +79,11 @@ const BabySwimmingDesignCaseStudy: React.FC = () => {
         <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
           <h2 className="text-2xl font-semibold mb-4">Results</h2>
           <p>
+<<<<<<< HEAD
             The client appreciated O2I's cost-effective services, precision manipulation, and quick turnaround time. They also praised the robust infrastructure and professional facilities at O2I.
+=======
+            The client appreciated Nimble Acuity's cost-effective services, precision manipulation, and quick turnaround time. They also praised the robust infrastructure and professional facilities at Nimble Acuity.
+>>>>>>> Santhiya
           </p>
         </div>
       </section>
@@ -66,7 +92,11 @@ const BabySwimmingDesignCaseStudy: React.FC = () => {
       <section className="bg-blue-600 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-semibold mb-4">Sign up for a FREE Trial</h2>
         <p className="max-w-3xl mx-auto mb-6">
+<<<<<<< HEAD
           Experience our high-quality image manipulation services before outsourcing. O2I offers cost-effective and efficient solutions for image editing, creative services, transcription, and more.
+=======
+          Experience our high-quality image manipulation services before outsourcing. Nimble Acuity offers cost-effective and efficient solutions for image editing, creative services, transcription, and more.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-blue-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Get a Free Quote

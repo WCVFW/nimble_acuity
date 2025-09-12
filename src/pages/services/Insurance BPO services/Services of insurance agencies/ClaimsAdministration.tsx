@@ -42,11 +42,19 @@ const ClaimsAdministration: React.FC = () => {
       <Imainmenu/>
       <section className="text-center space-y-4">
         <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-600 to-green-600 bg-clip-text text-transparent">
+<<<<<<< HEAD
           Outsource Insurance Claims Administration Service
         </h1>
         <p className="text-gray-700 text-lg max-w-3xl mx-auto">
           With rising risks, regulatory demands, and cost pressures, outsourcing
           insurance claims management to Outsource2india ensures high-quality,
+=======
+          Nimble Insurance Claims Administration Service
+        </h1>
+        <p className="text-gray-700 text-lg max-w-3xl mx-auto">
+          With rising risks, regulatory demands, and cost pressures, outsourcing
+          insurance claims management to Nimble Acuity ensures high-quality,
+>>>>>>> Santhiya
           fast, and cost-efficient services.
         </p>
       </section>
@@ -100,7 +108,11 @@ const ClaimsAdministration: React.FC = () => {
       {/* Expertise Section */}
       <section>
         <h2 className="text-3xl font-semibold mb-6 text-center">
+<<<<<<< HEAD
           O2I’s Expertise in Claims Management
+=======
+          Nimble Acuity’s Expertise in Claims Management
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 gap-4 text-gray-700">
           {expertise.map((item, idx) => (
@@ -134,11 +146,19 @@ const ClaimsAdministration: React.FC = () => {
       {/* Final CTA */}
       <section className="text-center">
         <h2 className="text-3xl font-semibold mb-4">
+<<<<<<< HEAD
           Partner with Outsource2india
         </h2>
         <p className="text-gray-700 mb-6 max-w-3xl mx-auto">
           With 26+ years of experience and a dedicated claims administration
           team, Outsource2india provides unmatched reliability, compliance, and
+=======
+          Partner with Nimble Acuity
+        </h2>
+        <p className="text-gray-700 mb-6 max-w-3xl mx-auto">
+          With 26+ years of experience and a dedicated claims administration
+          team, Nimble Acuity provides unmatched reliability, compliance, and
+>>>>>>> Santhiya
           cost efficiency for your insurance business.
         </p>
         <button className="px-8 py-4 font-bold rounded-full text-white bg-gradient-to-r from-green-600 to-blue-600 hover:from-blue-600 hover:to-green-600 transition">

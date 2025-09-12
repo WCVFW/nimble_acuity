@@ -11,7 +11,11 @@ const NlpServices: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-20 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource NLP Services
+=======
+          Nimble NLP Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto mb-6">
           Maximize insights and automate customer interactions with our NLP services using neural networks to transform text data. Contact us for AI integration.
@@ -42,7 +46,11 @@ const NlpServices: React.FC = () => {
             </CardHeader>
             <CardContent>
               <p>
+<<<<<<< HEAD
                 Global bank reduced document review time from 8 hours to less than 30 seconds with O2I’s big data platform.
+=======
+                Global bank reduced document review time from 8 hours to less than 30 seconds with Nimble Acuity’s big data platform.
+>>>>>>> Santhiya
               </p>
               <Button variant="link" className="mt-3">Read More</Button>
             </CardContent>
@@ -56,7 +64,11 @@ const NlpServices: React.FC = () => {
         <Card className="max-w-3xl mx-auto">
           <CardContent className="p-6 text-center">
             <p className="italic mb-4">
+<<<<<<< HEAD
               “Working with O2I has been a great experience. They adapted to our requirements and have consistently performed well. A wonderful partner.”
+=======
+              “Working with Nimble Acuity has been a great experience. They adapted to our requirements and have consistently performed well. A wonderful partner.”
+>>>>>>> Santhiya
             </p>
             <p className="font-semibold">Spokesperson, Executive recruitment firm in US</p>
           </CardContent>
@@ -168,7 +180,11 @@ const NlpServices: React.FC = () => {
       {/* Final CTA */}
       <section className="bg-indigo-700 text-white py-20 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Natural Language Processing Services to O2I
+=======
+          Nimble Natural Language Processing Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           Enhance customer experiences, extract valuable insights, and boost decision-making with our NLP services. Contact us today for a consultation.

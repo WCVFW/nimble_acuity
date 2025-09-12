@@ -8,7 +8,11 @@ const MicroeconomicsReports: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-blue-50 py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Microeconomics Reports Services
+=======
+          Nimble Microeconomics Reports Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto">
           Get access to comprehensive microeconomics reports created by
@@ -22,7 +26,11 @@ const MicroeconomicsReports: React.FC = () => {
         <p className="mb-6">
           Are you looking for clarity on microeconomic trends to better guide
           your business decision-making? Do you need authoritative reports at
+<<<<<<< HEAD
           affordable prices to stay competitive? Outsource2india (O2I) provides
+=======
+          affordable prices to stay competitive? Nimble Acuity (Nimble Acuity) provides
+>>>>>>> Santhiya
           a full range of microeconomics reports to help you evaluate production
           costs, market efficiency, competitors, and consumer behavior — giving
           you actionable insights to grow your business.
@@ -68,7 +76,11 @@ const MicroeconomicsReports: React.FC = () => {
       {/* Benefits */}
       <section className="max-w-6xl mx-auto py-12 px-6">
         <h2 className="text-3xl font-bold text-center mb-10">
+<<<<<<< HEAD
           Benefits of Using O2I's Microeconomics Reports
+=======
+          Benefits of Using Nimble Acuity's Microeconomics Reports
+>>>>>>> Santhiya
         </h2>
         <ul className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 list-disc pl-6">
           <li>Stay updated on price formations in specific markets</li>
@@ -110,7 +122,11 @@ const MicroeconomicsReports: React.FC = () => {
       {/* Why Choose Us */}
       <section className="max-w-6xl mx-auto py-12 px-6">
         <h2 className="text-3xl font-bold text-center mb-10">
+<<<<<<< HEAD
           Why Choose Outsource2india?
+=======
+          Why Choose Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
@@ -144,7 +160,11 @@ const MicroeconomicsReports: React.FC = () => {
               Research Report for Top UK-based Headhunting Firm
             </h3>
             <p className="text-sm text-gray-600 mt-2">
+<<<<<<< HEAD
               O2I experts researched and performed due diligence on candidates
+=======
+              Nimble Acuity experts researched and performed due diligence on candidates
+>>>>>>> Santhiya
               using financial magazines, the FSA Register, and company websites,
               delivering a high-quality report.
             </p>
@@ -177,10 +197,17 @@ const MicroeconomicsReports: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-600 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Microeconomics Report Services to O2I
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           Partner with O2I for accurate, insightful, and affordable
+=======
+          Nimble Microeconomics Report Services to Nimble Acuity
+        </h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Partner with Nimble Acuity for accurate, insightful, and affordable
+>>>>>>> Santhiya
           microeconomics reports tailored to your business. Let our experts help
           you make informed decisions.
         </p>

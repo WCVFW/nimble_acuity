@@ -10,10 +10,17 @@ const ReportAutomationServices: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-blue-50 py-16 px-6 text-center">
         <h1 className="text-4xl font-bold text-gray-800 mb-4">
+<<<<<<< HEAD
           Outsource Report Automation Services
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Outsource report automation services to Outsource2india for high-quality outcomes and intelligence that you can depend on. <span className="font-semibold text-blue-600">Prices start at $14/hour</span>.
+=======
+          Nimble Report Automation Services
+        </h1>
+        <p className="text-lg text-gray-600 max-w-3xl mx-auto">
+          Nimble report automation services to Nimble Acuity for high-quality outcomes and intelligence that you can depend on. <span className="font-semibold text-blue-600">Prices start at $14/hour</span>.
+>>>>>>> Santhiya
         </p>
         <div className="mt-6">
           <Button size="lg">Get in Touch</Button>
@@ -82,7 +89,11 @@ const ReportAutomationServices: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-16 px-6 max-w-6xl mx-auto">
         <h2 className="text-3xl font-semibold text-gray-800 text-center mb-12">
+<<<<<<< HEAD
           Why Choose Outsource2india?
+=======
+          Why Choose Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {[
@@ -141,7 +152,11 @@ const ReportAutomationServices: React.FC = () => {
           Ready to Automate Your Reports?
         </h2>
         <p className="text-gray-600 max-w-2xl mx-auto mb-6">
+<<<<<<< HEAD
           Contact us today to outsource report automation services at pocket-friendly prices and transform your reporting workflow.
+=======
+          Contact us today to Nimble report automation services at pocket-friendly prices and transform your reporting workflow.
+>>>>>>> Santhiya
         </p>
         <Button size="lg">Contact Us</Button>
       </section>

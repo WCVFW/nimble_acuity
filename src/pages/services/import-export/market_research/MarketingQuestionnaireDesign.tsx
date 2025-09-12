@@ -126,7 +126,11 @@ export default function MarketingQuestionnaireDesign() {
 
       {/* Advantages Section */}
       <section className="py-16 px-6 max-w-5xl mx-auto">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold text-center mb-12">Why Choose O2I?</h2>
+=======
+        <h2 className="text-3xl font-bold text-center mb-12">Why Choose Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <ul className="space-y-6">
           {[
             "Experienced research professionals with 2-5 years of expertise in survey design.",
@@ -156,7 +160,11 @@ export default function MarketingQuestionnaireDesign() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl font-bold mb-6">Client Case Study</h2>
           <p className="text-gray-700 mb-6">
+<<<<<<< HEAD
             O2I provided real-time news monitoring support for a Japanese food brand. Our team of
+=======
+            Nimble Acuity provided real-time news monitoring support for a Japanese food brand. Our team of
+>>>>>>> Santhiya
             dedicated research associates designed search criteria, questionnaires, and feedback
             forms to track negative news and provide actionable insights quickly.
           </p>
@@ -169,10 +177,17 @@ export default function MarketingQuestionnaireDesign() {
       {/* Final CTA */}
       <section className="bg-gradient-to-r from-purple-600 to-indigo-600 text-white py-20 text-center">
         <h2 className="text-3xl md:text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Transform Your Surveys with O2I
         </h2>
         <p className="max-w-2xl mx-auto mb-6 text-lg">
           Outsource your marketing questionnaire design to O2I and turn surveys into powerful tools
+=======
+          Transform Your Surveys with Nimble Acuity
+        </h2>
+        <p className="max-w-2xl mx-auto mb-6 text-lg">
+          Nimble your marketing questionnaire design to Nimble Acuity and turn surveys into powerful tools
+>>>>>>> Santhiya
           for business growth and market insights.
         </p>
         <Button size="lg" className="bg-white text-purple-700 font-semibold hover:bg-gray-100">

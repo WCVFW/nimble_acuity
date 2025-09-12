@@ -8,7 +8,11 @@ const InsuranceClaimsPC: React.FC = () => {
       <Imainmenu/>
       <section className="bg-blue-900 text-white py-12 px-6 text-center">
         <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Claims Management for Property and Casualty
+=======
+          Nimble Insurance Claims Management for Property and Casualty
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           By outsourcing insurance claims management for property and casualty
@@ -24,11 +28,19 @@ const InsuranceClaimsPC: React.FC = () => {
           serve your customers in a better way, and increase the profitability
           of your business? Are you falling short of resources to handle your
           insurance claims management for property and casualty service needs?
+<<<<<<< HEAD
           Then, it is time to outsource insurance claims management for property
           and casualty to an experienced service provider.
         </p>
         <p>
           Outsource2india is one such service provider who will be a
+=======
+          Then, it is time to Nimble insurance claims management for property
+          and casualty to an experienced service provider.
+        </p>
+        <p>
+          Nimble Acuity is one such service provider who will be a
+>>>>>>> Santhiya
           one-stop-shop for all your property insurance claims management needs.
           Our team comprises some of the most talented and skilled insurance
           claims management experts who can deliver quality services within a
@@ -86,7 +98,11 @@ const InsuranceClaimsPC: React.FC = () => {
       {/* Process */}
       <section className="bg-gray-100 py-10 px-6">
         <h2 className="text-2xl font-semibold text-center mb-6">
+<<<<<<< HEAD
           O2I's Insurance Claims Management Process
+=======
+          Nimble Acuity's Insurance Claims Management Process
+>>>>>>> Santhiya
         </h2>
         <ol className="max-w-4xl mx-auto list-decimal pl-6 space-y-2">
           <li>
@@ -115,7 +131,11 @@ const InsuranceClaimsPC: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-10 px-6 max-w-5xl mx-auto">
         <h2 className="text-2xl font-semibold text-center mb-6">
+<<<<<<< HEAD
           Why Choose O2I for Offshore Insurance Claims Management?
+=======
+          Why Choose Nimble Acuity for Offshore Insurance Claims Management?
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc pl-6 space-y-2">
           <li>Affordable and flexible pricing options</li>
@@ -133,10 +153,17 @@ const InsuranceClaimsPC: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-900 text-white py-12 px-6 text-center">
         <h2 className="text-2xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Claims Management for Property & Casualty to O2I
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           O2I has been a pioneer in providing quality insurance claims
+=======
+          Nimble Insurance Claims Management for Property & Casualty to Nimble Acuity
+        </h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Nimble Acuity has been a pioneer in providing quality insurance claims
+>>>>>>> Santhiya
           management for property and casualty in India and beyond. Get in touch
           with us today to boost efficiency, cut costs, and ensure reliable
           claims management.

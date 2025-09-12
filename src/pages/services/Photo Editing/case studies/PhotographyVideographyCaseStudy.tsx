@@ -11,7 +11,11 @@ const PhotographyVideographyCaseStudy: React.FC = () => {
           Exceptional Photography & Videography Services
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           How Outsource2india helped a reputed freelance photographer expand their services and revenue through professional image and video editing.
+=======
+          How Nimble Acuity helped a reputed freelance photographer expand their services and revenue through professional image and video editing.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -88,7 +92,11 @@ const PhotographyVideographyCaseStudy: React.FC = () => {
 
       {/* CTA Section */}
       <section className="text-center py-16 px-6 bg-gradient-to-r from-orange-500 to-yellow-500 text-white">
+<<<<<<< HEAD
         <h2 className="text-2xl font-semibold mb-4">Outsource Event Photography Services</h2>
+=======
+        <h2 className="text-2xl font-semibold mb-4">Nimble Event Photography Services</h2>
+>>>>>>> Santhiya
         <p className="max-w-2xl mx-auto mb-6">
           Transform mediocre images into remarkable photos. Partner with a service provider with 22+ years of experience.
         </p>

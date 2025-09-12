@@ -11,7 +11,11 @@ const BangladeshiClientCaseStudy: React.FC = () => {
           HDR Blending & Portrait Editing for Bangladeshi Digital Advertising Supplier
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           How Outsource2india delivered high-quality HDR blending and portrait image editing services to streamline workflow and reduce costs.
+=======
+          How Nimble Acuity delivered high-quality HDR blending and portrait image editing services to streamline workflow and reduce costs.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -55,16 +59,26 @@ const BangladeshiClientCaseStudy: React.FC = () => {
         <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
           <h2 className="text-2xl font-semibold mb-4">Results</h2>
           <p>
+<<<<<<< HEAD
             Outsource2india delivered high-quality HDR blended and retouched images on time, reducing client costs and ensuring a smooth workflow. The client was highly satisfied and continued the project with extended scope.
+=======
+            Nimble Acuity delivered high-quality HDR blended and retouched images on time, reducing client costs and ensuring a smooth workflow. The client was highly satisfied and continued the project with extended scope.
+>>>>>>> Santhiya
           </p>
         </div>
       </section>
 
       {/* Call to Action */}
       <section className="bg-green-600 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Outsource HDR Blending & Portrait Editing Services</h2>
         <p className="max-w-3xl mx-auto mb-6">
           Outsource2india is ISO 9001:2015 certified with 26+ years of experience. We guarantee flawless quality, strict adherence to timelines, and full compliance with ISO/IEC 27001:2022 for data security.
+=======
+        <h2 className="text-3xl font-semibold mb-4">Nimble HDR Blending & Portrait Editing Services</h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Nimble Acuity is ISO 9001:2015 certified with 26+ years of experience. We guarantee flawless quality, strict adherence to timelines, and full compliance with ISO/IEC 27001:2022 for data security.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-green-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Today

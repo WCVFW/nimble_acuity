@@ -11,7 +11,11 @@ const NorwayPhotoStitchingCaseStudy: React.FC = () => {
           0.31 KM Long Photo Stitching for Norway-based Photography Company
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           Discover how Outsource2india helped a Norwegian photography company stitch over 300 high-resolution images into a flawless 0.31 KM long panoramic image.
+=======
+          Discover how Nimble Acuity helped a Norwegian photography company stitch over 300 high-resolution images into a flawless 0.31 KM long panoramic image.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -67,9 +71,15 @@ const NorwayPhotoStitchingCaseStudy: React.FC = () => {
 
       {/* Call to Action */}
       <section className="bg-blue-600 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Outsource Your Photo Stitching Today</h2>
         <p className="max-w-3xl mx-auto mb-6">
           Complex photo stitching requires expertise, resources, and precision. Contact Outsource2india to get high-quality, seamless panoramic images for your projects.
+=======
+        <h2 className="text-3xl font-semibold mb-4">Nimble Your Photo Stitching Today</h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Complex photo stitching requires expertise, resources, and precision. Contact Nimble Acuity to get high-quality, seamless panoramic images for your projects.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-blue-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Now

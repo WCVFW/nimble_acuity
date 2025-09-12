@@ -9,7 +9,11 @@ const BusinessDevelopment: React.FC = () => {
       {/* Hero Section */}
       <NavigationMenu/>
       <section className="text-center space-y-4">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold">Outsource Business Development Support Services</h1>
+=======
+        <h1 className="text-4xl font-bold">Nimble Business Development Support Services</h1>
+>>>>>>> Santhiya
         <p className="text-lg text-gray-600">
           Craft expert strategies and detailed plans of action with our professional services. Expand internationally with integrated marketing efforts. 
           <br />Contact us for growth!
@@ -91,7 +95,11 @@ const BusinessDevelopment: React.FC = () => {
 
       {/* Why Choose Us */}
       <section className="bg-gray-50 p-8 rounded-2xl space-y-4">
+<<<<<<< HEAD
         <h2 className="text-2xl font-semibold text-center">Why Choose Outsource2india?</h2>
+=======
+        <h2 className="text-2xl font-semibold text-center">Why Choose Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-2 gap-6">
           <ul className="list-disc pl-6 space-y-2">
             <li>In-depth market understanding</li>
@@ -114,7 +122,11 @@ const BusinessDevelopment: React.FC = () => {
 
       {/* Call to Action */}
       <section className="text-center space-y-4">
+<<<<<<< HEAD
         <h2 className="text-2xl font-semibold">Outsource Business Development for Professional Services</h2>
+=======
+        <h2 className="text-2xl font-semibold">Nimble Business Development for Professional Services</h2>
+>>>>>>> Santhiya
         <p className="text-gray-600 max-w-3xl mx-auto">
           We provide cohesive business development solutions powered by AI-driven analytics, CRM systems, and data visualization tools. 
           Collaborate with us for expert-driven strategies and seamless scalability.

@@ -12,7 +12,11 @@ export default function InsuranceBPOCustomerSupport() {
       <Imainmenu/>
       <section className="bg-blue-900 text-white py-20 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance BPO Customer Support Services
+=======
+          Nimble Insurance BPO Customer Support Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto mb-6">
           Build lasting client relationships with professional, 24/7 customer
@@ -125,7 +129,11 @@ export default function InsuranceBPOCustomerSupport() {
       {/* Benefits Section */}
       <section className="py-16 px-6 max-w-7xl mx-auto">
         <h2 className="text-3xl font-semibold text-center mb-10">
+<<<<<<< HEAD
           Why Choose O2I for Offshore Insurance BPO Support?
+=======
+          Why Choose Nimble Acuity for Offshore Insurance BPO Support?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
@@ -163,7 +171,11 @@ export default function InsuranceBPOCustomerSupport() {
       {/* Final CTA */}
       <section className="py-20 px-6 text-center bg-blue-900 text-white">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance BPO Customer Support Services to Outsource2india
+=======
+          Nimble Insurance BPO Customer Support Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-2xl mx-auto mb-6">
           Reliable, efficient, and cost-effective customer support services with

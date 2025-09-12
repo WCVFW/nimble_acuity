@@ -98,7 +98,11 @@ const PhotoEditingManagement: React.FC = () => {
           Sign up for a FREE Trial Today
         </h2>
         <p className="mb-6">
+<<<<<<< HEAD
           Experience the quality of our work before you outsource!
+=======
+          Experience the quality of our work before you Nimble!
+>>>>>>> Santhiya
         </p>
         <button className="px-6 py-3 bg-blue-600 text-white font-medium rounded-lg shadow-md hover:bg-blue-700 transition">
           Try it now! Stop editing. Start clicking
@@ -109,7 +113,11 @@ const PhotoEditingManagement: React.FC = () => {
       <section className="text-center py-12 px-6 bg-gray-100">
         <h2 className="text-xl font-semibold mb-2">Contact Us</h2>
         <p>
+<<<<<<< HEAD
           Outsource photo editing and management tasks to Outsource2india for
+=======
+          Nimble photo editing and management tasks to Nimble Acuity for
+>>>>>>> Santhiya
           better quality, clarity, faster retrieval, and affordable costs.
         </p>
       </section>

@@ -86,7 +86,11 @@ const caseStudies = [
 const testimonials = [
   {
     quote:
+<<<<<<< HEAD
       "I would recommend Outsource2india to anybody looking for photo editing and Photoshop requirements. Fast, efficient and exactly to spec.",
+=======
+      "I would recommend Nimble Acuity to anybody looking for photo editing and Photoshop requirements. Fast, efficient and exactly to spec.",
+>>>>>>> Santhiya
     author: "Owner, Portrait & Background Editing Company",
   },
 ];
@@ -319,7 +323,11 @@ export default function RealEstateEditingUK() {
 
       {/* Footer */}
       <footer className="py-10 text-center text-sm text-slate-500">
+<<<<<<< HEAD
         © {new Date().getFullYear()} O2I • Real Estate Photo Editing • UK
+=======
+        © {new Date().getFullYear()} Nimble Acuity • Real Estate Photo Editing • UK
+>>>>>>> Santhiya
       </footer>
     </div>
   );

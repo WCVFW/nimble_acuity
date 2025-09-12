@@ -8,7 +8,11 @@ const InsuranceServicesMGA: React.FC = () => {
       <Imainmenu/>
       <section className="bg-blue-900 text-white py-12 px-6 text-center">
         <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Services for MGAs
+=======
+          Nimble Insurance Services for MGAs
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Adapt to change, capitalize on new opportunities, and accelerate growth with our insurance services for Managing General Agents (MGAs).
@@ -142,7 +146,11 @@ const InsuranceServicesMGA: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-900 text-white py-12 px-6 text-center">
         <h2 className="text-2xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Services for MGAs Today
+=======
+          Nimble Insurance Services for MGAs Today
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           Streamline policy issuance and renewals, automate tasks, improve compliance, and maximize revenues. Get in touch to leverage our customized MGA services.

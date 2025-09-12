@@ -21,7 +21,11 @@ const HyperautomationServices: React.FC = () => {
       <DSMainMenu/>
       <section className="text-center space-y-6">
         <h1 className="text-4xl md:text-5xl font-bold text-gray-900">
+<<<<<<< HEAD
           Outsource Hyperautomation Services
+=======
+          Nimble Hyperautomation Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Automate processes and foster team collaboration with our innovative
@@ -40,7 +44,11 @@ const HyperautomationServices: React.FC = () => {
           enhance the scalability of your workflows?
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india is one of the leading providers of Hyperautomation
+=======
+          Nimble Acuity is one of the leading providers of Hyperautomation
+>>>>>>> Santhiya
           solutions with years of industry experience. We leverage highly
           advanced tools and have a team of skilled data scientists and expert
           developers who ensure flexible, scalable, and easy-to-implement
@@ -129,7 +137,11 @@ const HyperautomationServices: React.FC = () => {
       {/* Why Choose Us */}
       <section className="space-y-10">
         <h2 className="text-3xl font-semibold text-gray-800 text-center">
+<<<<<<< HEAD
           Why Choose O2I for Hyperautomation?
+=======
+          Why Choose Nimble Acuity for Hyperautomation?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
           {[
@@ -205,7 +217,11 @@ const HyperautomationServices: React.FC = () => {
       <section className="text-center bg-gradient-to-r from-blue-600 to-indigo-600 py-12 rounded-2xl text-white space-y-6">
         <h2 className="text-3xl font-bold">Boost Your Process Efficiency</h2>
         <p className="max-w-2xl mx-auto text-lg">
+<<<<<<< HEAD
           Harness multiple technologies to achieve end-to-end automation. Automate processes beyond point solutions and build robust enterprise automation strategies with Outsource2india.
+=======
+          Harness multiple technologies to achieve end-to-end automation. Automate processes beyond point solutions and build robust enterprise automation strategies with Nimble Acuity.
+>>>>>>> Santhiya
         </p>
         <button className="px-8 py-4 bg-white text-blue-700 rounded-xl font-semibold shadow-md hover:bg-gray-100 transition">
           Get Started Today

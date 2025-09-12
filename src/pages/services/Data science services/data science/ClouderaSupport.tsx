@@ -114,7 +114,11 @@ const ClouderaSupport: React.FC = () => {
         <DSMainMenu/>
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-gray-900">
+<<<<<<< HEAD
             Outsource Cloudera Support Services
+=======
+            Nimble Cloudera Support Services
+>>>>>>> Santhiya
           </h2>
           <p className="mt-4 text-lg text-gray-600 max-w-3xl mx-auto">
             Get access to the latest big data technologies and build real-world
@@ -143,7 +147,11 @@ const ClouderaSupport: React.FC = () => {
 
         {/* Benefits */}
         <h3 className="text-2xl font-bold text-gray-900 mb-6 text-center">
+<<<<<<< HEAD
           Why Choose O2I for Cloudera Support?
+=======
+          Why Choose Nimble Acuity for Cloudera Support?
+>>>>>>> Santhiya
         </h3>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
           {benefits.map((benefit, idx) => (

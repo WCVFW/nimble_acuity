@@ -11,7 +11,11 @@ export default function UnderwritingPCInsurancePage() {
       <Imainmenu/>
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h1 className="text-44xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Underwriting for Property and Casualty Insurance Services
+=======
+          Nimble Underwriting for Property and Casualty Insurance Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg mb-6">
           Streamline, automate, and scale underwriting with expert P&C insurance services that ensure compliance and improve customer experience.
@@ -27,7 +31,11 @@ export default function UnderwritingPCInsurancePage() {
           Underwriting Services for Property and Casualty Insurance
         </h2>
         <p>
+<<<<<<< HEAD
           Outsource2india helps insurers improve agility, reduce costs, and enhance customer loyalty through streamlined underwriting services for P&C insurance.
+=======
+          Nimble Acuity helps insurers improve agility, reduce costs, and enhance customer loyalty through streamlined underwriting services for P&C insurance.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -117,7 +125,11 @@ export default function UnderwritingPCInsurancePage() {
       {/* Why Choose Us */}
       <section className="py-12 px-6 max-w-6xl mx-auto">
         <h2 className="text-3xl font-bold text-center mb-10">
+<<<<<<< HEAD
           Why Choose O2I for P&C Underwriting?
+=======
+          Why Choose Nimble Acuity for P&C Underwriting?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-3 gap-6">
           {[
@@ -143,7 +155,11 @@ export default function UnderwritingPCInsurancePage() {
       {/* Final CTA */}
       <section className="bg-blue-900 text-white text-center py-16 px-6">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Underwriting for Property and Casualty Insurance to O2I
+=======
+          Nimble Underwriting for Property and Casualty Insurance to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-2xl mx-auto mb-6">
           Get reliable, cost-effective, and efficient P&C underwriting services with our expert team. Contact us today!

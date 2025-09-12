@@ -71,7 +71,11 @@ export default function RealEstateMarketResearch() {
       <NavigationMenu/>
       <section className="text-center space-y-6">
         <motion.h1 initial={{ opacity: 0, y: -16 }} animate={{ opacity: 1, y: 0 }} className="text-4xl font-bold">
+<<<<<<< HEAD
           Outsource Real Estate Market Research Services
+=======
+          Nimble Real Estate Market Research Services
+>>>>>>> Santhiya
         </motion.h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Get up-to-date market data, meticulously analyzed to generate insightful reports with our comprehensive real estate market research services.

@@ -9,10 +9,17 @@ const BusinessProcessingCaseStudy: React.FC = () => {
       <section className="bg-green-50 py-16">
         <div className="max-w-5xl mx-auto px-4 text-center">
           <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
             Outsource2india Provided Business Processing Services to an Insurance Firm
           </h1>
           <p className="text-lg text-gray-700">
             Case study highlighting how O2I efficiently handled policy checking, new sales processing, and client notifications for a California-based insurance firm.
+=======
+            Nimble Acuity Provided Business Processing Services to an Insurance Firm
+          </h1>
+          <p className="text-lg text-gray-700">
+            Case study highlighting how Nimble Acuity efficiently handled policy checking, new sales processing, and client notifications for a California-based insurance firm.
+>>>>>>> Santhiya
           </p>
         </div>
       </section>
@@ -49,7 +56,11 @@ const BusinessProcessingCaseStudy: React.FC = () => {
         <div className="max-w-5xl mx-auto px-4 space-y-4 text-gray-700">
           <h2 className="text-3xl font-bold mb-4">The Solution</h2>
           <p>
+<<<<<<< HEAD
             O2I hired and deployed skilled resources who quickly understood the client’s processes. A standard operating procedure (SOP) was established to ensure smooth, hassle-free project execution.
+=======
+            Nimble Acuity hired and deployed skilled resources who quickly understood the client’s processes. A standard operating procedure (SOP) was established to ensure smooth, hassle-free project execution.
+>>>>>>> Santhiya
           </p>
         </div>
       </section>
@@ -67,10 +78,17 @@ const BusinessProcessingCaseStudy: React.FC = () => {
       {/* CTA */}
       <section className="bg-green-600 py-16 text-white text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Business Processing Services to Outsource2india
         </h2>
         <p className="mb-6 max-w-2xl mx-auto">
           O2I provides reliable and cost-effective insurance business processing services, leveraging skilled experts and advanced tools to deliver high-quality outcomes. We help clients streamline operations while saving time and costs.
+=======
+          Nimble Business Processing Services to Nimble Acuity
+        </h2>
+        <p className="mb-6 max-w-2xl mx-auto">
+          Nimble Acuity provides reliable and cost-effective insurance business processing services, leveraging skilled experts and advanced tools to deliver high-quality outcomes. We help clients streamline operations while saving time and costs.
+>>>>>>> Santhiya
         </p>
         <a
           href="/contact"

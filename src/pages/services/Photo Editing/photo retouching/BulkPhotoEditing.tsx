@@ -8,7 +8,11 @@ const BulkPhotoEditing: React.FC = () => {
       <PEMainMenu/>
       <section className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Bulk Photo Editing Service
+=======
+          Nimble Bulk Photo Editing Service
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Leverage our streamlined processes, AI-powered tools, and
@@ -174,7 +178,11 @@ const BulkPhotoEditing: React.FC = () => {
       {/* Call to Action */}
       <section className="bg-gradient-to-r from-purple-600 to-indigo-600 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Bulk Photo Editing Services to Us
+=======
+          Nimble Bulk Photo Editing Services to Us
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-2xl mx-auto mb-6 text-lg">
           Save up to <span className="font-semibold">60% on overheads</span>.

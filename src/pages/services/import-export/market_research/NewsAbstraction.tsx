@@ -7,9 +7,15 @@ const NewsAbstraction: React.FC = () => {
       {/* Hero Section */}
       <NavigationMenu/>
       <section className="text-center space-y-4">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold">Outsource News Abstraction Services</h1>
         <p className="text-lg text-gray-700 max-w-3xl mx-auto">
           Outsource2india helps clients curate data from all possible sources to deliver 
+=======
+        <h1 className="text-4xl font-bold">Nimble News Abstraction Services</h1>
+        <p className="text-lg text-gray-700 max-w-3xl mx-auto">
+          Nimble Acuity helps clients curate data from all possible sources to deliver 
+>>>>>>> Santhiya
           the right data at the right time. By simplifying the exhaustive process of 
           data abstraction, we provide neatly compiled and customized reports of the latest 
           market trends, industry news, economic updates, and trade developments.
@@ -89,7 +95,11 @@ const NewsAbstraction: React.FC = () => {
       {/* Benefits */}
       <section className="space-y-4">
         <h2 className="text-2xl font-semibold">
+<<<<<<< HEAD
           Benefits of Outsourcing News Abstraction to O2I
+=======
+          Benefits of Outsourcing News Abstraction to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc list-inside text-gray-700 space-y-1">
           <li>Expertise across multiple industries – Pharma, Finance, Retail, Telecom, BFSI, Oil & Gas, and more.</li>
@@ -104,10 +114,17 @@ const NewsAbstraction: React.FC = () => {
       {/* CTA Section */}
       <section className="text-center space-y-4">
         <h2 className="text-2xl font-bold">
+<<<<<<< HEAD
           Contact O2I to Outsource News Abstraction Services
         </h2>
         <p className="text-gray-700 max-w-2xl mx-auto">
           With 26+ years of experience in research services, Outsource2india is a trusted 
+=======
+          Contact Nimble Acuity to Nimble News Abstraction Services
+        </h2>
+        <p className="text-gray-700 max-w-2xl mx-auto">
+          With 26+ years of experience in research services, Nimble Acuity is a trusted 
+>>>>>>> Santhiya
           provider of news abstraction and newsletter creation services. Our expert team 
           delivers curated insights that keep your business informed, efficient, and competitive.
         </p>

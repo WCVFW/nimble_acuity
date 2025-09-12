@@ -58,7 +58,11 @@ const PhotoRestorationProcess: React.FC = () => {
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Preserve memories, revive history, and recreate old photographs with
+<<<<<<< HEAD
           Outsource2india’s expert digital photo restoration services.
+=======
+          Nimble Acuity’s expert digital photo restoration services.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -91,7 +95,11 @@ const PhotoRestorationProcess: React.FC = () => {
       {/* Process Section */}
       <section className="py-16 px-6 bg-gray-50">
         <h2 className="text-2xl font-semibold text-center mb-10">
+<<<<<<< HEAD
           Photo Restoration Process at Outsource2india
+=======
+          Photo Restoration Process at Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <div className="max-w-5xl mx-auto space-y-8">
           {steps.map((s, idx) => (
@@ -111,7 +119,11 @@ const PhotoRestorationProcess: React.FC = () => {
       {/* CTA Section */}
       <section className="bg-purple-600 text-white py-16 px-6 text-center">
         <h2 className="text-2xl md:text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Photo Restoration Services to Outsource2india
+=======
+          Nimble Photo Restoration Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-2xl mx-auto mb-6">
           Our skilled editors specialize in restoring old images with precision

@@ -10,7 +10,11 @@ const DeepLearning: React.FC = () => {
       {/* Hero */}
       <DSMainMenu/>
       <section className="bg-gradient-to-r from-indigo-700 to-purple-700 text-white py-20 px-6 text-center">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold mb-4">Outsource Deep Learning Services</h1>
+=======
+        <h1 className="text-4xl font-bold mb-4">Nimble Deep Learning Services</h1>
+>>>>>>> Santhiya
         <p className="text-lg max-w-3xl mx-auto mb-6">
           Tackle data privacy, manage computational needs, and mitigate model bias with our deep
           learning services. Contact us for efficient automation with intelligence.
@@ -152,7 +156,11 @@ const DeepLearning: React.FC = () => {
 
       {/* CTA */}
       <section className="py-20 px-6 bg-indigo-700 text-white text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold mb-4">Outsource Deep Learning Services to O2I</h2>
+=======
+        <h2 className="text-3xl font-bold mb-4">Nimble Deep Learning Services to Nimble Acuity</h2>
+>>>>>>> Santhiya
         <p className="max-w-3xl mx-auto mb-6">
           Opting for our deep learning services will help you overcome technical challenges and move
           towards efficient innovation. Our expertise in advanced algorithms, large datasets, and

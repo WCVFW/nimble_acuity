@@ -122,6 +122,7 @@ const RpaChatbots: React.FC = () => {
           </div>
         </div>
 
+<<<<<<< HEAD
         {/* O2I Section */}
         <div className="mt-12 bg-blue-50 border border-blue-200 rounded-xl p-6">
           <h2 className="text-2xl font-semibold text-blue-800 mb-3">
@@ -129,6 +130,15 @@ const RpaChatbots: React.FC = () => {
           </h2>
           <p className="text-gray-700 mb-4">
             With extensive experience across industries, Outsource2india delivers
+=======
+        {/* Nimble Acuity Section */}
+        <div className="mt-12 bg-blue-50 border border-blue-200 rounded-xl p-6">
+          <h2 className="text-2xl font-semibold text-blue-800 mb-3">
+            Nimble Your Chatbot Development to Nimble Acuity
+          </h2>
+          <p className="text-gray-700 mb-4">
+            With extensive experience across industries, Nimble Acuity delivers
+>>>>>>> Santhiya
             innovative AI-powered apps and chatbot solutions. Our ISO-certified
             teams specialize in mobile and software development, data science,
             and CPA services, ensuring top-quality custom solutions.

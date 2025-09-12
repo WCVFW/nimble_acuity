@@ -8,11 +8,19 @@ const InsuranceUnderwriting: React.FC = () => {
       <Imainmenu/>
       <section className="bg-blue-700 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Underwriting Services
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Bolster risk management, and aggregate and analyze insurance loss runs
           and exposure data with O2I's underwriting services. Prices start at{" "}
+=======
+          Nimble Insurance Underwriting Services
+        </h1>
+        <p className="max-w-3xl mx-auto text-lg">
+          Bolster risk management, and aggregate and analyze insurance loss runs
+          and exposure data with Nimble Acuity's underwriting services. Prices start at{" "}
+>>>>>>> Santhiya
           <span className="font-semibold">$8/hour</span>.
         </p>
       </section>
@@ -23,7 +31,11 @@ const InsuranceUnderwriting: React.FC = () => {
           Underwriting is a common practice in commercial, insurance, and
           investment banking. In the insurance business, underwriters determine
           whether an agency should take on the risk of insuring a client. With
+<<<<<<< HEAD
           O2I's underwriting services, you can effectively eliminate undue
+=======
+          Nimble Acuity's underwriting services, you can effectively eliminate undue
+>>>>>>> Santhiya
           risks, optimize quotations, and save up to{" "}
           <span className="font-semibold">80% of time</span> and{" "}
           <span className="font-semibold">50% of costs</span>.
@@ -107,7 +119,11 @@ const InsuranceUnderwriting: React.FC = () => {
       {/* Why Choose Us */}
       <section className="max-w-6xl mx-auto py-12 px-6">
         <h2 className="text-3xl font-bold mb-8 text-center">
+<<<<<<< HEAD
           Why Outsource Insurance Underwriting Services to O2I?
+=======
+          Why Nimble Insurance Underwriting Services to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <ul className="max-w-4xl mx-auto list-disc list-inside space-y-3 text-lg text-gray-700">
           <li>
@@ -137,7 +153,11 @@ const InsuranceUnderwriting: React.FC = () => {
       <section className="bg-blue-50 py-12 px-6 text-center">
         <h2 className="text-3xl font-bold mb-8">Testimonials</h2>
         <blockquote className="max-w-3xl mx-auto text-lg italic">
+<<<<<<< HEAD
           “We enjoy working with Outsource2india and find the team very
+=======
+          “We enjoy working with Nimble Acuity and find the team very
+>>>>>>> Santhiya
           responsive and detail oriented when it comes to following our policy
           checking instructions and identifying new forms.”
         </blockquote>
@@ -175,7 +195,11 @@ const InsuranceUnderwriting: React.FC = () => {
       {/* Final CTA */}
       <section className="bg-blue-700 text-white py-16 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Underwriting Services to Outsource2India
+=======
+          Nimble Insurance Underwriting Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6 text-lg">
           Our underwriting and risk disclosure approach sets us apart. Partner

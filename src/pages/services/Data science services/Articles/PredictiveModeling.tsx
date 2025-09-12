@@ -8,7 +8,11 @@ const PredictiveModeling: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-indigo-900 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Predictive Modeling and its Applications
+=======
+          Nimble Predictive Modeling and its Applications
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Harness the power of predictive modeling to analyze historical and
@@ -115,12 +119,20 @@ const PredictiveModeling: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-12 px-6 max-w-5xl mx-auto">
         <h2 className="text-3xl font-semibold text-center mb-6">
+<<<<<<< HEAD
           Choose the Right Predictive Model with Outsource2india
+=======
+          Choose the Right Predictive Model with Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="mb-4 text-gray-700">
           While many predictive models exist, choosing the most appropriate one
           for your business is often a challenge. Our expert analysts at
+<<<<<<< HEAD
           Outsource2india follow a structured process:
+=======
+          Nimble Acuity follow a structured process:
+>>>>>>> Santhiya
         </p>
         <ol className="list-decimal pl-6 space-y-2 text-gray-700">
           <li>Conduct a data audit to sanitize and prepare your data.</li>

@@ -16,7 +16,11 @@ const ElectricalContractorsAccounting = () => {
         Are you finding it difficult to focus on your electrical jobs because you have to deal with accounting requirements? Looking to spend less time on your books and more on your core electrical contracting work to enhance profits and cut costs? Nimble Acuity provides reliable and expert accounting services to help you stay compliant and focused.
       </p>
       <p className="mb-6 text-gray-700">
+<<<<<<< HEAD
         With over 6 years of experience, we have helped countless electrical contracting firms streamline accounting, reduce costs, and focus on growing their business. Outsource your accounting needs to us and benefit from seasoned accountants managing your books efficiently.
+=======
+        With over 6 years of experience, we have helped countless electrical contracting firms streamline accounting, reduce costs, and focus on growing their business. Nimble your accounting needs to us and benefit from seasoned accountants managing your books efficiently.
+>>>>>>> Santhiya
       </p>
 
       {/* Services Offered */}
@@ -56,7 +60,11 @@ const ElectricalContractorsAccounting = () => {
         Nimble Acuity is a trusted accounting partner for electrical contractors. Our services ensure you receive expert financial management while focusing on your core business activities.
       </p>
       <p className="mt-4 text-gray-700">
+<<<<<<< HEAD
         Contact us today to outsource your accounting requirements and partner with professionals dedicated to your success.
+=======
+        Contact us today to Nimble your accounting requirements and partner with professionals dedicated to your success.
+>>>>>>> Santhiya
       </p>
     </div>
   );

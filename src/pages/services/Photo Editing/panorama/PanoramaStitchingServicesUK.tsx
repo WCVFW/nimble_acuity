@@ -33,7 +33,11 @@ export default function PanoramaStitchingServicesUK() {
           <motion.div initial="hidden" animate="show" variants={fadeIn} className="max-w-3xl">
             <Badge className="mb-4 text-sm">360° Panorama Photo Stitching – UK</Badge>
             <h1 className="text-4xl font-bold leading-tight tracking-tight sm:text-5xl">
+<<<<<<< HEAD
               Outsource 360 Degree Panorama Photo Stitching Services
+=======
+              Nimble 360 Degree Panorama Photo Stitching Services
+>>>>>>> Santhiya
             </h1>
             <p className="mt-4 text-lg text-slate-600">
               Create realistic panoramic views to market your offerings, intrigue your target audience, and enhance engagement with our 360° panorama stitching services.
@@ -58,7 +62,11 @@ export default function PanoramaStitchingServicesUK() {
           <div className="grid gap-6 md:grid-cols-2">
             <Card className="overflow-hidden rounded-2xl">
               <CardHeader>
+<<<<<<< HEAD
                 <CardTitle className="flex items-center gap-2"><ImageIcon className="h-5 w-5" /> Why Outsource?</CardTitle>
+=======
+                <CardTitle className="flex items-center gap-2"><ImageIcon className="h-5 w-5" /> Why Nimble?</CardTitle>
+>>>>>>> Santhiya
               </CardHeader>
               <CardContent className="text-slate-600">
                 <p>
@@ -218,7 +226,11 @@ export default function PanoramaStitchingServicesUK() {
         <div className="grid gap-6 md:grid-cols-5">
           <Card className="md:col-span-3 rounded-2xl">
             <CardHeader>
+<<<<<<< HEAD
               <CardTitle className="text-2xl">Outsource 360° Panorama Photo Stitching Services</CardTitle>
+=======
+              <CardTitle className="text-2xl">Nimble 360° Panorama Photo Stitching Services</CardTitle>
+>>>>>>> Santhiya
             </CardHeader>
             <CardContent className="text-slate-600">
               <p>
@@ -252,7 +264,11 @@ export default function PanoramaStitchingServicesUK() {
       <footer className="border-t">
         <div className="mx-auto max-w-7xl px-6 py-8 text-sm text-slate-500">
           <div className="flex flex-wrap items-center justify-between gap-3">
+<<<<<<< HEAD
             <div className="flex items-center gap-2"><Layers className="h-4 w-4" /> O2I – 360° Panorama Stitching</div>
+=======
+            <div className="flex items-center gap-2"><Layers className="h-4 w-4" /> Nimble Acuity – 360° Panorama Stitching</div>
+>>>>>>> Santhiya
             <div className="flex gap-4">
               <a className="hover:text-slate-800" href="#">Privacy</a>
               <a className="hover:text-slate-800" href="#">Security</a>

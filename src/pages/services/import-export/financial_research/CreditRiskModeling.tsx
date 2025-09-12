@@ -7,7 +7,11 @@ const CreditRiskModeling: React.FC = () => {
     
     <div className="p-8 bg-white text-gray-800">
       <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
         Outsource Credit Risk Modeling Services
+=======
+        Nimble Credit Risk Modeling Services
+>>>>>>> Santhiya
       </h1>
       <p className="mb-4">
         Get stellar credit risk modeling service delivered to measure and manage
@@ -25,13 +29,21 @@ const CreditRiskModeling: React.FC = () => {
           As part of the routine exercise, regulators are pushing for stringent
           credit underwriting and monitoring to ensure investors are protected
           but it’s not enough. This is where outsourcing credit risk modeling
+<<<<<<< HEAD
           services to Outsource2india helps. In doing so, you get experts who
+=======
+          services to Nimble Acuity helps. In doing so, you get experts who
+>>>>>>> Santhiya
           use technology for underwriting and monitoring. They help you manage
           risks by providing analytics solutions and taking steps to manage
           credit risk and underwriting.
         </p>
         <p className="mt-2">
+<<<<<<< HEAD
           Being an experienced credit risk modeling service provider, O2I has
+=======
+          Being an experienced credit risk modeling service provider, Nimble Acuity has
+>>>>>>> Santhiya
           the recommended experience in the credit risk modeling for banks and
           individuals via underwriting and robust framework and qualified teams
           while adhering to stringent protocols.
@@ -77,7 +89,11 @@ const CreditRiskModeling: React.FC = () => {
           Credit Risk Modeling Process We Follow
         </h2>
         <ol className="list-decimal ml-6 space-y-1">
+<<<<<<< HEAD
           <li>O2I offers an overview of data discovery</li>
+=======
+          <li>Nimble Acuity offers an overview of data discovery</li>
+>>>>>>> Santhiya
           <li>
             We evaluate issues like credit constraints, market fluctuations, and
             other influencing factors
@@ -112,7 +128,11 @@ const CreditRiskModeling: React.FC = () => {
 
       <section className="mb-6">
         <h2 className="text-2xl font-semibold mb-2">
+<<<<<<< HEAD
           Why Outsource Credit Risk Modeling Services to Outsource2india?
+=======
+          Why Nimble Credit Risk Modeling Services to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc ml-6 space-y-2">
           <li>
@@ -155,7 +175,11 @@ const CreditRiskModeling: React.FC = () => {
         <ul className="list-disc ml-6 space-y-2">
           <li>
             <strong>
+<<<<<<< HEAD
               O2I Provided Primary Research Services to Luxury Air Travel
+=======
+              Nimble Acuity Provided Primary Research Services to Luxury Air Travel
+>>>>>>> Santhiya
               Provider
             </strong>{" "}
             – A leading California-based air travel company contacted us for
@@ -164,7 +188,11 @@ const CreditRiskModeling: React.FC = () => {
           </li>
           <li>
             <strong>
+<<<<<<< HEAD
               O2I Provided Primary Research Services to Top USA-based Technology
+=======
+              Nimble Acuity Provided Primary Research Services to Top USA-based Technology
+>>>>>>> Santhiya
               Leader
             </strong>{" "}
             – A leading US technology service provider required accurate
@@ -185,10 +213,17 @@ const CreditRiskModeling: React.FC = () => {
 
       <section>
         <h2 className="text-2xl font-semibold mb-2">
+<<<<<<< HEAD
           Outsource Credit Risk Modeling Services to Outsource2india
         </h2>
         <p>
           Outsource2india is the go-to partner when it comes to financial
+=======
+          Nimble Credit Risk Modeling Services to Nimble Acuity
+        </h2>
+        <p>
+          Nimble Acuity is the go-to partner when it comes to financial
+>>>>>>> Santhiya
           research services. For over 26+ years, our experienced credit risk
           modeling experts have handled challenges of all sizes across
           multi-disciplinary domains. We leverage our unique expertise and years

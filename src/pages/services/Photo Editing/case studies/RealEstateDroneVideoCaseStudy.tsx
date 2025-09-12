@@ -11,7 +11,11 @@ const RealEstateDroneVideoCaseStudy: React.FC = () => {
           Real Estate Drone Video Editing for European Client
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           O2I provided cost-effective and high-quality drone video editing services, helping a European real estate client clear their backlog efficiently.
+=======
+          Nimble Acuity provided cost-effective and high-quality drone video editing services, helping a European real estate client clear their backlog efficiently.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -43,9 +47,15 @@ const RealEstateDroneVideoCaseStudy: React.FC = () => {
           </ul>
         </div>
 
+<<<<<<< HEAD
         {/* O2I Solution */}
         <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
           <h2 className="text-2xl font-semibold mb-4">O2I's Solution</h2>
+=======
+        {/* Nimble Acuity Solution */}
+        <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
+          <h2 className="text-2xl font-semibold mb-4">Nimble Acuity's Solution</h2>
+>>>>>>> Santhiya
           <ul className="list-disc list-inside space-y-2">
             <li>Provided a free trial for the client to assess performance.</li>
             <li>Assigned two dedicated resources for fast and accurate video editing.</li>
@@ -58,7 +68,11 @@ const RealEstateDroneVideoCaseStudy: React.FC = () => {
         <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
           <h2 className="text-2xl font-semibold mb-4">Results</h2>
           <p>
+<<<<<<< HEAD
             O2I successfully edited and delivered one batch of videos every 24 hours, clearing the client’s backlog. Videos met the expected quality benchmark with over 98% accuracy. The client outsourced an additional 50 real estate videos, establishing a long-term partnership and reducing in-house costs by nearly 50%.
+=======
+            Nimble Acuity successfully edited and delivered one batch of videos every 24 hours, clearing the client’s backlog. Videos met the expected quality benchmark with over 98% accuracy. The client Nimbled an additional 50 real estate videos, establishing a long-term partnership and reducing in-house costs by nearly 50%.
+>>>>>>> Santhiya
           </p>
         </div>
       </section>
@@ -67,7 +81,11 @@ const RealEstateDroneVideoCaseStudy: React.FC = () => {
       <section className="bg-green-600 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-semibold mb-4">Sign up for a FREE Trial</h2>
         <p className="max-w-3xl mx-auto mb-6">
+<<<<<<< HEAD
           Experience our professional drone video editing services before outsourcing. Let O2I help you deliver high-quality, cost-effective video content for your business.
+=======
+          Experience our professional drone video editing services before outsourcing. Let Nimble Acuity help you deliver high-quality, cost-effective video content for your business.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-green-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Get a Free Quote

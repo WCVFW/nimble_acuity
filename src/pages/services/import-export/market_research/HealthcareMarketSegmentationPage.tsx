@@ -17,7 +17,11 @@ export default function HealthcareMarketSegmentationPage() {
           transition={{ duration: 0.6 }}
           className="text-4xl md:text-5xl font-bold mb-6"
         >
+<<<<<<< HEAD
           Outsource Healthcare Market Segmentation Services
+=======
+          Nimble Healthcare Market Segmentation Services
+>>>>>>> Santhiya
         </motion.h1>
         <p className="max-w-3xl mx-auto text-lg mb-6">
           Find niche healthcare audiences segmented by age, gender, location, lifestyle, and habits —
@@ -31,7 +35,11 @@ export default function HealthcareMarketSegmentationPage() {
         <h2 className="text-3xl font-bold mb-4">Reach Your Healthcare Audience Effectively</h2>
         <p className="text-gray-700 leading-relaxed">
           Healthcare market segmentation, if done right, helps you identify where your audience is concentrated
+<<<<<<< HEAD
           and what efforts are needed to engage them before competitors do. At Outsource2india, we leverage over
+=======
+          and what efforts are needed to engage them before competitors do. At Nimble Acuity, we leverage over
+>>>>>>> Santhiya
           two decades of experience to create bespoke segmentation strategies that drive awareness, loyalty, and conversions.
         </p>
       </section>
@@ -104,7 +112,11 @@ export default function HealthcareMarketSegmentationPage() {
       {/* Why Choose Us */}
       <section className="py-16 px-6 max-w-6xl mx-auto">
         <h2 className="text-3xl font-bold mb-10 text-center">
+<<<<<<< HEAD
           Why Outsource Healthcare Market Segmentation Services to Us?
+=======
+          Why Nimble Healthcare Market Segmentation Services to Us?
+>>>>>>> Santhiya
         </h2>
         <ul className="grid md:grid-cols-2 gap-6">
           {[
@@ -161,7 +173,11 @@ export default function HealthcareMarketSegmentationPage() {
       <section className="py-20 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">Ready to Reach Your Healthcare Audience?</h2>
         <p className="text-gray-600 mb-6">
+<<<<<<< HEAD
           Outsource healthcare market segmentation services to Outsource2india and gain a competitive edge today.
+=======
+          Nimble healthcare market segmentation services to Nimble Acuity and gain a competitive edge today.
+>>>>>>> Santhiya
         </p>
         <Button size="lg" className="rounded-2xl shadow-lg">Talk to Our Experts</Button>
       </section>

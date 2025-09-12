@@ -59,7 +59,11 @@ export default function NewbornPhotoEditingPage() {
           transition={{ duration: 0.5 }}
           className="text-4xl md:text-5xl font-bold mb-4"
         >
+<<<<<<< HEAD
           Outsource Newborn Photo Editing Services
+=======
+          Nimble Newborn Photo Editing Services
+>>>>>>> Santhiya
         </motion.h1>
         <p className="max-w-3xl mx-auto text-lg mb-6">
           Capture the Magic, Leave the Editing to Us! Delight clients with effortless perfection and quick turnarounds.

@@ -96,7 +96,11 @@ export default function EnterpriseDataIntegration() {
       {/* Hero Section */}
       <DSMainMenu/>
       <section className="text-center py-16 bg-gradient-to-r from-indigo-600 to-blue-700 text-white">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold mb-4">Outsource Enterprise Data Integration Services</h1>
+=======
+        <h1 className="text-4xl font-bold mb-4">Nimble Enterprise Data Integration Services</h1>
+>>>>>>> Santhiya
         <p className="max-w-3xl mx-auto text-lg">
           Make data your company’s strongest suite and drive big returns with robust enterprise data integration.
         </p>

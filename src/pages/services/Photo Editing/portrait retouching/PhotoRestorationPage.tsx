@@ -41,7 +41,11 @@ export default function PhotoRestorationPage() {
           transition={{ duration: 0.6 }}
           className="text-4xl md:text-5xl font-bold mb-4"
         >
+<<<<<<< HEAD
           Outsource Antique Photo Restoration Services
+=======
+          Nimble Antique Photo Restoration Services
+>>>>>>> Santhiya
         </motion.h1>
         <p className="text-lg max-w-3xl mx-auto mb-6">
           Bring your precious memories back to life with our expert photo restoration services. From faded prints to severely damaged images, we restore them to their original glory.
@@ -107,7 +111,11 @@ export default function PhotoRestorationPage() {
 
       {/* Why Choose Us */}
       <section className="py-16 px-6 max-w-6xl mx-auto">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold text-center mb-10">Why Choose O2I?</h2>
+=======
+        <h2 className="text-3xl font-bold text-center mb-10">Why Choose Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8">
           {reasons.map((reason, idx) => (
             <div key={idx} className="flex items-start gap-3 bg-white shadow rounded-2xl p-6 hover:shadow-md transition">
@@ -122,7 +130,11 @@ export default function PhotoRestorationPage() {
       <section className="bg-indigo-600 text-white py-20 px-6 text-center">
         <h2 className="text-3xl md:text-4xl font-bold mb-4">Get Your Old Photos Restored Today!</h2>
         <p className="mb-6 max-w-2xl mx-auto">
+<<<<<<< HEAD
           Join thousands of happy clients who trusted Outsource2india to restore their antique photos. Save time, cost, and memories with our expert team.
+=======
+          Join thousands of happy clients who trusted Nimble Acuity to restore their antique photos. Save time, cost, and memories with our expert team.
+>>>>>>> Santhiya
         </p>
         <Button size="lg" variant="secondary" className="rounded-2xl shadow-lg">Contact Us</Button>
       </section>

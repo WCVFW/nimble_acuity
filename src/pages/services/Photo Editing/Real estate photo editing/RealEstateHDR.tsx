@@ -10,7 +10,11 @@ const RealEstateHDR: React.FC = () => {
       <PEMainMenu/>
       <section className="bg-gradient-to-r from-indigo-700 to-blue-600 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Real Estate HDR Photo Editing Services
+=======
+          Nimble Real Estate HDR Photo Editing Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg mb-6">
           Get crystal-clear, bright, and professional real estate photography
@@ -89,7 +93,11 @@ const RealEstateHDR: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-16 px-6 max-w-7xl mx-auto">
         <h2 className="text-3xl font-bold text-center mb-12">
+<<<<<<< HEAD
           Why Choose O2I for Real Estate HDR Image Blending?
+=======
+          Why Choose Nimble Acuity for Real Estate HDR Image Blending?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {[
@@ -177,7 +185,11 @@ const RealEstateHDR: React.FC = () => {
       <section className="bg-indigo-700 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-8">Testimonials</h2>
         <p className="max-w-3xl mx-auto italic text-lg">
+<<<<<<< HEAD
           "Using Outsource2india to edit my portrait images was an absolute
+=======
+          "Using Nimble Acuity to edit my portrait images was an absolute
+>>>>>>> Santhiya
           pleasure! Their communication and delivery time was lightning quick.
           The quality of editing work was great! Highly recommended."
         </p>
@@ -187,7 +199,11 @@ const RealEstateHDR: React.FC = () => {
       {/* CTA */}
       <section className="py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource HDR Image Blending Services to O2I
+=======
+          Nimble HDR Image Blending Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto text-lg mb-6 text-gray-600">
           With 26+ years of expertise, ISO 9001:2015 certification, and hundreds

@@ -106,7 +106,11 @@ export default function PhotoEditingServicesPage() {
                 Professional Photo Editing Services We Offer
               </h1>
               <p className="mt-4 text-lg text-muted-foreground">
+<<<<<<< HEAD
                 Despite powerful tools in the market, many businesses and marketers still struggle to meet their unique photo editing needs. If that sounds familiar, outsource your image editing to seasoned professionals like us.
+=======
+                Despite powerful tools in the market, many businesses and marketers still struggle to meet their unique photo editing needs. If that sounds familiar, Nimble your image editing to seasoned professionals like us.
+>>>>>>> Santhiya
               </p>
               <ul className="mt-6 space-y-2 text-muted-foreground">
                 <li className="flex gap-2"><Check className="h-5 w-5 mt-0.5" /> 26+ years of industry experience and global delivery capability</li>
@@ -238,7 +242,11 @@ export default function PhotoEditingServicesPage() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
           <div className="lg:col-span-5">
             <Heading
+<<<<<<< HEAD
               kicker="Outsource with Confidence"
+=======
+              kicker="Nimble with Confidence"
+>>>>>>> Santhiya
               title="Smooth Delivery of Professionally Edited Images"
               sub="Delegate your image‑intensive tasks to our expert team and refocus on what matters most."
             />

@@ -55,10 +55,17 @@ const CertificateOfInsurance: React.FC = () => {
       <Imainmenu/>
       <section className="text-center space-y-4">
         <h1 className="text-5xl font-bold bg-gradient-to-r from-green-600 to-blue-600 bg-clip-text text-transparent">
+<<<<<<< HEAD
           Outsource Certificate of Insurance Services
         </h1>
         <p className="text-gray-700 text-lg">
           Streamline your COI process and ensure compliance with our experienced team at Outsource2india.
+=======
+          Nimble Certificate of Insurance Services
+        </h1>
+        <p className="text-gray-700 text-lg">
+          Streamline your COI process and ensure compliance with our experienced team at Nimble Acuity.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -92,7 +99,11 @@ const CertificateOfInsurance: React.FC = () => {
 
       {/* Benefits Section */}
       <section>
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-6 text-center">Why Choose O2I?</h2>
+=======
+        <h2 className="text-3xl font-semibold mb-6 text-center">Why Choose Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-2 gap-4 text-gray-700">
           {benefits.map((item, idx) => (
             <div key={idx} className="border-l-4 border-green-600 pl-4 py-2 bg-green-50 rounded">
@@ -108,7 +119,11 @@ const CertificateOfInsurance: React.FC = () => {
           Simplify Your Certificate of Insurance Process
         </h2>
         <p className="text-gray-700 mb-6">
+<<<<<<< HEAD
           Outsource your COI services to us and focus on core business while we handle compliance, verification, and reporting.
+=======
+          Nimble your COI services to us and focus on core business while we handle compliance, verification, and reporting.
+>>>>>>> Santhiya
         </p>
         <button className="px-8 py-4 font-bold rounded-full text-white bg-gradient-to-r from-green-600 to-blue-600 hover:from-blue-600 hover:to-green-600 transition">
           Contact Us

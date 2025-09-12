@@ -242,31 +242,52 @@ const MenuLink: MenuSection[] = [
         links: [
             {
                 label:
+<<<<<<< HEAD
                     "Outsource2india Helped Streamline Inventory Management to an Electronics Firm",
+=======
+                    "Nimble Acuity Helped Streamline Inventory Management to an Electronics Firm",
+>>>>>>> Santhiya
                 href: "/data-science/case-studies/helped-streamline-inventory-management-to-electronics-firm.asp",
             },
             {
                 label:
+<<<<<<< HEAD
                     "Outsource2india Helped a Healthcare Service Provider with Chart Extraction Services",
+=======
+                    "Nimble Acuity Helped a Healthcare Service Provider with Chart Extraction Services",
+>>>>>>> Santhiya
                 href: "/data-science/case-studies/helped-healthcare-service-provider-with-chart-extraction.asp",
             },
             {
                 label:
+<<<<<<< HEAD
                     "Outsource2india Reduced Client Onboarding Time for a LA-based Bank",
+=======
+                    "Nimble Acuity Reduced Client Onboarding Time for a LA-based Bank",
+>>>>>>> Santhiya
                 href: "/data-science/case-studies/reduced-client-onboarding-time-for-la-based-bank.asp",
             },
             {
                 label:
+<<<<<<< HEAD
                     "Outsource2india Provided Digital Transformation to an African Automotive Firm",
+=======
+                    "Nimble Acuity Provided Digital Transformation to an African Automotive Firm",
+>>>>>>> Santhiya
                 href: "/data-science/case-studies/digital-transformation-to-african-automotive-firm.asp",
             },
             {
                 label:
+<<<<<<< HEAD
                     "Outsource2india Helped a Healthcare Company to Increase Their Service Portfolio",
+=======
+                    "Nimble Acuity Helped a Healthcare Company to Increase Their Service Portfolio",
+>>>>>>> Santhiya
                 href: "/data-science/case-studies/helped-healthcare-company-to-increase-service-portfolio.asp",
             },
             {
                 label:
+<<<<<<< HEAD
                     "Outsource2india Designed a Plugin to Convert NoSQL to SQL for a US Restaurant Chain using Predictive Algorithm",
                 href: "/data-science/case-studies/plugin-design-using-predictive-algorithm.asp",
             },
@@ -280,26 +301,57 @@ const MenuLink: MenuSection[] = [
             },
             {
                 label: "O2I Architected an Open Source Analytics Workbench for a Bank",
+=======
+                    "Nimble Acuity Designed a Plugin to Convert NoSQL to SQL for a US Restaurant Chain using Predictive Algorithm",
+                href: "/data-science/case-studies/plugin-design-using-predictive-algorithm.asp",
+            },
+            {
+                label: "Nimble Acuity Identified High Value Transaction Parties for a Bank",
+                href: "/data-science/case-studies/high-value-transaction-parties-identification.asp",
+            },
+            {
+                label: "Nimble Acuity Developed a Big Data Platform for Document Processing Automation",
+                href: "/data-science/case-studies/document-processing-automation-platform-development.asp",
+            },
+            {
+                label: "Nimble Acuity Architected an Open Source Analytics Workbench for a Bank",
+>>>>>>> Santhiya
                 href: "/data-science/case-studies/open-source-analytics-workbench-for-bank.asp",
             },
             {
                 label:
+<<<<<<< HEAD
                     "O2I Created a Data Storage and Processing Infrastructure for a Banking Group",
+=======
+                    "Nimble Acuity Created a Data Storage and Processing Infrastructure for a Banking Group",
+>>>>>>> Santhiya
                 href: "/data-science/case-studies/created-data-storage-processing-infrastructure.asp",
             },
             {
                 label:
+<<<<<<< HEAD
                     "O2I helped a Mortgage Company in the US by Automating Loan Quality Investment (LQI) Process",
+=======
+                    "Nimble Acuity helped a Mortgage Company in the US by Automating Loan Quality Investment (LQI) Process",
+>>>>>>> Santhiya
                 href: "/data-science/case-studies/helped-us-mortgage-company-automating-lqi-process.asp",
             },
             {
                 label:
+<<<<<<< HEAD
                     "O2I's Route Optimization Services Helped a Leading Dairy Supplier in the Middle East Streamline Their Product Delivery",
+=======
+                    "Nimble Acuity's Route Optimization Services Helped a Leading Dairy Supplier in the Middle East Streamline Their Product Delivery",
+>>>>>>> Santhiya
                 href: "/data-science/case-studies/route-optimization-to-streamline-delivery.asp",
             },
             {
                 label:
+<<<<<<< HEAD
                     "O2I Helped a Logistics and Security Services Company Dynamically Collect Telemetry Data from Vehicles",
+=======
+                    "Nimble Acuity Helped a Logistics and Security Services Company Dynamically Collect Telemetry Data from Vehicles",
+>>>>>>> Santhiya
                 href: "/data-science/case-studies/dynamic-data-collection-for-logistics-firm.asp",
             },
         ],
@@ -309,6 +361,7 @@ const MenuLink: MenuSection[] = [
 ];
 
 
+<<<<<<< HEAD
 // ---------- DropdownMenu Component ----------
 const DropdownMenu: React.FC<DropdownProps> = ({
     title,
@@ -401,10 +454,66 @@ const DropdownMenu: React.FC<DropdownProps> = ({
             </div>
         </li>
     );
+=======
+// ---------- DropdownMenu Component (Desktop only) ----------
+const DropdownMenu: React.FC<MenuSection> = ({ title, mainHref, description, links }) => {
+  const dropdownRef = useRef<HTMLDivElement>(null);
+  const [alignRight, setAlignRight] = useState(false);
+
+  useEffect(() => {
+    const handlePosition = () => {
+      if (dropdownRef.current) {
+        const rect = dropdownRef.current.getBoundingClientRect();
+        const viewportWidth = window.innerWidth;
+        setAlignRight(rect.right > viewportWidth);
+      }
+    };
+    handlePosition();
+    window.addEventListener("resize", handlePosition);
+    return () => window.removeEventListener("resize", handlePosition);
+  }, []);
+
+  return (
+    <li className="relative group">
+      <button className="px-5 py-2 font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50 transition-all duration-300 rounded-lg text-left break-words">
+        {title}
+      </button>
+
+      <div
+        ref={dropdownRef}
+        className={`
+          absolute top-full mt-2 z-50 p-4
+          opacity-0 scale-95 -translate-y-2
+          group-hover:opacity-100 group-hover:scale-100 group-hover:translate-y-0
+          pointer-events-none group-hover:pointer-events-auto
+          bg-white rounded-xl border border-gray-200 shadow-lg
+          w-[90vw] sm:w-[400px] md:w-[600px] lg:w-[700px] xl:w-[800px]
+          max-h-[500px] overflow-auto
+          ${alignRight ? "right-0 origin-top-right" : "left-0 origin-top-left"}
+          transition-all duration-300 ease-out
+        `}
+      >
+        {description && <p className="text-sm text-gray-600 mb-2">{description}</p>}
+        <div className="grid grid-cols-2 gap-2">
+          {links.map((link, idx) => (
+            <a
+              key={idx}
+              href={link.href}
+              className="block px-3 py-2 rounded-md text-gray-700 text-sm font-medium hover:bg-blue-50 hover:text-blue-600 transition-all duration-200"
+            >
+              {link.label}
+            </a>
+          ))}
+        </div>
+      </div>
+    </li>
+  );
+>>>>>>> Santhiya
 };
 
 // ---------- Main Menu Component ----------
 const DSMainMenu: React.FC = () => {
+<<<<<<< HEAD
     return (
         <nav className="sticky top-0 z-50 bg-white">
             <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
@@ -440,4 +549,118 @@ const DSMainMenu: React.FC = () => {
     );
 };
 
+=======
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [expandedSections, setExpandedSections] = useState<number[]>([]);
+
+  const toggleSection = (idx: number) => {
+    setExpandedSections((prev) =>
+      prev.includes(idx) ? prev.filter((i) => i !== idx) : [...prev, idx]
+    );
+  };
+
+  return (
+    <nav className="sticky top-0 z-50 bg-white shadow-sm">
+      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div className="flex justify-between items-center py-4">
+          {/* Desktop Menu */}
+          <ul className="hidden md:flex items-center justify-start flex-wrap gap-2">
+              {MenuLink.map((section, idx) => {
+    if (idx === 4 || idx === 5) {
+      // Direct link for index 2
+      return (
+        <li key={idx}>
+          <a
+            href={section.mainHref}
+            className="px-5 py-2 font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50 transition-all duration-300 rounded-lg text-left break-words"
+          >
+            {section.title}
+          </a>
+        </li>
+      );
+    }
+    return <DropdownMenu key={idx} {...section} />;
+  })}
+          </ul>
+
+          {/* Mobile Hamburger */}
+          <div className="md:hidden">
+            <button
+              onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+              className="inline-flex items-center justify-center p-2 rounded-md text-gray-700 hover:text-green-600 hover:bg-gray-100 transition-all duration-300"
+            >
+              {mobileMenuOpen ? (
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              ) : (
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+                </svg>
+              )}
+            </button>
+          </div>
+        </div>
+
+        {/* Mobile Accordion Menu */}
+        {mobileMenuOpen && (
+          <div className="md:hidden mt-2 p-2 bg-white rounded-xl shadow-lg">
+           {MenuLink.map((section, idx) => {
+  const isExpanded = expandedSections.includes(idx);
+
+  // If index 2, render a direct link
+  if (idx === 4 || idx === 5) {
+    return (
+      <a
+        key={idx}
+        href={section.mainHref}
+        className="w-full block px-3 py-2 text-left font-semibold text-gray-800 hover:text-green-600 transition-all duration-300 rounded-lg border-b last:border-b-0 mb-2"
+      >
+        {section.title}
+      </a>
+    );
+  }
+
+  // Other sections with accordion
+  return (
+    <div key={idx} className="border-b last:border-b-0 mb-2">
+      <button
+        onClick={() => toggleSection(idx)}
+        className="w-full flex justify-between items-center px-3 py-2 text-left font-semibold text-gray-800 hover:text-green-600 transition-all duration-300 rounded-lg"
+      >
+        <span>{section.title}</span>
+        <span className="text-gray-500">{isExpanded ? "−" : "+"}</span>
+      </button>
+
+      {isExpanded && (
+        <div className="mt-1 pl-4">
+          {section.description && (
+            <p className="text-sm text-gray-600 mb-1">{section.description}</p>
+          )}
+          <div className="flex flex-col gap-1">
+            {section.links.map((link, linkIdx) => (
+              <a
+                key={linkIdx}
+                href={link.href}
+                className="text-sm text-gray-700 hover:text-green-600 hover:underline px-2 py-1 rounded-lg transition-all duration-200"
+              >
+                {link.label}
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+})}
+
+          </div>
+        )}
+      </div>
+    </nav>
+  );
+};
+
+
+>>>>>>> Santhiya
 export default DSMainMenu

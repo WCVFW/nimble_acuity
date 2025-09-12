@@ -11,7 +11,11 @@ const PanoramaStitchingUKCaseStudy: React.FC = () => {
           Panorama Stitching Services for UK Real Estate Company
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           Outsource2india helped a UK-based real estate company create immersive virtual tours by stitching high-volume property images into interactive panoramas.
+=======
+          Nimble Acuity helped a UK-based real estate company create immersive virtual tours by stitching high-volume property images into interactive panoramas.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -43,7 +47,11 @@ const PanoramaStitchingUKCaseStudy: React.FC = () => {
         <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
           <h2 className="text-2xl font-semibold mb-4">Our Solution</h2>
           <p>
+<<<<<<< HEAD
             O2I resources followed the client's guidelines for stitching, mismatch correction, nadir point correction, dimension adjustments, brightness and sharpness enhancements, and rendering in JPEG format. Images were received via Dropbox in raw format.
+=======
+            Nimble Acuity resources followed the client's guidelines for stitching, mismatch correction, nadir point correction, dimension adjustments, brightness and sharpness enhancements, and rendering in JPEG format. Images were received via Dropbox in raw format.
+>>>>>>> Santhiya
           </p>
           <ul className="list-disc list-inside space-y-2 mt-4">
             <li>72 images – 140 mins</li>
@@ -60,16 +68,26 @@ const PanoramaStitchingUKCaseStudy: React.FC = () => {
         <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
           <h2 className="text-2xl font-semibold mb-4">Client Benefits</h2>
           <p>
+<<<<<<< HEAD
             The client achieved precise image stitching with 60% cost savings and praised O2I for prompt delivery and high-quality results.
+=======
+            The client achieved precise image stitching with 60% cost savings and praised Nimble Acuity for prompt delivery and high-quality results.
+>>>>>>> Santhiya
           </p>
         </div>
       </section>
 
       {/* Call to Action */}
       <section className="bg-blue-600 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Choose O2I for Panorama Stitching Services</h2>
         <p className="max-w-3xl mx-auto mb-6">
           Outsource2india offers seamless outsourcing workflows, skilled resources, and ISO-certified quality services for panorama stitching and more. Get a free quote or trial today!
+=======
+        <h2 className="text-3xl font-semibold mb-4">Choose Nimble Acuity for Panorama Stitching Services</h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Nimble Acuity offers seamless outsourcing workflows, skilled resources, and ISO-certified quality services for panorama stitching and more. Get a free quote or trial today!
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-blue-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us

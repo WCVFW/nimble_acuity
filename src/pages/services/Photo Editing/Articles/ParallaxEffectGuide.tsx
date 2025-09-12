@@ -101,7 +101,11 @@ const ParallaxEffectGuide: React.FC = () => {
           Add Parallax Effects Professionally
         </h2>
         <p className="max-w-2xl mx-auto mb-6">
+<<<<<<< HEAD
           Outsource2india offers expert photo editing services to create high-quality parallax effects
+=======
+          Nimble Acuity offers expert photo editing services to create high-quality parallax effects
+>>>>>>> Santhiya
           for images, videos, and websites. With 26+ years of experience, we help your visuals stand out.
         </p>
         <button className="px-6 py-3 bg-white text-blue-700 font-semibold rounded-lg shadow hover:bg-gray-100 transition">

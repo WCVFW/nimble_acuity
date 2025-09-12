@@ -10,10 +10,17 @@ export default function FinancialAnalysisPage() {
       <NavigationMenu/>
       <section className="text-center space-y-4">
         <h1 className="text-4xl font-bold text-gray-800">
+<<<<<<< HEAD
           Outsource Financial Analysis to India
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Leverage Outsource2india’s 26+ years of experience in executing
+=======
+          Nimble Financial Analysis to India
+        </h1>
+        <p className="text-lg text-gray-600 max-w-3xl mx-auto">
+          Leverage Nimble Acuity’s 26+ years of experience in executing
+>>>>>>> Santhiya
           financial research and analysis projects for global clients. Gain
           access to PhD/Master-level consultants, statisticians, chartered
           accountants, and financial analysts who deliver world-class insights
@@ -111,7 +118,11 @@ export default function FinancialAnalysisPage() {
       {/* Infrastructure & Security */}
       <section>
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">
+<<<<<<< HEAD
           Infrastructure and Security at O2I
+=======
+          Infrastructure and Security at Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <div className="space-y-6">
           <Card>
@@ -170,10 +181,17 @@ export default function FinancialAnalysisPage() {
       {/* CTA */}
       <section className="text-center py-8">
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">
+<<<<<<< HEAD
           Ready to Outsource Your Financial Research?
         </h2>
         <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
           Partner with Outsource2india and gain access to insightful, accurate,
+=======
+          Ready to Nimble Your Financial Research?
+        </h2>
+        <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
+          Partner with Nimble Acuity and gain access to insightful, accurate,
+>>>>>>> Santhiya
           and timely financial research that drives confident business
           decisions.
         </p>

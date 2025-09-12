@@ -17,7 +17,11 @@ const ConcurrentAuditServices: React.FC = () => {
           transition={{ duration: 0.6 }}
           className="text-4xl font-bold mb-4"
         >
+<<<<<<< HEAD
           Outsource Concurrent Audit Services
+=======
+          Nimble Concurrent Audit Services
+>>>>>>> Santhiya
         </motion.h1>
         <p className="max-w-3xl mx-auto text-lg">
           Get end-to-end examination of your financial transactions to ensure
@@ -120,7 +124,11 @@ const ConcurrentAuditServices: React.FC = () => {
       {/* Call to Action */}
       <section className="bg-indigo-700 text-white py-20 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Concurrent Audit Services To Us
+=======
+          Nimble Concurrent Audit Services To Us
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-2xl mx-auto mb-8">
           Ensure comprehensive auditing, seamless controls, and strict

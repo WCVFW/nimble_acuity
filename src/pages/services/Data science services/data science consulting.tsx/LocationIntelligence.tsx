@@ -93,7 +93,11 @@ const LocationIntelligence: React.FC = () => {
       <DSMainMenu/>
       <section className="text-center mb-12">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Location Intelligence Services
+=======
+          Nimble Location Intelligence Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           From the start, we have helped clients develop robust geospatial
@@ -142,7 +146,11 @@ const LocationIntelligence: React.FC = () => {
       {/* Benefits */}
       <section className="mb-16">
         <h2 className="text-3xl font-semibold mb-6 text-center">
+<<<<<<< HEAD
           Why Choose Outsource2india?
+=======
+          Why Choose Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {benefits.map((b, i) => (
@@ -167,7 +175,11 @@ const LocationIntelligence: React.FC = () => {
         </h2>
         <p className="text-gray-600 max-w-2xl mx-auto mb-6">
           Transform your data into actionable insights with our GIS and location
+<<<<<<< HEAD
           intelligence expertise. Outsource2India is your trusted partner for
+=======
+          intelligence expertise. Nimble Acuity is your trusted partner for
+>>>>>>> Santhiya
           cost-effective, secure, and scalable location-based solutions.
         </p>
         <button className="px-6 py-3 bg-blue-600 text-white rounded-xl shadow-md hover:bg-blue-700 transition-all">

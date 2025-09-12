@@ -10,9 +10,15 @@ export default function InsuranceBPMPage() {
       {/* Hero Section */}
       <Imainmenu/>
       <section className="w-full bg-blue-600 text-white py-20 px-6 text-center">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold mb-4">Outsource Business Process Management (BPM) for Insurance</h1>
         <p className="max-w-3xl mx-auto text-lg mb-6">
           With Outsource2india's business process management for insurance you can boost profits, expand your market share, and stand out among your competitors.
+=======
+        <h1 className="text-4xl font-bold mb-4">Nimble Business Process Management (BPM) for Insurance</h1>
+        <p className="max-w-3xl mx-auto text-lg mb-6">
+          With Nimble Acuity's business process management for insurance you can boost profits, expand your market share, and stand out among your competitors.
+>>>>>>> Santhiya
         </p>
         <Button variant="secondary" size="lg">Get Started</Button>
       </section>
@@ -74,7 +80,11 @@ export default function InsuranceBPMPage() {
 
       {/* Why Choose Us */}
       <section className="w-full bg-gray-50 py-16 px-6">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold text-center mb-12">Why Choose O2I for Offshore BPM for Insurance?</h2>
+=======
+        <h2 className="text-3xl font-semibold text-center mb-12">Why Choose Nimble Acuity for Offshore BPM for Insurance?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-3 gap-6 max-w-6xl mx-auto">
           {[
             "Affordable Pricing Options",
@@ -114,7 +124,11 @@ export default function InsuranceBPMPage() {
 
       {/* Final CTA */}
       <section className="w-full bg-blue-600 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold mb-4">Outsource Business Process Management for Insurance to O2I</h2>
+=======
+        <h2 className="text-3xl font-bold mb-4">Nimble Business Process Management for Insurance to Nimble Acuity</h2>
+>>>>>>> Santhiya
         <p className="max-w-3xl mx-auto mb-6">
           Looking for a cost-effective, efficient, and reliable BPM for insurance back office support provider? You’ve come to the right place. Get in touch with us today!
         </p>

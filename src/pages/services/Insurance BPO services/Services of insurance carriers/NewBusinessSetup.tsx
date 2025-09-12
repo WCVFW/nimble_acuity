@@ -8,7 +8,11 @@ const NewBusinessSetup: React.FC = () => {
       <Imainmenu/>
       <section className="bg-green-900 text-white py-12 px-6 text-center">
         <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource New Business Setup Services
+=======
+          Nimble New Business Setup Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Get access to the right resources and methodologies to setup a new
@@ -27,7 +31,11 @@ const NewBusinessSetup: React.FC = () => {
           service provider can help you streamline operations and save costs.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india (O2I) has a team of highly experienced insurance
+=======
+          Nimble Acuity (Nimble Acuity) has a team of highly experienced insurance
+>>>>>>> Santhiya
           experts who can handle every critical process efficiently—from
           setting up new accounts to processing quote requests across multiple
           agencies.
@@ -77,7 +85,11 @@ const NewBusinessSetup: React.FC = () => {
       {/* Process */}
       <section className="bg-gray-100 py-10 px-6 max-w-5xl mx-auto">
         <h2 className="text-2xl font-semibold text-center mb-6">
+<<<<<<< HEAD
           O2I's New Business Setup Process
+=======
+          Nimble Acuity's New Business Setup Process
+>>>>>>> Santhiya
         </h2>
         <ol className="list-decimal pl-6 space-y-2">
           <li>
@@ -115,7 +127,11 @@ const NewBusinessSetup: React.FC = () => {
       {/* Why Choose Us */}
       <section className="bg-gray-100 py-10 px-6 max-w-5xl mx-auto">
         <h2 className="text-2xl font-semibold text-center mb-6">
+<<<<<<< HEAD
           Why Choose O2I for New Business Setup Services?
+=======
+          Why Choose Nimble Acuity for New Business Setup Services?
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc pl-6 space-y-2">
           <li>Affordable pricing packages starting at $8/hour</li>
@@ -155,7 +171,11 @@ const NewBusinessSetup: React.FC = () => {
       {/* CTA */}
       <section className="bg-green-900 text-white py-12 px-6 text-center">
         <h2 className="text-2xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource New Business Setup Services to Outsource2india
+=======
+          Nimble New Business Setup Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           We provide cost-effective, reliable, and quality new business setup

@@ -8,7 +8,11 @@ const FinancialResearchReport: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Financial Research Report Services
+=======
+          Nimble Financial Research Report Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto">
           Boost efficiency, improve income, and retain cash flow with expert
@@ -20,7 +24,11 @@ const FinancialResearchReport: React.FC = () => {
       {/* Introduction */}
       <section className="max-w-5xl mx-auto py-12 px-6">
         <p className="text-lg leading-relaxed">
+<<<<<<< HEAD
           Outsource2india provides comprehensive financial research reports
+=======
+          Nimble Acuity provides comprehensive financial research reports
+>>>>>>> Santhiya
           tailored to your needs, enabling smarter and more profitable decision
           making. With a team of highly qualified financial analysts, we deliver
           exhaustive regular and periodic financial reports for companies across
@@ -74,7 +82,11 @@ const FinancialResearchReport: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-16 px-6 max-w-6xl mx-auto">
         <h2 className="text-3xl font-bold text-center mb-10">
+<<<<<<< HEAD
           Why Choose Outsource2india?
+=======
+          Why Choose Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {[
@@ -113,11 +125,19 @@ const FinancialResearchReport: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Financial Research Report Services to Us
         </h2>
         <p className="max-w-2xl mx-auto mb-6 text-lg">
           Get access to reliable, efficient, and cost-effective financial
           research outsourcing services with Outsource2india. Let our experts
+=======
+          Nimble Financial Research Report Services to Us
+        </h2>
+        <p className="max-w-2xl mx-auto mb-6 text-lg">
+          Get access to reliable, efficient, and cost-effective financial
+          research outsourcing services with Nimble Acuity. Let our experts
+>>>>>>> Santhiya
           provide insights that can transform your business.
         </p>
         <button className="bg-white text-blue-900 font-semibold px-6 py-3 rounded-xl shadow hover:bg-gray-100 transition">

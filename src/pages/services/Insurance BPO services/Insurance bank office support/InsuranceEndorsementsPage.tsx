@@ -11,7 +11,11 @@ export default function InsuranceEndorsementsPage() {
       <Imainmenu/>
       <section className="bg-blue-900 text-white py-20 text-center px-6">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Endorsements Processing Services for Insurance
+=======
+          Nimble Endorsements Processing Services for Insurance
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Efficient, accurate, and cost-effective insurance endorsements
@@ -102,7 +106,11 @@ export default function InsuranceEndorsementsPage() {
       {/* CTA Section */}
       <section className="bg-blue-900 text-white py-20 text-center px-6">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Endorsement Processing for Insurance to Us
+=======
+          Nimble Endorsement Processing for Insurance to Us
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto text-lg mb-6">
           With 26+ years of experience, advanced technologies, and domain expertise,

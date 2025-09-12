@@ -11,7 +11,11 @@ export default function AgricultureMarketResearch() {
       <NavigationMenu/>
       <section className="w-full bg-green-100 py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4 text-green-900">
+<<<<<<< HEAD
           Outsource Agriculture Market Research Services
+=======
+          Nimble Agriculture Market Research Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg text-gray-700 mb-6">
           Get access to highly accurate and well summarized agriculture market
@@ -132,10 +136,17 @@ export default function AgricultureMarketResearch() {
       {/* Contact CTA */}
       <section className="w-full py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4 text-green-900">
+<<<<<<< HEAD
           Ready to Outsource Your Agriculture Market Research?
         </h2>
         <p className="max-w-2xl mx-auto text-gray-700 mb-6">
           Partner with Outsource2india and gain access to world-class agriculture
+=======
+          Ready to Nimble Your Agriculture Market Research?
+        </h2>
+        <p className="max-w-2xl mx-auto text-gray-700 mb-6">
+          Partner with Nimble Acuity and gain access to world-class agriculture
+>>>>>>> Santhiya
           market insights. Get in touch today!
         </p>
         <Button size="lg" className="bg-green-700 text-white flex items-center gap-2">

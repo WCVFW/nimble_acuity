@@ -16,7 +16,11 @@ export default function SyndicatedResearchReports() {
         className="text-center max-w-4xl mx-auto mb-12"
       >
         <h1 className="text-4xl font-bold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource Syndicated Research Reports Services
+=======
+          Nimble Syndicated Research Reports Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600">
           Gain a comprehensive understanding of specific markets or technologies with
@@ -113,7 +117,11 @@ export default function SyndicatedResearchReports() {
       {/* Why Choose Section */}
       <section className="mb-16">
         <h2 className="text-2xl font-bold text-gray-800 mb-6 text-center">
+<<<<<<< HEAD
           Why Outsource Syndicated Research Reports to O2I?
+=======
+          Why Nimble Syndicated Research Reports to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[

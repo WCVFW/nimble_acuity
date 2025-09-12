@@ -63,7 +63,11 @@ export default function PhotoEnhancement() {
       <PEMainMenu/>
       <section className="text-center py-16 bg-gradient-to-r from-blue-50 to-white">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Photo Enhancement Services
+=======
+          Nimble Photo Enhancement Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-2xl mx-auto mb-6">
           Bring out the best in your photographs with professional enhancement.

@@ -13,7 +13,11 @@ const AutomotiveFirmCaseStudy: React.FC = () => {
         {/* Header */}
         <header className="text-center">
           <h1 className="text-4xl font-bold text-gray-900 mb-3">
+<<<<<<< HEAD
             Outsource2india Provided Digital Transformation to an African Automotive Firm
+=======
+            Nimble Acuity Provided Digital Transformation to an African Automotive Firm
+>>>>>>> Santhiya
           </h1>
           <p className="text-lg text-gray-600">
             Case Study on Digital Transformation to an African Automotive Firm
@@ -96,10 +100,17 @@ const AutomotiveFirmCaseStudy: React.FC = () => {
         {/* CTA */}
         <section className="bg-blue-50 p-6 rounded-2xl shadow-sm">
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">
+<<<<<<< HEAD
             Outsource Robotic Process Automation Services to Outsource2india
           </h2>
           <p className="text-gray-700 mb-4">
             Outsource2india is a leading provider of <strong>UiPath RPA services</strong>{" "}
+=======
+            Nimble Robotic Process Automation Services to Nimble Acuity
+          </h2>
+          <p className="text-gray-700 mb-4">
+            Nimble Acuity is a leading provider of <strong>UiPath RPA services</strong>{" "}
+>>>>>>> Santhiya
             in India and offers a wide range of <strong>data science solutions</strong>{" "}
             to global clients. With our experienced team, we deliver{" "}
             <strong>cost-effective, efficient, and scalable</strong> automation services.

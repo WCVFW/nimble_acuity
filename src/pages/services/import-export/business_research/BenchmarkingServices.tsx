@@ -8,7 +8,11 @@ const BenchmarkingServices: React.FC = () => {
       <NavigationMenu/>
       <section className="text-center space-y-4">
         <h1 className="text-4xl font-bold text-gray-900">
+<<<<<<< HEAD
           Outsource Benchmarking Services
+=======
+          Nimble Benchmarking Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Boost your performance metrics with accurate comparisons. Leverage our
@@ -52,12 +56,20 @@ const BenchmarkingServices: React.FC = () => {
         <div className="grid md:grid-cols-2 gap-8">
           <div className="p-6 bg-gray-50 rounded-2xl shadow-sm">
             <h3 className="font-semibold">
+<<<<<<< HEAD
               O2I Provided Primary Research Services to Top Chinese Trade
+=======
+              Nimble Acuity Provided Primary Research Services to Top Chinese Trade
+>>>>>>> Santhiya
               Consultants
             </h3>
             <p className="text-gray-600 mt-2">
               A well-known Chinese client was looking for a team who could help
+<<<<<<< HEAD
               them with primary research services. Our team at O2I delivered
+=======
+              them with primary research services. Our team at Nimble Acuity delivered
+>>>>>>> Santhiya
               cost-effective services to the client.
             </p>
             <a href="#" className="text-blue-600 mt-3 inline-block font-medium">
@@ -212,7 +224,11 @@ const BenchmarkingServices: React.FC = () => {
       {/* Call to Action */}
       <section className="text-center bg-blue-600 text-white p-10 rounded-2xl">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Strategic Benchmarking Services to O2I
+=======
+          Nimble Strategic Benchmarking Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           Our experts focus on high-quality partner selection algorithms and

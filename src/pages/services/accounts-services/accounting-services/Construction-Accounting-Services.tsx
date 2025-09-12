@@ -75,7 +75,11 @@ const ConstructionAccountingServices = () => {
         {/* Why Choose Us */}
         <div>
           <h2 className="text-2xl font-semibold text-[#006A7C] mb-4">
+<<<<<<< HEAD
             Why Outsource Construction Accounting Services to Nimble Acuity?
+=======
+            Why Nimble Construction Accounting Services to Nimble Acuity?
+>>>>>>> Santhiya
           </h2>
           <ul className="space-y-2 text-gray-700">
             <li><strong>Affordable Pricing Options:</strong> Cost-effective solutions with maximum ROI.</li>

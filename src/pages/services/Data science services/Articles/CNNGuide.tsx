@@ -134,7 +134,11 @@ const CNNGuide: React.FC = () => {
         </p>
         <p>
           Even if you have a team of data scientists, partnering with
+<<<<<<< HEAD
           specialists like <strong>Outsource2india</strong> can help implement
+=======
+          specialists like <strong>Nimble Acuity</strong> can help implement
+>>>>>>> Santhiya
           cutting-edge CNNs and unlock powerful business insights.
         </p>
       </section>

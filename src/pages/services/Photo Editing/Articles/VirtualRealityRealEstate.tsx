@@ -99,10 +99,17 @@ const VirtualRealityRealEstate: React.FC = () => {
       {/* CTA Section */}
       <section className="bg-indigo-600 text-white py-16 px-6 text-center">
         <h2 className="text-2xl md:text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Leverage VR with Outsource2india's Virtual Staging Services
         </h2>
         <p className="max-w-2xl mx-auto mb-6">
           O2I helps you create immersive 3D property designs, virtual staging,
+=======
+          Leverage VR with Nimble Acuity's Virtual Staging Services
+        </h2>
+        <p className="max-w-2xl mx-auto mb-6">
+          Nimble Acuity helps you create immersive 3D property designs, virtual staging,
+>>>>>>> Santhiya
           and photorealistic renderings. Enhance buyer experience, reduce costs,
           and sell faster with our world-class VR solutions.
         </p>

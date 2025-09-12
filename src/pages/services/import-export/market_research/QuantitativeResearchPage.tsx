@@ -20,7 +20,11 @@ import {
 import NavigationMenu from "../MegaMenu";
 
 /**
+<<<<<<< HEAD
  * Outsource Quantitative Research Services
+=======
+ * Nimble Quantitative Research Services
+>>>>>>> Santhiya
  * NOTE: Content includes extensive qualitative methods (ethnography, focus groups, diaries, etc.).
  * This page faithfully renders the provided copy while keeping a unified, modern layout.
  */
@@ -258,7 +262,11 @@ export default function QuantitativeResearchPage() {
             <div>
               <span className="inline-flex items-center gap-2 rounded-full bg-slate-900 px-4 py-1.5 text-xs font-medium tracking-wide text-white">
                 <LineChart className="h-4 w-4" />
+<<<<<<< HEAD
                 Outsource Quantitative Research Services
+=======
+                Nimble Quantitative Research Services
+>>>>>>> Santhiya
               </span>
               <h1 className="mt-5 text-3xl font-bold leading-tight tracking-tight text-slate-900 md:text-5xl">
                 Navigate shifting consumer trends with{" "}

@@ -95,11 +95,19 @@ const ResearchServicesOutsourcing: React.FC = () => {
       {/* CTA */}
       <section className="text-center bg-blue-50 p-8 rounded-xl shadow">
         <h2 className="text-2xl font-bold text-gray-800 mb-4">
+<<<<<<< HEAD
           Outsource Your Research Services to Outsource2india
         </h2>
         <p className="text-gray-700 mb-6">
           With expertise across industries and proven outsourcing excellence,
           Outsource2india is your trusted partner for Research Services
+=======
+          Nimble Your Research Services to Nimble Acuity
+        </h2>
+        <p className="text-gray-700 mb-6">
+          With expertise across industries and proven outsourcing excellence,
+          Nimble Acuity is your trusted partner for Research Services
+>>>>>>> Santhiya
           Outsourcing. Gain cost advantages, faster results, and access to a
           global knowledge pool.
         </p>

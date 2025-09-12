@@ -8,7 +8,11 @@ const FinancialRiskAnalysis: React.FC = () => {
       <NavigationMenu/>
       <header className="mb-10 text-center">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource Financial Risk Analysis Services
+=======
+          Nimble Financial Risk Analysis Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600">
           Get access to expert financial risk analysis services provided by
@@ -30,7 +34,11 @@ const FinancialRiskAnalysis: React.FC = () => {
           good idea.
         </p>
         <p>
+<<<<<<< HEAD
           <span className="font-semibold text-blue-600">Outsource2india (O2I)</span> is a leading provider of financial risk
+=======
+          <span className="font-semibold text-blue-600">Nimble Acuity (Nimble Acuity)</span> is a leading provider of financial risk
+>>>>>>> Santhiya
           analysis services in India and abroad and has helped numerous clients
           with expert financial risk analysis solutions. Our accurate
           forecasting abilities and customized approach toward risk analytics
@@ -45,7 +53,11 @@ const FinancialRiskAnalysis: React.FC = () => {
           Financial Risk Analysis Services We Offer
         </h2>
         <p className="text-gray-700 mb-8">
+<<<<<<< HEAD
           Outsource2india is a leading financial risk analysis service providing
+=======
+          Nimble Acuity is a leading financial risk analysis service providing
+>>>>>>> Santhiya
           company and offers a gamut of financial risk analysis services.
           Offshore financial risk analysis services to us to better manage your
           financial risk.

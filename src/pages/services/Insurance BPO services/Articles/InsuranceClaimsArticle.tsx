@@ -107,7 +107,11 @@ const InsuranceClaimsArticle: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-600 py-16 text-white text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Choose Outsource2india for an Efficient Insurance Claims Process
+=======
+          Choose Nimble Acuity for an Efficient Insurance Claims Process
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6 max-w-2xl mx-auto">
           Our team of highly skilled insurance experts ensures error-free claims processing with quick turnaround times. Leverage our global delivery centers and experience a reliable, cost-effective, and efficient insurance claims process.

@@ -10,7 +10,11 @@ const ImageMaskingServices: React.FC = () => {
       <PEMainMenu/>
       <section className="bg-gradient-to-r from-blue-600 to-cyan-600 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Professional Image Masking Services
+=======
+          Nimble Professional Image Masking Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg mb-6">
           Improve your images with advanced layering and alpha channel
@@ -188,7 +192,11 @@ const ImageMaskingServices: React.FC = () => {
       {/* CTA */}
       <section className="py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Image Masking Services to Us
+=======
+          Nimble Image Masking Services to Us
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto text-lg mb-6 text-gray-600">
           Enhance your visual content with precision masking, scalability, and

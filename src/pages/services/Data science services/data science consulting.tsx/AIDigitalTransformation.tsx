@@ -74,7 +74,11 @@ const AIDigitalTransformation: React.FC = () => {
       <DSMainMenu/>
       <section className="text-center mb-12">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource AI-driven Digital Transformation Services
+=======
+          Nimble AI-driven Digital Transformation Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Access advanced algorithms and intelligent automation tools to

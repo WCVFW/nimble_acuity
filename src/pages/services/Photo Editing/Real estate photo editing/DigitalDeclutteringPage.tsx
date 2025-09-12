@@ -59,7 +59,11 @@ const Testimonials: React.FC = () => (
   <div className="space-y-4">
     <blockquote className="italic border-l-4 pl-4 text-gray-700">
       “No matter where you are around the world, if you need any photo editing
+<<<<<<< HEAD
       services, I would highly recommend giving Outsource2india a chance to
+=======
+      services, I would highly recommend giving Nimble Acuity a chance to
+>>>>>>> Santhiya
       showcase their work on your business.”
     </blockquote>
     <p className="font-semibold">– Photography Enthusiast, USA</p>
@@ -74,7 +78,11 @@ const DigitalDeclutteringPage: React.FC = () => {
 
       <header className="text-center mb-12 mt-6">
         <h1 className="text-3xl font-bold">
+<<<<<<< HEAD
           Outsource Real Estate Digital Decluttering Services
+=======
+          Nimble Real Estate Digital Decluttering Services
+>>>>>>> Santhiya
         </h1>
         <p className="mt-4 text-lg text-gray-600">
           Enhance the aesthetic value of your listings with clutter-free,
@@ -145,7 +153,11 @@ const DigitalDeclutteringPage: React.FC = () => {
         />
       </Section>
 
+<<<<<<< HEAD
       <Section title="Why Choose O2I?">
+=======
+      <Section title="Why Choose Nimble Acuity?">
+>>>>>>> Santhiya
         <ServiceList
           services={[
             "Cost-effective Pricing",

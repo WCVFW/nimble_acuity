@@ -7,16 +7,28 @@ const Programs = () => {
   const navigate = useNavigate();
 
   return (
+<<<<<<< HEAD
     <div className="px-6 py-20 max-w-5xl mx-auto min-h-screen text-gray-900">
       
       <NavigationMenu/>
       <h1 className="text-4xl font-bold mb-8 text-center">
         Outsource Corporate Finance Support Services
+=======
+    <div className="max-w-5xl mx-auto min-h-screen text-gray-900 overflow-hidden">
+      
+      <NavigationMenu/>
+      <h1 className="text-4xl font-bold mb-8 text-center">
+        Nimble Corporate Finance Support Services
+>>>>>>> Santhiya
       </h1>
 
       <section className="mb-12">
         <p className="text-lg leading-relaxed">
+<<<<<<< HEAD
           Outsource2india offers a comprehensive range of corporate finance support
+=======
+          Nimble Acuity offers a comprehensive range of corporate finance support
+>>>>>>> Santhiya
           services, designed to help organizations navigate complex financial, legal,
           and strategic challenges. Whether you're raising capital, pursuing
           acquisitions, managing compliance, or optimizing financial performance, our
@@ -29,7 +41,11 @@ const Programs = () => {
           Why Choose Our Corporate Finance Support?
         </h2>
         <p className="text-lg leading-relaxed">
+<<<<<<< HEAD
           With over 20 years of experience, Outsource2india (O2I) empowers businesses
+=======
+          With over 20 years of experience, Nimble Acuity (Nimble Acuity) empowers businesses
+>>>>>>> Santhiya
           through data-driven strategies, specialized financial research, and hands-on
           support across corporate transactions. Our goal is to reduce risk, improve
           decision-making, and drive long-term value creation for our clients in sectors
@@ -110,7 +126,11 @@ const Programs = () => {
       </section>
 
       <section className="mb-12">
+<<<<<<< HEAD
         <h2 className="text-2xl font-semibold mb-4">Why Outsource to Outsource2india?</h2>
+=======
+        <h2 className="text-2xl font-semibold mb-4">Why Nimble to Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <ul className="list-disc list-inside text-lg leading-relaxed">
           <li>
             <strong>Global delivery model</strong> with time zone flexibility
@@ -140,7 +160,11 @@ const Programs = () => {
           expert advisory under one roof.
         </p>
         <p className="mt-6 text-lg font-semibold text-blue-700 cursor-pointer hover:underline">
+<<<<<<< HEAD
           Contact Outsource2india today to explore how we can support your financial objectives through tailored, high-quality corporate finance solutions.
+=======
+          Contact Nimble Acuity today to explore how we can support your financial objectives through tailored, high-quality corporate finance solutions.
+>>>>>>> Santhiya
         </p>
       </section>
     </div>

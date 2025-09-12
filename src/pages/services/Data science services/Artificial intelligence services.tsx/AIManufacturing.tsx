@@ -19,7 +19,11 @@ const AIManufacturing: React.FC = () => {
       <DSMainMenu/>
       <section className="text-center max-w-5xl mx-auto py-16 px-6">
         <h1 className="text-4xl md:text-5xl font-bold mb-6 text-blue-700">
+<<<<<<< HEAD
           Outsource AI in Manufacturing
+=======
+          Nimble AI in Manufacturing
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg md:text-xl text-gray-600">
           Get high-value, low-cost AI solutions to detect production flaws,

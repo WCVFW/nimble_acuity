@@ -15,7 +15,11 @@ const BlockchainDevelopmentPage: React.FC = () => {
           transition={{ duration: 0.6 }}
           className="text-4xl md:text-5xl font-bold"
         >
+<<<<<<< HEAD
           Outsource Blockchain Development Services
+=======
+          Nimble Blockchain Development Services
+>>>>>>> Santhiya
         </motion.h1>
         <p className="mt-6 max-w-3xl mx-auto text-lg">
           Get fabulous blockchain software products developed by people who
@@ -171,7 +175,11 @@ const BlockchainDevelopmentPage: React.FC = () => {
           Ready to Build Your Blockchain Solution?
         </h2>
         <p className="mt-4 text-lg">
+<<<<<<< HEAD
           Contact us today to outsource your blockchain development
+=======
+          Contact us today to Nimble your blockchain development
+>>>>>>> Santhiya
           requirements.
         </p>
         <motion.a

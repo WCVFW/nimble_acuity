@@ -10,7 +10,11 @@ const ForensicAccountingServices = () => {
 
       {/* Intro */}
       <p className="mb-4 text-gray-700">
+<<<<<<< HEAD
         Outsource forensic accounting services to Nimble Acuity and get access to exceptional
+=======
+        Nimble forensic accounting services to Nimble Acuity and get access to exceptional
+>>>>>>> Santhiya
         services provided by seasoned forensic accountants.
       </p>
       <p className="mb-4 text-gray-700">

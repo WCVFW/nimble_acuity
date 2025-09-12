@@ -49,7 +49,11 @@ export default function CrystallographyServices() {
       {/* Why Choose Us */}
       <section className="py-16 px-6 bg-gray-50">
         <h2 className="text-3xl font-bold text-center mb-12 text-gray-800">
+<<<<<<< HEAD
           Why Outsource Crystallography Research Services to O2I?
+=======
+          Why Nimble Crystallography Research Services to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
           {[
@@ -107,7 +111,11 @@ export default function CrystallographyServices() {
               Patient Dashboard Creation for a Pharmaceutical Firm
             </h3>
             <p className="text-gray-600 text-sm">
+<<<<<<< HEAD
               O2I developed a patient dashboard by analyzing treatment duration,
+=======
+              Nimble Acuity developed a patient dashboard by analyzing treatment duration,
+>>>>>>> Santhiya
               hospital count, and location preferences for better decision-making.
             </p>
           </div>
@@ -116,7 +124,11 @@ export default function CrystallographyServices() {
               Market Research Survey for UK Pharmaceutical Firm
             </h3>
             <p className="text-gray-600 text-sm">
+<<<<<<< HEAD
               O2I delivered research assistance for a 70-year-old UK-based pharma
+=======
+              Nimble Acuity delivered research assistance for a 70-year-old UK-based pharma
+>>>>>>> Santhiya
               company to conduct targeted campaigns in 50+ busiest airports.
             </p>
           </div>
@@ -139,7 +151,11 @@ export default function CrystallographyServices() {
       {/* CTA Section */}
       <section className="py-16 px-6 bg-blue-600 text-white text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Crystallography Research Services to O2I
+=======
+          Nimble Crystallography Research Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-2xl mx-auto mb-6">
           From startups to global brands, our expert crystallography team is

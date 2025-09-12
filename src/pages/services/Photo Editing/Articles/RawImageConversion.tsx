@@ -99,7 +99,11 @@ const RawImageConversion: React.FC = () => {
           Sign up for a FREE trial with us today
         </h2>
         <p className="text-gray-700 mb-4">
+<<<<<<< HEAD
           Experience the quality of our work before you outsource! There are few
+=======
+          Experience the quality of our work before you Nimble! There are few
+>>>>>>> Santhiya
           disadvantages that come along with RAW images, however, the advantages
           override the negatives. For someone who believes in image quality,
           converting RAW images into the desired format is one of the best

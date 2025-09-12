@@ -10,7 +10,11 @@ const CognitiveAutomationPage: React.FC = () => {
       {/* Hero Section */}
       <DSMainMenu/>
       <section className="bg-gradient-to-r from-blue-700 to-indigo-800 text-white py-20 px-6 text-center">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold mb-4">Outsource Cognitive Process Automation Services</h1>
+=======
+        <h1 className="text-4xl font-bold mb-4">Nimble Cognitive Process Automation Services</h1>
+>>>>>>> Santhiya
         <p className="max-w-3xl mx-auto text-lg mb-6">
           Embrace the future with our Cognitive Process Automation services. Integrate AI, Machine Learning, and Python-based frameworks to optimize processes and personalize customer interactions.
         </p>

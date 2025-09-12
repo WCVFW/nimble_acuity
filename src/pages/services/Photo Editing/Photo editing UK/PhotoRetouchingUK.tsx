@@ -148,7 +148,11 @@ export default function PhotoRetouchingUK() {
       {/* CTA Footer */}
       <footer className="bg-gray-100 py-16 px-6 text-center">
         <h2 className="text-2xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Photo Retouching Services UK
+=======
+          Nimble Photo Retouching Services UK
+>>>>>>> Santhiya
         </h2>
         <p className="text-gray-700 max-w-2xl mx-auto mb-6">
           Save time, elevate your marketing campaigns, and enhance your brand

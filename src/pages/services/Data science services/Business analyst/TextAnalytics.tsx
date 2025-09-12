@@ -8,12 +8,20 @@ const TextAnalytics: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Text Analytics Services
+=======
+          Nimble Text Analytics Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Affordable, high-quality text analytics services to help enterprises
           understand their market, competition, and customers better. At
+<<<<<<< HEAD
           Outsource2india, we turn scattered heaps of information into insights
+=======
+          Nimble Acuity, we turn scattered heaps of information into insights
+>>>>>>> Santhiya
           that drive quicker and smarter decisions.
         </p>
       </section>
@@ -21,7 +29,11 @@ const TextAnalytics: React.FC = () => {
       {/* Intro */}
       <section className="py-12 px-6 max-w-5xl mx-auto space-y-6">
         <p>
+<<<<<<< HEAD
           Understanding the potential of data analytics, Outsource2india offers
+=======
+          Understanding the potential of data analytics, Nimble Acuity offers
+>>>>>>> Santhiya
           highly accurate text analytics services to Fortune 1000 companies. Our
           robust processes deliver relevant and actionable business insights so
           you can make confident, data-driven decisions.
@@ -78,7 +90,11 @@ const TextAnalytics: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-12 px-6 max-w-5xl mx-auto">
         <h2 className="text-3xl font-semibold text-center mb-8">
+<<<<<<< HEAD
           6 Reasons to Choose Outsource2india for Text Analytics Services
+=======
+          6 Reasons to Choose Nimble Acuity for Text Analytics Services
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc pl-6 space-y-3 text-gray-700">
           <li>
@@ -111,7 +127,11 @@ const TextAnalytics: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Text Analytics Services to Us
+=======
+          Nimble Text Analytics Services to Us
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           With two decades of expertise, we provide exhaustive text analytics

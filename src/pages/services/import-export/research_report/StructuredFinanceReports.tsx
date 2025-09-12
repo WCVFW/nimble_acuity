@@ -8,7 +8,11 @@ const StructuredFinanceReports: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-blue-50 py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Structured Finance Reports Services
+=======
+          Nimble Structured Finance Reports Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto">
           Get access to high-quality and cost-effective structured finance
@@ -25,7 +29,11 @@ const StructuredFinanceReports: React.FC = () => {
           finance reports services? … If so, you are at the right place.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india (O2I) is a leading provider of top-quality structured
+=======
+          Nimble Acuity (Nimble Acuity) is a leading provider of top-quality structured
+>>>>>>> Santhiya
           finance reports for small and large businesses across the world. Our
           structured finance report solutions have helped numerous investors,
           borrowers, financial intermediaries, and government entities better
@@ -96,7 +104,11 @@ const StructuredFinanceReports: React.FC = () => {
       {/* Why Choose Us */}
       <section className="bg-gray-50 py-12 px-6">
         <h2 className="text-3xl font-semibold text-center mb-10">
+<<<<<<< HEAD
           Why Choose O2I for Structured Finance Report Services?
+=======
+          Why Choose Nimble Acuity for Structured Finance Report Services?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
           {[
@@ -163,7 +175,11 @@ const StructuredFinanceReports: React.FC = () => {
       {/* CTA */}
       <section className="py-16 px-6 text-center bg-blue-600 text-white">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Structured Finance Report Services to O2I
+=======
+          Nimble Structured Finance Report Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-2xl mx-auto mb-6">
           Whatever your structured financial report requirement, we can help.

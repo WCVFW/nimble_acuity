@@ -37,7 +37,11 @@ const PerformanceBenchmarking: React.FC = () => {
       {/* Hero Section */}
       <NavigationMenu/>
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold mb-4">Outsource Performance Benchmarking Services</h1>
+=======
+        <h1 className="text-4xl font-bold mb-4">Nimble Performance Benchmarking Services</h1>
+>>>>>>> Santhiya
         <p className="text-lg max-w-3xl mx-auto mb-6">
           Gain key insights by effectively comparing your performance with peers. <br />
           <span className="font-semibold">Prices start at just $14/hour</span>
@@ -53,7 +57,11 @@ const PerformanceBenchmarking: React.FC = () => {
             Benchmarking helps you compare performance internally and externally, offering insights that enhance operations, revenue, and customer satisfaction.
           </p>
           <p>
+<<<<<<< HEAD
             With Outsource2india, you get systematic, streamlined services backed by 26+ years of expertise.
+=======
+            With Nimble Acuity, you get systematic, streamlined services backed by 26+ years of expertise.
+>>>>>>> Santhiya
           </p>
         </div>
         <div className="bg-blue-50 p-6 rounded-2xl shadow">
@@ -93,7 +101,11 @@ const PerformanceBenchmarking: React.FC = () => {
 
       {/* Benefits */}
       <section className="py-16 bg-gray-50 px-6">
+<<<<<<< HEAD
         <h2 className="text-2xl font-bold text-center mb-12">Why Choose Outsource2india?</h2>
+=======
+        <h2 className="text-2xl font-bold text-center mb-12">Why Choose Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
           {benefits.map((b, i) => (
             <div key={i} className="p-6 bg-white rounded-2xl shadow hover:shadow-lg transition">
@@ -126,7 +138,11 @@ const PerformanceBenchmarking: React.FC = () => {
 
       {/* Call to Action */}
       <section className="bg-blue-600 text-white py-16 text-center px-6">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold mb-4">Outsource Performance Benchmarking Services To O2I</h2>
+=======
+        <h2 className="text-3xl font-bold mb-4">Nimble Performance Benchmarking Services To Nimble Acuity</h2>
+>>>>>>> Santhiya
         <p className="mb-6">Partner with us for reliable, efficient, and cost-effective benchmarking solutions.</p>
         <button className="bg-white text-blue-700 font-semibold px-6 py-3 rounded-xl shadow hover:bg-gray-100 transition inline-flex items-center gap-2">
           <PhoneCall className="w-5 h-5" /> Contact Us Today

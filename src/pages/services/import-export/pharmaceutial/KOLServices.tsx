@@ -9,7 +9,11 @@ const KOLServices: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-blue-50 py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Key Opinion Leader (KOL) Services
+=======
+          Nimble Key Opinion Leader (KOL) Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto">
           Stay ahead of the curve with data you can trust! Gain real-time information on key opinion leaders, elevate engagement strategies, and foster impactful collaborations.
@@ -135,7 +139,11 @@ const KOLServices: React.FC = () => {
       <section className="py-12 px-6 max-w-3xl mx-auto text-center">
         <h2 className="text-3xl font-bold mb-8">Testimonials</h2>
         <blockquote className="italic text-lg text-gray-700">
+<<<<<<< HEAD
           "Outsource2india has been a tremendous resource for our team. They are precise, attentive, and quick learners of our procedures."
+=======
+          "Nimble Acuity has been a tremendous resource for our team. They are precise, attentive, and quick learners of our procedures."
+>>>>>>> Santhiya
         </blockquote>
         <p className="mt-4 font-semibold">— General Partner, US Manufacturing Company</p>
       </section>

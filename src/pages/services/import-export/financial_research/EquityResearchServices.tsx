@@ -9,7 +9,11 @@ export default function EquityResearchServices() {
       <NavigationMenu/>
       <div className="text-center mb-12">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource Equity Research Services
+=======
+          Nimble Equity Research Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-700 max-w-3xl mx-auto">
           Identify <strong>high-performing stocks</strong> set to soar. Our

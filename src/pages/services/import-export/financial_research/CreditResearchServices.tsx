@@ -14,7 +14,11 @@ export default function CreditResearchServices() {
         <p className="text-lg text-gray-700 max-w-3xl mx-auto">
           Analyzing credit issues such as{" "}
           <strong>CDOs, CDSs, and distressed debt</strong> can be highly
+<<<<<<< HEAD
           complex. Outsource2india delivers accurate, timely, and reliable credit
+=======
+          complex. Nimble Acuity delivers accurate, timely, and reliable credit
+>>>>>>> Santhiya
           research services that empower you to navigate risks seamlessly.
         </p>
       </div>
@@ -110,7 +114,11 @@ export default function CreditResearchServices() {
 
       {/* Benefits */}
       <h2 className="text-2xl font-semibold text-gray-900 mb-6 text-center">
+<<<<<<< HEAD
         Why Choose Outsource2india for Credit Research?
+=======
+        Why Choose Nimble Acuity for Credit Research?
+>>>>>>> Santhiya
       </h2>
       <div className="grid md:grid-cols-2 gap-6 mb-12">
         {[
@@ -160,7 +168,11 @@ export default function CreditResearchServices() {
           Gain Clarity and Confidence with Credit Research Support
         </h2>
         <p className="text-gray-700 max-w-3xl mx-auto mb-6">
+<<<<<<< HEAD
           Partner with Outsource2india for end-to-end credit research services.
+=======
+          Partner with Nimble Acuity for end-to-end credit research services.
+>>>>>>> Santhiya
           From distressed debt to emerging markets, our analysts deliver insights
           that protect your business and drive smarter investments.
         </p>

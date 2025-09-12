@@ -8,7 +8,11 @@ const InsuranceMarketResearches: React.FC = () => {
       <Imainmenu/>
       <section className="bg-gradient-to-r from-indigo-600 to-blue-700 text-white py-16 px-6 text-center">
         <h1 className="text-3xl md:text-5xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Prospect and Market Research
+=======
+          Nimble Insurance Prospect and Market Research
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto">
           Get access to independent market & prospect analysis, expert opinions,
@@ -24,11 +28,19 @@ const InsuranceMarketResearches: React.FC = () => {
           lack of quality prospects and market research? Is your organization
           falling short of skilled resources and tools to cater to your
           insurance market research requirements? Then, the best option for your
+<<<<<<< HEAD
           firm would be to outsource insurance prospect and market research
           services to an experienced and skilled service provider.
         </p>
         <p>
           Outsource2india is one such provider that can be your one-stop-shop
+=======
+          firm would be to Nimble insurance prospect and market research
+          services to an experienced and skilled service provider.
+        </p>
+        <p>
+          Nimble Acuity is one such provider that can be your one-stop-shop
+>>>>>>> Santhiya
           for all your insurance back-office needs. We leverage the best and
           latest market research tools to provide{" "}
           <span className="font-semibold">high-quality services</span> within a
@@ -136,7 +148,11 @@ const InsuranceMarketResearches: React.FC = () => {
       {/* Why Choose Us */}
       <section className="max-w-6xl mx-auto py-12 px-6">
         <h2 className="text-2xl font-bold text-center mb-10">
+<<<<<<< HEAD
           Why Choose O2I?
+=======
+          Why Choose Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <ul className="space-y-4 list-disc list-inside text-gray-700">
           <li>Flexible Pricing Options</li>
@@ -184,7 +200,11 @@ const InsuranceMarketResearches: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-700 text-white text-center py-12 px-6">
         <h2 className="text-2xl md:text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Prospect and Market Research to O2I
+=======
+          Nimble Insurance Prospect and Market Research to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6 max-w-3xl mx-auto">
           Looking for a cost-effective insurance prospect and market research

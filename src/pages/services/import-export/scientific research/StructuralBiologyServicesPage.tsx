@@ -13,7 +13,11 @@ type Pillar = {
 };
 
 const hero = {
+<<<<<<< HEAD
   title: "Outsource Structural Biology Services",
+=======
+  title: "Nimble Structural Biology Services",
+>>>>>>> Santhiya
   subtitle:
     "Get access to industry-leading structural biology research services provided by highly-qualified and experienced structural biologists (starting at just $14/hour)",
   ctaPrimary: "Contact Us",
@@ -22,7 +26,11 @@ const hero = {
 
 const intro: string[] = [
   "Are you looking for a highly-experienced structural biology team that supports structure-based drug discovery right from gene to protein co-crystal structures at high resolution using X-ray crystallography? Are you looking for protein purification and protein expression services? Are you looking for services such as gene cloning and expression, construct design, protein characterization, custom protein production, structure solving, and X-ray diffraction data collection? If so, you are in the right place.",
+<<<<<<< HEAD
   "Outsource2india is a leading structural biology service provider and can help you with any of the services listed above and more. Outsourcing structural biology services to us will allow you to focus on your other core areas while we provide high-quality structural biology research services from our state-of-the-art facilities. Our structural biology researchers work closely with scientific research firms and pharmaceutical companies and have developed effective processes to facilitate robust drug discovery techniques.",
+=======
+  "Nimble Acuity is a leading structural biology service provider and can help you with any of the services listed above and more. Outsourcing structural biology services to us will allow you to focus on your other core areas while we provide high-quality structural biology research services from our state-of-the-art facilities. Our structural biology researchers work closely with scientific research firms and pharmaceutical companies and have developed effective processes to facilitate robust drug discovery techniques.",
+>>>>>>> Santhiya
 ];
 
 const services: Pillar[] = [
@@ -196,13 +204,21 @@ const differentiators: ServiceItem[] = [
 const caseStudies = [
   {
     title:
+<<<<<<< HEAD
       "Outsource2india Develops Patient Data Dashboard for Leading Pharmaceutical Company",
+=======
+      "Nimble Acuity Develops Patient Data Dashboard for Leading Pharmaceutical Company",
+>>>>>>> Santhiya
     blurb:
       "Built a patient dashboard using KPI factors like response rates, minimum treatment periods, site counts, and preferred locations.",
   },
   {
     title:
+<<<<<<< HEAD
       "Outsource2india Delivers Research Assistance to 70-year-old UK-based Pharmaceutical Company",
+=======
+      "Nimble Acuity Delivers Research Assistance to 70-year-old UK-based Pharmaceutical Company",
+>>>>>>> Santhiya
     blurb:
       "Enabled targeted marketing campaigns across the world’s 50 busiest airports—on time and within budget.",
   },
@@ -217,7 +233,11 @@ const testimonials = [
 ];
 
 const footerCta = {
+<<<<<<< HEAD
   title: "Outsource Structural Biology Services to Outsource2india",
+=======
+  title: "Nimble Structural Biology Services to Nimble Acuity",
+>>>>>>> Santhiya
   body:
     "For 26+ years, we’ve supported global clients with high-quality structural biology services. From gene to structure, our team leverages cutting-edge methods and equipment to deliver accurate results, faster.",
   ctaPrimary: "Get Started",
@@ -332,7 +352,11 @@ export default function StructuralBiologyServicesPage(): JSX.Element {
       {/* Differentiators */}
       <section className="mx-auto max-w-6xl px-6 py-12">
         <h2 className="text-2xl font-bold text-slate-900 md:text-3xl">
+<<<<<<< HEAD
           Why Outsource Structural Biology Services to Outsource2india?
+=======
+          Why Nimble Structural Biology Services to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="mt-8 grid gap-6 md:grid-cols-2">
           {differentiators.map((d) => (
@@ -421,7 +445,11 @@ export default function StructuralBiologyServicesPage(): JSX.Element {
 
       {/* Footer note */}
       <footer className="bg-white py-8 text-center text-sm text-slate-500">
+<<<<<<< HEAD
         © {new Date().getFullYear()} Outsource2india — Structural Biology Services
+=======
+        © {new Date().getFullYear()} Nimble Acuity — Structural Biology Services
+>>>>>>> Santhiya
       </footer>
     </main>
   );

@@ -8,7 +8,11 @@ const BPMAnalytics: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource BPM Analytics Services
+=======
+          Nimble BPM Analytics Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Leverage the power of data and our domain expertise and technological
@@ -27,7 +31,11 @@ const BPMAnalytics: React.FC = () => {
           data for improved productivity and profitability.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india (O2I) is a leading BPM analytics service provider. We
+=======
+          Nimble Acuity (Nimble Acuity) is a leading BPM analytics service provider. We
+>>>>>>> Santhiya
           unlock business value by combining analytics with domain expertise. Our
           services span BPM advisory, model development, support, maintenance,
           and data science.
@@ -123,7 +131,11 @@ const BPMAnalytics: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-12 px-6 bg-gray-50">
         <h2 className="text-3xl font-semibold text-center mb-8">
+<<<<<<< HEAD
           Why Choose O2I for BPM Analytics Services?
+=======
+          Why Choose Nimble Acuity for BPM Analytics Services?
+>>>>>>> Santhiya
         </h2>
         <ul className="grid md:grid-cols-2 gap-6 max-w-5xl mx-auto list-disc pl-6 text-gray-700">
           {[
@@ -176,7 +188,11 @@ const BPMAnalytics: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource BPM Analytics Services to O2I
+=======
+          Nimble BPM Analytics Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           Our BPM analytics services are designed to drive efficiency, enhance

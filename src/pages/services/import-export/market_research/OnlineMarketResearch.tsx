@@ -12,10 +12,17 @@ export default function OnlineMarketResearch() {
       <section className="text-center py-20 px-6">
         <NavigationMenu/>
         <h1 className="text-4xl md:text-5xl font-bold text-teal-700 mb-6">
+<<<<<<< HEAD
           Outsource Online Market Research Services
         </h1>
         <p className="text-lg max-w-3xl mx-auto">
           With over two decades of experience in Market Research services, Outsource2india helps you plan and execute growth strategies by providing accurate data to back your decisions. Our analysts use the latest methods and technologies to keep your business ahead of the competition.
+=======
+          Nimble Online Market Research Services
+        </h1>
+        <p className="text-lg max-w-3xl mx-auto">
+          With over two decades of experience in Market Research services, Nimble Acuity helps you plan and execute growth strategies by providing accurate data to back your decisions. Our analysts use the latest methods and technologies to keep your business ahead of the competition.
+>>>>>>> Santhiya
         </p>
         <Button className="mt-6 bg-teal-600 hover:bg-teal-700 text-white px-6 py-3 rounded-2xl shadow-lg">
           Get Started
@@ -105,10 +112,17 @@ export default function OnlineMarketResearch() {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* Why Choose O2I */}
       <section className="bg-teal-50 py-16 px-6">
         <h2 className="text-3xl font-semibold text-center text-teal-700 mb-12">
           Why Outsource Online Market Research to O2I?
+=======
+      {/* Why Choose Nimble Acuity */}
+      <section className="bg-teal-50 py-16 px-6">
+        <h2 className="text-3xl font-semibold text-center text-teal-700 mb-12">
+          Why Nimble Online Market Research to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <ul className="grid gap-6 md:grid-cols-2 max-w-5xl mx-auto list-disc list-inside text-gray-700">
           <li>A professional team with 87% technology experts and 11% finance/research experts</li>
@@ -126,7 +140,11 @@ export default function OnlineMarketResearch() {
           Get Accurate Data. Make Smarter Decisions.
         </h2>
         <p className="max-w-2xl mx-auto text-gray-700 mb-6">
+<<<<<<< HEAD
           Partner with Outsource2india to leverage cutting-edge online market research services that drive growth and provide a competitive edge.
+=======
+          Partner with Nimble Acuity to leverage cutting-edge online market research services that drive growth and provide a competitive edge.
+>>>>>>> Santhiya
         </p>
         <Button className="bg-teal-600 hover:bg-teal-700 text-white px-6 py-3 rounded-2xl shadow-lg">
           Contact Us Today

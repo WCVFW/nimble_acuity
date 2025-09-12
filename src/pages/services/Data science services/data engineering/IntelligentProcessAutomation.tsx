@@ -21,10 +21,17 @@ const IPAServicePage: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-20 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Intelligent Process Automation Services
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Leverage O2I's IPA services to reduce process time, improve customer
+=======
+          Nimble Intelligent Process Automation Services
+        </h1>
+        <p className="max-w-3xl mx-auto text-lg">
+          Leverage Nimble Acuity's IPA services to reduce process time, improve customer
+>>>>>>> Santhiya
           satisfaction, enhance cost efficiency, and ensure continuous employee
           engagement at affordable rates.
         </p>

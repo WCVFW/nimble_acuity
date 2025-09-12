@@ -72,10 +72,17 @@ const LensFiltersGuide: React.FC = () => {
       {/* CTA Section */}
       <section className="text-center py-16 px-6 bg-gradient-to-r from-teal-700 to-green-700 text-white">
         <h2 className="text-2xl font-semibold mb-4">
+<<<<<<< HEAD
           Outsource Photo Editing Services to Professionals
         </h2>
         <p className="max-w-2xl mx-auto mb-6">
           At Outsource2india, we offer full-suite photo editing solutions to enhance your images with precision and creativity. With years of experience, we help bring your vision to life.
+=======
+          Nimble Photo Editing Services to Professionals
+        </h2>
+        <p className="max-w-2xl mx-auto mb-6">
+          At Nimble Acuity, we offer full-suite photo editing solutions to enhance your images with precision and creativity. With years of experience, we help bring your vision to life.
+>>>>>>> Santhiya
         </p>
         <button className="px-6 py-3 bg-white text-teal-700 font-semibold rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Today

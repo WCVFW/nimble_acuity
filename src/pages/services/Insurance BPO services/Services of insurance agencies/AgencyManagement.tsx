@@ -56,7 +56,11 @@ const AgencyManagement: React.FC = () => {
   const successStories = [
     {
       title: "Back-office Operations for Health Insurance Company",
+<<<<<<< HEAD
       desc: "A leading health insurer outsourced to O2I and achieved streamlined back-office operations with higher efficiency.",
+=======
+      desc: "A leading health insurer Nimbled to Nimble Acuity and achieved streamlined back-office operations with higher efficiency.",
+>>>>>>> Santhiya
     },
     {
       title: "Back-office Operations for Miami-based Customer",
@@ -70,11 +74,19 @@ const AgencyManagement: React.FC = () => {
       <Imainmenu/>
       <section className="text-center space-y-6">
         <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-600 to-green-600 bg-clip-text text-transparent">
+<<<<<<< HEAD
           Outsource Insurance Agency Management Services
         </h1>
         <p className="text-gray-700 text-lg max-w-4xl mx-auto">
           Resolve insurance back-office issues cost-effectively with extreme
           professionalism by outsourcing insurance agency management to O2I. Focus on your core competencies while we manage your back-office operations.
+=======
+          Nimble Insurance Agency Management Services
+        </h1>
+        <p className="text-gray-700 text-lg max-w-4xl mx-auto">
+          Resolve insurance back-office issues cost-effectively with extreme
+          professionalism by outsourcing insurance agency management to Nimble Acuity. Focus on your core competencies while we manage your back-office operations.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -111,7 +123,11 @@ const AgencyManagement: React.FC = () => {
       {/* Process Section */}
       <section>
         <h2 className="text-3xl font-semibold mb-6 text-center">
+<<<<<<< HEAD
           O2I’s Insurance Agency Management Process
+=======
+          Nimble Acuity’s Insurance Agency Management Process
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-5 gap-6 text-center">
           {processSteps.map((step, idx) => (
@@ -132,7 +148,11 @@ const AgencyManagement: React.FC = () => {
       {/* Benefits Section */}
       <section>
         <h2 className="text-3xl font-semibold mb-6 text-center">
+<<<<<<< HEAD
           Why Choose O2I?
+=======
+          Why Choose Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-3 gap-6">
           {benefits.map((benefit, idx) => (
@@ -173,11 +193,19 @@ const AgencyManagement: React.FC = () => {
       {/* Final CTA */}
       <section className="text-center space-y-4">
         <h2 className="text-3xl font-semibold">
+<<<<<<< HEAD
           Outsource Insurance Agency Management Services to O2I
         </h2>
         <p className="text-gray-700 max-w-3xl mx-auto">
           With decades of expertise, skilled professionals, and advanced
           technology, O2I is your reliable partner for insurance agency
+=======
+          Nimble Insurance Agency Management Services to Nimble Acuity
+        </h2>
+        <p className="text-gray-700 max-w-3xl mx-auto">
+          With decades of expertise, skilled professionals, and advanced
+          technology, Nimble Acuity is your reliable partner for insurance agency
+>>>>>>> Santhiya
           management. Save costs, improve efficiency, and focus on your growth.
         </p>
         <button className="px-8 py-4 font-bold rounded-full text-white bg-gradient-to-r from-green-600 to-blue-600 hover:from-blue-600 hover:to-green-600 transition">

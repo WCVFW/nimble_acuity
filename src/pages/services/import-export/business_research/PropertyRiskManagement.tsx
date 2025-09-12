@@ -10,7 +10,11 @@ const PropertyRiskManagement: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Property Risk Management Services
+=======
+          Nimble Property Risk Management Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           With our risk management services for properties, no matter how complex
@@ -28,13 +32,21 @@ const PropertyRiskManagement: React.FC = () => {
           related to designing, managing, and maintaining a property.
         </p>
         <p>
+<<<<<<< HEAD
           The risk management services for properties provided by Outsource2india
+=======
+          The risk management services for properties provided by Nimble Acuity
+>>>>>>> Santhiya
           include services like property inspections, property audits, fire
           protection, property replacements, loss analysis, cost valuations,
           building code compliance, security, and more.
         </p>
         <p>
+<<<<<<< HEAD
           At O2I, our team will proactively manage your property risk and will
+=======
+          At Nimble Acuity, our team will proactively manage your property risk and will
+>>>>>>> Santhiya
           work with you to build a plan that will suit you and prevent any losses
           from occurring. Our risk management in property management can be
           counted on to save you money.
@@ -96,10 +108,17 @@ const PropertyRiskManagement: React.FC = () => {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* Why Choose O2I */}
       <section className="py-12 px-6 bg-gray-50">
         <h2 className="text-3xl font-bold text-center mb-10">
           Why Choose O2I for Property Risk Management Services?
+=======
+      {/* Why Choose Nimble Acuity */}
+      <section className="py-12 px-6 bg-gray-50">
+        <h2 className="text-3xl font-bold text-center mb-10">
+          Why Choose Nimble Acuity for Property Risk Management Services?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 gap-6 max-w-6xl mx-auto">
           {[
@@ -117,7 +136,11 @@ const PropertyRiskManagement: React.FC = () => {
             },
             {
               title: "Saves Time",
+<<<<<<< HEAD
               desc: "Outsource to O2I and dedicate more time to your core business while we manage risks.",
+=======
+              desc: "Nimble to Nimble Acuity and dedicate more time to your core business while we manage risks.",
+>>>>>>> Santhiya
             },
             {
               title: "Reduced Costs",
@@ -145,7 +168,11 @@ const PropertyRiskManagement: React.FC = () => {
           <Card className="shadow">
             <CardContent className="p-4">
               <h3 className="font-semibold">
+<<<<<<< HEAD
                 O2I Provided Reliable and Accurate Research Services to Shanghai Trade Consultants
+=======
+                Nimble Acuity Provided Reliable and Accurate Research Services to Shanghai Trade Consultants
+>>>>>>> Santhiya
               </h3>
               <p>
                 A leading group of Chinese trade consultants required reliable and
@@ -157,7 +184,11 @@ const PropertyRiskManagement: React.FC = () => {
           <Card className="shadow">
             <CardContent className="p-4">
               <h3 className="font-semibold">
+<<<<<<< HEAD
                 O2I Provided World-class Secondary Research Solutions to a Swiss Company
+=======
+                Nimble Acuity Provided World-class Secondary Research Solutions to a Swiss Company
+>>>>>>> Santhiya
               </h3>
               <p>
                 A leading Swiss firm required reliable research services. We
@@ -172,7 +203,11 @@ const PropertyRiskManagement: React.FC = () => {
       <section className="py-12 px-6 bg-gray-50 text-center">
         <h2 className="text-2xl font-bold mb-6">Testimonials</h2>
         <blockquote className="italic max-w-3xl mx-auto">
+<<<<<<< HEAD
           “Outsource2india has been a tremendous resource for our team. They are
+=======
+          “Nimble Acuity has been a tremendous resource for our team. They are
+>>>>>>> Santhiya
           very precise and attentive to all our needs and have been able to
           learn our procedures quicker than I ever thought possible.”
         </blockquote>
@@ -184,7 +219,11 @@ const PropertyRiskManagement: React.FC = () => {
       {/* CTA */}
       <section className="py-16 px-6 text-center bg-blue-700 text-white">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Risk Management Services to Outsource2India
+=======
+          Nimble Risk Management Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           Our certified experts provide comprehensive property risk management

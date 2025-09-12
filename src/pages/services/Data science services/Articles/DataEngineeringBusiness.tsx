@@ -93,7 +93,11 @@ const DataEngineeringBusiness: React.FC = () => {
             </h3>
             <p className="text-gray-700">
               Implementing data engineering frameworks supports real-time
+<<<<<<< HEAD
               analytics, which is a game changer. When you outsource your data
+=======
+              analytics, which is a game changer. When you Nimble your data
+>>>>>>> Santhiya
               engineering services, the provider processes and analyzes data as
               it is generated, a setup that allows you to make instant
               decisions.

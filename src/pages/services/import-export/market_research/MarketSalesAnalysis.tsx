@@ -8,7 +8,11 @@ const MarketSalesAnalysis: React.FC = () => {
       <NavigationMenu/>
       <section className="text-center space-y-4">
         <h1 className="text-4xl font-bold">
+<<<<<<< HEAD
           Outsource Market Sales Analysis Services
+=======
+          Nimble Market Sales Analysis Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-700 max-w-3xl mx-auto">
           Get a clear understanding of your sales trends and optimize your
@@ -68,7 +72,11 @@ const MarketSalesAnalysis: React.FC = () => {
       {/* Why Choose Us */}
       <section className="space-y-4">
         <h2 className="text-2xl font-semibold">
+<<<<<<< HEAD
           Why Choose O2I for Market Sales Analysis Services?
+=======
+          Why Choose Nimble Acuity for Market Sales Analysis Services?
+>>>>>>> Santhiya
         </h2>
         <ul className="grid md:grid-cols-2 gap-4 text-gray-700">
           <li>✔ Flexible Pricing Packages</li>
@@ -117,10 +125,17 @@ const MarketSalesAnalysis: React.FC = () => {
       {/* CTA */}
       <section className="text-center space-y-4">
         <h2 className="text-2xl font-bold">
+<<<<<<< HEAD
           Outsource Market Sales Analysis Services to Outsource2india
         </h2>
         <p className="text-gray-700 max-w-2xl mx-auto">
           For 26+ years, Outsource2india has been a pioneer in market sales
+=======
+          Nimble Market Sales Analysis Services to Nimble Acuity
+        </h2>
+        <p className="text-gray-700 max-w-2xl mx-auto">
+          For 26+ years, Nimble Acuity has been a pioneer in market sales
+>>>>>>> Santhiya
           analysis, combining strategic planning with advanced tools and global
           expertise. We help businesses achieve consistent, measurable growth.
         </p>

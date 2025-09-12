@@ -10,7 +10,11 @@ const TwilightPhotoEditingPage: React.FC = () => {
       <PEMainMenu/>
       <section className="bg-gradient-to-r from-purple-700 to-indigo-700 text-white py-20 px-6 text-center">
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Twilight Photo Editing Services
+=======
+          Nimble Twilight Photo Editing Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Elevate Listings, Amplify Conversions! Gain immediate access to
@@ -136,7 +140,11 @@ const TwilightPhotoEditingPage: React.FC = () => {
       {/* Call to Action */}
       <section className="bg-indigo-700 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-semibold mb-4">
+<<<<<<< HEAD
           Outsource Twilight Photo Editing Services to Us
+=======
+          Nimble Twilight Photo Editing Services to Us
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto">
           Free yourself from time-consuming edits. Let our experts refine your

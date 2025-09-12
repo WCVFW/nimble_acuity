@@ -11,7 +11,11 @@ const DroneVirtualTourCaseStudy: React.FC = () => {
           360-Degree Virtual Tour Creation by Stitching Drone Footage
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           Discover how Outsource2india stitched drone-captured images to create seamless 360-degree virtual tours, enhancing client satisfaction and clearing backlogs efficiently.
+=======
+          Discover how Nimble Acuity stitched drone-captured images to create seamless 360-degree virtual tours, enhancing client satisfaction and clearing backlogs efficiently.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -68,10 +72,17 @@ const DroneVirtualTourCaseStudy: React.FC = () => {
       {/* Call to Action */}
       <section className="bg-blue-600 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-semibold mb-4">
+<<<<<<< HEAD
           Outsource Your Drone Image Stitching Requirements
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           Outsource2india offers affordable, customized, and high-quality drone footage editing and image stitching services with over 26 years of experience. Contact our team to discuss your project today.
+=======
+          Nimble Your Drone Image Stitching Requirements
+        </h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Nimble Acuity offers affordable, customized, and high-quality drone footage editing and image stitching services with over 26 years of experience. Contact our team to discuss your project today.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-blue-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Now

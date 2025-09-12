@@ -101,10 +101,17 @@ const PhotoCompositingGuide: React.FC = () => {
       {/* CTA Section */}
       <section className="text-center py-16 px-6 bg-gradient-to-r from-indigo-600 to-purple-700 text-white">
         <h2 className="text-2xl font-semibold mb-4">
+<<<<<<< HEAD
           Outsource Professional Photo Compositing Services
         </h2>
         <p className="max-w-2xl mx-auto mb-6">
           At Outsource2india, we offer high-quality photo compositing services with experienced editors using the latest tools and techniques to bring your vision to life.
+=======
+          Nimble Professional Photo Compositing Services
+        </h2>
+        <p className="max-w-2xl mx-auto mb-6">
+          At Nimble Acuity, we offer high-quality photo compositing services with experienced editors using the latest tools and techniques to bring your vision to life.
+>>>>>>> Santhiya
         </p>
         <button className="px-6 py-3 bg-white text-indigo-700 font-semibold rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Today

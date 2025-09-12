@@ -16,7 +16,11 @@ export default function PerceptualMappingPage() {
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
         >
+<<<<<<< HEAD
           Outsource <span className="text-blue-600">Perceptual Mapping Services</span>
+=======
+          Nimble <span className="text-blue-600">Perceptual Mapping Services</span>
+>>>>>>> Santhiya
         </motion.h1>
         <motion.p
           className="text-lg text-gray-600"
@@ -104,10 +108,17 @@ export default function PerceptualMappingPage() {
       {/* CTA Section */}
       <section className="text-center py-16 px-6 bg-blue-600 text-white">
         <h2 className="text-3xl md:text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Perceptual Mapping Services to Us
         </h2>
         <p className="mb-6 max-w-3xl mx-auto">
           Let Outsource2india be your partner in brand positioning research. 
+=======
+          Nimble Perceptual Mapping Services to Us
+        </h2>
+        <p className="mb-6 max-w-3xl mx-auto">
+          Let Nimble Acuity be your partner in brand positioning research. 
+>>>>>>> Santhiya
           With our expertise and advanced statistical tools, we deliver 
           accurate perceptual maps tailored to your business needs.
         </p>

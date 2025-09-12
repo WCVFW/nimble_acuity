@@ -19,11 +19,19 @@ const LifeClaimsManagementPage: React.FC = () => {
       <Imainmenu/>
       <section className="bg-gradient-to-r from-blue-700 to-indigo-800 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Life/Annuity Insurance Claims Management
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Get flawless, error-free, and cost-effective claims management by
           outsourcing it to Outsource2india.
+=======
+          Nimble Life/Annuity Insurance Claims Management
+        </h1>
+        <p className="max-w-3xl mx-auto text-lg">
+          Get flawless, error-free, and cost-effective claims management by
+          outsourcing it to Nimble Acuity.
+>>>>>>> Santhiya
         </p>
         <Button className="mt-6 bg-white text-blue-700 hover:bg-gray-100">
           Get Started
@@ -116,7 +124,11 @@ const LifeClaimsManagementPage: React.FC = () => {
       {/* Why Choose Us */}
       <section className="bg-gray-100 py-16 px-6">
         <h2 className="text-3xl font-semibold text-center mb-12">
+<<<<<<< HEAD
           Why Choose O2I for Life/Annuity Claims Management?
+=======
+          Why Choose Nimble Acuity for Life/Annuity Claims Management?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-7xl mx-auto">
           {[
@@ -172,7 +184,11 @@ const LifeClaimsManagementPage: React.FC = () => {
             {
               title:
                 "Insurance Back-office Solutions for Leading Insurance Company",
+<<<<<<< HEAD
               desc: "A global provider partnered with O2I for back-office support and saw significant efficiency gains.",
+=======
+              desc: "A global provider partnered with Nimble Acuity for back-office support and saw significant efficiency gains.",
+>>>>>>> Santhiya
             },
             {
               title: "Back-office Operations for Miami-based Client",
@@ -195,7 +211,11 @@ const LifeClaimsManagementPage: React.FC = () => {
           Ready to Simplify Your Claims Management?
         </h2>
         <p className="max-w-2xl mx-auto text-lg mb-6">
+<<<<<<< HEAD
           Partner with Outsource2india for reliable, cost-effective, and
+=======
+          Partner with Nimble Acuity for reliable, cost-effective, and
+>>>>>>> Santhiya
           efficient life/annuity claims management services.
         </p>
         <Button className="bg-white text-blue-700 hover:bg-gray-100">

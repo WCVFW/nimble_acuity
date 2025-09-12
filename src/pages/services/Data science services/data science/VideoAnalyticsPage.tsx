@@ -34,7 +34,11 @@ const VideoAnalyticsPage: React.FC = () => {
       {/* Services */}
       <section className="space-y-8">
         <h2 className="text-2xl font-semibold text-blue-600 text-center">
+<<<<<<< HEAD
           O2I’s Video Analytics Services
+=======
+          Nimble Acuity’s Video Analytics Services
+>>>>>>> Santhiya
         </h2>
         <p className="text-gray-600 text-center max-w-3xl mx-auto">
           We develop innovative solutions for detection, classification,
@@ -164,7 +168,11 @@ const VideoAnalyticsPage: React.FC = () => {
       {/* Benefits */}
       <section className="space-y-8">
         <h2 className="text-2xl font-semibold text-gray-800 text-center">
+<<<<<<< HEAD
           Why Choose O2I?
+=======
+          Why Choose Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 gap-8">
           <ul className="list-disc list-inside text-gray-700 space-y-2">
@@ -185,11 +193,19 @@ const VideoAnalyticsPage: React.FC = () => {
       {/* Call to Action */}
       <section className="text-center bg-blue-600 text-white rounded-2xl p-10 space-y-6">
         <h2 className="text-3xl font-bold">
+<<<<<<< HEAD
           Outsource Video Analytics Software Development to O2I
         </h2>
         <p className="text-lg max-w-2xl mx-auto">
           With over two decades of expertise and cutting-edge AI & deep learning
           technologies, O2I delivers intelligent, reliable, and cost-effective
+=======
+          Nimble Video Analytics Software Development to Nimble Acuity
+        </h2>
+        <p className="text-lg max-w-2xl mx-auto">
+          With over two decades of expertise and cutting-edge AI & deep learning
+          technologies, Nimble Acuity delivers intelligent, reliable, and cost-effective
+>>>>>>> Santhiya
           video analytics solutions. Let your videos do the talking.
         </p>
         <button className="bg-white text-blue-600 font-medium px-6 py-3 rounded-xl shadow hover:bg-gray-100 transition">

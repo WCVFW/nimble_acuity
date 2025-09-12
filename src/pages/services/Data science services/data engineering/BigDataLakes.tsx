@@ -138,12 +138,20 @@ const testimonials = [
 const caseStudies = [
   {
     title:
+<<<<<<< HEAD
       "O2I Created a Data Storage and Processing Infrastructure for a Banking Group",
+=======
+      "Nimble Acuity Created a Data Storage and Processing Infrastructure for a Banking Group",
+>>>>>>> Santhiya
     desc: "Our team developed a centralized data processing and storage infrastructure within a quick turnaround time.",
   },
   {
     title:
+<<<<<<< HEAD
       "O2I Developed a Big Data Platform for Document Processing Automation",
+=======
+      "Nimble Acuity Developed a Big Data Platform for Document Processing Automation",
+>>>>>>> Santhiya
     desc: "We designed and implemented a platform to automate document processing for a leading banking organization.",
   },
 ];
@@ -155,7 +163,11 @@ const BigDataLakes: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-gradient-to-r from-blue-700 to-indigo-600 text-white py-16 px-6 text-center">
         <h1 className="text-5xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Big Data Lakes Solutions & Consulting
+=======
+          Nimble Big Data Lakes Solutions & Consulting
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg opacity-90">
           Streamline diverse datasets with enterprise-grade data lakes solutions

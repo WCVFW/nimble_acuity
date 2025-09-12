@@ -85,7 +85,11 @@ const HealthcareAI: React.FC = () => {
       <DSMainMenu/>
       <section className="text-center max-w-4xl mx-auto space-y-4">
         <h1 className="text-4xl font-bold text-gray-900">
+<<<<<<< HEAD
           Outsource AI Services in Healthcare
+=======
+          Nimble AI Services in Healthcare
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600">
           Bank on advanced AI services in healthcare to develop tailored medical AI technology

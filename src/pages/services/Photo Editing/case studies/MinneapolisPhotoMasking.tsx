@@ -11,7 +11,11 @@ const MinneapolisPhotoMasking: React.FC = () => {
           Photo Masking Services for Minneapolis-based Photographer
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           Discover how Outsource2india helped a Minneapolis photography studio with expert photo masking services for 1000+ images.
+=======
+          Discover how Nimble Acuity helped a Minneapolis photography studio with expert photo masking services for 1000+ images.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -62,16 +66,26 @@ const MinneapolisPhotoMasking: React.FC = () => {
         <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
           <h2 className="text-2xl font-semibold mb-4">Results</h2>
           <p>
+<<<<<<< HEAD
             The client was extremely satisfied with the quality, cost-effectiveness, and quick turnaround. The project was successfully completed within the deadline, strengthening the client’s trust in Outsource2india’s photo masking services.
+=======
+            The client was extremely satisfied with the quality, cost-effectiveness, and quick turnaround. The project was successfully completed within the deadline, strengthening the client’s trust in Nimble Acuity’s photo masking services.
+>>>>>>> Santhiya
           </p>
         </div>
       </section>
 
       {/* Call to Action */}
       <section className="bg-blue-600 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Outsource Photo Masking Services</h2>
         <p className="max-w-3xl mx-auto mb-6">
           Outsource2india offers quality image masking and other editing services using skilled editors and the latest technologies. We deliver accurate results with quick turnaround times globally.
+=======
+        <h2 className="text-3xl font-semibold mb-4">Nimble Photo Masking Services</h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Nimble Acuity offers quality image masking and other editing services using skilled editors and the latest technologies. We deliver accurate results with quick turnaround times globally.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-blue-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Today

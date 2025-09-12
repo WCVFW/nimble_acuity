@@ -16,7 +16,11 @@ export default function ReverseEmailAppending() {
             viewport={{ once: true, amount: 0.5 }}
             transition={{ duration: 0.6, ease: "easeOut" as const }}
           >
+<<<<<<< HEAD
             Outsource Reverse Email Appending Services
+=======
+            Nimble Reverse Email Appending Services
+>>>>>>> Santhiya
           </motion.h1>
           <motion.p
             className="mt-4 text-lg text-gray-600"
@@ -35,13 +39,21 @@ export default function ReverseEmailAppending() {
       <section className="mx-auto max-w-5xl px-4 py-12 space-y-6">
         <p>
           Having a database with insufficient information is as good as not
+<<<<<<< HEAD
           having one. At Outsource2india, we offer reverse email appending
+=======
+          having one. At Nimble Acuity, we offer reverse email appending
+>>>>>>> Santhiya
           services that enable you to fill up the gaps in your database. With
           the disparities out of the way, you can now save time and money and
           personalize your marketing campaigns easily.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india is one of the leading reverse email appending service
+=======
+          Nimble Acuity is one of the leading reverse email appending service
+>>>>>>> Santhiya
           providers with 22+ years of industry experience. Over the years, we
           have provided tailored solutions to clients across industries and time
           zones. We update our databases regularly to ensure lead validity so
@@ -93,7 +105,11 @@ export default function ReverseEmailAppending() {
       {/* Why Choose Us */}
       <section className="mx-auto max-w-6xl px-4 py-16">
         <h2 className="text-2xl font-semibold text-center mb-10">
+<<<<<<< HEAD
           Why Outsource Reverse Email Appending Solutions to O2i?
+=======
+          Why Nimble Reverse Email Appending Solutions to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-3">
           {[
@@ -148,7 +164,11 @@ export default function ReverseEmailAppending() {
           <div className="grid gap-6 md:grid-cols-2">
             <div className="rounded-xl bg-white p-6 shadow hover:shadow-md">
               <h3 className="font-bold mb-2">
+<<<<<<< HEAD
                 O2i Provided Data Entry and Image Tagging Services
+=======
+                Nimble Acuity Provided Data Entry and Image Tagging Services
+>>>>>>> Santhiya
               </h3>
               <p className="text-gray-600">
                 An Irish Sports Management and Analytics company was looking for
@@ -197,7 +217,11 @@ export default function ReverseEmailAppending() {
       {/* CTA */}
       <section className="bg-blue-600 text-white py-16 text-center">
         <h2 className="text-2xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Email Appending Services to Outsource2india
+=======
+          Nimble Email Appending Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6 max-w-2xl mx-auto">
           We empower your marketing campaigns and reduce lead acquisition costs.

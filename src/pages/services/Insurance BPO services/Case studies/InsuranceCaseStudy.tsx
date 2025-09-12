@@ -9,10 +9,17 @@ const InsuranceCaseStudy: React.FC = () => {
       <section className="bg-blue-50 py-16">
         <div className="max-w-5xl mx-auto px-4 text-center">
           <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
             O2I Back-office Support Helped a Florida-based Insurance Giant Scale with Cost Efficiency
           </h1>
           <p className="text-lg text-gray-700">
             Learn how Outsource2india provided scalable, cost-efficient back-office solutions to a leading Florida-based insurance company, enhancing operational efficiency and customer satisfaction.
+=======
+            Nimble Acuity Back-office Support Helped a Florida-based Insurance Giant Scale with Cost Efficiency
+          </h1>
+          <p className="text-lg text-gray-700">
+            Learn how Nimble Acuity provided scalable, cost-efficient back-office solutions to a leading Florida-based insurance company, enhancing operational efficiency and customer satisfaction.
+>>>>>>> Santhiya
           </p>
         </div>
       </section>

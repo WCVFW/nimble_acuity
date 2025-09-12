@@ -16,7 +16,11 @@ export default function NewsletterServices() {
           transition={{ duration: 0.6 }}
           className="text-4xl md:text-5xl font-bold mb-4"
         >
+<<<<<<< HEAD
           Outsource Newsletter Services
+=======
+          Nimble Newsletter Services
+>>>>>>> Santhiya
         </motion.h1>
         <motion.p
           initial={{ opacity: 0 }}
@@ -75,7 +79,11 @@ export default function NewsletterServices() {
       {/* Why Choose Us */}
       <section className="bg-gray-50 py-16 px-6">
         <h2 className="text-3xl font-bold text-center mb-12">
+<<<<<<< HEAD
           Why Choose Outsource2india for Newsletter Services?
+=======
+          Why Choose Nimble Acuity for Newsletter Services?
+>>>>>>> Santhiya
         </h2>
         <ul className="space-y-6 max-w-4xl mx-auto">
           {[
@@ -140,7 +148,11 @@ export default function NewsletterServices() {
       {/* Final CTA */}
       <section className="bg-gradient-to-r from-cyan-600 to-blue-600 text-white py-20 text-center">
         <h2 className="text-3xl md:text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Choose O2I as Your Newsletter Partner
+=======
+          Choose Nimble Acuity as Your Newsletter Partner
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-2xl mx-auto mb-6 text-lg">
           Combine flawless content with industry expertise to create impactful newsletters that

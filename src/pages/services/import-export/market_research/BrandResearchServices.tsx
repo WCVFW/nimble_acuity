@@ -10,10 +10,17 @@ export default function BrandResearchServices() {
       <NavigationMenu/>
       <section className="text-center py-16 px-6">
         <h1 className="text-4xl font-bold text-pink-700 mb-4">
+<<<<<<< HEAD
           Outsource Brand Research Services
         </h1>
         <p className="text-lg max-w-3xl mx-auto mb-6">
           Want to make or change the perception of your brand? Outsource2india
+=======
+          Nimble Brand Research Services
+        </h1>
+        <p className="text-lg max-w-3xl mx-auto mb-6">
+          Want to make or change the perception of your brand? Nimble Acuity
+>>>>>>> Santhiya
           offers expert brand research solutions to measure your brand potential,
           performance, threats, and opportunities — starting at just $14/hour.
         </p>
@@ -125,7 +132,11 @@ export default function BrandResearchServices() {
       <section className="text-center py-16 px-6 bg-pink-600 text-white">
         <h2 className="text-3xl font-bold mb-4">Ready to Strengthen Your Brand?</h2>
         <p className="max-w-2xl mx-auto mb-6">
+<<<<<<< HEAD
           Partner with Outsource2india to unlock powerful insights into your brand’s
+=======
+          Partner with Nimble Acuity to unlock powerful insights into your brand’s
+>>>>>>> Santhiya
           potential and take the right steps toward growth and success.
         </p>
         <Button size="lg" className="bg-white text-pink-700 hover:bg-gray-100">

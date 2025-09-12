@@ -10,7 +10,11 @@ const FinancialInvestigationsServices = () => {
 
       {/* Intro */}
       <p className="mb-4 text-gray-700">
+<<<<<<< HEAD
         Outsource financial investigations to Nimble Acuity to effectively examine allegations of bribery, corruption, fraud, and money laundering.
+=======
+        Nimble financial investigations to Nimble Acuity to effectively examine allegations of bribery, corruption, fraud, and money laundering.
+>>>>>>> Santhiya
       </p>
       <p className="mb-4 text-gray-700">
         Enhance your company’s ability to detect and prevent financial wrongdoing. Our expert team traces the money trail, ensures regulatory compliance, and delivers actionable insights to safeguard your organization.
@@ -46,7 +50,11 @@ const FinancialInvestigationsServices = () => {
         Nimble Acuity offers comprehensive financial investigations tailored to your organization’s needs. Our expert team ensures regulatory compliance, mitigates financial risk, and provides cost-effective solutions delivered efficiently.
       </p>
       <p className="mt-4 text-gray-700">
+<<<<<<< HEAD
         Contact us today to outsource your financial investigations and gain a trusted partner in safeguarding your organization.
+=======
+        Contact us today to Nimble your financial investigations and gain a trusted partner in safeguarding your organization.
+>>>>>>> Santhiya
       </p>
     </div>
   );

@@ -11,7 +11,11 @@ const UKPhotoStudioCaseStudy: React.FC = () => {
           Image Enhancement and Photo Editing Case Study for a UK Photo Studio
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           Outsource2india helped a UK-based photo studio streamline its image enhancement and photo editing workflows while maintaining high quality and fast turnaround times.
+=======
+          Nimble Acuity helped a UK-based photo studio streamline its image enhancement and photo editing workflows while maintaining high quality and fast turnaround times.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -38,7 +42,11 @@ const UKPhotoStudioCaseStudy: React.FC = () => {
         <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
           <h2 className="text-2xl font-semibold mb-4">Our Solution</h2>
           <p>
+<<<<<<< HEAD
             Outsource2india offered a free trial to understand the client’s style. After the trial, we took on partial work and eventually handled the full workload. Our team uses high-end software like Adobe Photoshop CS6 and follows strict quality control measures.
+=======
+            Nimble Acuity offered a free trial to understand the client’s style. After the trial, we took on partial work and eventually handled the full workload. Our team uses high-end software like Adobe Photoshop CS6 and follows strict quality control measures.
+>>>>>>> Santhiya
           </p>
           <ul className="list-disc list-inside space-y-2 mt-4">
             <li>Dedicated team processes 200–400 high-end images per week.</li>
@@ -64,7 +72,11 @@ const UKPhotoStudioCaseStudy: React.FC = () => {
       <section className="bg-green-600 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-semibold mb-4">Sign up for a FREE Trial</h2>
         <p className="max-w-3xl mx-auto mb-6">
+<<<<<<< HEAD
           Experience the quality of our work before outsourcing. Let Outsource2india help you achieve cost-effective and timely image enhancement and photo editing solutions.
+=======
+          Experience the quality of our work before outsourcing. Let Nimble Acuity help you achieve cost-effective and timely image enhancement and photo editing solutions.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-green-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Get a Free Quote

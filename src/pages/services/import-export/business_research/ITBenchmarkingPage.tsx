@@ -8,7 +8,11 @@ const ITBenchmarkingPage: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-16 px-6 text-center">
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource IT Benchmarking Services
+=======
+          Nimble IT Benchmarking Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg md:text-xl max-w-3xl mx-auto mb-6">
           Gain insights into how businesses tackle IT initiatives, optimize
@@ -30,7 +34,11 @@ const ITBenchmarkingPage: React.FC = () => {
             IT benchmarking helps businesses improve efficiency and quality by
             comparing metrics with industry standards. It’s not a one-time
             activity but an ongoing process for continuous improvement. With
+<<<<<<< HEAD
             26+ years of expertise, Outsource2india leverages best practices and
+=======
+            26+ years of expertise, Nimble Acuity leverages best practices and
+>>>>>>> Santhiya
             global insights to ensure your IT functions perform at world-class
             levels.
           </p>
@@ -97,7 +105,11 @@ const ITBenchmarkingPage: React.FC = () => {
       {/* Why Choose Us */}
       <section className="bg-gray-50 py-16 px-6">
         <h2 className="text-3xl font-bold text-center mb-12">
+<<<<<<< HEAD
           Why Choose Outsource2india?
+=======
+          Why Choose Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
           {[
@@ -152,7 +164,11 @@ const ITBenchmarkingPage: React.FC = () => {
               Research Support for Global Marketing Firm
             </h3>
             <p className="text-gray-600">
+<<<<<<< HEAD
               O2I provided robust research services from online and offline
+=======
+              Nimble Acuity provided robust research services from online and offline
+>>>>>>> Santhiya
               sources, supporting a leading strategy consulting firm.
             </p>
           </div>
@@ -161,7 +177,11 @@ const ITBenchmarkingPage: React.FC = () => {
               KOL Identification for UK Healthcare Provider
             </h3>
             <p className="text-gray-600">
+<<<<<<< HEAD
               O2I leveraged proprietary methodology to collate and analyze KOL
+=======
+              Nimble Acuity leveraged proprietary methodology to collate and analyze KOL
+>>>>>>> Santhiya
               information for a top UK-based healthcare organization.
             </p>
           </div>
@@ -172,7 +192,11 @@ const ITBenchmarkingPage: React.FC = () => {
       <section className="bg-gray-50 py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-6">Testimonials</h2>
         <blockquote className="max-w-3xl mx-auto text-lg italic text-gray-700">
+<<<<<<< HEAD
           “The services that O2I provided helped us achieve substantial cost and
+=======
+          “The services that Nimble Acuity provided helped us achieve substantial cost and
+>>>>>>> Santhiya
           time savings on several difficult projects.”
         </blockquote>
         <p className="mt-4 font-semibold text-gray-800">
@@ -186,11 +210,19 @@ const ITBenchmarkingPage: React.FC = () => {
       {/* CTA */}
       <section className="py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource IT Benchmarking Services to Outsource2india
         </h2>
         <p className="max-w-3xl mx-auto text-gray-700 mb-6">
           Optimize your IT operations, avoid overspending, and improve outcomes
           with our specialized benchmarking expertise. Partner with O2I for
+=======
+          Nimble IT Benchmarking Services to Nimble Acuity
+        </h2>
+        <p className="max-w-3xl mx-auto text-gray-700 mb-6">
+          Optimize your IT operations, avoid overspending, and improve outcomes
+          with our specialized benchmarking expertise. Partner with Nimble Acuity for
+>>>>>>> Santhiya
           reliable, efficient, and affordable IT benchmarking solutions.
         </p>
         <button className="bg-blue-600 text-white px-8 py-3 rounded-full font-semibold shadow hover:bg-blue-700 transition">

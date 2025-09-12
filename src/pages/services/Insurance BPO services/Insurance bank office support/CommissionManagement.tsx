@@ -10,11 +10,19 @@ export default function CommissionManagement() {
       <Imainmenu/>
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Commission Management Services
         </h1>
         <p className="max-w-3xl mx-auto text-lg mb-6">
           Gain complete transparency, automation, and control over your commission
           management process with Outsource2india’s expert solutions.
+=======
+          Nimble Insurance Commission Management Services
+        </h1>
+        <p className="max-w-3xl mx-auto text-lg mb-6">
+          Gain complete transparency, automation, and control over your commission
+          management process with Nimble Acuity’s expert solutions.
+>>>>>>> Santhiya
         </p>
         <Button size="lg" className="bg-white text-blue-900 font-semibold">
           Get Started Today
@@ -61,7 +69,11 @@ export default function CommissionManagement() {
       {/* Why Choose Us */}
       <section className="py-16 px-6 max-w-7xl mx-auto">
         <h2 className="text-3xl font-semibold text-center mb-10">
+<<<<<<< HEAD
           Why Choose O2I?
+=======
+          Why Choose Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 gap-6">
           {[
@@ -94,7 +106,11 @@ export default function CommissionManagement() {
                 US-based Insurance Agency
               </h3>
               <p className="text-gray-600 text-sm">
+<<<<<<< HEAD
                 O2I maintained insurance accounts with speed and accuracy, ensuring
+=======
+                Nimble Acuity maintained insurance accounts with speed and accuracy, ensuring
+>>>>>>> Santhiya
                 compliance and efficiency.
               </p>
             </CardContent>
@@ -115,7 +131,11 @@ export default function CommissionManagement() {
       {/* CTA */}
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Transform Your Commission Management with O2I
+=======
+          Transform Your Commission Management with Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto text-lg mb-6">
           With 26+ years of proven expertise, we deliver secure, scalable, and

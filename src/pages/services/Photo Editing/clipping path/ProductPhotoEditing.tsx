@@ -8,7 +8,11 @@ const ProductPhotoEditing: React.FC = () => {
       <PEMainMenu/>
       <div className="max-w-6xl mx-auto px-6 py-12 text-center">
         <h1 className="text-3xl sm:text-4xl font-bold text-gray-900">
+<<<<<<< HEAD
           Outsource Product Photo Editing Services
+=======
+          Nimble Product Photo Editing Services
+>>>>>>> Santhiya
         </h1>
         <p className="mt-4 text-lg text-gray-600">
           Delight Your Clients with Pixel-Perfect Precision. Maximize Impact with our
@@ -92,7 +96,11 @@ const ProductPhotoEditing: React.FC = () => {
       {/* Call to Action */}
       <div className="bg-blue-600 py-12 text-center text-white">
         <h2 className="text-2xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Product Photo Editing Services to Us
+=======
+          Nimble Product Photo Editing Services to Us
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6 max-w-3xl mx-auto">
           Partner with us to save time, scale efficiently, and deliver captivating product

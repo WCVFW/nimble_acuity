@@ -17,7 +17,11 @@ export default function ProductResearchServices() {
           transition={{ duration: 0.6 }}
           className="text-4xl font-bold mb-4"
         >
+<<<<<<< HEAD
           Outsource Product Research Services
+=======
+          Nimble Product Research Services
+>>>>>>> Santhiya
         </motion.h1>
         <p className="max-w-3xl mx-auto text-lg mb-6">
           Orient your business around your customers and drive more meaningful human connections with our product research services starting at <span className="font-semibold">$14 per hour</span>.
@@ -32,7 +36,11 @@ export default function ProductResearchServices() {
           When planning to develop and launch a product, a thorough assessment of the existing market space is extremely important. Not only does it help you understand your customers' needs and requirements, but also identifies the existing competition.
         </p>
         <p className="text-gray-600 leading-relaxed">
+<<<<<<< HEAD
           Outsource2india (O2I) provides comprehensive and highly efficient product research services to help you successfully design and launch products as per your market's current needs and demand. From conducting market research and analysis to elevating your product's features and benefits, we do it all to ensure maximum growth and profitability.
+=======
+          Nimble Acuity (Nimble Acuity) provides comprehensive and highly efficient product research services to help you successfully design and launch products as per your market's current needs and demand. From conducting market research and analysis to elevating your product's features and benefits, we do it all to ensure maximum growth and profitability.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -102,7 +110,11 @@ export default function ProductResearchServices() {
 
       {/* Why Choose Us */}
       <section className="py-16 px-6 max-w-6xl mx-auto">
+<<<<<<< HEAD
         <h2 className="text-2xl font-semibold text-center mb-10">Why Outsource to O2I?</h2>
+=======
+        <h2 className="text-2xl font-semibold text-center mb-10">Why Nimble to Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
             { icon: Users, title: "Certified Specialists", desc: "Instant access to experts with proven experience." },
@@ -127,14 +139,22 @@ export default function ProductResearchServices() {
       <section className="py-16 bg-gray-50 px-6 text-center">
         <h2 className="text-2xl font-semibold mb-6">What Our Clients Say</h2>
         <blockquote className="max-w-3xl mx-auto text-lg italic text-gray-700">
+<<<<<<< HEAD
           “The services that Outsource2india provided helped us achieve substantial cost and time savings on several difficult projects. Their prompt attention to our requests and attention to detail is excellent.”
+=======
+          “The services that Nimble Acuity provided helped us achieve substantial cost and time savings on several difficult projects. Their prompt attention to our requests and attention to detail is excellent.”
+>>>>>>> Santhiya
         </blockquote>
         <p className="mt-4 font-semibold">Senior Vice President, Automotive & Transportation Industry Solutions Group</p>
       </section>
 
       {/* CTA */}
       <section className="py-20 px-6 text-center bg-gradient-to-r from-indigo-600 to-blue-700 text-white">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold mb-4">Outsource Product Research Services to O2I</h2>
+=======
+        <h2 className="text-3xl font-bold mb-4">Nimble Product Research Services to Nimble Acuity</h2>
+>>>>>>> Santhiya
         <p className="max-w-2xl mx-auto mb-6">
           Get in touch with us to know how we can help you build a product that improves your brand's value and drives maximum traction and profits amidst immense competition.
         </p>

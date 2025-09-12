@@ -13,7 +13,11 @@ const OpenSourceAnalyticsWorkbenchCaseStudy: React.FC = () => {
         {/* Header */}
         <header className="text-center">
           <h1 className="text-4xl font-bold text-gray-900 mb-3">
+<<<<<<< HEAD
             O2I Architected an Open Source Analytics Workbench for a Bank
+=======
+            Nimble Acuity Architected an Open Source Analytics Workbench for a Bank
+>>>>>>> Santhiya
           </h1>
           <p className="text-lg text-gray-600">
             Case Study on Open Source Analytics Workbench Creation
@@ -90,10 +94,17 @@ const OpenSourceAnalyticsWorkbenchCaseStudy: React.FC = () => {
         {/* CTA */}
         <section className="bg-blue-50 p-6 rounded-2xl shadow-sm">
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">
+<<<<<<< HEAD
             Get Cost-effective Data Science Services at Outsource2india
           </h2>
           <p className="text-gray-700 mb-4">
             Outsource2india is a trusted provider of{" "}
+=======
+            Get Cost-effective Data Science Services at Nimble Acuity
+          </h2>
+          <p className="text-gray-700 mb-4">
+            Nimble Acuity is a trusted provider of{" "}
+>>>>>>> Santhiya
             <strong>big data lakes solutions, consulting,</strong> and a wide range of{" "}
             <strong>data science services</strong> to global clients. With our{" "}
             <strong>skilled and experienced team</strong>, we deliver scalable,

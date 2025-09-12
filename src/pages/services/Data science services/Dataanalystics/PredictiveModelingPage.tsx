@@ -29,7 +29,11 @@ export default function PredictiveModelingPage() {
       <section className="bg-gradient-to-r from-blue-50 to-blue-100 py-20 px-6 text-center">
         <motion.div {...fadeInUp}>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-6">
+<<<<<<< HEAD
             Outsource Predictive Modeling Services
+=======
+            Nimble Predictive Modeling Services
+>>>>>>> Santhiya
           </h1>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto mb-8">
             Get access to industry-leading predictive and clustering modeling
@@ -93,13 +97,21 @@ export default function PredictiveModelingPage() {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* Why Choose O2I */}
+=======
+      {/* Why Choose Nimble Acuity */}
+>>>>>>> Santhiya
       <section className="bg-gray-50 py-16 px-6">
         <motion.h2
           {...fadeInUp}
           className="text-3xl font-bold text-gray-800 text-center mb-12"
         >
+<<<<<<< HEAD
           Why Choose Outsource2india for Predictive Modeling?
+=======
+          Why Choose Nimble Acuity for Predictive Modeling?
+>>>>>>> Santhiya
         </motion.h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
           {[
@@ -156,11 +168,19 @@ export default function PredictiveModelingPage() {
         <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
           {[
             {
+<<<<<<< HEAD
               title: "O2I Created a Big Data Platform to Automate Document Processing",
               desc: "For a leading banking firm, our team designed and implemented a big data-based platform to automate document workflows within a quick turnaround.",
             },
             {
               title: "O2I Designed an Analytics Platform for a Finance Provider",
+=======
+              title: "Nimble Acuity Created a Big Data Platform to Automate Document Processing",
+              desc: "For a leading banking firm, our team designed and implemented a big data-based platform to automate document workflows within a quick turnaround.",
+            },
+            {
+              title: "Nimble Acuity Designed an Analytics Platform for a Finance Provider",
+>>>>>>> Santhiya
               desc: "We built an open-source analytics platform for structured and unstructured data, delivering faster insights for a global finance client.",
             },
           ].map((story, idx) => (
@@ -184,7 +204,11 @@ export default function PredictiveModelingPage() {
           {...fadeInUp}
           className="text-3xl md:text-4xl font-bold mb-6"
         >
+<<<<<<< HEAD
           Outsource Predictive and Data Modeling Services to O2I
+=======
+          Nimble Predictive and Data Modeling Services to Nimble Acuity
+>>>>>>> Santhiya
         </motion.h2>
         <p className="max-w-2xl mx-auto text-blue-100 mb-8">
           Partner with expert data scientists and leverage predictive analytics

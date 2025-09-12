@@ -10,7 +10,11 @@ const ClouderaDataScienceWorkbench: React.FC = () => {
       <DSMainMenu/>
       <section className="text-center space-y-4">
         <h1 className="text-4xl font-bold text-gray-900">
+<<<<<<< HEAD
           Outsource Cloudera Data Science Workbench Services
+=======
+          Nimble Cloudera Data Science Workbench Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Cloudera Data Science Workbench allows you to implement a machine learning
@@ -87,10 +91,17 @@ const ClouderaDataScienceWorkbench: React.FC = () => {
         </ol>
       </section>
 
+<<<<<<< HEAD
       {/* Why Outsource Section */}
       <section className="space-y-8">
         <h2 className="text-2xl font-semibold text-gray-800">
           Why Outsource to Outsource2india?
+=======
+      {/* Why Nimble Section */}
+      <section className="space-y-8">
+        <h2 className="text-2xl font-semibold text-gray-800">
+          Why Nimble to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[

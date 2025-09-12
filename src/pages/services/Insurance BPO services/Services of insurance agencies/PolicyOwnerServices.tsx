@@ -7,7 +7,11 @@ const PolicyOwnerServices: React.FC = () => {
       {/* Hero Section */}
       <Imainmenu/>
       <section className="bg-indigo-700 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold mb-4">Outsource Policy Owner Services</h1>
+=======
+        <h1 className="text-4xl font-bold mb-4">Nimble Policy Owner Services</h1>
+>>>>>>> Santhiya
         <p className="max-w-3xl mx-auto text-lg">
           Our experienced team has vast knowledge in Policy Owner Services and
           provides a streamlined process to meet your client’s support requests
@@ -21,7 +25,11 @@ const PolicyOwnerServices: React.FC = () => {
           Our policy owner services assist insurance agents and companies with
           all kinds of post-policy issue requests—whether it’s changing a name,
           address, beneficiary, or notifying clients about renewals and
+<<<<<<< HEAD
           expirations. Outsource2india ensures seamless processing with
+=======
+          expirations. Nimble Acuity ensures seamless processing with
+>>>>>>> Santhiya
           accuracy, security, and speed.
         </p>
       </section>
@@ -114,7 +122,11 @@ const PolicyOwnerServices: React.FC = () => {
       {/* Benefits */}
       <section className="bg-indigo-50 py-12 px-6">
         <h2 className="text-3xl font-bold mb-6 text-center">
+<<<<<<< HEAD
           Why Outsource Policy Owner Services to Us?
+=======
+          Why Nimble Policy Owner Services to Us?
+>>>>>>> Santhiya
         </h2>
         <ul className="max-w-5xl mx-auto grid md:grid-cols-2 gap-6 list-disc list-inside text-lg">
           <li>Cost-effective pricing with high client retention.</li>

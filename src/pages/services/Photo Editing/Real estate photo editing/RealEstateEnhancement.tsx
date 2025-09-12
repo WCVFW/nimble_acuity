@@ -10,7 +10,11 @@ const RealEstateEnhancement: React.FC = () => {
       <PEMainMenu/>
       <section className="bg-gradient-to-r from-blue-700 to-cyan-600 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Real Estate Floor Plan Conversion Services
+=======
+          Nimble Real Estate Floor Plan Conversion Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg mb-6">
           Enhance your property listings with expert image enhancements using
@@ -179,7 +183,11 @@ const RealEstateEnhancement: React.FC = () => {
       <section className="bg-blue-700 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-8">Testimonials</h2>
         <p className="max-w-3xl mx-auto italic text-lg">
+<<<<<<< HEAD
           "Using Outsource2india to edit my portrait images was an absolute
+=======
+          "Using Nimble Acuity to edit my portrait images was an absolute
+>>>>>>> Santhiya
           pleasure! Their communication and delivery time was lightning quick.
           The quality of editing work was great! Highly recommended."
         </p>
@@ -189,7 +197,11 @@ const RealEstateEnhancement: React.FC = () => {
       {/* CTA */}
       <section className="py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Real Estate Image Enhancement Services
+=======
+          Nimble Real Estate Image Enhancement Services
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto text-lg mb-6 text-gray-600">
           From crisp colors to captivating compositions, we transform your

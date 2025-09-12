@@ -9,12 +9,20 @@ const MarketLandscapeAssessment: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-blue-50 py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4 text-blue-900">
+<<<<<<< HEAD
           Outsource Market Landscape and Assessment Services
+=======
+          Nimble Market Landscape and Assessment Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           The pharmaceutical industry is growing rapidly, making market landscape and assessment services
           crucial for strategic decisions. With prices starting at just <span className="font-semibold">$14/hour</span>,
+<<<<<<< HEAD
           Outsource2india helps pharma companies stay competitive with accurate research and analysis.
+=======
+          Nimble Acuity helps pharma companies stay competitive with accurate research and analysis.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -97,7 +105,11 @@ const MarketLandscapeAssessment: React.FC = () => {
       {/* Benefits */}
       <section className="py-16 px-6 bg-white">
         <h2 className="text-3xl font-bold text-center mb-12">
+<<<<<<< HEAD
           Benefits of Outsourcing Market Landscape & Assessment to O2I
+=======
+          Benefits of Outsourcing Market Landscape & Assessment to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
           {[
@@ -123,10 +135,17 @@ const MarketLandscapeAssessment: React.FC = () => {
       {/* Call to Action */}
       <section className="bg-blue-900 py-16 px-6 text-center text-white">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Choose Outsource2india for Accurate Market Landscape & Assessment
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           With 26+ years of experience in pharmaceutical research, Outsource2india provides precise
+=======
+          Choose Nimble Acuity for Accurate Market Landscape & Assessment
+        </h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          With 26+ years of experience in pharmaceutical research, Nimble Acuity provides precise
+>>>>>>> Santhiya
           and cost-effective market assessment services. Our expertise ensures strategic decisions
           with reliable insights.
         </p>

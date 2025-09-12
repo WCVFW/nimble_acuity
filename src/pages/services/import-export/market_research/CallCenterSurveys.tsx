@@ -10,7 +10,11 @@ export default function CallCenterSurveys() {
       <NavigationMenu/>
       <section className="text-center max-w-3xl mx-auto space-y-4">
         <h1 className="text-4xl font-bold">
+<<<<<<< HEAD
           Outsource Call Center Surveys
+=======
+          Nimble Call Center Surveys
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600">
           Get detailed, reliable, and accurate call center survey solutions that
@@ -99,7 +103,11 @@ export default function CallCenterSurveys() {
       {/* Benefits Section */}
       <section className="space-y-8">
         <h2 className="text-3xl font-semibold text-center">
+<<<<<<< HEAD
           Benefits of Outsourcing Call Center Surveys to O2I
+=======
+          Benefits of Outsourcing Call Center Surveys to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[ 
@@ -148,7 +156,11 @@ export default function CallCenterSurveys() {
           Ready to Enhance Your Business with Call Center Surveys?
         </h2>
         <p>
+<<<<<<< HEAD
           Partner with Outsource2india today and gain actionable insights to
+=======
+          Partner with Nimble Acuity today and gain actionable insights to
+>>>>>>> Santhiya
           improve customer experience and brand growth.
         </p>
         <Button size="lg" variant="secondary" className="rounded-2xl">

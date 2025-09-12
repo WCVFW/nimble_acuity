@@ -13,7 +13,11 @@ const DataStorageProcessingInfrastructureCaseStudy: React.FC = () => {
         {/* Header */}
         <header className="text-center">
           <h1 className="text-4xl font-bold text-gray-900 mb-3">
+<<<<<<< HEAD
             O2I Created a Data Storage and Processing Infrastructure for a Banking Group
+=======
+            Nimble Acuity Created a Data Storage and Processing Infrastructure for a Banking Group
+>>>>>>> Santhiya
           </h1>
           <p className="text-lg text-gray-600">
             Case Study on Data Storage Creation and Processing Infrastructure
@@ -96,10 +100,17 @@ const DataStorageProcessingInfrastructureCaseStudy: React.FC = () => {
         {/* CTA */}
         <section className="bg-blue-50 p-6 rounded-2xl shadow-sm">
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">
+<<<<<<< HEAD
             Outsource Big Data Lakes Solutions & Consulting to Outsource2india
           </h2>
           <p className="text-gray-700 mb-4">
             Outsource2india is a <strong>leading provider</strong> of big data lakes
+=======
+            Nimble Big Data Lakes Solutions & Consulting to Nimble Acuity
+          </h2>
+          <p className="text-gray-700 mb-4">
+            Nimble Acuity is a <strong>leading provider</strong> of big data lakes
+>>>>>>> Santhiya
             solutions, consulting, and a range of other{" "}
             <strong>data science services</strong>. With deep expertise across multiple
             domains, our <strong>skilled data science experts</strong> can design and

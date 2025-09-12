@@ -10,7 +10,11 @@ const MachineLearningServices: React.FC = () => {
       {/* Hero */}
       <DSMainMenu/>
       <section className="bg-gradient-to-r from-indigo-600 to-purple-700 text-white py-20 px-6 text-center">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold mb-4">Outsource Machine Learning Services</h1>
+=======
+        <h1 className="text-4xl font-bold mb-4">Nimble Machine Learning Services</h1>
+>>>>>>> Santhiya
         <p className="text-lg max-w-3xl mx-auto mb-6">
           Leverage streamlined processes to build, train, and deploy high-quality learning models with our Machine Learning Services
         </p>
@@ -124,7 +128,11 @@ const MachineLearningServices: React.FC = () => {
 
       {/* Final CTA */}
       <section className="bg-purple-700 text-white py-20 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold mb-4">Outsource Machine Learning Services to Us</h2>
+=======
+        <h2 className="text-3xl font-bold mb-4">Nimble Machine Learning Services to Us</h2>
+>>>>>>> Santhiya
         <p className="max-w-3xl mx-auto mb-6">
           From fraud detection to predictive maintenance, our ML services help optimize workflows, improve decision-making, and reduce costs.
         </p>

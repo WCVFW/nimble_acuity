@@ -55,7 +55,11 @@ const CaseStudies: React.FC = () => (
 const Testimonials: React.FC = () => (
   <div className="space-y-4">
     <blockquote className="italic border-l-4 pl-4 text-gray-700">
+<<<<<<< HEAD
       “Outsource2india will have a positive effect on any business processes. I
+=======
+      “Nimble Acuity will have a positive effect on any business processes. I
+>>>>>>> Santhiya
       do not doubt that.”
     </blockquote>
     <p className="font-semibold">
@@ -73,7 +77,11 @@ const AerialPhotoEditingPage: React.FC = () => {
 
       <header className="text-center mb-12 mt-6">
         <h1 className="text-3xl font-bold">
+<<<<<<< HEAD
           Outsource Real Estate Aerial Photo Editing Services
+=======
+          Nimble Real Estate Aerial Photo Editing Services
+>>>>>>> Santhiya
         </h1>
         <p className="mt-4 text-lg text-gray-600">
           Get professional real estate and aerial photo editing services at
@@ -113,7 +121,11 @@ const AerialPhotoEditingPage: React.FC = () => {
         />
       </Section>
 
+<<<<<<< HEAD
       <Section title="Why Outsource to O2I?">
+=======
+      <Section title="Why Nimble to Nimble Acuity?">
+>>>>>>> Santhiya
         <ServiceList
           services={[
             "Flexible Pricing for all business sizes",

@@ -8,7 +8,11 @@ const HairMaskingServices: React.FC = () => {
       <PEMainMenu/>
       <div className="max-w-6xl mx-auto px-6 py-12 text-center">
         <h1 className="text-3xl sm:text-4xl font-bold text-gray-900">
+<<<<<<< HEAD
           Outsource Hair Masking Services
+=======
+          Nimble Hair Masking Services
+>>>>>>> Santhiya
         </h1>
         <p className="mt-4 text-lg text-gray-600">
           Deliver to your clients on time, every time with our 100% accurate hair
@@ -131,7 +135,11 @@ const HairMaskingServices: React.FC = () => {
       {/* Call to Action */}
       <div className="bg-blue-600 py-12 text-center text-white">
         <h2 className="text-2xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Hair Masking Services to Outsource2india
+=======
+          Nimble Hair Masking Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6 max-w-3xl mx-auto">
           Retain the finest details in hair, fur, and fabric. Save up to 60% in

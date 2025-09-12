@@ -8,11 +8,19 @@ const VectorizationFAQ: React.FC = () => {
       <PEMainMenu/>
       <section className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Image Vectorization Services - FAQs
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Get clear answers about our professional vectorization services and
           discover why O2I is a trusted partner for businesses worldwide.
+=======
+          Nimble Image Vectorization Services - FAQs
+        </h1>
+        <p className="max-w-3xl mx-auto text-lg">
+          Get clear answers about our professional vectorization services and
+          discover why Nimble Acuity is a trusted partner for businesses worldwide.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -25,12 +33,20 @@ const VectorizationFAQ: React.FC = () => {
         <div className="space-y-6">
           <div>
             <h3 className="font-semibold text-lg">
+<<<<<<< HEAD
               How do I know that O2I is capable of providing vectorization
+=======
+              How do I know that Nimble Acuity is capable of providing vectorization
+>>>>>>> Santhiya
               services?
             </h3>
             <p>
               Fair question. Why not send us a sample and let us work on it
+<<<<<<< HEAD
               before you decide to outsource vectorization services to us? We
+=======
+              before you decide to Nimble vectorization services to us? We
+>>>>>>> Santhiya
               are confident that you will appreciate the quality of our
               vectorization services.
             </p>
@@ -38,7 +54,11 @@ const VectorizationFAQ: React.FC = () => {
 
           <div>
             <h3 className="font-semibold text-lg">
+<<<<<<< HEAD
               What is the cost of outsourcing vectorization services to O2I?
+=======
+              What is the cost of outsourcing vectorization services to Nimble Acuity?
+>>>>>>> Santhiya
             </h3>
             <p>
               In addition to testing our capabilities, the other benefit of
@@ -118,7 +138,11 @@ const VectorizationFAQ: React.FC = () => {
             <p>
               Earlier, outsourcing challenges included communication gaps,
               banking, and infrastructure issues. Today, India has progressed
+<<<<<<< HEAD
               significantly. Choosing a trusted vendor like O2I ensures smooth
+=======
+              significantly. Choosing a trusted vendor like Nimble Acuity ensures smooth
+>>>>>>> Santhiya
               collaboration and quality results.
             </p>
           </div>
@@ -138,7 +162,11 @@ const VectorizationFAQ: React.FC = () => {
 
           <div>
             <h3 className="font-semibold text-lg">
+<<<<<<< HEAD
               Why should I trust O2I for outsourcing my vectorization services?
+=======
+              Why should I trust Nimble Acuity for outsourcing my vectorization services?
+>>>>>>> Santhiya
             </h3>
             <p>
               We structure payment and deliverables to reduce risk for both
@@ -160,10 +188,17 @@ const VectorizationFAQ: React.FC = () => {
 
           <div>
             <h3 className="font-semibold text-lg">
+<<<<<<< HEAD
               What is O2I’s track record?
             </h3>
             <p>
               Founded in 2002, O2I has long-term clients worldwide, including
+=======
+              What is Nimble Acuity’s track record?
+            </h3>
+            <p>
+              Founded in 2002, Nimble Acuity has long-term clients worldwide, including
+>>>>>>> Santhiya
               legal firms, universities, enterprises, and over 70 customers
               across the US, UK, and Europe.
             </p>
@@ -174,7 +209,11 @@ const VectorizationFAQ: React.FC = () => {
               What other services can you perform?
             </h3>
             <p>
+<<<<<<< HEAD
               Along with vectorization, O2I provides image editing, AutoCAD
+=======
+              Along with vectorization, Nimble Acuity provides image editing, AutoCAD
+>>>>>>> Santhiya
               drafting, content development, DTP, and software development.
             </p>
           </div>
@@ -188,7 +227,11 @@ const VectorizationFAQ: React.FC = () => {
         </h2>
         <p className="mb-6">
           Experience the quality of our vectorization services before you
+<<<<<<< HEAD
           outsource!
+=======
+          Nimble!
+>>>>>>> Santhiya
         </p>
         <button className="px-6 py-3 bg-indigo-600 text-white rounded-lg shadow hover:bg-indigo-700 transition">
           Try it now! Stop editing. Start clicking
@@ -198,10 +241,17 @@ const VectorizationFAQ: React.FC = () => {
       {/* Closing */}
       <section className="text-center py-12 px-6 bg-gray-100">
         <h2 className="text-xl font-semibold mb-2">
+<<<<<<< HEAD
           Outsource Vectorization Services to O2I
         </h2>
         <p>
           Need high-quality, efficient vectorization services? Outsource to O2I
+=======
+          Nimble Vectorization Services to Nimble Acuity
+        </h2>
+        <p>
+          Need high-quality, efficient vectorization services? Nimble to Nimble Acuity
+>>>>>>> Santhiya
           for accuracy and fast turnaround. Fill in the inquiry form and our
           Client Engagement Team will contact you within 24 hours.
         </p>

@@ -9,7 +9,11 @@ const ManagementAdvisoryServices = () => {
           Management Advisory Services
         </h2>
         <p className="text-lg text-gray-600">
+<<<<<<< HEAD
           Outsource management advisory services to Nimble Acuity and enhance your business performance with expert insights, strategies, and actionable recommendations.
+=======
+          Nimble management advisory services to Nimble Acuity and enhance your business performance with expert insights, strategies, and actionable recommendations.
+>>>>>>> Santhiya
         </p>
       </div>
 

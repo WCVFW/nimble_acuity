@@ -27,7 +27,11 @@ export default function DataTabulationAnalysis() {
             viewport={{ once: true, amount: 0.5 }}
             transition={{ duration: 0.6, ease: "easeOut" as const }}
           >
+<<<<<<< HEAD
             Outsource Data Tabulation and Analysis Services
+=======
+            Nimble Data Tabulation and Analysis Services
+>>>>>>> Santhiya
           </motion.h1>
           <motion.p
             className="mt-4 text-lg text-gray-600"
@@ -47,12 +51,20 @@ export default function DataTabulationAnalysis() {
       <section className="mx-auto max-w-5xl px-4 py-12 space-y-6">
         <p>
           Any set of data is only useful when it is organized systematically and
+<<<<<<< HEAD
           logically so that it can be understood. At Outsource2india, we provide
+=======
+          logically so that it can be understood. At Nimble Acuity, we provide
+>>>>>>> Santhiya
           data tabulation and analysis services to compress, simplify, and
           structure raw data for easy analysis.
         </p>
         <p>
+<<<<<<< HEAD
           With 26+ years of experience, Outsource2india has helped countless
+=======
+          With 26+ years of experience, Nimble Acuity has helped countless
+>>>>>>> Santhiya
           clients with surveys, studies, and research. Our expert analysts ensure
           accurate tabulation and analysis, helping you draw meaningful
           conclusions from your data.
@@ -136,7 +148,11 @@ export default function DataTabulationAnalysis() {
       <section className="bg-gray-100 py-16">
         <div className="mx-auto max-w-6xl px-4">
           <h2 className="text-2xl font-semibold text-center mb-10">
+<<<<<<< HEAD
             Why Outsource Data Tabulation and Analysis Services to O2I?
+=======
+            Why Nimble Data Tabulation and Analysis Services to Nimble Acuity?
+>>>>>>> Santhiya
           </h2>
           <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-3">
             {[
@@ -211,7 +227,11 @@ export default function DataTabulationAnalysis() {
               eCommerce Data Entry for Bike Accessories Seller
             </h3>
             <p className="text-gray-600">
+<<<<<<< HEAD
               A Poland-based manufacturer outsourced data mining and entry tasks
+=======
+              A Poland-based manufacturer Nimbled data mining and entry tasks
+>>>>>>> Santhiya
               to us. We delivered quality results within a friendly budget.
             </p>
             <a href="#" className="mt-3 inline-block text-blue-600 hover:underline">
@@ -225,7 +245,11 @@ export default function DataTabulationAnalysis() {
       <section className="bg-gray-50 py-16 text-center">
         <h2 className="text-2xl font-semibold mb-6">Testimonials</h2>
         <blockquote className="italic text-gray-700 max-w-2xl mx-auto">
+<<<<<<< HEAD
           "We were very satisfied with the quality of service Outsource2india
+=======
+          "We were very satisfied with the quality of service Nimble Acuity
+>>>>>>> Santhiya
           provided. They were able to meet our requests with great
           professionalism and flexibility."
         </blockquote>
@@ -237,7 +261,11 @@ export default function DataTabulationAnalysis() {
       {/* CTA */}
       <section className="bg-blue-600 text-white py-16 text-center">
         <h2 className="text-2xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Data Tabulation and Analysis Services to O2I
+=======
+          Nimble Data Tabulation and Analysis Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6 max-w-2xl mx-auto">
           Reduce your burden, cut costs, and improve accuracy by outsourcing your

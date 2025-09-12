@@ -11,7 +11,11 @@ const HairMaskingCaseStudy: React.FC = () => {
           Hair Masking Services for Netherlands-based Photographer
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           How Outsource2india helped a renowned photojournalist with hair masking and background change services on a tight deadline.
+=======
+          How Nimble Acuity helped a renowned photojournalist with hair masking and background change services on a tight deadline.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -41,7 +45,11 @@ const HairMaskingCaseStudy: React.FC = () => {
 
       {/* Solution Section */}
       <section className="bg-gray-50 py-12 px-6 space-y-4">
+<<<<<<< HEAD
         <h2 className="text-2xl font-semibold mb-2">O2I's Solution</h2>
+=======
+        <h2 className="text-2xl font-semibold mb-2">Nimble Acuity's Solution</h2>
+>>>>>>> Santhiya
         <p>
           We assigned 4 expert image editors using Adobe Photoshop. Due to the tight deadline, the editors worked extra hours to complete the project on time. Key steps included:
         </p>
@@ -63,9 +71,15 @@ const HairMaskingCaseStudy: React.FC = () => {
 
       {/* CTA Section */}
       <section className="text-center py-16 px-6 bg-gradient-to-r from-pink-500 to-purple-600 text-white">
+<<<<<<< HEAD
         <h2 className="text-2xl font-semibold mb-4">Outsource Hair Masking Services</h2>
         <p className="max-w-2xl mx-auto mb-6">
           Outsource2india offers a complete range of image editing services, including hair masking. We process over 200,000 images per month, follow ISO 9001 standards, and maintain 98% accuracy with almost 100% on-time delivery.
+=======
+        <h2 className="text-2xl font-semibold mb-4">Nimble Hair Masking Services</h2>
+        <p className="max-w-2xl mx-auto mb-6">
+          Nimble Acuity offers a complete range of image editing services, including hair masking. We process over 200,000 images per month, follow ISO 9001 standards, and maintain 98% accuracy with almost 100% on-time delivery.
+>>>>>>> Santhiya
         </p>
         <button className="px-6 py-3 bg-white text-purple-600 font-semibold rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us

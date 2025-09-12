@@ -10,7 +10,11 @@ const BigDataManagement: React.FC = () => {
       <DSMainMenu/>
       <section className="text-center space-y-4">
         <h1 className="text-4xl font-bold text-gray-900">
+<<<<<<< HEAD
           Outsource Big Data Management Services
+=======
+          Nimble Big Data Management Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Unleash the ultimate power of your data and make strategic business
@@ -26,7 +30,11 @@ const BigDataManagement: React.FC = () => {
           be clear, consistent, and accurate.
         </p>
         <p className="text-gray-600 leading-relaxed">
+<<<<<<< HEAD
           Outsource2india (O2I) helps organizations tap into the power of big
+=======
+          Nimble Acuity (Nimble Acuity) helps organizations tap into the power of big
+>>>>>>> Santhiya
           data for unmatched business intelligence. Our agile data management
           practices, infused with AI-powered tools and technologies, transform
           terabytes or even petabytes of big data into an ecosystem that’s
@@ -63,10 +71,17 @@ const BigDataManagement: React.FC = () => {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* Why Outsource */}
       <section className="space-y-8">
         <h2 className="text-2xl font-semibold text-gray-800">
           Why Outsource Big Data Services to Us?
+=======
+      {/* Why Nimble */}
+      <section className="space-y-8">
+        <h2 className="text-2xl font-semibold text-gray-800">
+          Why Nimble Big Data Services to Us?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
@@ -121,11 +136,19 @@ const BigDataManagement: React.FC = () => {
       {/* CTA */}
       <section className="text-center bg-blue-50 py-10 rounded-2xl">
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">
+<<<<<<< HEAD
           Outsource Big Data Services to O2I
         </h2>
         <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
           Make big data work to your advantage. Outsource data management
           services to O2I and level up your data practices with ease and
+=======
+          Nimble Big Data Services to Nimble Acuity
+        </h2>
+        <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
+          Make big data work to your advantage. Nimble data management
+          services to Nimble Acuity and level up your data practices with ease and
+>>>>>>> Santhiya
           success.
         </p>
         <button className="px-6 py-3 bg-blue-600 text-white rounded-xl font-semibold hover:bg-blue-700 transition">

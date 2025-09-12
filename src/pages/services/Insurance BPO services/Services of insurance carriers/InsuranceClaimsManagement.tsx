@@ -8,7 +8,11 @@ const InsuranceClaimsManagement: React.FC = () => {
       <Imainmenu/>
       <section className="bg-blue-900 text-white py-12 px-6 text-center">
         <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Claims Management Services
+=======
+          Nimble Insurance Claims Management Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Streamline your insurance claims management with our expert team. 
@@ -148,7 +152,11 @@ const InsuranceClaimsManagement: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-900 text-white py-12 px-6 text-center">
         <h2 className="text-2xl font-bold mb-4">
+<<<<<<< HEAD
           Boost Efficiency With Outsourced Insurance Claims Management
+=======
+          Boost Efficiency With Nimbled Insurance Claims Management
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           Access reliable and effective insurance claims management services. 

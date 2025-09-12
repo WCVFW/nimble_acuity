@@ -17,8 +17,13 @@ const outsourcingSections: Section[] = [
     title: "1) Strategy & Readiness",
     subtopics: [
       { id: 1, title: "Current-state process mapping & workload baselining", description: "Conduct a thorough analysis of existing processes, workflows, and workloads across departments. Establish baseline metrics for productivity, efficiency, and resource allocation to identify areas for optimization before outsourcing." },
+<<<<<<< HEAD
       { id: 2, title: "Outsourceability assessment (risk/criticality matrix)", description: "Evaluate processes for suitability for outsourcing using a risk and criticality matrix. Assess operational, compliance, and business continuity risks to ensure safe and strategic outsourcing decisions." },
       { id: 3, title: "Make-vs-buy & target operating model design", description: "Determine which activities should remain in-house versus outsourced. Design a target operating model that balances cost, efficiency, scalability, and strategic alignment." },
+=======
+      { id: 2, title: "Nimbleability assessment (risk/criticality matrix)", description: "Evaluate processes for suitability for outsourcing using a risk and criticality matrix. Assess operational, compliance, and business continuity risks to ensure safe and strategic outsourcing decisions." },
+      { id: 3, title: "Make-vs-buy & target operating model design", description: "Determine which activities should remain in-house versus Nimbled. Design a target operating model that balances cost, efficiency, scalability, and strategic alignment." },
+>>>>>>> Santhiya
       { id: 4, title: "Business case, TCO/NPV & savings model", description: "Develop a comprehensive business case outlining total cost of ownership, net present value, and projected savings. Include qualitative and quantitative benefits to support executive decision-making." },
       { id: 5, title: "Demand forecasting & capacity planning assumptions", description: "Analyze historical data and business trends to forecast workload demand. Align workforce and technology capacity plans to ensure service levels are met during transitions." },
       { id: 6, title: "Policy & governance framework for outsourcing", description: "Establish policies, governance structures, and oversight mechanisms to manage outsourcing initiatives. Include reporting, compliance checks, and escalation procedures for risk management." },

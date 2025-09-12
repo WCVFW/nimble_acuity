@@ -25,7 +25,11 @@ export default function EdgeAnalytics() {
             viewport={{ once: true, amount: 0.5 }}
             transition={{ duration: 0.6, ease: "easeOut" as const }}
           >
+<<<<<<< HEAD
             Outsource Edge Analytics Services
+=======
+            Nimble Edge Analytics Services
+>>>>>>> Santhiya
           </motion.h1>
           <motion.p
             className="mt-4 text-lg text-gray-600"
@@ -52,7 +56,11 @@ export default function EdgeAnalytics() {
           beneficial.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india is an experienced edge analytics service provider with
+=======
+          Nimble Acuity is an experienced edge analytics service provider with
+>>>>>>> Santhiya
           over a decade of experience. We have a capable team and all the
           resources to handle your requirements and provide flawless analytics
           services to global clients.
@@ -108,7 +116,11 @@ export default function EdgeAnalytics() {
       {/* Why Choose Us */}
       <section className="mx-auto max-w-6xl px-4 py-16">
         <h2 className="text-2xl font-semibold text-center mb-10">
+<<<<<<< HEAD
           Why Outsource Edge Analytics Services to O2i?
+=======
+          Why Nimble Edge Analytics Services to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-3">
           {[
@@ -158,7 +170,11 @@ export default function EdgeAnalytics() {
           <div className="grid gap-6 md:grid-cols-2">
             <div className="rounded-xl bg-white p-6 shadow hover:shadow-md">
               <h3 className="font-bold mb-2">
+<<<<<<< HEAD
                 O2i Provided Efficient Data Entry Services
+=======
+                Nimble Acuity Provided Efficient Data Entry Services
+>>>>>>> Santhiya
               </h3>
               <p className="text-gray-600">
                 A US-based client required online data entry services. We
@@ -195,7 +211,11 @@ export default function EdgeAnalytics() {
       <section className="mx-auto max-w-4xl px-4 py-16 text-center">
         <h2 className="text-2xl font-semibold mb-6">Testimonials</h2>
         <blockquote className="italic text-gray-700">
+<<<<<<< HEAD
           "Outsource2india will have a positive effect on any business processes.
+=======
+          "Nimble Acuity will have a positive effect on any business processes.
+>>>>>>> Santhiya
           I do not doubt that."
         </blockquote>
         <p className="mt-4 font-semibold">
@@ -206,7 +226,11 @@ export default function EdgeAnalytics() {
       {/* CTA */}
       <section className="bg-blue-600 text-white py-16 text-center">
         <h2 className="text-2xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Edge and Data Analytics Services to O2I
+=======
+          Nimble Edge and Data Analytics Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6 max-w-2xl mx-auto">
           We offer end-to-end IoT edge stream analytics services, helping

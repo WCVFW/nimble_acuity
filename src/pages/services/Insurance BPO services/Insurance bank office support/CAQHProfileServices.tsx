@@ -8,7 +8,11 @@ const CAQHProfileServices: React.FC = () => {
       <Imainmenu/>
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-16 px-6 text-center">
         <h1 className="text-3xl md:text-5xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource CAQH Profile Services for Insurance Credentialing
+=======
+          Nimble CAQH Profile Services for Insurance Credentialing
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto">
           Create detailed and comprehensive CAQH profiles for your business by
@@ -23,12 +27,20 @@ const CAQHProfileServices: React.FC = () => {
           Are you looking to create comprehensive and detailed CAQH profiles for
           your business? Are you on the lookout for skilled and experienced
           resources who can cater to all your needs? Then, the best option for
+<<<<<<< HEAD
           you would be to outsource CAQH profile services for insurance
+=======
+          you would be to Nimble CAQH profile services for insurance
+>>>>>>> Santhiya
           credentialing to an experienced and skilled CAQH profile service
           provider.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india is one such CAQH profile service providing company
+=======
+          Nimble Acuity is one such CAQH profile service providing company
+>>>>>>> Santhiya
           that can cater to all your requirements with ease. We have some of the
           most experienced and skilled experts who leverage the latest tools and
           technologies to deliver{" "}
@@ -92,7 +104,11 @@ const CAQHProfileServices: React.FC = () => {
       {/* Why Choose Us */}
       <section className="bg-gray-100 py-12 px-6">
         <h2 className="text-2xl font-bold text-center mb-10">
+<<<<<<< HEAD
           Why Choose O2I?
+=======
+          Why Choose Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <ul className="max-w-4xl mx-auto space-y-4 list-disc list-inside text-gray-700">
           <li>Flexible Pricing Packages</li>
@@ -140,7 +156,11 @@ const CAQHProfileServices: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-700 text-white text-center py-12 px-6">
         <h2 className="text-2xl md:text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource CAQH Profile Services for Insurance Credentialing to O2I
+=======
+          Nimble CAQH Profile Services for Insurance Credentialing to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6 max-w-3xl mx-auto">
           If you are looking for a reliable and efficient CAQH profile service

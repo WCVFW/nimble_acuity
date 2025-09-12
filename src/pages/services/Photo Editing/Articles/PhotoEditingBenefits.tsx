@@ -62,7 +62,11 @@ const PhotoEditingBenefits: React.FC = () => {
       {/* Benefits Section */}
       <section className="py-16 px-6 max-w-7xl mx-auto">
         <h2 className="text-2xl font-semibold text-center mb-12">
+<<<<<<< HEAD
           Why Outsource Photo Editing?
+=======
+          Why Nimble Photo Editing?
+>>>>>>> Santhiya
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {benefits.map((benefit, idx) => (
@@ -82,7 +86,11 @@ const PhotoEditingBenefits: React.FC = () => {
       {/* Call to Action */}
       <section className="bg-indigo-600 text-white py-16 px-6 text-center">
         <h2 className="text-2xl md:text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Photo Editing to Outsource2india
+=======
+          Nimble Photo Editing to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-2xl mx-auto mb-6">
           Irrespective of your business niche, if you need vibrant and flawless 

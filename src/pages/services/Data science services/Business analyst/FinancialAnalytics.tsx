@@ -8,11 +8,19 @@ const FinancialAnalytics: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Financial Analytics Services
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Faster, accurate, and smarter financial analytics services to help you
           gain a competitive edge. At Outsource2india, we empower enterprises to
+=======
+          Nimble Financial Analytics Services
+        </h1>
+        <p className="max-w-3xl mx-auto text-lg">
+          Faster, accurate, and smarter financial analytics services to help you
+          gain a competitive edge. At Nimble Acuity, we empower enterprises to
+>>>>>>> Santhiya
           make intelligent, data-driven decisions while minimizing risks.
         </p>
       </section>
@@ -31,7 +39,11 @@ const FinancialAnalytics: React.FC = () => {
       {/* Services Section */}
       <section className="py-12 px-6 bg-gray-50">
         <h2 className="text-3xl font-semibold text-center mb-10">
+<<<<<<< HEAD
           Outsource2india's Financial Analytics Services
+=======
+          Nimble Acuity's Financial Analytics Services
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
           {[
@@ -119,10 +131,17 @@ const FinancialAnalytics: React.FC = () => {
       {/* CTA Section */}
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Financial Analytics Services to Outsource2india
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           With 26+ years of experience, Outsource2india is a leader in financial
+=======
+          Nimble Financial Analytics Services to Nimble Acuity
+        </h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          With 26+ years of experience, Nimble Acuity is a leader in financial
+>>>>>>> Santhiya
           analytics services. We help businesses improve revenue, manage risks,
           and maximize returns with ISO-certified processes and proven
           expertise.

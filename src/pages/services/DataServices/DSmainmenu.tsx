@@ -1,4 +1,9 @@
 import React, { useEffect, useRef, useState } from "react";
+<<<<<<< HEAD
+=======
+import { ShieldCheckIcon } from "@heroicons/react/24/solid";
+
+>>>>>>> Santhiya
 
 // ---------- Types ----------
 interface MenuLink {
@@ -248,7 +253,10 @@ const MenuLink: MenuSection[] = [
     { label: "Catalog Processing Services", href: "/data-support/catalog/catalog-processing-services.asp" },
     { label: "Catalog Updation Services", href: "/data-support/catalog/product-catalog-maintenance-services.asp" },
     { label: "Catalog Content Management", href: "/data-support/catalog/catalog-content-management-services.asp" },
+<<<<<<< HEAD
     { label: "e-commerce Data Entry Services", href: "/data-support/catalog/ecommerce-product-data-entry-services.asp" },
+=======
+>>>>>>> Santhiya
     { label: "Catalog Building and Indexing Services", href: "/data-support/catalog/catalog-building-and-indexing-services.asp" }
   ]
 },
@@ -285,9 +293,14 @@ const MenuLink: MenuSection[] = [
   description: "Our data entry resources are comprehensive, informative, and well-researched. Check out our data entry articles and resources.",
   mainHref: "/DataManagement/articles/",
   links: [
+<<<<<<< HEAD
     { label: "Data Entry Articles", href: "/DataManagement/articles/" },
     { label: "Top Things to Avoid While Hiring the Perfect Customs Brokerage Service Provider", href: "/DataManagement/articles/top-things-avoid-while-hiring-perfect-customs-brokerage-service-provider.asp" },
     { label: "How Can Your Firm Benefit from Outsourcing Data Entry Services?", href: "/DataManagement/articles/how-can-your-firm-benefit-from-outsourcing-data-entry-services.asp" },
+=======
+    { label: "Top Things to Avoid While Hiring the Perfect Customs Brokerage Service Provider", href: "/DataManagement/articles/top-things-avoid-while-hiring-perfect-customs-brokerage-service-provider.asp" },
+    { label: "How Can Your Firm Benefit from Nimble Data Entry Services?", href: "/DataManagement/articles/how-can-your-firm-benefit-from-Nimble-data-entry-services.asp" },
+>>>>>>> Santhiya
     { label: "Big Data in 2020: Future, Growth, and Challenges", href: "/DataManagement/articles/big-data-future-growth-challenges.asp" },
     { label: "10 Common Misconceptions about Data Management", href: "/DataManagement/articles/common-misconceptions-about-data-management.asp" },
     { label: "Best Practices of OCR Data Capture", href: "/DataManagement/articles/best-practices-of-ocr-data-capture.asp" },
@@ -296,7 +309,11 @@ const MenuLink: MenuSection[] = [
     { label: "10 Signs You Should Invest in Data Analytics", href: "/DataManagement/articles/signs-you-should-invest-in-data-analytics.asp" },
     { label: "How to Solve the Manual Data Entry Challenges", href: "/DataManagement/articles/how-to-solve-manual-data-entry-challenges.asp" },
     { label: "Top 10 Data Extraction Tools", href: "/DataManagement/articles/top-data-extraction-tools.asp" },
+<<<<<<< HEAD
     { label: "10 Reasons to Outsource Product Data Entry to India", href: "/DataManagement/articles/reasons-to-outsource-product-data-entry-to-india.asp" },
+=======
+    { label: "10 Reasons to Nimble Product Data Entry to India", href: "/DataManagement/articles/reasons-to-Nimble-product-data-entry-to-india.asp" },
+>>>>>>> Santhiya
     { label: "Cloud Data Management Trends to Watch Out For", href: "/DataManagement/articles/cloud-data-management-trends.asp" },
     { label: "10 Best Practices for Successful Data Migration", href: "/DataManagement/articles/data-migration-best-practices.asp" },
     { label: "7 Big Data Predictions You May be Interested In", href: "/DataManagement/articles/big-data-trends.asp" },
@@ -304,20 +321,32 @@ const MenuLink: MenuSection[] = [
     { label: "How Can Efficient Form Creation Help You in Data Entry?", href: "/DataManagement/articles/form-creation-benefits-data-entry.asp" },
     { label: "7 Top Ways to Improve Data Accuracy", href: "/DataManagement/articles/ways-to-improve-data-accuracy.asp" },
     { label: "Skills of an Online Data Entry Clerk", href: "/DataManagement/articles/data-entry-clerk-skills.asp" },
+<<<<<<< HEAD
     { label: "Data Entry India", href: "/DataManagement/articles/get-the-data-entry-advatage-at-outsource2india.asp" },
     { label: "Better Data Management", href: "/DataManagement/articles/better-data-management.asp" },
     { label: "Outsource Data Entry to India", href: "/DataManagement/articles/outsource-data-entry-to-india.asp" },
     { label: "Outsourcing Data Entry Services", href: "/DataManagement/articles/outsource-data-entry-services.asp" },
+=======
+    { label: "Data Entry India", href: "/DataManagement/articles/get-the-data-entry-advatage-at-Nimble-Acuity.asp" },
+    { label: "Better Data Management", href: "/DataManagement/articles/better-data-management.asp" },
+    { label: "Nimble Data Entry to India", href: "/DataManagement/articles/Nimble-data-entry-to-india.asp" },
+    { label: "Nimble Data Entry Services", href: "/DataManagement/articles/Nimble-data-entry-services.asp" },
+>>>>>>> Santhiya
     { label: "Finding the Best Data Quality Solutions", href: "/DataManagement/articles/data-quality-solutions.asp" },
     { label: "Solving Issues Related to Inaccurate Data", href: "/DataManagement/articles/solve-data-issues.asp" },
     { label: "How to Convert Scanned Spreadsheet/PDF to Excel using OCR", href: "/DataManagement/articles/spreadsheet-to-excel-conversion.asp" },
     { label: "Microfilm Scanning & Conversion", href: "/DataManagement/microfilm-scanning-conversion-services.asp" }
   ]
 },
+<<<<<<< HEAD
+=======
+
+>>>>>>> Santhiya
     // ... add your other sections here (Business Research, Pharma, etc.)
 
 ];
 
+<<<<<<< HEAD
 // ---------- DropdownMenu Component ----------
 const DropdownMenu: React.FC<DropdownProps> = ({
     title,
@@ -410,10 +439,66 @@ const DropdownMenu: React.FC<DropdownProps> = ({
             </div>
         </li>
     );
+=======
+// ---------- DropdownMenu Component (Desktop only) ----------
+const DropdownMenu: React.FC<MenuSection> = ({ title, mainHref, description, links }) => {
+  const dropdownRef = useRef<HTMLDivElement>(null);
+  const [alignRight, setAlignRight] = useState(false);
+
+  useEffect(() => {
+    const handlePosition = () => {
+      if (dropdownRef.current) {
+        const rect = dropdownRef.current.getBoundingClientRect();
+        const viewportWidth = window.innerWidth;
+        setAlignRight(rect.right > viewportWidth);
+      }
+    };
+    handlePosition();
+    window.addEventListener("resize", handlePosition);
+    return () => window.removeEventListener("resize", handlePosition);
+  }, []);
+
+  return (
+    <li className="relative group">
+      <button className="px-5 py-2 font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50 transition-all duration-300 rounded-lg text-left break-words">
+        {title}
+      </button>
+
+      <div
+        ref={dropdownRef}
+        className={`
+          absolute top-full mt-2 z-50 p-4
+          opacity-0 scale-95 -translate-y-2
+          group-hover:opacity-100 group-hover:scale-100 group-hover:translate-y-0
+          pointer-events-none group-hover:pointer-events-auto
+          bg-white rounded-xl border border-gray-200 shadow-lg
+          w-[90vw] sm:w-[400px] md:w-[600px] lg:w-[700px] xl:w-[800px]
+          max-h-[500px] overflow-auto
+          ${alignRight ? "right-0 origin-top-right" : "left-0 origin-top-left"}
+          transition-all duration-300 ease-out
+        `}
+      >
+        {description && <p className="text-sm text-gray-600 mb-2">{description}</p>}
+        <div className="grid grid-cols-2 gap-2">
+          {links.map((link, idx) => (
+            <a
+              key={idx}
+              href={link.href}
+              className="block px-3 py-2 rounded-md text-gray-700 text-sm font-medium hover:bg-blue-50 hover:text-blue-600 transition-all duration-200"
+            >
+              {link.label}
+            </a>
+          ))}
+        </div>
+      </div>
+    </li>
+  );
+>>>>>>> Santhiya
 };
 
 // ---------- Main Menu Component ----------
 const DSmainmenu: React.FC = () => {
+<<<<<<< HEAD
     return (
         <nav className="sticky top-0 z-50 bg-white">
             <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
@@ -447,10 +532,124 @@ const DSmainmenu: React.FC = () => {
             </div>
         </nav>
     );
+=======
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [expandedSections, setExpandedSections] = useState<number[]>([]);
+
+  const toggleSection = (idx: number) => {
+    setExpandedSections((prev) =>
+      prev.includes(idx) ? prev.filter((i) => i !== idx) : [...prev, idx]
+    );
+  };
+
+  return (
+    <nav className="sticky top-0 z-50 bg-white shadow-sm">
+      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div className="flex justify-between items-center py-4">
+          {/* Desktop Menu */}
+          <ul className="hidden md:flex items-center justify-start flex-wrap gap-2">
+              {MenuLink.map((section, idx) => {
+    if (idx === 3) {
+      // Direct link for index 3
+      return (
+        <li key={idx}>
+          <a
+            href={section.mainHref}
+            className="px-5 py-2 font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50 transition-all duration-300 rounded-lg text-left break-words"
+          >
+            {section.title}
+          </a>
+        </li>
+      );
+    }
+    return <DropdownMenu key={idx} {...section} />;
+  })}
+          </ul>
+
+          {/* Mobile Hamburger */}
+          <div className="md:hidden">
+            <button
+              onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+              className="inline-flex items-center justify-center p-2 rounded-md text-gray-700 hover:text-green-600 hover:bg-gray-100 transition-all duration-300"
+            >
+              {mobileMenuOpen ? (
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              ) : (
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+                </svg>
+              )}
+            </button>
+          </div>
+        </div>
+
+        {/* Mobile Accordion Menu */}
+        {mobileMenuOpen && (
+          <div className="md:hidden mt-2 p-2 bg-white rounded-xl shadow-lg">
+           {MenuLink.map((section, idx) => {
+  const isExpanded = expandedSections.includes(idx);
+
+  // If index 2, render a direct link
+  if (idx === 3) {
+    return (
+      <a
+        key={idx}
+        href={section.mainHref}
+        className="w-full block px-3 py-2 text-left font-semibold text-gray-800 hover:text-green-600 transition-all duration-300 rounded-lg border-b last:border-b-0 mb-2"
+      >
+        {section.title}
+      </a>
+    );
+  }
+
+  // Other sections with accordion
+  return (
+    <div key={idx} className="border-b last:border-b-0 mb-2">
+      <button
+        onClick={() => toggleSection(idx)}
+        className="w-full flex justify-between items-center px-3 py-2 text-left font-semibold text-gray-800 hover:text-green-600 transition-all duration-300 rounded-lg"
+      >
+        <span>{section.title}</span>
+        <span className="text-gray-500">{isExpanded ? "−" : "+"}</span>
+      </button>
+
+      {isExpanded && (
+        <div className="mt-1 pl-4">
+          {section.description && (
+            <p className="text-sm text-gray-600 mb-1">{section.description}</p>
+          )}
+          <div className="flex flex-col gap-1">
+            {section.links.map((link, linkIdx) => (
+              <a
+                key={linkIdx}
+                href={link.href}
+                className="text-sm text-gray-700 hover:text-green-600 hover:underline px-2 py-1 rounded-lg transition-all duration-200"
+              >
+                {link.label}
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+})}
+
+          </div>
+        )}
+      </div>
+    </nav>
+  );
+>>>>>>> Santhiya
 };
 
 export default DSmainmenu
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> Santhiya

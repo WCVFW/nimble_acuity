@@ -11,7 +11,11 @@ const FinancialFeasibilityAnalysis: React.FC = () => {
       <NavigationMenu/>
       <section className="text-center mb-12">
         <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Financial Feasibility Analysis Services
+=======
+          Nimble Financial Feasibility Analysis Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg mb-2">
           We provide an unbiased valuation of financial feasibility through a
@@ -74,7 +78,11 @@ const FinancialFeasibilityAnalysis: React.FC = () => {
           Financial Feasibility Analysis Process We Follow
         </h2>
         <ol className="list-decimal list-inside space-y-3 text-gray-700">
+<<<<<<< HEAD
           <li>O2I offers an overview of findings.</li>
+=======
+          <li>Nimble Acuity offers an overview of findings.</li>
+>>>>>>> Santhiya
           <li>
             Evaluate estimated sales, market potential, competitors, and
             constraints.
@@ -111,7 +119,11 @@ const FinancialFeasibilityAnalysis: React.FC = () => {
       {/* Why Choose Us Section */}
       <section className="mb-12">
         <h2 className="text-2xl font-semibold mb-6">
+<<<<<<< HEAD
           Why Outsource Financial Feasibility Analysis Services to O2I?
+=======
+          Why Nimble Financial Feasibility Analysis Services to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <ul className="space-y-3 text-gray-700 list-disc list-inside">
           <li>Quality Assurance with precise and verified data.</li>

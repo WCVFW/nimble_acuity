@@ -18,7 +18,11 @@ const PolicyIssuancePage: React.FC = () => {
       <Imainmenu/>
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Policy Issuance Services
+=======
+          Nimble Policy Issuance Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-2xl mx-auto text-lg">
           Get your policy issuance process streamlined by our experienced team
@@ -96,7 +100,11 @@ const PolicyIssuancePage: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-16 px-6 max-w-7xl mx-auto">
         <h2 className="text-3xl font-semibold text-center mb-12">
+<<<<<<< HEAD
           Why Choose O2I for Policy Issuance Services?
+=======
+          Why Choose Nimble Acuity for Policy Issuance Services?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
@@ -133,7 +141,11 @@ const PolicyIssuancePage: React.FC = () => {
           Ready to Streamline Your Policy Issuance?
         </h2>
         <p className="max-w-2xl mx-auto text-lg mb-6">
+<<<<<<< HEAD
           Partner with Outsource2india for cost-effective, accurate, and
+=======
+          Partner with Nimble Acuity for cost-effective, accurate, and
+>>>>>>> Santhiya
           efficient policy issuance services.
         </p>
         <Button className="bg-white text-blue-700 hover:bg-gray-100">

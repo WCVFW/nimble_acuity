@@ -23,7 +23,11 @@ const RestaurantAccounting = () => {
       </p>
       <p className="mb-4 text-gray-700">
         We provide clients worldwide with streamlined restaurant accounting
+<<<<<<< HEAD
         solutions. With our outsourced services, you can concentrate on your
+=======
+        solutions. With our Nimbled services, you can concentrate on your
+>>>>>>> Santhiya
         core strengths while we handle your accounting books, ensuring they are
         current and compliant with industry standards. This allows you to
         effectively manage cash flow, boost profit margins, and focus on

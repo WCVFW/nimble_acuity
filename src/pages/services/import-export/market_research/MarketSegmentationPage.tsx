@@ -17,7 +17,11 @@ export default function MarketSegmentationPage() {
           transition={{ duration: 0.6 }}
           className="text-4xl md:text-5xl font-bold mb-6"
         >
+<<<<<<< HEAD
           Outsource Market Segmentation Analysis Services
+=======
+          Nimble Market Segmentation Analysis Services
+>>>>>>> Santhiya
         </motion.h1>
         <p className="max-w-3xl mx-auto text-lg mb-6">
           Maximize ROI by effectively segmenting your client base and targeting them better —
@@ -32,7 +36,11 @@ export default function MarketSegmentationPage() {
         <p className="text-gray-700 leading-relaxed">
           Building loyalty means making clients feel valued. Market segmentation allows you to
           divide your large client base into smaller, well-defined categories, ensuring your
+<<<<<<< HEAD
           marketing is impactful and relevant. With 26+ years of expertise, Outsource2india
+=======
+          marketing is impactful and relevant. With 26+ years of expertise, Nimble Acuity
+>>>>>>> Santhiya
           provides 360-degree analysis to help you understand, retain, and grow your clients.
         </p>
       </section>
@@ -80,7 +88,11 @@ export default function MarketSegmentationPage() {
 
       {/* Why Choose Us */}
       <section className="py-16 px-6 bg-gray-50">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold text-center mb-10">Why Choose Outsource2india?</h2>
+=======
+        <h2 className="text-3xl font-bold text-center mb-10">Why Choose Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
             "Cost-effective services tailored to your budget.",

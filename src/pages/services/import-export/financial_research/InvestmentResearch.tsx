@@ -90,7 +90,11 @@ const InvestmentResearch: React.FC = () => {
       </ul>
       <p className="mt-2 text-sm text-gray-500">
         (Disclaimer: The use of the abovementioned tools is subject to
+<<<<<<< HEAD
         Outsource2india's present practices. We do not endorse their use in any
+=======
+        Nimble Acuity's present practices. We do not endorse their use in any
+>>>>>>> Santhiya
         capacity.)
       </p>
 
@@ -144,7 +148,11 @@ const InvestmentResearch: React.FC = () => {
         Testimonials
       </h2>
       <blockquote className="border-l-4 border-blue-600 pl-4 italic text-gray-700 mb-6">
+<<<<<<< HEAD
         “The services that Outsource2india provided helped us achieve substantial
+=======
+        “The services that Nimble Acuity provided helped us achieve substantial
+>>>>>>> Santhiya
         cost and time savings on several challenging projects. Their prompt
         attention to our requests and attention to detail is excellent.”
         <br />

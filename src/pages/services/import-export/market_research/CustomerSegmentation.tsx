@@ -8,7 +8,11 @@ const CustomerSegmentation: React.FC = () => {
        <NavigationMenu/>
       <section className="max-w-5xl mx-auto text-center mb-12">
         <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Customer Segmentation Services
+=======
+          Nimble Customer Segmentation Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg mb-6">
           Enable better engagement and reach out to the right audience by
@@ -46,7 +50,11 @@ const CustomerSegmentation: React.FC = () => {
       {/* Why Choose Us */}
       <section className="max-w-5xl mx-auto mb-12">
         <h2 className="text-2xl font-semibold mb-6">
+<<<<<<< HEAD
           Why Choose O2I for Customer Segmentation Services?
+=======
+          Why Choose Nimble Acuity for Customer Segmentation Services?
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc pl-6 space-y-3">
           <li>✅ Affordable pricing with flexible models</li>
@@ -90,7 +98,11 @@ const CustomerSegmentation: React.FC = () => {
       <section className="max-w-4xl mx-auto text-center mb-12">
         <h2 className="text-2xl font-semibold mb-6">Testimonials</h2>
         <blockquote className="italic">
+<<<<<<< HEAD
           “We are most pleased and satisfied with our team at Outsource2india.
+=======
+          “We are most pleased and satisfied with our team at Nimble Acuity.
+>>>>>>> Santhiya
           They have proven that a small business such as ours can take advantage
           of the great benefits of outsourcing.”
         </blockquote>
@@ -102,12 +114,20 @@ const CustomerSegmentation: React.FC = () => {
       {/* CTA */}
       <section className="max-w-4xl mx-auto text-center">
         <h2 className="text-2xl font-semibold mb-4">
+<<<<<<< HEAD
           Outsource Customer Segmentation Services to Outsource2india
+=======
+          Nimble Customer Segmentation Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6">
           With our expert team and cutting-edge tools, we deliver efficient and
           high-quality customer segmentation services tailored to your business
+<<<<<<< HEAD
           needs. Scale smarter, engage better, and grow faster with O2I.
+=======
+          needs. Scale smarter, engage better, and grow faster with Nimble Acuity.
+>>>>>>> Santhiya
         </p>
         <button className="bg-blue-600 text-white px-6 py-3 rounded-lg shadow hover:bg-blue-700">
           Get Started Today

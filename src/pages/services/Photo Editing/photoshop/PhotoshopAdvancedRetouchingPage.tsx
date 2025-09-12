@@ -11,7 +11,11 @@ const PhotoshopAdvancedRetouchingPage: React.FC = () => {
       <PEMainMenu/>
       <section className="bg-gradient-to-r from-gray-900 to-gray-700 text-white py-20 px-6 text-center">
         <h1 className="text-4xl md:text-5xl font-bold mb-6">
+<<<<<<< HEAD
           Outsource Photoshop Advanced Retouching Services
+=======
+          Nimble Photoshop Advanced Retouching Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg leading-relaxed">
           We Photoshop your photographs to help you better communicate with your
@@ -25,7 +29,11 @@ const PhotoshopAdvancedRetouchingPage: React.FC = () => {
         <h2 className="text-2xl font-bold mb-4">Why Photoshop Retouching Matters</h2>
         <p className="text-gray-700 leading-relaxed">
           Do you have a story to tell and images help you to define, create, and build your brand?
+<<<<<<< HEAD
           Crisp, flawless images help you stand out. At Outsource2india, our experts ensure your
+=======
+          Crisp, flawless images help you stand out. At Nimble Acuity, our experts ensure your
+>>>>>>> Santhiya
           brand creates a strong “visual presence” in the minds of customers.
         </p>
       </section>
@@ -124,7 +132,11 @@ const PhotoshopAdvancedRetouchingPage: React.FC = () => {
       {/* Why Choose Us */}
       <section className="max-w-6xl mx-auto py-16 px-6">
         <h2 className="text-3xl font-bold text-center mb-12">
+<<<<<<< HEAD
           Why Choose O2I for Photoshop Retouching?
+=======
+          Why Choose Nimble Acuity for Photoshop Retouching?
+>>>>>>> Santhiya
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {[
@@ -162,7 +174,11 @@ const PhotoshopAdvancedRetouchingPage: React.FC = () => {
       {/* CTA */}
       <section className="bg-gradient-to-r from-yellow-400 to-orange-500 text-white py-20 px-6 text-center">
         <h2 className="text-3xl md:text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Photoshop Retouching to O2I – Photo Editing Experts
+=======
+          Nimble Photoshop Retouching to Nimble Acuity – Photo Editing Experts
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto text-lg mb-6">
           Backed by expert photo editors and cutting-edge technology, we deliver

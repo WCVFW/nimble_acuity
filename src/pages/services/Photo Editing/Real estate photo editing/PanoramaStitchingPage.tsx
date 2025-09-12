@@ -70,7 +70,11 @@ const Testimonials: React.FC = () => (
   <div className="space-y-4">
     
     <blockquote className="italic border-l-4 pl-4">
+<<<<<<< HEAD
       “What a fantastic service I received from Outsource2india! Very quick to
+=======
+      “What a fantastic service I received from Nimble Acuity! Very quick to
+>>>>>>> Santhiya
       respond, helpful, and extremely communicative. 24 hours to complete my
       project which helped me massively.”
     </blockquote>
@@ -87,7 +91,11 @@ const PanoramaStitchingPage: React.FC = () => {
         
       <header className="text-center mb-10">
         <h1 className="text-3xl font-bold">
+<<<<<<< HEAD
           Outsource Real Estate Panorama Stitching Services
+=======
+          Nimble Real Estate Panorama Stitching Services
+>>>>>>> Santhiya
         </h1>
         <p className="mt-2 text-lg text-gray-600">
           Perfect panoramas that impress buyers, boost sales, and save you time.
@@ -135,7 +143,11 @@ const PanoramaStitchingPage: React.FC = () => {
         />
       </Section>
 
+<<<<<<< HEAD
       <Section title="Why Choose O2I?">
+=======
+      <Section title="Why Choose Nimble Acuity?">
+>>>>>>> Santhiya
         <AdvantagesList
           items={[
             "ISO 9001:2015 certified provider",

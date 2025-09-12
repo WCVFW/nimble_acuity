@@ -7,7 +7,11 @@ const InsuranceEligibilityManagement: React.FC = () => {
       {/* Hero Section */}
       <Imainmenu/>
       <section className="text-center space-y-4">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold">Outsource Insurance Eligibility Management Services</h1>
+=======
+        <h1 className="text-4xl font-bold">Nimble Insurance Eligibility Management Services</h1>
+>>>>>>> Santhiya
         <p className="text-lg text-gray-700">
           Streamline your insurance agency's operations with our Insurance Eligibility Management Services.
         </p>

@@ -9,7 +9,11 @@ const ImageClippingCaseStudy: React.FC = () => {
       <section className="bg-teal-600 text-white py-20 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">Denmark-based Client Image Clipping</h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           How Outsource2india delivered 700 images with high-quality clipping and retouching services within a tight 24-hour deadline.
+=======
+          How Nimble Acuity delivered 700 images with high-quality clipping and retouching services within a tight 24-hour deadline.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -41,7 +45,11 @@ const ImageClippingCaseStudy: React.FC = () => {
 
         {/* Solution */}
         <div className="bg-white p-8 shadow-lg rounded-lg">
+<<<<<<< HEAD
           <h2 className="text-2xl font-semibold mb-4">O2I's Solution</h2>
+=======
+          <h2 className="text-2xl font-semibold mb-4">Nimble Acuity's Solution</h2>
+>>>>>>> Santhiya
           <p>Two expert editors were assigned to handle 700 images using Adobe Photoshop. Services included:</p>
           <ul className="list-disc list-inside mt-3 space-y-1">
             <li>Product clipping path</li>
@@ -66,9 +74,15 @@ const ImageClippingCaseStudy: React.FC = () => {
 
       {/* Call to Action */}
       <section className="bg-teal-600 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Outsource Image Clipping Services</h2>
         <p className="max-w-3xl mx-auto mb-6">
           Outsource2india provides professional image editing services, processing over 200,000 images per month with ISO 9001 standards, 98% accuracy, and near 100% on-time delivery.
+=======
+        <h2 className="text-3xl font-semibold mb-4">Nimble Image Clipping Services</h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Nimble Acuity provides professional image editing services, processing over 200,000 images per month with ISO 9001 standards, 98% accuracy, and near 100% on-time delivery.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-teal-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Today

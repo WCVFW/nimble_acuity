@@ -8,12 +8,20 @@ const PhotomontageServices: React.FC = () => {
       <PEMainMenu/>
       <section className="bg-gradient-to-r from-purple-600 to-pink-600 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Photomontage Services
+=======
+          Nimble Photomontage Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           High-quality photomontage services delivered by skilled professionals
           with 26+ years of expertise. Experience seamless image blending,
+<<<<<<< HEAD
           creative visuals, and cost-effective solutions with Outsource2india.
+=======
+          creative visuals, and cost-effective solutions with Nimble Acuity.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -24,7 +32,11 @@ const PhotomontageServices: React.FC = () => {
           artistically. It involves adding figures or objects, replacing or
           changing backgrounds, and manipulating lighting, color, and tone.
           Arranging all these elements can be a cumbersome task — that’s where
+<<<<<<< HEAD
           outsourcing helps. At Outsource2india, we use cutting-edge software to
+=======
+          outsourcing helps. At Nimble Acuity, we use cutting-edge software to
+>>>>>>> Santhiya
           deliver photomontage services for{" "}
           <b>portrait studios, publishing houses, online stores, and real estate firms</b>{" "}
           worldwide.
@@ -94,7 +106,11 @@ const PhotomontageServices: React.FC = () => {
       {/* Advantages Section */}
       <section className="bg-gray-50 py-12 px-6">
         <h2 className="text-2xl font-semibold text-center mb-8">
+<<<<<<< HEAD
           Get the Outsource2india Advantage
+=======
+          Get the Nimble Acuity Advantage
+>>>>>>> Santhiya
         </h2>
         <ul className="max-w-4xl mx-auto list-disc list-inside space-y-2">
           <li>
@@ -168,7 +184,11 @@ const PhotomontageServices: React.FC = () => {
         </h2>
         <p className="mb-6">
           Experience the quality of our photomontage services before you
+<<<<<<< HEAD
           outsource!
+=======
+          Nimble!
+>>>>>>> Santhiya
         </p>
         <button className="px-6 py-3 bg-white text-pink-700 font-semibold rounded-lg shadow hover:bg-gray-100 transition">
           Try it now! Stop editing. Start clicking
@@ -181,7 +201,11 @@ const PhotomontageServices: React.FC = () => {
           Contact Us for Professional Photomontage Services
         </h2>
         <p>
+<<<<<<< HEAD
           Outsource2india delivers high-quality photomontage services at
+=======
+          Nimble Acuity delivers high-quality photomontage services at
+>>>>>>> Santhiya
           cost-effective rates with quick turnaround time. Get in touch to take
           your visuals to the next level.
         </p>

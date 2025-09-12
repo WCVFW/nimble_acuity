@@ -72,7 +72,11 @@ const LandscapePhotography: React.FC = () => {
           Sign up for a FREE trial with us today
         </h2>
         <p className="text-gray-700 mb-4">
+<<<<<<< HEAD
           Experience the quality of our work before you outsource! Hope these
+=======
+          Experience the quality of our work before you Nimble! Hope these
+>>>>>>> Santhiya
           landscape photography techniques gave you insights into capturing
           breathtaking landscapes.
         </p>

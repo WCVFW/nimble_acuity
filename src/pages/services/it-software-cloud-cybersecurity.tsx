@@ -93,7 +93,11 @@ const ITSoftwareCloudCybersecurity: React.FC = () => {
       <section className="bg-blue-600 py-16 text-white text-center">
         <h2 className="text-3xl font-bold mb-4">Case Studies & Articles</h2>
         <p className="mb-6 max-w-2xl mx-auto">
+<<<<<<< HEAD
           Explore how Outsource2india has helped companies manage important business data, and read our insights on data entry, processing, conversion, analytics, and more.
+=======
+          Explore how Nimble Acuity has helped companies manage important business data, and read our insights on data entry, processing, conversion, analytics, and more.
+>>>>>>> Santhiya
         </p>
         <a
           href="/contact"
@@ -108,7 +112,11 @@ const ITSoftwareCloudCybersecurity: React.FC = () => {
         <h2 className="text-3xl font-bold mb-6 text-center">What Our Clients Say</h2>
         <div className="bg-white shadow-lg rounded-lg p-8 text-center max-w-3xl mx-auto">
           <p className="text-gray-700 mb-4 italic">
+<<<<<<< HEAD
             "Working with Outsource2india has been a great experience. They quickly learned our line of business, adapted to our requirements and have consistently performed well."
+=======
+            "Working with Nimble Acuity has been a great experience. They quickly learned our line of business, adapted to our requirements and have consistently performed well."
+>>>>>>> Santhiya
           </p>
           <p className="font-semibold">Spokesperson, Executive recruitment firm in US</p>
         </div>

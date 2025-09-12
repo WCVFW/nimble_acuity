@@ -7,7 +7,11 @@ const WebBasedMarketResearch: React.FC = () => {
       {/* Title */}
       <NavigationMenu/>
       <h1 className="text-3xl font-bold text-blue-900 mb-6">
+<<<<<<< HEAD
         Why Outsource Web-Based Market Research to O2I?
+=======
+        Why Nimble Web-Based Market Research to Nimble Acuity?
+>>>>>>> Santhiya
       </h1>
 
       {/* Intro */}
@@ -20,7 +24,11 @@ const WebBasedMarketResearch: React.FC = () => {
       </p>
 
       <p className="mb-6">
+<<<<<<< HEAD
         At Outsource2india (O2I), we have kept pace with this evolution by successfully executing
+=======
+        At Nimble Acuity (Nimble Acuity), we have kept pace with this evolution by successfully executing
+>>>>>>> Santhiya
         research and analysis projects for global clients. Our team of consultants includes PhDs and
         Masters degree holders across diverse domains such as biology, chemistry, bioinformatics,
         statistics, software engineering, electronics, civil and mechanical engineering,
@@ -30,7 +38,11 @@ const WebBasedMarketResearch: React.FC = () => {
 
       {/* Section: Value Proposition */}
       <h2 className="text-2xl font-semibold text-blue-800 mb-4">
+<<<<<<< HEAD
         O2I’s Unique Value Proposition for Web-Based Market Research Outsourcing
+=======
+        Nimble Acuity’s Unique Value Proposition for Web-Based Market Research Outsourcing
+>>>>>>> Santhiya
       </h2>
       <ul className="list-disc pl-6 mb-6 space-y-2">
         <li>End-to-end solutions for all research needs</li>
@@ -45,7 +57,11 @@ const WebBasedMarketResearch: React.FC = () => {
 
       {/* Section: Advantages */}
       <h2 className="text-2xl font-semibold text-blue-800 mb-4">
+<<<<<<< HEAD
         Advantages of Outsource2india’s Research Services
+=======
+        Advantages of Nimble Acuity’s Research Services
+>>>>>>> Santhiya
       </h2>
       <ul className="list-disc pl-6 mb-6 space-y-2">
         <li>Cost savings as high as 40-45%</li>
@@ -86,7 +102,11 @@ const WebBasedMarketResearch: React.FC = () => {
 
       {/* Section: Quality Standards */}
       <h2 className="text-2xl font-semibold text-blue-800 mb-4">
+<<<<<<< HEAD
         Quality and Data Security Standards at O2I
+=======
+        Quality and Data Security Standards at Nimble Acuity
+>>>>>>> Santhiya
       </h2>
       <ul className="list-disc pl-6 mb-6 space-y-2">
         <li>ISO 9001 certified</li>
@@ -95,7 +115,11 @@ const WebBasedMarketResearch: React.FC = () => {
       </ul>
 
       <p className="mb-6">
+<<<<<<< HEAD
         At O2I, we prioritize customer privacy. Your data is handled with absolute confidentiality,
+=======
+        At Nimble Acuity, we prioritize customer privacy. Your data is handled with absolute confidentiality,
+>>>>>>> Santhiya
         and your preferred method of contact is respected. We never disclose identity without your
         expressed consent.
       </p>
@@ -103,10 +127,17 @@ const WebBasedMarketResearch: React.FC = () => {
       {/* CTA */}
       <div className="bg-blue-50 p-6 rounded-xl shadow-md text-center">
         <h3 className="text-xl font-semibold text-blue-900 mb-4">
+<<<<<<< HEAD
           Ready to Outsource Your Web-Based Market Research?
         </h3>
         <p className="mb-4">
           Partner with Outsource2india to access expert research services, world-class quality, and
+=======
+          Ready to Nimble Your Web-Based Market Research?
+        </h3>
+        <p className="mb-4">
+          Partner with Nimble Acuity to access expert research services, world-class quality, and
+>>>>>>> Santhiya
           secure project execution.
         </p>
         <button className="bg-blue-700 text-white px-6 py-3 rounded-lg font-medium hover:bg-blue-800 transition">

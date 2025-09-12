@@ -28,10 +28,17 @@ const SurveyAnalyticsPage: React.FC = () => {
       <section className="bg-gradient-to-r from-indigo-600 to-purple-700 text-white py-20 px-6 text-center">
         <motion.div {...fadeInUp}>
           <h1 className="text-4xl md:text-5xl font-bold mb-4">
+<<<<<<< HEAD
             Outsource Survey Analytics Services
           </h1>
           <p className="max-w-3xl mx-auto text-lg">
             Transform survey data into actionable insights with Outsource2india’s
+=======
+            Nimble Survey Analytics Services
+          </h1>
+          <p className="max-w-3xl mx-auto text-lg">
+            Transform survey data into actionable insights with Nimble Acuity’s
+>>>>>>> Santhiya
             expert survey analytics solutions.
           </p>
         </motion.div>
@@ -42,7 +49,11 @@ const SurveyAnalyticsPage: React.FC = () => {
         <motion.div {...fadeInUp} className="space-y-6 text-lg">
           <p>
             In today’s competitive market, businesses must constantly improve
+<<<<<<< HEAD
             services and customer experience. At Outsource2india, we provide
+=======
+            services and customer experience. At Nimble Acuity, we provide
+>>>>>>> Santhiya
             reliable survey analytics to help you understand customer behavior,
             preferences, and needs with precision.
           </p>
@@ -121,7 +132,11 @@ const SurveyAnalyticsPage: React.FC = () => {
           {...fadeInUp}
           className="text-3xl font-bold text-center mb-12"
         >
+<<<<<<< HEAD
           Why Choose O2I for Survey Analytics?
+=======
+          Why Choose Nimble Acuity for Survey Analytics?
+>>>>>>> Santhiya
         </motion.h2>
         <div className="grid md:grid-cols-2 gap-8">
           {[
@@ -159,7 +174,11 @@ const SurveyAnalyticsPage: React.FC = () => {
             {
               title:
                 "Case Study on Document Processing Automation Platform Development",
+<<<<<<< HEAD
               desc: "A banking firm partnered with O2I to automate its document processing workflow. Our data scientists built a big data platform for rapid automation.",
+=======
+              desc: "A banking firm partnered with Nimble Acuity to automate its document processing workflow. Our data scientists built a big data platform for rapid automation.",
+>>>>>>> Santhiya
             },
             {
               title: "Case Study on Open Source Analytics Workbench Creation",
@@ -182,10 +201,17 @@ const SurveyAnalyticsPage: React.FC = () => {
       <section className="bg-indigo-600 text-white text-center py-16 px-6">
         <motion.div {...fadeInUp}>
           <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
             Outsource Survey Analytics Services to O2I
           </h2>
           <p className="max-w-2xl mx-auto mb-6 text-lg">
             With 20+ years of expertise in survey data analytics, Outsource2india
+=======
+            Nimble Survey Analytics Services to Nimble Acuity
+          </h2>
+          <p className="max-w-2xl mx-auto mb-6 text-lg">
+            With 20+ years of expertise in survey data analytics, Nimble Acuity
+>>>>>>> Santhiya
             helps you plan, design, and analyze surveys with precision. Get in
             touch with us today to transform your customer insights.
           </p>

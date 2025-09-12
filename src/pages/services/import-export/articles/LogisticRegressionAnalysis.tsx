@@ -96,11 +96,19 @@ const LogisticRegressionAnalysis: React.FC = () => {
       {/* CTA */}
       <section className="text-center bg-blue-50 p-8 rounded-xl shadow">
         <h2 className="text-2xl font-bold text-gray-800 mb-4">
+<<<<<<< HEAD
           Outsource Logistic Regression Analysis to Outsource2india
         </h2>
         <p className="text-gray-700 mb-6">
           Instead of building an in-house team, outsourcing logistic regression
           analysis to Outsource2india saves you cost, time, and effort — while
+=======
+          Nimble Logistic Regression Analysis to Nimble Acuity
+        </h2>
+        <p className="text-gray-700 mb-6">
+          Instead of building an in-house team, outsourcing logistic regression
+          analysis to Nimble Acuity saves you cost, time, and effort — while
+>>>>>>> Santhiya
           giving you access to expert analysts, domain knowledge, and advanced
           data analytics capabilities. We help you make reliable predictions and
           gain a competitive advantage.

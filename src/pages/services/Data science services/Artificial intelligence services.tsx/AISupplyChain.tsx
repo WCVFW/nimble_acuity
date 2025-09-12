@@ -9,7 +9,11 @@ const AISupplyChain: React.FC = () => {
       <DSMainMenu/>
       <section className="text-center max-w-4xl mx-auto py-16 px-6">
         <h1 className="text-4xl md:text-5xl font-bold mb-6 text-blue-700">
+<<<<<<< HEAD
           Outsource AI in Supply Chain Services
+=======
+          Nimble AI in Supply Chain Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg md:text-xl text-gray-600">
           Optimize your supply chain with AI solutions. Boost efficiency, predict demand trends, 

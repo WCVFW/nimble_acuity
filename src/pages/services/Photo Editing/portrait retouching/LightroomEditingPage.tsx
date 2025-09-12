@@ -11,7 +11,11 @@ export default function LightroomEditingPage() {
       <PEMainMenu/>
       <section className="bg-gradient-to-r from-indigo-50 to-blue-100 py-20 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Lightroom Editing Services
+=======
+          Nimble Lightroom Editing Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-2xl mx-auto mb-6">
           Simplify editing complexities with our tailored Lightroom photo editing services.
@@ -192,7 +196,11 @@ export default function LightroomEditingPage() {
           Ready to Simplify Your Lightroom Editing?
         </h2>
         <p className="mb-6 max-w-2xl mx-auto">
+<<<<<<< HEAD
           Outsource Lightroom photo editing services to us for expert solutions,
+=======
+          Nimble Lightroom photo editing services to us for expert solutions,
+>>>>>>> Santhiya
           high-quality results, and on-time delivery.
         </p>
         <Button size="lg" variant="secondary">

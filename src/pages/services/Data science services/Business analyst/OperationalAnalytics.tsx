@@ -8,7 +8,11 @@ const OperationalAnalytics: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Operational Analytics Services
+=======
+          Nimble Operational Analytics Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Use our operational analytics expertise to optimize asset performance,
@@ -25,7 +29,11 @@ const OperationalAnalytics: React.FC = () => {
           tailored to your needs while ensuring data confidentiality.
         </p>
         <p>
+<<<<<<< HEAD
           At O2I, we help clients across India, UK, North America, and APAC
+=======
+          At Nimble Acuity, we help clients across India, UK, North America, and APAC
+>>>>>>> Santhiya
           realize the full potential of their analytical initiatives. With
           decades of experience, we’ve partnered with Fortune 1000 companies to
           deliver exceptional results.
@@ -74,7 +82,11 @@ const OperationalAnalytics: React.FC = () => {
       {/* Benefits */}
       <section className="py-12 px-6 max-w-5xl mx-auto space-y-6">
         <h2 className="text-3xl font-semibold text-center mb-6">
+<<<<<<< HEAD
           Transform Your Day-To-Day Analytics Processes Faster with O2I
+=======
+          Transform Your Day-To-Day Analytics Processes Faster with Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc pl-6 space-y-3 text-gray-700">
           <li>
@@ -134,7 +146,11 @@ const OperationalAnalytics: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-12 px-6 max-w-6xl mx-auto">
         <h2 className="text-3xl font-semibold text-center mb-8">
+<<<<<<< HEAD
           Why Outsource Operational Analytics Services to O2I?
+=======
+          Why Nimble Operational Analytics Services to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <ul className="grid md:grid-cols-2 gap-6 list-disc pl-6 text-gray-700">
           {[
@@ -185,12 +201,20 @@ const OperationalAnalytics: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Operational Analytics Services to O2I
+=======
+          Nimble Operational Analytics Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           We bring together production, asset management, supply chain, and
           procurement analytics to help you gain operational excellence. Unlock
+<<<<<<< HEAD
           hidden insights and achieve real-time outcomes with O2I.
+=======
+          hidden insights and achieve real-time outcomes with Nimble Acuity.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-blue-900 px-6 py-3 rounded-lg font-semibold shadow hover:bg-gray-100">
           Contact Us

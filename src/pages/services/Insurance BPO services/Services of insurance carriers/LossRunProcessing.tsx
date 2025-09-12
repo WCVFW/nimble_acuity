@@ -8,12 +8,20 @@ const LossRunProcessing: React.FC = () => {
       <Imainmenu/>
       <section className="bg-blue-700 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Loss Run Processing for Insurance Carriers
+=======
+          Nimble Loss Run Processing for Insurance Carriers
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Get error-free loss run processing reports created by experienced
           insurance experts in the shortest possible time by partnering with{" "}
+<<<<<<< HEAD
           <span className="font-semibold">Outsource2india</span>.
+=======
+          <span className="font-semibold">Nimble Acuity</span>.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -22,7 +30,11 @@ const LossRunProcessing: React.FC = () => {
         <p>
           Struggling to get highly accurate and quick loss run reports for your
           insurance business? Falling short of skilled resources to manage your
+<<<<<<< HEAD
           processing needs? Outsource2india is your one-stop shop for all
+=======
+          processing needs? Nimble Acuity is your one-stop shop for all
+>>>>>>> Santhiya
           insurance back-office needs.
         </p>
         <p>
@@ -115,7 +127,11 @@ const LossRunProcessing: React.FC = () => {
       {/* Why Choose Us */}
       <section className="bg-blue-50 py-12 px-6">
         <h2 className="text-3xl font-bold mb-8 text-center">
+<<<<<<< HEAD
           Why Choose O2I for Loss Run Processing?
+=======
+          Why Choose Nimble Acuity for Loss Run Processing?
+>>>>>>> Santhiya
         </h2>
         <ul className="max-w-5xl mx-auto grid md:grid-cols-2 gap-6 text-lg text-gray-700">
           <li>
@@ -185,7 +201,11 @@ const LossRunProcessing: React.FC = () => {
       {/* Final CTA */}
       <section className="bg-blue-700 text-white py-16 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Loss Run Processing Services to O2I
+=======
+          Nimble Loss Run Processing Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6 max-w-3xl mx-auto text-lg">
           With skilled experts, advanced tools, and proven processes, we deliver

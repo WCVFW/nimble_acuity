@@ -33,7 +33,11 @@ export default function FabricMarketResearch() {
           transition={{ duration: 0.45 }}
           className="text-4xl md:text-5xl font-bold mb-4"
         >
+<<<<<<< HEAD
           Outsource Fabric Market Research Services
+=======
+          Nimble Fabric Market Research Services
+>>>>>>> Santhiya
         </motion.h1>
         <motion.p
           initial={{ opacity: 0 }}
@@ -56,7 +60,11 @@ export default function FabricMarketResearch() {
           <div>
             <h2 className="text-3xl font-bold mb-4">Actionable Intelligence for Fabric Markets</h2>
             <p className="text-gray-700">
+<<<<<<< HEAD
               O2I’s fabric research specialists deliver up-to-date market data and clear
+=======
+              Nimble Acuity’s fabric research specialists deliver up-to-date market data and clear
+>>>>>>> Santhiya
               recommendations across local and global contexts. From synthetics and natural fibers
               to manufacturing and logistics, we provide the clarity you need to stay ahead.
             </p>
@@ -189,9 +197,15 @@ export default function FabricMarketResearch() {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* Why O2I */}
       <section className="bg-gray-50 py-16 px-6">
         <h2 className="text-3xl font-bold text-center mb-12">Why Outsource Fabric Research to O2I?</h2>
+=======
+      {/* Why Nimble Acuity */}
+      <section className="bg-gray-50 py-16 px-6">
+        <h2 className="text-3xl font-bold text-center mb-12">Why Nimble Fabric Research to Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
           {[
             {
@@ -272,7 +286,11 @@ export default function FabricMarketResearch() {
         <Quote className="w-10 h-10 text-indigo-600 mx-auto mb-4" />
         <p className="text-xl text-gray-800 mb-2">
           “Let me thank you for the professional way in which you are managing the project and
+<<<<<<< HEAD
           meeting our deadlines. Our second supplier has let us down considerably—O2I has not.”
+=======
+          meeting our deadlines. Our second supplier has let us down considerably—Nimble Acuity has not.”
+>>>>>>> Santhiya
         </p>
         <p className="text-gray-600">— CEO, Technology Company, UK</p>
       </section>
@@ -280,7 +298,11 @@ export default function FabricMarketResearch() {
       {/* Final CTA */}
       <section className="py-20 px-6 text-center bg-gradient-to-r from-violet-600 to-indigo-600 text-white">
         <h2 className="text-3xl md:text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Fabric Market Research to Outsource2india
+=======
+          Nimble Fabric Market Research to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-2xl mx-auto mb-6 text-lg">
           Get customized, decision-ready research that keeps you ahead of trends, threats, and

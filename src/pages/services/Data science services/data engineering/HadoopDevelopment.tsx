@@ -101,7 +101,11 @@ export default function HadoopDevelopment() {
       {/* Hero Section */}
       <DSMainMenu/>
       <section className="text-center py-16 bg-gradient-to-r from-blue-600 to-indigo-700 text-white">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold mb-4">Outsource Hadoop Development Services</h1>
+=======
+        <h1 className="text-4xl font-bold mb-4">Nimble Hadoop Development Services</h1>
+>>>>>>> Santhiya
         <p className="max-w-3xl mx-auto text-lg">
           Harness, store & process large-scale data with Hadoop to optimize decision-making, improve insights, and ensure scalability.
         </p>
@@ -138,7 +142,11 @@ export default function HadoopDevelopment() {
 
       {/* Why Choose Us Section */}
       <section className="py-16 px-6 max-w-5xl mx-auto">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold text-center mb-10">Why Choose O2I for Hadoop Development?</h2>
+=======
+        <h2 className="text-3xl font-bold text-center mb-10">Why Choose Nimble Acuity for Hadoop Development?</h2>
+>>>>>>> Santhiya
         <Accordion type="single" collapsible className="w-full">
           {reasons.map((reason, idx) => (
             <AccordionItem key={idx} value={`item-${idx}`}>

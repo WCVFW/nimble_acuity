@@ -23,7 +23,11 @@ const DataFabricServices: React.FC = () => {
       <DSMainMenu/>
       <section className="text-center space-y-4">
         <h1 className="text-4xl font-bold text-gray-900">
+<<<<<<< HEAD
           Outsource Data Fabric Services
+=======
+          Nimble Data Fabric Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Get access to a unified, simplified data fabric solution for
@@ -36,7 +40,11 @@ const DataFabricServices: React.FC = () => {
         <p className="text-gray-600 leading-relaxed">
           Is your business struggling to manage data across different systems?
           Do you want to unleash the power of Data Fabric for integration,
+<<<<<<< HEAD
           governance, and streamlined management? If yes, Outsource2india should
+=======
+          governance, and streamlined management? If yes, Nimble Acuity should
+>>>>>>> Santhiya
           be your choice.
         </p>
         <p className="text-gray-600 leading-relaxed">
@@ -112,7 +120,11 @@ const DataFabricServices: React.FC = () => {
       {/* Why Choose Us */}
       <section className="space-y-8">
         <h2 className="text-2xl font-semibold text-gray-800">
+<<<<<<< HEAD
           Why Outsource Data Fabric Services to O2I?
+=======
+          Why Nimble Data Fabric Services to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
@@ -204,7 +216,11 @@ const DataFabricServices: React.FC = () => {
       {/* CTA */}
       <section className="text-center bg-blue-50 py-10 rounded-2xl">
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">
+<<<<<<< HEAD
           Choose Outsource2india for Seamless Data Fabric Solutions
+=======
+          Choose Nimble Acuity for Seamless Data Fabric Solutions
+>>>>>>> Santhiya
         </h2>
         <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
           Our world-class data fabric services empower SMEs and multinational

@@ -13,7 +13,11 @@ const MortgageLQICaseStudy: React.FC = () => {
         {/* Header */}
         <header className="text-center">
           <h1 className="text-4xl font-bold text-gray-900 mb-3">
+<<<<<<< HEAD
             O2I Helped a Mortgage Company in the US by Automating Loan Quality Investment (LQI) Process
+=======
+            Nimble Acuity Helped a Mortgage Company in the US by Automating Loan Quality Investment (LQI) Process
+>>>>>>> Santhiya
           </h1>
           <p className="text-lg text-gray-600">
             Case Study on Helping US Mortgage Company by Automating LQI Process
@@ -42,14 +46,24 @@ const MortgageLQICaseStudy: React.FC = () => {
             <strong>human intervention</strong>, leading to potential human-induced errors.
           </p>
           <p className="text-gray-700">
+<<<<<<< HEAD
             The client engaged Outsource2india to model and implement a{" "}
+=======
+            The client engaged Nimble Acuity to model and implement a{" "}
+>>>>>>> Santhiya
             <strong>solution that could automate the LQI process</strong>.
           </p>
         </section>
 
+<<<<<<< HEAD
         {/* O2I’s Solution */}
         <section>
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">O2I’s Solution</h2>
+=======
+        {/* Nimble Acuity’s Solution */}
+        <section>
+          <h2 className="text-2xl font-semibold text-gray-900 mb-3">Nimble Acuity’s Solution</h2>
+>>>>>>> Santhiya
           <p className="text-gray-700 mb-3">
             Our team developed <strong>three Artificial Intelligence BOTs</strong> to
             automate the LQI process. The 3 stages of automation were:
@@ -78,7 +92,11 @@ const MortgageLQICaseStudy: React.FC = () => {
         {/* Results */}
         <section>
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">
+<<<<<<< HEAD
             Outsource2india’s Advantage
+=======
+            Nimble Acuity’s Advantage
+>>>>>>> Santhiya
           </h2>
           <p className="text-gray-700 mb-3">
             The project was completed with <strong>remarkable accuracy</strong> and met all
@@ -95,17 +113,28 @@ const MortgageLQICaseStudy: React.FC = () => {
         {/* CTA */}
         <section className="bg-blue-50 p-6 rounded-2xl shadow-sm">
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">
+<<<<<<< HEAD
             Outsource Cognitive Process Automation Services (CPA) to O2I
           </h2>
           <p className="text-gray-700 mb-4">
             O2I’s <strong>Cognitive Process Automation (CPA)</strong> services are already
+=======
+            Nimble Cognitive Process Automation Services (CPA) to Nimble Acuity
+          </h2>
+          <p className="text-gray-700 mb-4">
+            Nimble Acuity’s <strong>Cognitive Process Automation (CPA)</strong> services are already
+>>>>>>> Santhiya
             trusted by many global clients. When combined with{" "}
             <strong>Robotic Process Automation (RPA)</strong>, our solutions reduce manual
             intervention, minimize risks, and deliver <strong>faster, more accurate</strong>{" "}
             results.
           </p>
           <p className="text-gray-700 mb-4">
+<<<<<<< HEAD
             As a leader in <strong>Data Science Services</strong>, O2I leverages AI,
+=======
+            As a leader in <strong>Data Science Services</strong>, Nimble Acuity leverages AI,
+>>>>>>> Santhiya
             Cognitive Computing, and Machine Learning to build{" "}
             <strong>affordable, intelligent automation solutions</strong>. Our team of
             specialists ensures precision, efficiency, and scalability.

@@ -66,7 +66,11 @@ const InsuranceQuoteSummary: React.FC = () => {
       <Imainmenu/>
       <section className="text-center space-y-4">
         <h1 className="text-5xl font-bold bg-gradient-to-r from-green-600 to-teal-600 bg-clip-text text-transparent">
+<<<<<<< HEAD
           Outsource Insurance Quote Summary Services
+=======
+          Nimble Insurance Quote Summary Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-700">
           Streamline your insurance quoting process and focus on your core business competencies.

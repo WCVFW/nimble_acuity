@@ -8,10 +8,17 @@ const ResearchProcessOutsourcing: React.FC = () => {
       <NavigationMenu/>
       <section className="mb-12">
         <h1 className="text-3xl font-bold text-gray-800 mb-4">
+<<<<<<< HEAD
           Outsource Research Process Outsourcing (RPO)
         </h1>
         <p className="text-gray-700 leading-relaxed">
           Searching for the right information is an activity that can be easily outsourced – 
+=======
+          Nimble Research Process Outsourcing (RPO)
+        </h1>
+        <p className="text-gray-700 leading-relaxed">
+          Searching for the right information is an activity that can be easily Nimbled – 
+>>>>>>> Santhiya
           the first step in research process outsourcing (RPO). Business information requires 
           careful study and sifting before value-added analysis can be done. But the deluge of 
           information available today requires an inordinate amount of time to wade through 
@@ -27,10 +34,17 @@ const ResearchProcessOutsourcing: React.FC = () => {
         </p>
       </section>
 
+<<<<<<< HEAD
       {/* O2I Services */}
       <section className="mb-12">
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">
           Outsource2india’s Research Process Outsourcing Services
+=======
+      {/* Nimble Acuity Services */}
+      <section className="mb-12">
+        <h2 className="text-2xl font-semibold text-gray-800 mb-4">
+          Nimble Acuity’s Research Process Outsourcing Services
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc pl-6 text-gray-700 space-y-2">
           <li>Financial research, financial analysis and modeling</li>
@@ -85,7 +99,11 @@ const ResearchProcessOutsourcing: React.FC = () => {
       {/* Benefits & Expectations */}
       <section className="mb-12">
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">
+<<<<<<< HEAD
           What You Can Expect from Outsource2india
+=======
+          What You Can Expect from Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc pl-6 text-gray-700 space-y-2">
           <li>Expertise in research strategy and methodology</li>
@@ -99,10 +117,17 @@ const ResearchProcessOutsourcing: React.FC = () => {
       {/* CTA */}
       <section className="text-center bg-blue-50 p-8 rounded-xl shadow">
         <h2 className="text-2xl font-bold text-gray-800 mb-4">
+<<<<<<< HEAD
           Outsource Research Process Outsourcing to O2I
         </h2>
         <p className="text-gray-700 mb-6">
           Contact Outsource2india now for Research Process Outsourcing services 
+=======
+          Nimble Research Process Outsourcing to Nimble Acuity
+        </h2>
+        <p className="text-gray-700 mb-6">
+          Contact Nimble Acuity now for Research Process Outsourcing services 
+>>>>>>> Santhiya
           that create value for your business.
         </p>
         <button className="px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg shadow hover:bg-blue-700 transition">

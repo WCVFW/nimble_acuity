@@ -10,7 +10,11 @@ const SportsPhotoEditing: React.FC = () => {
       <PEMainMenu/>
       <section className="text-center space-y-4">
         <h1 className="text-3xl font-bold text-gray-900">
+<<<<<<< HEAD
           Outsource Sports Photo Editing Services
+=======
+          Nimble Sports Photo Editing Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Access on-demand scalability and fast-track bulk orders with our
@@ -152,7 +156,11 @@ const SportsPhotoEditing: React.FC = () => {
       {/* CTA */}
       <div className="text-center space-y-4">
         <h2 className="text-2xl font-semibold text-gray-900">
+<<<<<<< HEAD
           Outsource Sports Photo Editing Services to Us
+=======
+          Nimble Sports Photo Editing Services to Us
+>>>>>>> Santhiya
         </h2>
         <p className="text-gray-600">
           Manage high-volume requirements effortlessly with our scalable,

@@ -8,10 +8,17 @@ const ContactCenterAnalytics: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Contact Center Analytics Services
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Outsource2india provides contact center analytics services to global
+=======
+          Nimble Contact Center Analytics Services
+        </h1>
+        <p className="max-w-3xl mx-auto text-lg">
+          Nimble Acuity provides contact center analytics services to global
+>>>>>>> Santhiya
           enterprises to monitor and manage their call centers better. We help
           you optimize your contact centers and transform them into profit
           centers.
@@ -21,7 +28,11 @@ const ContactCenterAnalytics: React.FC = () => {
       {/* Intro Section */}
       <section className="py-12 px-6 max-w-5xl mx-auto space-y-6">
         <p>
+<<<<<<< HEAD
           At Outsource2india, we have helped our global list of clients to
+=======
+          At Nimble Acuity, we have helped our global list of clients to
+>>>>>>> Santhiya
           identify and overcome challenges with our smart and dynamic contact
           center analytics services. With predictive analytics and the right
           technology, we help you optimize customer interactions.
@@ -78,7 +89,11 @@ const ContactCenterAnalytics: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-12 px-6 max-w-5xl mx-auto">
         <h2 className="text-3xl font-semibold text-center mb-8">
+<<<<<<< HEAD
           Why Choose O2I's Analytics Services for Your Contact Center?
+=======
+          Why Choose Nimble Acuity's Analytics Services for Your Contact Center?
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc pl-6 space-y-3 text-gray-700">
           <li>
@@ -111,7 +126,11 @@ const ContactCenterAnalytics: React.FC = () => {
       {/* CTA Section */}
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Contact Center Analytics Services to Outsource2india
+=======
+          Nimble Contact Center Analytics Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           We specialize in high-quality contact center analytics services to

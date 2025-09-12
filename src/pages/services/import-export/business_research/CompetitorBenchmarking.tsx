@@ -8,7 +8,11 @@ const CompetitorBenchmarking: React.FC = () => {
       <NavigationMenu/>
       <section className="max-w-5xl mx-auto text-center mb-12">
         <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Competitor Benchmarking Services
+=======
+          Nimble Competitor Benchmarking Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg mb-6">
           Assess the overall performance and understand the competitive scenario
@@ -52,7 +56,11 @@ const CompetitorBenchmarking: React.FC = () => {
       {/* Why Choose Us */}
       <section className="max-w-5xl mx-auto mb-12">
         <h2 className="text-2xl font-semibold mb-6">
+<<<<<<< HEAD
           Why Choose O2I for Competitor Benchmarking Services?
+=======
+          Why Choose Nimble Acuity for Competitor Benchmarking Services?
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc pl-6 space-y-3">
           <li>✅ Flexible and affordable pricing options</li>
@@ -122,10 +130,17 @@ const CompetitorBenchmarking: React.FC = () => {
       {/* CTA */}
       <section className="max-w-4xl mx-auto text-center">
         <h2 className="text-2xl font-semibold mb-4">
+<<<<<<< HEAD
           Outsource Competitor Benchmarking Services to Outsource2india
         </h2>
         <p className="mb-6">
           Outsource2india is a leading provider of competitor benchmarking
+=======
+          Nimble Competitor Benchmarking Services to Nimble Acuity
+        </h2>
+        <p className="mb-6">
+          Nimble Acuity is a leading provider of competitor benchmarking
+>>>>>>> Santhiya
           services in India. With expert teams, world-class tools, and
           client-centric delivery, we ensure superior quality insights tailored
           to your business.

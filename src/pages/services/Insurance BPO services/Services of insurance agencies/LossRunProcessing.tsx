@@ -55,7 +55,11 @@ const LossRunProcessing: React.FC = () => {
       <Imainmenu/>
       <section className="text-center space-y-4">
         <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+<<<<<<< HEAD
           Outsource Loss Run Processing Services
+=======
+          Nimble Loss Run Processing Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-700">Redefine Risk Management Efficiency!</p>
         <p className="text-gray-600">

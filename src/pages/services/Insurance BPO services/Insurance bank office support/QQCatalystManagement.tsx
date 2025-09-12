@@ -11,10 +11,17 @@ export default function QQCatalystManagement() {
       <Imainmenu/>
       <section className="bg-blue-50 py-20 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource QQCatalyst Management Services
         </h1>
         <p className="max-w-3xl mx-auto text-lg mb-6">
           Partner with O2I for streamlined QQCatalyst management to seamlessly
+=======
+          Nimble QQCatalyst Management Services
+        </h1>
+        <p className="max-w-3xl mx-auto text-lg mb-6">
+          Partner with Nimble Acuity for streamlined QQCatalyst management to seamlessly
+>>>>>>> Santhiya
           automate and manage your insurance back-office tasks & pipeline
           starting at just $8/hour
         </p>
@@ -102,7 +109,11 @@ export default function QQCatalystManagement() {
       <section className="py-16 bg-gray-50">
         <div className="max-w-6xl mx-auto px-6">
           <h2 className="text-3xl font-semibold text-center mb-12">
+<<<<<<< HEAD
             Why Outsource QQCatalyst Management Services to O2I?
+=======
+            Why Nimble QQCatalyst Management Services to Nimble Acuity?
+>>>>>>> Santhiya
           </h2>
           <div className="grid md:grid-cols-3 gap-8">
             {[
@@ -155,7 +166,11 @@ export default function QQCatalystManagement() {
       {/* CTA */}
       <section className="py-20 bg-blue-600 text-white text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource QQCatalyst Management Services to O2I
+=======
+          Nimble QQCatalyst Management Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           Stop wasting time looking for fresh hires. Pay attention to more

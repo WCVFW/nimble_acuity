@@ -110,7 +110,11 @@ export default function StatisticalDataAnalysisPage() {
   const otherServices = [
     ["Data", "Processing", "Services"],
     ["Data", "Analytics", "Services"],
+<<<<<<< HEAD
     ["Outsource", "ePUB", "Solutions"],
+=======
+    ["Nimble", "ePUB", "Solutions"],
+>>>>>>> Santhiya
     ["Optical", "Character", "Recognition"],
   ];
 
@@ -143,7 +147,11 @@ export default function StatisticalDataAnalysisPage() {
               <Sigma className="h-3.5 w-3.5" /> Statistical Data Analysis Services
             </div>
             <h1 className="mt-4 text-3xl sm:text-5xl font-extrabold tracking-tight text-slate-900">
+<<<<<<< HEAD
               Outsource Statistical Data Analysis Services
+=======
+              Nimble Statistical Data Analysis Services
+>>>>>>> Santhiya
             </h1>
             <p className="mx-auto mt-4 max-w-3xl text-base sm:text-lg text-slate-600">
               Running a lean architecture? Let our statisticians handle meticulous analysis—<span className="font-semibold">rates starting at $6/hr</span>.
@@ -161,7 +169,11 @@ export default function StatisticalDataAnalysisPage() {
         <p className="text-slate-600 text-center">
           We cover quantitative data collection, organization, summary, interpretation, and presentation—designing surveys
           and experiments, then applying descriptive and inferential methods to uncover trends when teams lack in‑house bandwidth.
+<<<<<<< HEAD
           With <span className="font-semibold">26+ years</span> of experience across taxonomies and product classification, O2I accelerates insight.
+=======
+          With <span className="font-semibold">26+ years</span> of experience across taxonomies and product classification, Nimble Acuity accelerates insight.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -236,10 +248,17 @@ export default function StatisticalDataAnalysisPage() {
         </motion.div>
       </section>
 
+<<<<<<< HEAD
       {/* Why O2I */}
       <section className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8">
         <div className="mb-8 text-center">
           <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-slate-900">Why Outsource Statistical Data Analysis to O2I?</h2>
+=======
+      {/* Why Nimble Acuity */}
+      <section className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8">
+        <div className="mb-8 text-center">
+          <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-slate-900">Why Nimble Statistical Data Analysis to Nimble Acuity?</h2>
+>>>>>>> Santhiya
           <p className="mt-2 text-slate-600">Transparent engagement, certified quality, and expert statisticians.</p>
         </div>
         <motion.div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5" {...stagger}>
@@ -284,7 +303,11 @@ export default function StatisticalDataAnalysisPage() {
         <Card className="rounded-2xl shadow-sm">
           <CardContent className="p-6">
             <blockquote className="text-slate-700 italic text-center">
+<<<<<<< HEAD
               “We were very satisfied with the quality of service Outsource2india provided. They met our requests with
+=======
+              “We were very satisfied with the quality of service Nimble Acuity provided. They met our requests with
+>>>>>>> Santhiya
               great professionalism and flexibility. We look forward to future projects.”
             </blockquote>
             <div className="mt-3 text-center text-sm text-slate-500">— Spokesperson, Online health lessons company in Canada</div>
@@ -298,7 +321,11 @@ export default function StatisticalDataAnalysisPage() {
           <CardContent className="p-8">
             <div className="grid lg:grid-cols-2 gap-6 items-center">
               <div>
+<<<<<<< HEAD
                 <h3 className="text-2xl font-bold">Outsource Statistical Data Analysis to Outsource2india</h3>
+=======
+                <h3 className="text-2xl font-bold">Nimble Statistical Data Analysis to Nimble Acuity</h3>
+>>>>>>> Santhiya
                 <p className="mt-2 text-white/80">
                   26+ years of expertise, lightning‑fast processing, and measurable ROI. Let’s design a statistical analysis
                   plan that fits your data and decisions.
@@ -337,7 +364,11 @@ export default function StatisticalDataAnalysisPage() {
       <footer className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pb-16">
         <div className="flex flex-col items-center gap-3 text-center text-sm text-slate-500">
           <a href="#" className="underline decoration-dotted underline-offset-4">View our statistics playbook</a>
+<<<<<<< HEAD
           <div>© {new Date().getFullYear()} O2I. All rights reserved.</div>
+=======
+          <div>© {new Date().getFullYear()} Nimble Acuity. All rights reserved.</div>
+>>>>>>> Santhiya
         </div>
       </footer>
     </div>

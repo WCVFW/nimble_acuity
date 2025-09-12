@@ -6,7 +6,11 @@ const PestelAnalysis: React.FC = () => {
     <div className="p-6 max-w-5xl mx-auto">
          <NavigationMenu/>
       <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
         Outsource PESTEL Analysis Services
+=======
+        Nimble PESTEL Analysis Services
+>>>>>>> Santhiya
       </h1>
       <p className="mb-4 text-lg">
         We help you measure and evaluate the political, economic, social, and
@@ -14,12 +18,21 @@ const PestelAnalysis: React.FC = () => {
         set up business, at rates starting at $22 per hour.
       </p>
 
+<<<<<<< HEAD
       <h2 className="text-2xl font-semibold mt-6 mb-2">Why Outsource PESTEL?</h2>
       <p className="mb-4">
         Are you having trouble gathering intel about a new market, especially in
         terms of political, economic, technological, and social aspects? You can
         either hire an FTE as an extension of your in-house team or outsource
         PESTEL analysis services to Outsource2india and save time, money, and
+=======
+      <h2 className="text-2xl font-semibold mt-6 mb-2">Why Nimble PESTEL?</h2>
+      <p className="mb-4">
+        Are you having trouble gathering intel about a new market, especially in
+        terms of political, economic, technological, and social aspects? You can
+        either hire an FTE as an extension of your in-house team or Nimble
+        PESTEL analysis services to Nimble Acuity and save time, money, and
+>>>>>>> Santhiya
         stress. Our expert analysts carry out extensive research to find out
         external factors influencing the current market to give you the complete
         picture about the ease of doing business.
@@ -59,7 +72,11 @@ const PestelAnalysis: React.FC = () => {
         PESTEL Analysis Process We Follow
       </h2>
       <ol className="list-decimal pl-6 space-y-2">
+<<<<<<< HEAD
         <li>O2I offers an expert overview of findings</li>
+=======
+        <li>Nimble Acuity offers an expert overview of findings</li>
+>>>>>>> Santhiya
         <li>
           We evaluate market constraints, legal obligations, and local laws
         </li>
@@ -77,7 +94,11 @@ const PestelAnalysis: React.FC = () => {
       </ol>
 
       <h2 className="text-2xl font-semibold mt-6 mb-2">
+<<<<<<< HEAD
         Why Choose Outsource2india?
+=======
+        Why Choose Nimble Acuity?
+>>>>>>> Santhiya
       </h2>
       <ul className="list-disc pl-6 space-y-2">
         <li>✔ Quality Assurance</li>
@@ -97,7 +118,11 @@ const PestelAnalysis: React.FC = () => {
       </blockquote>
 
       <p className="mt-6">
+<<<<<<< HEAD
         Outsource2india is the name you can trust when it comes to market
+=======
+        Nimble Acuity is the name you can trust when it comes to market
+>>>>>>> Santhiya
         research services. For over 26+ years, our experienced PESTEL analysis
         experts have handled challenges across industries with success.
       </p>

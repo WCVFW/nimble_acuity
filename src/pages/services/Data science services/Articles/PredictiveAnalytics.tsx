@@ -152,6 +152,7 @@ const PredictiveAnalytics: React.FC = () => {
           </li>
         </ul>
 
+<<<<<<< HEAD
         {/* O2I */}
         <div className="bg-blue-50 border border-blue-200 rounded-xl p-6">
           <h2 className="text-2xl font-semibold text-blue-800 mb-3">
@@ -159,6 +160,15 @@ const PredictiveAnalytics: React.FC = () => {
           </h2>
           <p className="text-gray-700 mb-4">
             At O2I, we provide comprehensive predictive analytics and big data
+=======
+        {/* Nimble Acuity */}
+        <div className="bg-blue-50 border border-blue-200 rounded-xl p-6">
+          <h2 className="text-2xl font-semibold text-blue-800 mb-3">
+            Partner with Nimble Acuity for Predictive Data Analysis Services
+          </h2>
+          <p className="text-gray-700 mb-4">
+            At Nimble Acuity, we provide comprehensive predictive analytics and big data
+>>>>>>> Santhiya
             services tailored for B2B businesses. With our deep expertise, we
             integrate CRM and data models to deliver actionable insights that
             enhance efficiency, reduce risks, and unlock growth opportunities.

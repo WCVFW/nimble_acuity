@@ -8,7 +8,11 @@ const MacroeconomicsReportsPage: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Macroeconomics Reports Services
+=======
+          Nimble Macroeconomics Reports Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto">
           Read our well-researched macroeconomics reports to understand the
@@ -27,7 +31,11 @@ const MacroeconomicsReportsPage: React.FC = () => {
           If so, you are in the right place.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india is a leading macroeconomics reports service provider.
+=======
+          Nimble Acuity is a leading macroeconomics reports service provider.
+>>>>>>> Santhiya
           We help businesses and individuals better navigate the global and
           national economic landscape through customized reports presented in a
           visually compelling manner.
@@ -91,7 +99,11 @@ const MacroeconomicsReportsPage: React.FC = () => {
       <section className="bg-gray-50 py-12 px-6">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-2xl font-bold text-center mb-10">
+<<<<<<< HEAD
             Advantages of Using O2I's Macroeconomics Reports
+=======
+            Advantages of Using Nimble Acuity's Macroeconomics Reports
+>>>>>>> Santhiya
           </h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[
@@ -118,7 +130,11 @@ const MacroeconomicsReportsPage: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-12 px-6 max-w-6xl mx-auto">
         <h2 className="text-2xl font-bold text-center mb-10">
+<<<<<<< HEAD
           Why Choose Outsource2india for Macroeconomics Reports?
+=======
+          Why Choose Nimble Acuity for Macroeconomics Reports?
+>>>>>>> Santhiya
         </h2>
         <ul className="grid md:grid-cols-2 gap-6 list-disc list-inside">
           {["Cost-effective Pricing","World-class Infrastructure","High-quality Services","Data Security","Fast Turnaround Time","Latest Software Tools","Experienced Team","Single Point of Contact"].map((reason, idx) => (
@@ -142,7 +158,11 @@ const MacroeconomicsReportsPage: React.FC = () => {
               </h3>
               <p className="text-sm text-gray-600">
                 A US-based footcare major needed a successful market entry
+<<<<<<< HEAD
                 strategy. O2I delivered a detailed report spanning 23 cities in
+=======
+                strategy. Nimble Acuity delivered a detailed report spanning 23 cities in
+>>>>>>> Santhiya
                 South Africa within 15 days.
               </p>
             </div>
@@ -151,7 +171,11 @@ const MacroeconomicsReportsPage: React.FC = () => {
                 Research Report Provided to Leading UK-based Headhunting Firm
               </h3>
               <p className="text-sm text-gray-600">
+<<<<<<< HEAD
                 O2I conducted due diligence on candidates using trade and
+=======
+                Nimble Acuity conducted due diligence on candidates using trade and
+>>>>>>> Santhiya
                 industry sources and presented a comprehensive research report.
               </p>
             </div>
@@ -176,7 +200,11 @@ const MacroeconomicsReportsPage: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-900 text-white py-12 px-6 text-center">
         <h2 className="text-2xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Macroeconomics Reports Services to Outsource2india
+=======
+          Nimble Macroeconomics Reports Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6 max-w-2xl mx-auto">
           If you are looking for high-quality and cost-effective macroeconomic

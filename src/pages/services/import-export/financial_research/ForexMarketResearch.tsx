@@ -8,7 +8,11 @@ const ForexMarketResearch: React.FC = () => {
       <NavigationMenu/>
       <header className="mb-12">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource Forex Market Research Services
+=======
+          Nimble Forex Market Research Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600">
           Get access to high-quality forex market research services provided by
@@ -33,7 +37,11 @@ const ForexMarketResearch: React.FC = () => {
           dispersion, large trading volumes, and profit margins.
         </p>
         <p>
+<<<<<<< HEAD
           <span className="font-semibold">Outsource2india (O2I)</span> is a
+=======
+          <span className="font-semibold">Nimble Acuity (Nimble Acuity)</span> is a
+>>>>>>> Santhiya
           leading forex market research service provider and has helped numerous
           enterprises with their forex market research needs. We have been
           providing financial research for the forex industry for many years now
@@ -109,7 +117,11 @@ const ForexMarketResearch: React.FC = () => {
       {/* Why Choose Us */}
       <section className="mb-12">
         <h2 className="text-2xl font-bold text-gray-900 mb-6">
+<<<<<<< HEAD
           Why Outsource Forex Market Research to O2I?
+=======
+          Why Nimble Forex Market Research to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc pl-6 space-y-2 text-gray-700">
           <li>
@@ -166,7 +178,11 @@ const ForexMarketResearch: React.FC = () => {
       <section className="mb-12">
         <h2 className="text-2xl font-bold text-gray-900 mb-6">Testimonials</h2>
         <blockquote className="border-l-4 border-blue-600 pl-4 italic text-gray-700">
+<<<<<<< HEAD
           “The services that Outsource2india provided helped us achieve
+=======
+          “The services that Nimble Acuity provided helped us achieve
+>>>>>>> Santhiya
           substantial cost and time savings on several difficult projects. Their
           prompt attention to our requests and attention to detail are
           excellent.”
@@ -186,10 +202,17 @@ const ForexMarketResearch: React.FC = () => {
       {/* Call to Action */}
       <section className="text-center bg-gray-100 py-10 rounded-xl">
         <h2 className="text-2xl font-bold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource Forex Market Research Services to Outsource2india
         </h2>
         <p className="text-gray-600 mb-6 max-w-3xl mx-auto">
           Outsource2india is a pioneer in providing high-quality forex financial
+=======
+          Nimble Forex Market Research Services to Nimble Acuity
+        </h2>
+        <p className="text-gray-600 mb-6 max-w-3xl mx-auto">
+          Nimble Acuity is a pioneer in providing high-quality forex financial
+>>>>>>> Santhiya
           market research services to clients in India and across the world. Our
           team leverages the best financial tools and technologies to deliver
           exceptional-quality services.

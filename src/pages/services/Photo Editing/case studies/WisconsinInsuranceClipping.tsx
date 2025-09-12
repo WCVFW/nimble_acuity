@@ -11,7 +11,11 @@ const WisconsinInsuranceClipping: React.FC = () => {
           Image Clipping Services for Wisconsin Insurance Firm
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           Discover how Outsource2india helped a Wisconsin-based insurance firm with expert image clipping, color correction, and manipulation.
+=======
+          Discover how Nimble Acuity helped a Wisconsin-based insurance firm with expert image clipping, color correction, and manipulation.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -62,16 +66,26 @@ const WisconsinInsuranceClipping: React.FC = () => {
         <div className="bg-white p-8 shadow-lg rounded-lg md:col-span-2">
           <h2 className="text-2xl font-semibold mb-4">Results</h2>
           <p>
+<<<<<<< HEAD
             The client achieved 100% image editing quality, which other providers could not match. They were impressed by the quality, cost-effectiveness, and fast turnaround, promising to outsource all future projects to Outsource2india.
+=======
+            The client achieved 100% image editing quality, which other providers could not match. They were impressed by the quality, cost-effectiveness, and fast turnaround, promising to Nimble all future projects to Nimble Acuity.
+>>>>>>> Santhiya
           </p>
         </div>
       </section>
 
       {/* Call to Action */}
       <section className="bg-green-600 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Outsource Image Clipping Services</h2>
         <p className="max-w-3xl mx-auto mb-6">
           Outsource2india is a leading provider of image clipping and other editing services. Our expert editors and advanced tools ensure the highest quality results with quick turnaround times across multiple time zones.
+=======
+        <h2 className="text-3xl font-semibold mb-4">Nimble Image Clipping Services</h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Nimble Acuity is a leading provider of image clipping and other editing services. Our expert editors and advanced tools ensure the highest quality results with quick turnaround times across multiple time zones.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-green-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Today

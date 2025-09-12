@@ -21,7 +21,11 @@ const DataWrangling: React.FC = () => {
       <DSMainMenu/>
       <section className="text-center space-y-4">
         <h1 className="text-4xl font-bold text-gray-900">
+<<<<<<< HEAD
           Outsource Data Wrangling Services
+=======
+          Nimble Data Wrangling Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Get access to industry-leading data cleaning and wrangling solutions
@@ -38,7 +42,11 @@ const DataWrangling: React.FC = () => {
           wrangling solutions.
         </p>
         <p className="text-gray-600 leading-relaxed">
+<<<<<<< HEAD
           Outsource2india has over 26+ years of experience in data preparation
+=======
+          Nimble Acuity has over 26+ years of experience in data preparation
+>>>>>>> Santhiya
           and wrangling. We understand that insufficient data preparation is a
           key reason why projects fail. Our professionals work with clients
           across the globe to deliver premium data wrangling services.
@@ -94,7 +102,11 @@ const DataWrangling: React.FC = () => {
       {/* Why Choose Us */}
       <section className="space-y-8">
         <h2 className="text-2xl font-semibold text-gray-800">
+<<<<<<< HEAD
           Why Choose Outsource2india for Data Cleaning & Wrangling?
+=======
+          Why Choose Nimble Acuity for Data Cleaning & Wrangling?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
           {[
@@ -166,7 +178,11 @@ const DataWrangling: React.FC = () => {
       {/* CTA */}
       <section className="text-center bg-blue-50 py-10 rounded-2xl">
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">
+<<<<<<< HEAD
           Outsource Data Cleaning & Wrangling Services to O2I
+=======
+          Nimble Data Cleaning & Wrangling Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
           Get superior-quality data wrangling solutions to prepare and unify

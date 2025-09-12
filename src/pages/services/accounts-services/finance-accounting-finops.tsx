@@ -22,7 +22,11 @@ const megaMenuData: MegaMenuItem[] = [
     title: "Bookkeeping Services",
     dropdown: {
       subheading: "Bookkeeping Services",
+<<<<<<< HEAD
       subheadingHref: "/financial/outsource-bookkeeping-services/",
+=======
+      subheadingHref: "/financial/Nimble-bookkeeping-services/",
+>>>>>>> Santhiya
       links: [
         { text: "Real Estate Bookkeeping", href: "/services/finance-accounting-finops/Real-EstateBookkeeping-Services" },
         { text: "Accounting Setup Services", href: "/services/finance-accounting-finops/Accounting-Setup-Services" },
@@ -37,7 +41,11 @@ const megaMenuData: MegaMenuItem[] = [
     title: "Accounting Services",
     dropdown: {
       subheading: "Accounting Services",
+<<<<<<< HEAD
       subheadingHref: "/financial/outsourced-accounting-services/",
+=======
+      subheadingHref: "/financial/Nimbled-accounting-services/",
+>>>>>>> Santhiya
       links: [
         { text: "Valuation Advisory Services", href: "/services/finance-accounting-finops/accounting-service/Valuation-Advisory-service" },
         { text: "Cost Accounting Services", href: "/services/finance-accounting-finops/accounting-service/Cost-Accounting-service" },
@@ -177,7 +185,11 @@ const megaMenuData: MegaMenuItem[] = [
     title: "Tax Preparation",
     dropdown: {
       subheading: "Tax Preparation",
+<<<<<<< HEAD
       subheadingHref: "/financial/outsource-tax-preparation-services/",
+=======
+      subheadingHref: "/financial/Nimble-tax-preparation-services/",
+>>>>>>> Santhiya
       links: [
         { text: "Tax and Regulatory Services", href: "/financial/tax-preparation/tax-and-regulatory-services.asp" },
         { text: "ProSeries Tax Processing Services", href: "/financial/tax-preparation/proseries-tax-processing-services.asp" },
@@ -191,7 +203,11 @@ const megaMenuData: MegaMenuItem[] = [
     title: "CPA services",
     dropdown: {
       subheading: "Tax Preparation",
+<<<<<<< HEAD
       subheadingHref: "/financial/outsource-tax-preparation-services/",
+=======
+      subheadingHref: "/financial/Nimble-tax-preparation-services/",
+>>>>>>> Santhiya
       links: [
         { text: "Tax and Regulatory Services", href: "/financial/tax-preparation/tax-and-regulatory-services.asp" },
         { text: "ProSeries Tax Processing Services", href: "/financial/tax-preparation/proseries-tax-processing-services.asp" },
@@ -205,7 +221,11 @@ const megaMenuData: MegaMenuItem[] = [
     title: "Financial Analysis",
     dropdown: {
       subheading: "Tax Preparation",
+<<<<<<< HEAD
       subheadingHref: "/financial/outsource-tax-preparation-services/",
+=======
+      subheadingHref: "/financial/Nimble-tax-preparation-services/",
+>>>>>>> Santhiya
       links: [
         { text: "Tax and Regulatory Services", href: "/financial/tax-preparation/tax-and-regulatory-services.asp" },
         { text: "ProSeries Tax Processing Services", href: "/financial/tax-preparation/proseries-tax-processing-services.asp" },
@@ -219,7 +239,11 @@ const megaMenuData: MegaMenuItem[] = [
     title: "Payroll Services",
     dropdown: {
       subheading: "Tax Preparation",
+<<<<<<< HEAD
       subheadingHref: "/financial/outsource-tax-preparation-services/",
+=======
+      subheadingHref: "/financial/Nimble-tax-preparation-services/",
+>>>>>>> Santhiya
       links: [
         { text: "Tax and Regulatory hello", href: "/financial/tax-preparation/tax-and-regulatory-services.asp" },
         { text: "ProSeries Tax Processing Services", href: "/financial/tax-preparation/proseries-tax-processing-services.asp" },

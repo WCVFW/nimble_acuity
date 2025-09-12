@@ -15,10 +15,17 @@ export default function RestaurantMarketResearch() {
           animate={{ opacity: 1, y: 0 }}
           className="text-4xl font-bold"
         >
+<<<<<<< HEAD
           Outsource Restaurant Market Research Services
         </motion.h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Focus your efforts to build or rebuild your restaurant business with O2I's affordable market research services, starting at just $14 an hour.
+=======
+          Nimble Restaurant Market Research Services
+        </motion.h1>
+        <p className="text-lg text-gray-600 max-w-3xl mx-auto">
+          Focus your efforts to build or rebuild your restaurant business with Nimble Acuity's affordable market research services, starting at just $14 an hour.
+>>>>>>> Santhiya
         </p>
         <Button size="lg">Get Started</Button>
       </section>
@@ -82,7 +89,11 @@ export default function RestaurantMarketResearch() {
       {/* Why Choose Us Section */}
       <section>
         <h2 className="text-2xl font-semibold mb-6 text-center">
+<<<<<<< HEAD
           Why Choose O2I for Restaurant Market Research?
+=======
+          Why Choose Nimble Acuity for Restaurant Market Research?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 gap-6">
           {[
@@ -113,7 +124,11 @@ export default function RestaurantMarketResearch() {
       {/* CTA Section */}
       <section className="text-center space-y-4">
         <h2 className="text-2xl font-bold">
+<<<<<<< HEAD
           Retain Relevance and Growth: Outsource Restaurant Market Research Services
+=======
+          Retain Relevance and Growth: Nimble Restaurant Market Research Services
+>>>>>>> Santhiya
         </h2>
         <p className="text-gray-600 max-w-2xl mx-auto">
           Partner with us to uncover real-time insights, optimize your brand, and stay ahead in the competitive restaurant industry.

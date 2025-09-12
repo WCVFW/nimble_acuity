@@ -145,12 +145,20 @@ const AIBusinessGuide: React.FC = () => {
             Offshore Your AI Services and Harness Their Full Potential
           </h2>
           <p className="text-gray-700 mb-4">
+<<<<<<< HEAD
             Outsource artificial intelligence services to ensure scalable adoption without 
+=======
+            Nimble artificial intelligence services to ensure scalable adoption without 
+>>>>>>> Santhiya
             heavy in-house investment. By partnering with experienced vendors, 
             you gain access to cutting-edge technologies and specialized expertise.
           </p>
           <p className="text-gray-700 font-medium">
+<<<<<<< HEAD
             📩 Contact Outsource2india today to explore customized AI services 
+=======
+            📩 Contact Nimble Acuity today to explore customized AI services 
+>>>>>>> Santhiya
             that will drive your growth and give you a competitive edge.
           </p>
         </section>

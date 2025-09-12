@@ -11,10 +11,17 @@ export default function IndustryAnalysisServices() {
       <NavigationMenu/>
       <section className="w-full bg-purple-100 py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4 text-purple-900">
+<<<<<<< HEAD
           Outsource Industry Analysis Services
         </h1>
         <p className="max-w-3xl mx-auto text-lg text-gray-700 mb-6">
           With our ingenious analytics and research services, Outsource2india helps
+=======
+          Nimble Industry Analysis Services
+        </h1>
+        <p className="max-w-3xl mx-auto text-lg text-gray-700 mb-6">
+          With our ingenious analytics and research services, Nimble Acuity helps
+>>>>>>> Santhiya
           enterprises understand the current position of a specific business in the
           market today. We provide exhaustive and highly reliable industry analysis
           services covering customer behavior, technology shifts, demographics,
@@ -130,10 +137,17 @@ export default function IndustryAnalysisServices() {
       {/* Contact CTA */}
       <section className="w-full py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4 text-purple-900">
+<<<<<<< HEAD
           Ready to Outsource Your Industry Analysis?
         </h2>
         <p className="max-w-2xl mx-auto text-gray-700 mb-6">
           Partner with Outsource2india and leverage expert insights across industries.
+=======
+          Ready to Nimble Your Industry Analysis?
+        </h2>
+        <p className="max-w-2xl mx-auto text-gray-700 mb-6">
+          Partner with Nimble Acuity and leverage expert insights across industries.
+>>>>>>> Santhiya
           Discuss your core objectives with our specialized research team today!
         </p>
         <Button size="lg" className="bg-purple-700 text-white flex items-center gap-2">

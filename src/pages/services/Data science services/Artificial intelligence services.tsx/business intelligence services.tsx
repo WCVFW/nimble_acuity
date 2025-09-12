@@ -8,7 +8,11 @@ const BusinessIntelligencePage: React.FC = () => {
       <DSMainMenu/>
       <section className="text-center mb-16">
         <h1 className="text-4xl font-bold text-blue-700 mb-4">
+<<<<<<< HEAD
           Outsource Business Intelligence Services
+=======
+          Nimble Business Intelligence Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto">
           Take faster decisions with automated machine learning, natural
@@ -269,7 +273,11 @@ const BusinessIntelligencePage: React.FC = () => {
       {/* CTA */}
       <section className="text-center bg-blue-50 p-10 rounded-xl">
         <h2 className="text-2xl font-bold text-blue-700 mb-4">
+<<<<<<< HEAD
           Outsource Business Intelligence Services to O2I
+=======
+          Nimble Business Intelligence Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-2xl mx-auto mb-6 text-gray-700">
           Business intelligence services have become indispensable in the

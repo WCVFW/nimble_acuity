@@ -22,7 +22,11 @@ const DataAnalyticsAppDev: React.FC = () => {
       <DSMainMenu/>
       <section className="text-center space-y-4">
         <h1 className="text-4xl font-bold text-gray-900">
+<<<<<<< HEAD
           Outsource Data Analytics Application Development Services
+=======
+          Nimble Data Analytics Application Development Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           We use big data analytics application development and integration
@@ -38,7 +42,11 @@ const DataAnalyticsAppDev: React.FC = () => {
           effectiveness while also generating significant revenue.
         </p>
         <p className="text-gray-600 leading-relaxed">
+<<<<<<< HEAD
           Outsource2india’s analytics app development engineers specialize in
+=======
+          Nimble Acuity’s analytics app development engineers specialize in
+>>>>>>> Santhiya
           designing and implementing software that harnesses the full power of
           big data solutions.
         </p>
@@ -108,7 +116,11 @@ const DataAnalyticsAppDev: React.FC = () => {
       {/* Why Choose Us */}
       <section className="space-y-8">
         <h2 className="text-2xl font-semibold text-gray-800">
+<<<<<<< HEAD
           Why Choose O2I for Analytics App Development?
+=======
+          Why Choose Nimble Acuity for Analytics App Development?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
@@ -175,7 +187,11 @@ const DataAnalyticsAppDev: React.FC = () => {
       {/* CTA */}
       <section className="text-center bg-blue-50 py-10 rounded-2xl">
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">
+<<<<<<< HEAD
           Outsource Analytics Application Development to O2I
+=======
+          Nimble Analytics Application Development to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
           Get expert solutions for data gathering, processing, integration, and

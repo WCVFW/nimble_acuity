@@ -159,12 +159,20 @@ const DocumentClassificationPage: React.FC = () => {
           {[
             {
               title:
+<<<<<<< HEAD
                 "O2I Helped Streamline Inventory Management for an Electronics Firm",
+=======
+                "Nimble Acuity Helped Streamline Inventory Management for an Electronics Firm",
+>>>>>>> Santhiya
               desc: "The customer is a well-known electronics solutions provider with operations in 80+ countries and over 1M customers.",
             },
             {
               title:
+<<<<<<< HEAD
                 "O2I Helped a Healthcare Provider with Chart Extraction Services",
+=======
+                "Nimble Acuity Helped a Healthcare Provider with Chart Extraction Services",
+>>>>>>> Santhiya
               desc: "A California-based healthcare firm needed chart extraction support for Medicaid, Medicare Advantage, and ACA programs.",
             },
           ].map((cs, idx) => (
@@ -188,7 +196,11 @@ const DocumentClassificationPage: React.FC = () => {
           Achieve Higher Accuracy with Automated Document Classification
         </h2>
         <p className="mt-3 text-blue-100">
+<<<<<<< HEAD
           Outsource document classification using machine learning to us and get
+=======
+          Nimble document classification using machine learning to us and get
+>>>>>>> Santhiya
           results beyond traditional methods.
         </p>
         <button className="mt-6 px-6 py-3 bg-white text-blue-600 font-semibold rounded-lg shadow hover:bg-gray-100">

@@ -15,10 +15,17 @@ export default function OpenEndCodingServices() {
           animate={{ opacity: 1, y: 0 }}
           className="text-4xl font-bold mb-4"
         >
+<<<<<<< HEAD
           Outsource Open-end Coding Market Research Services
         </motion.h1>
         <p className="max-w-2xl mx-auto text-lg mb-6">
           Gather actionable and quantifiable insights from audience responses. Outsource open-end coding market research to O2I at just $14/hour.
+=======
+          Nimble Open-end Coding Market Research Services
+        </motion.h1>
+        <p className="max-w-2xl mx-auto text-lg mb-6">
+          Gather actionable and quantifiable insights from audience responses. Nimble open-end coding market research to Nimble Acuity at just $14/hour.
+>>>>>>> Santhiya
         </p>
         <Button size="lg" variant="secondary">Get Started</Button>
       </section>
@@ -27,7 +34,11 @@ export default function OpenEndCodingServices() {
       <section className="max-w-5xl mx-auto space-y-6">
         <h2 className="text-2xl font-semibold text-center">Overview</h2>
         <p className="text-gray-700 text-center">
+<<<<<<< HEAD
           Open-end coding helps companies analyze responses such as words, phrases, voices, images, and ideas. At O2I, we deliver open-end coding services across 65 languages annually for social media, survey forms, CRMs, IVR, feedback platforms, and websites — with speed, accuracy, and cultural expertise.
+=======
+          Open-end coding helps companies analyze responses such as words, phrases, voices, images, and ideas. At Nimble Acuity, we deliver open-end coding services across 65 languages annually for social media, survey forms, CRMs, IVR, feedback platforms, and websites — with speed, accuracy, and cultural expertise.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -117,7 +128,11 @@ export default function OpenEndCodingServices() {
 
       {/* Why Choose Us */}
       <section className="max-w-6xl mx-auto">
+<<<<<<< HEAD
         <h2 className="text-2xl font-semibold text-center mb-10">Why Choose O2I?</h2>
+=======
+        <h2 className="text-2xl font-semibold text-center mb-10">Why Choose Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
             { icon: Clock, title: "Quicker Turnarounds", desc: "We meet the most challenging deadlines without compromising quality." },
@@ -143,7 +158,11 @@ export default function OpenEndCodingServices() {
         <div className="max-w-4xl mx-auto text-center space-y-6">
           <h2 className="text-2xl font-semibold">Testimonials</h2>
           <p className="italic text-gray-700 max-w-2xl mx-auto">
+<<<<<<< HEAD
             “The services that Outsource2india provided helped us achieve substantial cost and time savings on several difficult projects.”
+=======
+            “The services that Nimble Acuity provided helped us achieve substantial cost and time savings on several difficult projects.”
+>>>>>>> Santhiya
           </p>
           <p className="font-semibold">Senior Vice President, Automotive & Transportation Industry Solutions Group</p>
         </div>
@@ -151,9 +170,15 @@ export default function OpenEndCodingServices() {
 
       {/* Final CTA */}
       <section className="text-center py-16">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold mb-4">Outsource Open-end Coding Services to O2I</h2>
         <p className="text-gray-700 max-w-2xl mx-auto mb-6">
           With 26+ years of experience, ISO certification, and a skilled team, O2I ensures accurate coding, improved decision-making, and higher ROI. Contact us today to discuss your requirements.
+=======
+        <h2 className="text-3xl font-bold mb-4">Nimble Open-end Coding Services to Nimble Acuity</h2>
+        <p className="text-gray-700 max-w-2xl mx-auto mb-6">
+          With 26+ years of experience, ISO certification, and a skilled team, Nimble Acuity ensures accurate coding, improved decision-making, and higher ROI. Contact us today to discuss your requirements.
+>>>>>>> Santhiya
         </p>
         <Button size="lg">Contact Us Now</Button>
       </section>

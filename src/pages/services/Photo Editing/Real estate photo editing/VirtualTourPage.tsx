@@ -76,7 +76,11 @@ const VirtualTourPage: React.FC = () => {
       {/* Hero Section */}
       <header className="text-center mb-12 mt-6">
         <h1 className="text-3xl font-bold">
+<<<<<<< HEAD
           Outsource Real Estate Virtual Tour Services
+=======
+          Nimble Real Estate Virtual Tour Services
+>>>>>>> Santhiya
         </h1>
         <p className="mt-4 text-lg text-gray-600">
           Enhance Listings with Professional Real Estate Virtual Tour Services!

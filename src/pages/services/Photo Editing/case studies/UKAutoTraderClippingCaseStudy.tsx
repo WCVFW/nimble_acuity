@@ -11,7 +11,11 @@ const UKAutoTraderClippingCaseStudy: React.FC = () => {
           Image Clipping Case Study for UK's Largest Auto Trader
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           Learn how UK's top automobile seller outsourced 5,000 vehicle images per month for high-quality editing and website updates, without compromising on quality.
+=======
+          Learn how UK's top automobile seller Nimbled 5,000 vehicle images per month for high-quality editing and website updates, without compromising on quality.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -69,9 +73,15 @@ const UKAutoTraderClippingCaseStudy: React.FC = () => {
 
       {/* Call to Action */}
       <section className="bg-red-600 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Outsource Your Image Editing Today</h2>
         <p className="max-w-3xl mx-auto mb-6">
           Achieve high-quality, efficient, and affordable image clipping and editing services for your website or business. Contact Outsource2india and get started today!
+=======
+        <h2 className="text-3xl font-semibold mb-4">Nimble Your Image Editing Today</h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Achieve high-quality, efficient, and affordable image clipping and editing services for your website or business. Contact Nimble Acuity and get started today!
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-red-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Now

@@ -11,7 +11,11 @@ const AnomalyDetection: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-gradient-to-r from-blue-700 to-indigo-700 text-white py-20 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Anomaly Detection Services
+=======
+          Nimble Anomaly Detection Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg max-w-3xl mx-auto mb-6">
           Detect anomalies at the granular level to expose indicators of
@@ -25,7 +29,11 @@ const AnomalyDetection: React.FC = () => {
       {/* Intro */}
       <section className="py-16 px-6 max-w-5xl mx-auto text-center">
         <p className="text-lg mb-4">
+<<<<<<< HEAD
           Save time and fix problems as they surface with O2I’s anomaly
+=======
+          Save time and fix problems as they surface with Nimble Acuity’s anomaly
+>>>>>>> Santhiya
           detection services. Our systems use inference engines to detect
           unusual patterns in real-time—without requiring labeled training data.
           Alerts are delivered via email, SMS, or third-party tools, so you can
@@ -149,7 +157,11 @@ const AnomalyDetection: React.FC = () => {
       {/* Why Choose Us */}
       <section className="bg-gray-50 py-16 px-6 max-w-5xl mx-auto">
         <h2 className="text-3xl font-bold text-center mb-10">
+<<<<<<< HEAD
           Why Choose O2I for Anomaly Detection?
+=======
+          Why Choose Nimble Acuity for Anomaly Detection?
+>>>>>>> Santhiya
         </h2>
         <ul className="space-y-4">
           {[
@@ -210,7 +222,11 @@ const AnomalyDetection: React.FC = () => {
       {/* Final CTA */}
       <section className="bg-indigo-700 text-white py-20 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Anomaly Detection to O2I
+=======
+          Nimble Anomaly Detection to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           Detect and respond to irregularities with advanced ML algorithms.

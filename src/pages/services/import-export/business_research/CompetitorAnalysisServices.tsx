@@ -17,7 +17,11 @@ export default function CompetitorAnalysisServices() {
           transition={{ duration: 0.6 }}
           className="text-4xl md:text-5xl font-bold mb-4"
         >
+<<<<<<< HEAD
           Outsource Competitor Analysis Services
+=======
+          Nimble Competitor Analysis Services
+>>>>>>> Santhiya
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
@@ -175,7 +179,11 @@ export default function CompetitorAnalysisServices() {
       {/* CTA */}
       <section className="py-20 px-6 text-center bg-gradient-to-r from-gray-800 to-gray-900 text-white">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Competitor Analysis Services to O2I
+=======
+          Nimble Competitor Analysis Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-8">
           Gain a strategic edge with our robust competitor analysis services. Our

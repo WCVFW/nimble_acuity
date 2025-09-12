@@ -53,7 +53,11 @@ export default function InsuranceReporting(): JSX.Element {
       <Imainmenu/>
       <section className="bg-gradient-to-r from-sky-600 to-indigo-700 text-white py-20 px-6 text-center">
         <div className="max-w-4xl mx-auto">
+<<<<<<< HEAD
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Outsource Insurance Reporting Services</h1>
+=======
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">Nimble Insurance Reporting Services</h1>
+>>>>>>> Santhiya
           <p className="text-lg md:text-xl">Accurate, compliant and timely insurance reporting that reduces risk and operational cost.</p>
           <div className="mt-8">
             <Button size="lg" className="bg-white text-indigo-700">Start 1 Week Free Trial</Button>
@@ -113,7 +117,11 @@ export default function InsuranceReporting(): JSX.Element {
 
       {/* Benefits */}
       <section className="bg-gray-100 py-16 px-6">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold text-center mb-8">Why Choose O2I for Insurance Reporting?</h2>
+=======
+        <h2 className="text-3xl font-semibold text-center mb-8">Why Choose Nimble Acuity for Insurance Reporting?</h2>
+>>>>>>> Santhiya
         <div className="max-w-6xl mx-auto grid md:grid-cols-3 gap-6">
           {benefits.map((b, i) => (
             <div key={i} className="flex items-start gap-3 p-4 bg-white rounded shadow-sm">
@@ -127,12 +135,20 @@ export default function InsuranceReporting(): JSX.Element {
       {/* Client Story + CTA */}
       <section className="py-16 px-6 max-w-5xl mx-auto text-center">
         <h3 className="text-2xl font-semibold mb-4">Client Success Story</h3>
+<<<<<<< HEAD
         <p className="text-gray-600 mb-6">A leading US-based insurance agency trusted O2I for accounts maintenance and reporting, enabling faster decision-making and regulatory compliance.</p>
+=======
+        <p className="text-gray-600 mb-6">A leading US-based insurance agency trusted Nimble Acuity for accounts maintenance and reporting, enabling faster decision-making and regulatory compliance.</p>
+>>>>>>> Santhiya
         <Button className="bg-indigo-700 text-white">Read Case Study</Button>
       </section>
 
       <section className="bg-indigo-700 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold mb-4">Outsource Insurance Reporting Services to O2I</h2>
+=======
+        <h2 className="text-3xl font-bold mb-4">Nimble Insurance Reporting Services to Nimble Acuity</h2>
+>>>>>>> Santhiya
         <p className="max-w-3xl mx-auto mb-6">Reliable, compliant, and insightful reporting delivered by industry experts. Contact us to streamline your reporting operations and cut costs.</p>
         <Button className="bg-white text-indigo-700">Contact Us</Button>
       </section>

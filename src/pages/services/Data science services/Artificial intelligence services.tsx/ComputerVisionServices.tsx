@@ -10,7 +10,11 @@ const ComputerVisionServices: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-20 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Computer Vision Services
+=======
+          Nimble Computer Vision Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Overcome the hurdles of visual data analysis with our comprehensive
@@ -143,7 +147,11 @@ const ComputerVisionServices: React.FC = () => {
       {/* CTA Section */}
       <section className="py-20 px-6 text-center bg-gradient-to-r from-indigo-700 to-blue-600 text-white">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Computer Vision Services to O2I
+=======
+          Nimble Computer Vision Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-2xl mx-auto mb-6">
           Overcome today's challenges and gear up to bag future opportunities with

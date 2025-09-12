@@ -11,7 +11,11 @@ const SouthKoreanPortraitRestoration: React.FC = () => {
           Portrait Restoration Services for South Korean Client
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           How Outsource2india helped a South Korean photo restoration company manage increased orders and reduce costs with expert image editing.
+=======
+          How Nimble Acuity helped a South Korean photo restoration company manage increased orders and reduce costs with expert image editing.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -31,7 +35,11 @@ const SouthKoreanPortraitRestoration: React.FC = () => {
           <ul className="list-disc list-inside space-y-2">
             <li>Portrait restoration using Adobe Photoshop</li>
             <li>Trial service of 15 images</li>
+<<<<<<< HEAD
             <li>Outsource full project of $8,000 if trial successful</li>
+=======
+            <li>Nimble full project of $8,000 if trial successful</li>
+>>>>>>> Santhiya
           </ul>
         </div>
 
@@ -47,7 +55,11 @@ const SouthKoreanPortraitRestoration: React.FC = () => {
         <div className="bg-white p-8 shadow-lg rounded-lg">
           <h2 className="text-2xl font-semibold mb-4">Our Solution</h2>
           <p>
+<<<<<<< HEAD
             Completed the trial of 15 images using a single resource via Adobe Photoshop. Images were received via email and delivered through Dropbox. After trial approval, 1400 images were outsourced with a TAT of one week. O2I successfully delivered 200 images daily without compromising quality.
+=======
+            Completed the trial of 15 images using a single resource via Adobe Photoshop. Images were received via email and delivered through Dropbox. After trial approval, 1400 images were Nimbled with a TAT of one week. Nimble Acuity successfully delivered 200 images daily without compromising quality.
+>>>>>>> Santhiya
           </p>
         </div>
 
@@ -62,9 +74,15 @@ const SouthKoreanPortraitRestoration: React.FC = () => {
 
       {/* Call to Action */}
       <section className="bg-blue-600 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Outsource Portrait Restoration Services</h2>
         <p className="max-w-3xl mx-auto mb-6">
           Outsource2india is ISO 9001:2015 certified with 26+ years of experience in image enhancement. Our expert restoration team ensures top-notch quality, faster turnaround, and cost-effective solutions.
+=======
+        <h2 className="text-3xl font-semibold mb-4">Nimble Portrait Restoration Services</h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Nimble Acuity is ISO 9001:2015 certified with 26+ years of experience in image enhancement. Our expert restoration team ensures top-notch quality, faster turnaround, and cost-effective solutions.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-blue-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Today

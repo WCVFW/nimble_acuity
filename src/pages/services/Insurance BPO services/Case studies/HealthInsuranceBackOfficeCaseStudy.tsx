@@ -12,7 +12,11 @@ const HealthInsuranceBackOfficeCaseStudy: React.FC = () => {
             Complete Insurance Back Office Solutions for Renowned Health Insurance Company
           </h1>
           <p className="text-lg text-gray-700">
+<<<<<<< HEAD
             Case study highlighting how Outsource2india helped a leading health insurance company optimize back-office operations and boost productivity.
+=======
+            Case study highlighting how Nimble Acuity helped a leading health insurance company optimize back-office operations and boost productivity.
+>>>>>>> Santhiya
           </p>
         </div>
       </section>
@@ -36,9 +40,15 @@ const HealthInsuranceBackOfficeCaseStudy: React.FC = () => {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* The O2I Solution */}
       <section className="py-12 max-w-5xl mx-auto px-4 space-y-4 text-gray-700">
         <h2 className="text-3xl font-bold mb-4">The O2I Solution</h2>
+=======
+      {/* The Nimble Acuity Solution */}
+      <section className="py-12 max-w-5xl mx-auto px-4 space-y-4 text-gray-700">
+        <h2 className="text-3xl font-bold mb-4">The Nimble Acuity Solution</h2>
+>>>>>>> Santhiya
         <p>
           Our insurance team took over all back-office tasks and prioritized them based on urgency, optimizing processes while focusing on mission-critical tasks. 
         </p>
@@ -54,7 +64,11 @@ const HealthInsuranceBackOfficeCaseStudy: React.FC = () => {
           <ul className="list-disc ml-6 space-y-2">
             <li>All client requirements were met on time and within budget.</li>
             <li>Account managers were freed from back-office tasks and could focus entirely on generating new business.</li>
+<<<<<<< HEAD
             <li>Established a long-term partnership, making O2I the preferred outsourcing partner for all insurance operations.</li>
+=======
+            <li>Established a long-term partnership, making Nimble Acuity the preferred outsourcing partner for all insurance operations.</li>
+>>>>>>> Santhiya
           </ul>
         </div>
       </section>
@@ -62,10 +76,17 @@ const HealthInsuranceBackOfficeCaseStudy: React.FC = () => {
       {/* CTA */}
       <section className="bg-green-600 py-16 text-white text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Your Insurance Back-office Projects to O2I
         </h2>
         <p className="mb-6 max-w-2xl mx-auto">
           With 26+ years of experience, Outsource2india handles complex insurance outsourcing projects with 100% customer satisfaction. We provide scalable solutions tailored to your business needs.
+=======
+          Nimble Your Insurance Back-office Projects to Nimble Acuity
+        </h2>
+        <p className="mb-6 max-w-2xl mx-auto">
+          With 26+ years of experience, Nimble Acuity handles complex insurance outsourcing projects with 100% customer satisfaction. We provide scalable solutions tailored to your business needs.
+>>>>>>> Santhiya
         </p>
         <a
           href="/contact"

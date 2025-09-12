@@ -7,9 +7,15 @@ const MarketFeasibility: React.FC = () => {
       {/* Hero Section */}
       <NavigationMenu/>
       <section className="text-center space-y-4">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold">Outsource Market Feasibility Analysis</h1>
         <p className="text-lg text-gray-700 max-w-3xl mx-auto">
           Outsource2india helps clients investigate business options and document findings 
+=======
+        <h1 className="text-4xl font-bold">Nimble Market Feasibility Analysis</h1>
+        <p className="text-lg text-gray-700 max-w-3xl mx-auto">
+          Nimble Acuity helps clients investigate business options and document findings 
+>>>>>>> Santhiya
           to ensure they choose the right markets. Our high-quality feasibility assessment 
           supports your decision to launch products or expand into new markets, minimizing risks.
         </p>
@@ -89,13 +95,21 @@ const MarketFeasibility: React.FC = () => {
           Define the Future of Your Venture with Market Feasibility Analysis
         </h2>
         <p className="text-gray-700 max-w-2xl mx-auto">
+<<<<<<< HEAD
           With 26+ years of experience, Outsource2india provides end-to-end market feasibility 
+=======
+          With 26+ years of experience, Nimble Acuity provides end-to-end market feasibility 
+>>>>>>> Santhiya
           analysis powered by global research expertise. Our analysts from top institutions 
           ensure high-quality insights to help you launch products, diversify markets, and 
           expand strategically.
         </p>
         <p className="text-lg font-medium text-blue-600">
+<<<<<<< HEAD
           Contact us today to outsource market feasibility analysis and make informed decisions!
+=======
+          Contact us today to Nimble market feasibility analysis and make informed decisions!
+>>>>>>> Santhiya
         </p>
       </section>
     </div>

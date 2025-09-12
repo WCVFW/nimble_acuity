@@ -84,7 +84,11 @@ const AutomotiveAccountingServices = () => {
         know what it takes to deliver results that drive success.
       </p>
       <p className="mt-4 text-gray-700">
+<<<<<<< HEAD
         Contact us today to outsource your automotive accounting needs. Let us
+=======
+        Contact us today to Nimble your automotive accounting needs. Let us
+>>>>>>> Santhiya
         work as your trusted financial partner.
       </p>
     </div>

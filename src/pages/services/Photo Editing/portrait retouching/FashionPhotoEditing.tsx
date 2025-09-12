@@ -10,7 +10,11 @@ const FashionPhotoEditing: React.FC = () => {
       <PEMainMenu/>
       <section className="text-center space-y-4">
         <h1 className="text-33xl font-bold text-gray-900">
+<<<<<<< HEAD
           Outsource Fashion Photo Editing Services
+=======
+          Nimble Fashion Photo Editing Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Streamline your editing process and meet tight deadlines effortlessly
@@ -192,7 +196,11 @@ const FashionPhotoEditing: React.FC = () => {
       {/* CTA */}
       <div className="text-center space-y-4">
         <h2 className="text-2xl font-semibold text-gray-900">
+<<<<<<< HEAD
           Outsource Fashion Photo Editing Services to Us
+=======
+          Nimble Fashion Photo Editing Services to Us
+>>>>>>> Santhiya
         </h2>
         <p className="text-gray-600">
           Transform raw fashion photos into captivating deliverables with our

@@ -29,7 +29,11 @@ export default function SwotAnalysisServices() {
           transition={{ duration: 0.5 }}
           className="text-4xl md:text-5xl font-bold mb-4"
         >
+<<<<<<< HEAD
           Outsource SWOT Analysis Services
+=======
+          Nimble SWOT Analysis Services
+>>>>>>> Santhiya
         </motion.h1>
         <motion.p
           initial={{ opacity: 0 }}
@@ -52,7 +56,11 @@ export default function SwotAnalysisServices() {
           <div>
             <h2 className="text-3xl font-bold mb-4">Make Better-Informed Decisions</h2>
             <p className="text-gray-700">
+<<<<<<< HEAD
               Outsource2india (O2I) is a leading SWOT analysis provider. Our seasoned research
+=======
+              Nimble Acuity (Nimble Acuity) is a leading SWOT analysis provider. Our seasoned research
+>>>>>>> Santhiya
               analysts evaluate internal and external factors and deliver a balanced, actionable
               view of your company’s standing—so leaders can prioritize with confidence.
             </p>
@@ -269,7 +277,11 @@ export default function SwotAnalysisServices() {
 
       {/* Why Choose Us */}
       <section className="py-16 px-6 max-w-6xl mx-auto">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold text-center mb-12">Why Outsource SWOT to O2I?</h2>
+=======
+        <h2 className="text-3xl font-bold text-center mb-12">Why Nimble SWOT to Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-2 gap-8">
           <ul className="space-y-4">
             {[
@@ -337,7 +349,11 @@ export default function SwotAnalysisServices() {
       <section className="py-16 px-6 max-w-4xl mx-auto text-center">
         <Quote className="w-10 h-10 text-emerald-600 mx-auto mb-4" />
         <p className="text-xl text-gray-800 mb-2">
+<<<<<<< HEAD
           “The services that Outsource2india provided helped us achieve substantial cost and time
+=======
+          “The services that Nimble Acuity provided helped us achieve substantial cost and time
+>>>>>>> Santhiya
           savings on several difficult projects. Their prompt attention to our requests and
           attention to detail are excellent.”
         </p>
@@ -349,7 +365,11 @@ export default function SwotAnalysisServices() {
       {/* Final CTA */}
       <section className="bg-gradient-to-r from-teal-600 to-emerald-600 text-white py-20 text-center">
         <h2 className="text-3xl md:text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource SWOT Analysis Services to Outsource2india
+=======
+          Nimble SWOT Analysis Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-2xl mx-auto mb-6 text-lg">
           Get expert, comprehensive, and in-depth SWOT with clear recommendations and

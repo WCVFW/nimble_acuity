@@ -9,12 +9,20 @@ export default function InvestmentBankingSupport() {
       <NavigationMenu/>
       <div className="text-center mb-12">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource Investment Banking Support Services
+=======
+          Nimble Investment Banking Support Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-700 max-w-3xl mx-auto">
           Elevate your investment banking strategies with{" "}
           <strong>research-driven and analytics-powered insights</strong>. Stay
+<<<<<<< HEAD
           ahead of market dynamics and regulatory challenges with Outsource2india
+=======
+          ahead of market dynamics and regulatory challenges with Nimble Acuity
+>>>>>>> Santhiya
           as your trusted partner.
         </p>
       </div>
@@ -124,7 +132,11 @@ export default function InvestmentBankingSupport() {
         What Our Clients Say
       </h2>
       <blockquote className="max-w-3xl mx-auto text-gray-700 italic mb-12">
+<<<<<<< HEAD
         “The services that Outsource2india provided helped us achieve substantial
+=======
+        “The services that Nimble Acuity provided helped us achieve substantial
+>>>>>>> Santhiya
         cost and time savings on several difficult projects. Their prompt
         attention to our requests and attention to detail are excellent.”
         <br />
@@ -165,10 +177,17 @@ export default function InvestmentBankingSupport() {
       {/* CTA */}
       <div className="text-center mt-12">
         <h2 className="text-2xl font-semibold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource Investment Banking Support to Drive Growth
         </h2>
         <p className="text-gray-700 max-w-3xl mx-auto mb-6">
           From M&A to capital markets, Outsource2india offers tailored
+=======
+          Nimble Investment Banking Support to Drive Growth
+        </h2>
+        <p className="text-gray-700 max-w-3xl mx-auto mb-6">
+          From M&A to capital markets, Nimble Acuity offers tailored
+>>>>>>> Santhiya
           investment banking support powered by research, analytics, and
           cutting-edge technology. Partner with us to navigate complex markets
           and unlock growth opportunities.

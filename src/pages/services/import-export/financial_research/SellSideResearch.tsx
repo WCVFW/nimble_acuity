@@ -9,13 +9,21 @@ export default function SellSideResearch() {
       <NavigationMenu/>
       <div className="text-center mb-12">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource Sell Side Research Services
+=======
+          Nimble Sell Side Research Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-700 max-w-3xl mx-auto">
           Investment banks, commercial banks, and stock brokers face constant
           pressure to reduce costs while boosting product sales and maintaining
           a solid reputation. Outsourcing sell side research services to an
+<<<<<<< HEAD
           experienced provider like Outsource2india ensures speed, accuracy, and
+=======
+          experienced provider like Nimble Acuity ensures speed, accuracy, and
+>>>>>>> Santhiya
           reliable support in a competitive market.
         </p>
       </div>
@@ -23,13 +31,21 @@ export default function SellSideResearch() {
       {/* Intro */}
       <div className="max-w-4xl mx-auto text-gray-600 mb-12 space-y-4">
         <p>
+<<<<<<< HEAD
           With over <strong>26+ years of experience</strong>, Outsource2india’s
+=======
+          With over <strong>26+ years of experience</strong>, Nimble Acuity’s
+>>>>>>> Santhiya
           sell side research team supports global clients across industries. We
           bring confidence, expertise, and customized solutions to help you
           maintain balance in your sell side operations.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource sell side research services to us and gain access to
+=======
+          Nimble sell side research services to us and gain access to
+>>>>>>> Santhiya
           cost-effective, high-quality, and timely insights that strengthen your
           decision-making process.
         </p>
@@ -37,7 +53,11 @@ export default function SellSideResearch() {
 
       {/* Services */}
       <h2 className="text-2xl font-semibold text-gray-900 mb-6 text-center">
+<<<<<<< HEAD
         Outsource2india&apos;s Sell Side Research Services
+=======
+        Nimble Acuity&apos;s Sell Side Research Services
+>>>>>>> Santhiya
       </h2>
       <div className="grid md:grid-cols-2 gap-6 mb-12">
         {[
@@ -102,11 +122,19 @@ export default function SellSideResearch() {
       {/* CTA */}
       <div className="text-center mt-12">
         <h2 className="text-2xl font-semibold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource Sell Side Research Services to Outsource2india
         </h2>
         <p className="text-gray-700 max-w-3xl mx-auto mb-6">
           With ISO-certified processes, strict data security, and a proven track
           record of fast and accurate delivery, Outsource2india is your trusted
+=======
+          Nimble Sell Side Research Services to Nimble Acuity
+        </h2>
+        <p className="text-gray-700 max-w-3xl mx-auto mb-6">
+          With ISO-certified processes, strict data security, and a proven track
+          record of fast and accurate delivery, Nimble Acuity is your trusted
+>>>>>>> Santhiya
           partner for sell side research. Reach out to us today and take the
           first step toward smarter, more efficient financial operations.
         </p>

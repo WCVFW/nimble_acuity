@@ -15,7 +15,11 @@ export default function HealthcareMarketResearch() {
           animate={{ opacity: 1, y: 0 }}
           className="text-4xl font-bold"
         >
+<<<<<<< HEAD
           Outsource Healthcare Market Research Services
+=======
+          Nimble Healthcare Market Research Services
+>>>>>>> Santhiya
         </motion.h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Stay updated with the latest trends in the healthcare industry leveraging our analysis and stats report by outsourcing to us at highly affordable prices (Starts at $14 an hour).
@@ -66,7 +70,11 @@ export default function HealthcareMarketResearch() {
       {/* Why Choose Us Section */}
       <section>
         <h2 className="text-2xl font-semibold mb-6 text-center">
+<<<<<<< HEAD
           Why Choose O2I for Offshore Healthcare Market Research Services?
+=======
+          Why Choose Nimble Acuity for Offshore Healthcare Market Research Services?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 gap-6">
           {[
@@ -92,7 +100,11 @@ export default function HealthcareMarketResearch() {
       <section className="bg-gray-50 rounded-2xl p-8 space-y-6">
         <h2 className="text-2xl font-semibold text-center">Client Testimonials</h2>
         <blockquote className="text-center text-gray-700 max-w-3xl mx-auto italic">
+<<<<<<< HEAD
           “The services that Outsource2india provided helped us achieve substantial cost and time savings on several difficult research projects.”
+=======
+          “The services that Nimble Acuity provided helped us achieve substantial cost and time savings on several difficult research projects.”
+>>>>>>> Santhiya
         </blockquote>
         <p className="text-center font-medium">
           – Senior Vice President, Automotive & Transportation Industry Solutions Group
@@ -102,7 +114,11 @@ export default function HealthcareMarketResearch() {
       {/* CTA Section */}
       <section className="text-center space-y-4">
         <h2 className="text-2xl font-bold">
+<<<<<<< HEAD
           Outsource Healthcare Market Research Services to Outsource2india
+=======
+          Nimble Healthcare Market Research Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="text-gray-600 max-w-2xl mx-auto">
           If you are searching for a quality and cost-effective healthcare market research service provider, then your search ends here.

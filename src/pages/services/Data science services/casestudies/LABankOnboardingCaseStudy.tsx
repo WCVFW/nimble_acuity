@@ -13,7 +13,11 @@ const LABankOnboardingCaseStudy: React.FC = () => {
         {/* Header */}
         <header className="text-center">
           <h1 className="text-4xl font-bold text-gray-900 mb-3">
+<<<<<<< HEAD
             Outsource2india Reduced Client Onboarding Time for a LA-based Bank
+=======
+            Nimble Acuity Reduced Client Onboarding Time for a LA-based Bank
+>>>>>>> Santhiya
           </h1>
           <p className="text-lg text-gray-600">
             Case Study on Optimizing Client Onboarding with UiPath RPA
@@ -59,7 +63,11 @@ const LABankOnboardingCaseStudy: React.FC = () => {
         <section>
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">The Solution</h2>
           <p className="text-gray-700 mb-3">
+<<<<<<< HEAD
             O2I designed a <strong>UiPath RPA-based solution</strong> to handle 
+=======
+            Nimble Acuity designed a <strong>UiPath RPA-based solution</strong> to handle 
+>>>>>>> Santhiya
             routine onboarding tasks like{" "}
             <em>requesting fee waivers, ordering checks, and replacement cards</em>.
           </p>
@@ -88,10 +96,17 @@ const LABankOnboardingCaseStudy: React.FC = () => {
         {/* CTA */}
         <section className="bg-blue-50 p-6 rounded-2xl shadow-sm">
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">
+<<<<<<< HEAD
             Outsource UiPath RPA Solutions to Outsource2india
           </h2>
           <p className="text-gray-700 mb-4">
             Outsource2india is a trusted partner for{" "}
+=======
+            Nimble UiPath RPA Solutions to Nimble Acuity
+          </h2>
+          <p className="text-gray-700 mb-4">
+            Nimble Acuity is a trusted partner for{" "}
+>>>>>>> Santhiya
             <strong>UiPath RPA services</strong> and a range of data science 
             solutions. Our skilled RPA specialists leverage cutting-edge tools 
             to deliver <strong>efficient, cost-effective automation</strong>.

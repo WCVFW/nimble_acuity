@@ -9,7 +9,11 @@ export default function BuySideEquityResearch() {
       <NavigationMenu/>
       <div className="text-center mb-12">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource Buy Side Equity Research Services
+=======
+          Nimble Buy Side Equity Research Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-700 max-w-3xl mx-auto">
           Buy side equity research services help asset managers and investment
@@ -26,7 +30,11 @@ export default function BuySideEquityResearch() {
           with accurate research reports to aid quick decisions.
         </p>
         <p>
+<<<<<<< HEAD
           At Outsource2india, we work closely with mutual fund companies,
+=======
+          At Nimble Acuity, we work closely with mutual fund companies,
+>>>>>>> Santhiya
           financial advisory firms, hedge funds, proprietary traders, and trust
           firms to derive statistics and strategies backed by exhaustive
           research. Our experts help analyze trends, track valuable information,
@@ -77,10 +85,17 @@ export default function BuySideEquityResearch() {
       {/* CTA */}
       <div className="text-center mt-12">
         <h2 className="text-2xl font-semibold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource Buy Side Equity Research Services to Outsource2india
         </h2>
         <p className="text-gray-700 max-w-3xl mx-auto mb-6">
           Outsource2india’s buy side equity research services help financial
+=======
+          Nimble Buy Side Equity Research Services to Nimble Acuity
+        </h2>
+        <p className="text-gray-700 max-w-3xl mx-auto mb-6">
+          Nimble Acuity’s buy side equity research services help financial
+>>>>>>> Santhiya
           institutions make informed decisions with accurate insights,
           structured reports, and comprehensive models. Partner with us to gain
           a competitive edge and achieve sustainable growth.

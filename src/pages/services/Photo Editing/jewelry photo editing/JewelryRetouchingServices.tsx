@@ -11,7 +11,11 @@ const JewelryRetouchingServices: React.FC = () => {
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-pink-50 to-purple-50 py-16 text-center">
         <h1 className="text-4xl font-bold text-gray-800 mb-4">
+<<<<<<< HEAD
           Outsource Jewelry Retouching Services
+=======
+          Nimble Jewelry Retouching Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Leverage our cutting-edge jewelry photo retouching services to enhance
@@ -156,7 +160,11 @@ const JewelryRetouchingServices: React.FC = () => {
           Testimonials
         </h2>
         <blockquote className="max-w-3xl mx-auto text-center text-gray-600 italic">
+<<<<<<< HEAD
           “I used outsource2india.com for some photo retouching. I'm thrilled
+=======
+          “I used Nimble Acuity.com for some photo retouching. I'm thrilled
+>>>>>>> Santhiya
           with the work and time they saved me. The whole process was efficient,
           and the result was great. I recommend them.”
           <footer className="mt-4 text-gray-800 font-semibold">

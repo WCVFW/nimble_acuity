@@ -8,7 +8,11 @@ const FloorPlanConversion: React.FC = () => {
       <PEMainMenu/>
       <section className="mb-10">
         <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Real Estate Floor Plan Conversion Services
+=======
+          Nimble Real Estate Floor Plan Conversion Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg mb-4">
           Explore our real estate floor plan conversion services for authentic
@@ -133,7 +137,11 @@ const FloorPlanConversion: React.FC = () => {
       <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-4">Testimonials</h2>
         <blockquote className="italic border-l-4 pl-4">
+<<<<<<< HEAD
           “I used outsource2india.com for some photo retouching. I'm thrilled
+=======
+          “I used Nimble Acuity.com for some photo retouching. I'm thrilled
+>>>>>>> Santhiya
           with the work and time they saved me. The whole process was efficient,
           and the result was great. I recommend them.”
           <footer className="mt-2 font-semibold">– Graphic Designer, Canada</footer>
@@ -143,7 +151,11 @@ const FloorPlanConversion: React.FC = () => {
       {/* CTA */}
       <section className="text-center mt-10">
         <h2 className="text-xl font-semibold mb-4">
+<<<<<<< HEAD
           Outsource Real Estate Floor Plan Conversion Services to Us
+=======
+          Nimble Real Estate Floor Plan Conversion Services to Us
+>>>>>>> Santhiya
         </h2>
         <p className="mb-6">
           Partner with us to optimize your real estate operations. Experience

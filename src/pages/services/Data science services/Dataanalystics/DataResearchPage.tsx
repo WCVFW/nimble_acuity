@@ -19,7 +19,11 @@ export default function DataResearchPage() {
       <section className="bg-gradient-to-r from-blue-50 to-blue-100 py-20 px-6 text-center">
         <motion.div {...fadeInUp}>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-6">
+<<<<<<< HEAD
             Outsource Data Research Services
+=======
+            Nimble Data Research Services
+>>>>>>> Santhiya
           </h1>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto mb-8">
             Get access to high-quality and accurate data research services to help you make
@@ -83,13 +87,21 @@ export default function DataResearchPage() {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* Why Outsource Section */}
+=======
+      {/* Why Nimble Section */}
+>>>>>>> Santhiya
       <section className="bg-gray-50 py-16 px-6">
         <motion.h2
           {...fadeInUp}
           className="text-3xl font-bold text-gray-800 text-center mb-12"
         >
+<<<<<<< HEAD
           Why Outsource Data Research Services to O2I?
+=======
+          Why Nimble Data Research Services to Nimble Acuity?
+>>>>>>> Santhiya
         </motion.h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
           {[
@@ -149,12 +161,20 @@ export default function DataResearchPage() {
           {[
             {
               title:
+<<<<<<< HEAD
                 "O2I Provides Invoice Factoring Services to a UK-based Land and Water Management Company",
+=======
+                "Nimble Acuity Provides Invoice Factoring Services to a UK-based Land and Water Management Company",
+>>>>>>> Santhiya
               desc: "Processed over 80,000 invoices/month with utmost accuracy by capturing and recording invoice data in CRM.",
             },
             {
               title:
+<<<<<<< HEAD
                 "O2I Provided Data Entry Services to a Leading Online Platform Builder",
+=======
+                "Nimble Acuity Provided Data Entry Services to a Leading Online Platform Builder",
+>>>>>>> Santhiya
               desc: "Cleansed CRM records and delivered accurate data entry services with a tight turnaround time.",
             },
           ].map((story, idx) => (
@@ -194,7 +214,11 @@ export default function DataResearchPage() {
           {...fadeInUp}
           className="text-3xl md:text-4xl font-bold mb-6"
         >
+<<<<<<< HEAD
           Outsource Data Research Services to Outsource2india
+=======
+          Nimble Data Research Services to Nimble Acuity
+>>>>>>> Santhiya
         </motion.h2>
         <p className="max-w-2xl mx-auto text-blue-100 mb-8">
           Gain a competitive edge with cost-effective, reliable, and accurate

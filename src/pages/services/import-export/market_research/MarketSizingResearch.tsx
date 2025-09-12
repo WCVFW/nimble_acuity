@@ -11,7 +11,11 @@ export default function MarketSizingResearch() {
       <NavigationMenu/>
       <section className="w-full bg-blue-100 py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4 text-blue-900">
+<<<<<<< HEAD
           Outsource Market Sizing Research Services
+=======
+          Nimble Market Sizing Research Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg text-gray-700 mb-6">
           Get access to accurate market sizing analysis while expanding to a new
@@ -115,10 +119,17 @@ export default function MarketSizingResearch() {
       {/* Contact CTA */}
       <section className="w-full py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4 text-blue-900">
+<<<<<<< HEAD
           Ready to Outsource Your Market Sizing Research?
         </h2>
         <p className="max-w-2xl mx-auto text-gray-700 mb-6">
           Partner with Outsource2india and gain accurate insights into market
+=======
+          Ready to Nimble Your Market Sizing Research?
+        </h2>
+        <p className="max-w-2xl mx-auto text-gray-700 mb-6">
+          Partner with Nimble Acuity and gain accurate insights into market
+>>>>>>> Santhiya
           size and opportunities. Get in touch today!
         </p>
         <Button size="lg" className="bg-blue-700 text-white flex items-center gap-2">

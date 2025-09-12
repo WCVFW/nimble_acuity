@@ -339,10 +339,17 @@ export default function DataIntelligenceServicesPage() {
         </motion.div>
       </section>
 
+<<<<<<< HEAD
       {/* Why Outsource */}
       <section className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8">
         <div className="mb-8 text-center">
           <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-slate-900">Why Outsource Data Intelligence to O2I?</h2>
+=======
+      {/* Why Nimble */}
+      <section className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8">
+        <div className="mb-8 text-center">
+          <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-slate-900">Why Nimble Data Intelligence to Nimble Acuity?</h2>
+>>>>>>> Santhiya
           <p className="mt-2 text-slate-600">
             Data made more valuable—richer context, faster decisions, and measurable ROI with certified security.
           </p>
@@ -390,7 +397,11 @@ export default function DataIntelligenceServicesPage() {
           <CardContent className="p-8">
             <div className="grid lg:grid-cols-2 gap-6 items-center">
               <div>
+<<<<<<< HEAD
                 <h3 className="text-2xl font-bold">Outsource Data Intelligence Services to Outsource2india</h3>
+=======
+                <h3 className="text-2xl font-bold">Nimble Data Intelligence Services to Nimble Acuity</h3>
+>>>>>>> Santhiya
                 <p className="mt-2 text-white/80">
                   With 26+ years of experience and 700+ global clients, we convert complex data into actionable insight—
                   securely, scalably, and fast.
@@ -429,7 +440,11 @@ export default function DataIntelligenceServicesPage() {
       <footer className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pb-16">
         <div className="flex flex-col items-center gap-3 text-center text-sm text-slate-500">
           <a href="#" className="underline decoration-dotted underline-offset-4">Explore our data intelligence playbook</a>
+<<<<<<< HEAD
           <div>© {new Date().getFullYear()} O2I. All rights reserved.</div>
+=======
+          <div>© {new Date().getFullYear()} Nimble Acuity. All rights reserved.</div>
+>>>>>>> Santhiya
         </div>
       </footer>
     </div>

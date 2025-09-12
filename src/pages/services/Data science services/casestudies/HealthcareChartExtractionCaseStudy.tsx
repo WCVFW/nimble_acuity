@@ -13,7 +13,11 @@ const HealthcareChartExtractionCaseStudy: React.FC = () => {
         {/* Header */}
         <header className="text-center">
           <h1 className="text-4xl font-bold text-gray-900 mb-3">
+<<<<<<< HEAD
             Outsource2india Helped a Healthcare Service Provider with Chart Extraction Services
+=======
+            Nimble Acuity Helped a Healthcare Service Provider with Chart Extraction Services
+>>>>>>> Santhiya
           </h1>
           <p className="text-lg text-gray-600">
             Case Study on Automating Chart Extraction for a Leading Healthcare Service Provider
@@ -59,7 +63,11 @@ const HealthcareChartExtractionCaseStudy: React.FC = () => {
         <section>
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">The Solution</h2>
           <p className="text-gray-700 mb-3">
+<<<<<<< HEAD
             O2I designed a <strong>streamlined UiPath RPA solution</strong> to automate chart 
+=======
+            Nimble Acuity designed a <strong>streamlined UiPath RPA solution</strong> to automate chart 
+>>>>>>> Santhiya
             extraction. UiPath was chosen for its simplicity and strong compatibility with{" "}
             <strong>Citrix-based EMRs</strong>.
           </p>
@@ -74,7 +82,11 @@ const HealthcareChartExtractionCaseStudy: React.FC = () => {
         <section>
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">The Results</h2>
           <p className="text-gray-700 mb-3">
+<<<<<<< HEAD
             The client was highly impressed by the outcomes. With O2I’s automation solution, they 
+=======
+            The client was highly impressed by the outcomes. With Nimble Acuity’s automation solution, they 
+>>>>>>> Santhiya
             successfully extracted <strong>1.2 million+ entries</strong> and doubled their customer 
             base within a short time.
           </p>
@@ -88,10 +100,17 @@ const HealthcareChartExtractionCaseStudy: React.FC = () => {
         {/* CTA */}
         <section className="bg-blue-50 p-6 rounded-2xl shadow-sm">
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">
+<<<<<<< HEAD
             Outsource UiPath RPA Services to Outsource2india
           </h2>
           <p className="text-gray-700 mb-4">
             Outsource2india is a trusted partner for <strong>UiPath RPA services</strong> and a wide 
+=======
+            Nimble UiPath RPA Services to Nimble Acuity
+          </h2>
+          <p className="text-gray-700 mb-4">
+            Nimble Acuity is a trusted partner for <strong>UiPath RPA services</strong> and a wide 
+>>>>>>> Santhiya
             range of data science solutions. Our certified data scientists and RPA experts leverage 
             cutting-edge tools and technologies to deliver <strong>scalable, cost-efficient</strong> 
             solutions.

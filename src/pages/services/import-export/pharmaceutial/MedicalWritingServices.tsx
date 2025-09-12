@@ -9,7 +9,11 @@ const MedicalWritingServices: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-blue-50 py-16 px-6 text-center">
         <h1 className="text-4xl font-bold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource Medical Writing Support Services
+=======
+          Nimble Medical Writing Support Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-700 max-w-3xl mx-auto">
           Get access to specialized, accurate, and secure medical writing support
@@ -23,7 +27,11 @@ const MedicalWritingServices: React.FC = () => {
         <p className="mb-6">
           Are you looking for high-quality, reliable, and professional medical writing
           support to aid your clinical research and help you document relevant
+<<<<<<< HEAD
           information in a comprehensible and precise manner? Outsource2india's
+=======
+          information in a comprehensible and precise manner? Nimble Acuity's
+>>>>>>> Santhiya
           professional medical writing support services help you plan and deliver the
           required content, easing your day-to-day documentation and submission
           requirements.
@@ -109,7 +117,11 @@ const MedicalWritingServices: React.FC = () => {
       {/* Benefits */}
       <section className="bg-gray-50 py-12 px-6">
         <h2 className="text-3xl font-semibold text-gray-900 text-center mb-10">
+<<<<<<< HEAD
           Why Outsource Medical Writing Support Services to O2I?
+=======
+          Why Nimble Medical Writing Support Services to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 gap-6 max-w-6xl mx-auto">
           {[
@@ -182,7 +194,11 @@ const MedicalWritingServices: React.FC = () => {
           Testimonials
         </h2>
         <blockquote className="max-w-3xl mx-auto text-gray-700 italic">
+<<<<<<< HEAD
           “Outsource2india has been a tremendous resource for our team. They are
+=======
+          “Nimble Acuity has been a tremendous resource for our team. They are
+>>>>>>> Santhiya
           very precise and attentive to all our needs and have been able to learn
           our procedures quicker than I ever thought possible.”
         </blockquote>
@@ -194,7 +210,11 @@ const MedicalWritingServices: React.FC = () => {
       {/* CTA */}
       <section className="py-16 px-6 text-center bg-blue-600 text-white">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Medical Writing Support Services to Outsource2india
+=======
+          Nimble Medical Writing Support Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           Get expert medical writing and documentation support from experienced

@@ -131,7 +131,11 @@ const CompetitiveAnalyticsBenchmarking: React.FC = () => {
           customers want and where they are suffering.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource competitor benchmarking services to enhance this process by
+=======
+          Nimble competitor benchmarking services to enhance this process by
+>>>>>>> Santhiya
           providing insights into industry standards and competitor performance.
           When qualitative information is combined with quantitative analysis, a
           solution is tailored to the demands of the market, which makes a

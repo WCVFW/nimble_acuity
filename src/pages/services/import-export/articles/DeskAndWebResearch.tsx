@@ -7,7 +7,11 @@ const DeskAndWebResearch: React.FC = () => {
       {/* Title */}
       <NavigationMenu/>
       <h1 className="text-3xl font-bold text-blue-900 mb-6">
+<<<<<<< HEAD
         7 Reasons to Outsource Desk and Web Research
+=======
+        7 Reasons to Nimble Desk and Web Research
+>>>>>>> Santhiya
       </h1>
 
       {/* Intro */}
@@ -21,7 +25,11 @@ const DeskAndWebResearch: React.FC = () => {
       </p>
 
       <p className="mb-6">
+<<<<<<< HEAD
         At Outsource2india, our trained team of web research specialists spot,
+=======
+        At Nimble Acuity, our trained team of web research specialists spot,
+>>>>>>> Santhiya
         collect, and organize relevant market-related information. We have
         successfully worked with industries including finance, automation,
         automobile, government, FMCG, media, publishing, public relations,
@@ -30,7 +38,11 @@ const DeskAndWebResearch: React.FC = () => {
 
       {/* Section: 7 Benefits */}
       <h2 className="text-2xl font-semibold text-blue-800 mb-4">
+<<<<<<< HEAD
         7 Benefits of Outsourcing Desk Research and Web Research to O2I
+=======
+        7 Benefits of Outsourcing Desk Research and Web Research to Nimble Acuity
+>>>>>>> Santhiya
       </h2>
       <ul className="list-disc pl-6 mb-6 space-y-2">
         <li>
@@ -54,10 +66,17 @@ const DeskAndWebResearch: React.FC = () => {
 
       {/* Section: Services */}
       <h2 className="text-2xl font-semibold text-blue-800 mb-4">
+<<<<<<< HEAD
         Desk and Web Research Services Offered at Outsource2india
       </h2>
       <p className="mb-6">
         O2I can handle any type of web research across all industries—whether
+=======
+        Desk and Web Research Services Offered at Nimble Acuity
+      </h2>
+      <p className="mb-6">
+        Nimble Acuity can handle any type of web research across all industries—whether
+>>>>>>> Santhiya
         you need competitor details, market intelligence, or literature research
         (magazines, business reports, newsletters, case studies, journals, etc.).
       </p>
@@ -75,7 +94,11 @@ const DeskAndWebResearch: React.FC = () => {
         Methodologies Incorporated for Web Research
       </h2>
       <p className="mb-4">
+<<<<<<< HEAD
         At O2I, we rely on Secondary Research methodologies using trusted
+=======
+        At Nimble Acuity, we rely on Secondary Research methodologies using trusted
+>>>>>>> Santhiya
         sources of information, such as:
       </p>
       <ul className="list-disc pl-6 mb-6 space-y-2">
@@ -95,16 +118,27 @@ const DeskAndWebResearch: React.FC = () => {
       <p className="mb-6">
         If you would like to focus on your core business and let professionals
         handle your desk & web research, consider outsourcing this work to
+<<<<<<< HEAD
         Outsource2india. With over 26+ years of experience in Research Services
+=======
+        Nimble Acuity. With over 26+ years of experience in Research Services
+>>>>>>> Santhiya
         outsourcing, we provide reliable, cost-effective, and timely solutions.
       </p>
 
       <div className="bg-blue-50 p-6 rounded-xl shadow-md text-center">
         <h3 className="text-xl font-semibold text-blue-900 mb-4">
+<<<<<<< HEAD
           Ready to Outsource Your Desk & Web Research?
         </h3>
         <p className="mb-4">
           Partner with Outsource2india to gain actionable insights, faster
+=======
+          Ready to Nimble Your Desk & Web Research?
+        </h3>
+        <p className="mb-4">
+          Partner with Nimble Acuity to gain actionable insights, faster
+>>>>>>> Santhiya
           turnaround, and significant cost savings.
         </p>
         <button className="bg-blue-700 text-white px-6 py-3 rounded-lg font-medium hover:bg-blue-800 transition">

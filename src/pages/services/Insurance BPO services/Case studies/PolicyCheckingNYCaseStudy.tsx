@@ -12,7 +12,11 @@ const PolicyCheckingNYCaseStudy: React.FC = () => {
             Insurance Policy Checking Services for NY-based Insurance Service Provider
           </h1>
           <p className="text-lg text-gray-700">
+<<<<<<< HEAD
             Case study showcasing how Outsource2india helped a New York-based risk insurance agency improve policy checking, COI generation, and back-office efficiency.
+=======
+            Case study showcasing how Nimble Acuity helped a New York-based risk insurance agency improve policy checking, COI generation, and back-office efficiency.
+>>>>>>> Santhiya
           </p>
         </div>
       </section>
@@ -38,9 +42,15 @@ const PolicyCheckingNYCaseStudy: React.FC = () => {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* The O2I Solution */}
       <section className="py-12 max-w-5xl mx-auto px-4 space-y-4 text-gray-700">
         <h2 className="text-3xl font-bold mb-4">The O2I Solution</h2>
+=======
+      {/* The Nimble Acuity Solution */}
+      <section className="py-12 max-w-5xl mx-auto px-4 space-y-4 text-gray-700">
+        <h2 className="text-3xl font-bold mb-4">The Nimble Acuity Solution</h2>
+>>>>>>> Santhiya
         <ul className="list-disc ml-6 space-y-2">
           <li>Created an executive team of insurance experts to execute daily back-office requirements.</li>
           <li>Included professionals ensuring completeness and accuracy of each policy document.</li>
@@ -65,10 +75,17 @@ const PolicyCheckingNYCaseStudy: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-600 py-16 text-white text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Choose Outsource2india for Insurance Back Office Support
         </h2>
         <p className="mb-6 max-w-2xl mx-auto">
           O2I delivers top-quality insurance back-office support at cost-effective rates. Our team is skilled in US and UK insurance systems and adept at handling complex challenges with ease.
+=======
+          Choose Nimble Acuity for Insurance Back Office Support
+        </h2>
+        <p className="mb-6 max-w-2xl mx-auto">
+          Nimble Acuity delivers top-quality insurance back-office support at cost-effective rates. Our team is skilled in US and UK insurance systems and adept at handling complex challenges with ease.
+>>>>>>> Santhiya
         </p>
         <a
           href="/contact"

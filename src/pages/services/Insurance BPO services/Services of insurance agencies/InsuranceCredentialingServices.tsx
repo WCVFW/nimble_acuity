@@ -8,7 +8,11 @@ const InsuranceCredentialingServices: React.FC = () => {
       <Imainmenu/>
       <section className="bg-indigo-700 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Credentialing Services
+=======
+          Nimble Insurance Credentialing Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Eliminate credentialing hurdles with rigorous primary source
@@ -24,7 +28,11 @@ const InsuranceCredentialingServices: React.FC = () => {
           compliance lapses, data breaches, and regulatory penalties.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource insurance credentialing services to automate verification of
+=======
+          Nimble insurance credentialing services to automate verification of
+>>>>>>> Santhiya
           provider credentials, drastically reducing manual errors and processing
           time. We integrate seamlessly with your healthcare management systems
           for a smoother process.
@@ -198,7 +206,11 @@ const InsuranceCredentialingServices: React.FC = () => {
       <section className="bg-indigo-50 py-12 px-6 text-center">
         <h2 className="text-3xl font-bold mb-8">Testimonials</h2>
         <blockquote className="max-w-3xl mx-auto text-lg italic">
+<<<<<<< HEAD
           “We chose Outsource2india for their reasonable cost, agreeable terms,
+=======
+          “We chose Nimble Acuity for their reasonable cost, agreeable terms,
+>>>>>>> Santhiya
           and flexibility. Their employees learned our workflows and worked the
           way we wanted—unlike other firms.”
         </blockquote>

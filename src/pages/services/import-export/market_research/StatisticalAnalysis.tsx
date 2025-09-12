@@ -7,7 +7,11 @@ const StatisticalAnalysis: React.FC = () => {
       {/* Hero Section */}
        <NavigationMenu/>
       <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
         Outsource Statistical Analysis Services
+=======
+        Nimble Statistical Analysis Services
+>>>>>>> Santhiya
       </h1>
       <p className="text-lg mb-6">
         We collect, examine, and analyze your business data to gain deep
@@ -24,7 +28,11 @@ const StatisticalAnalysis: React.FC = () => {
         customer behavior and predict future market trends.
       </p>
       <p className="mb-6">
+<<<<<<< HEAD
         At Outsource2india, we provide customized statistical analysis services
+=======
+        At Nimble Acuity, we provide customized statistical analysis services
+>>>>>>> Santhiya
         to help businesses understand their data and gain valuable insights from
         their big data matrix. Our professional statisticians leverage their
         extensive experience and rich industrial knowledge to collect, organize,
@@ -101,7 +109,11 @@ const StatisticalAnalysis: React.FC = () => {
 
       {/* Why Choose Us */}
       <h2 className="text-2xl font-semibold mt-6 mb-2">
+<<<<<<< HEAD
         Why Outsource Statistical Analysis Services to Outsource2india?
+=======
+        Why Nimble Statistical Analysis Services to Nimble Acuity?
+>>>>>>> Santhiya
       </h2>
       <ul className="list-disc pl-6 space-y-2">
         <li>✔ Cost-effective Services</li>
@@ -116,7 +128,11 @@ const StatisticalAnalysis: React.FC = () => {
       {/* Testimonials */}
       <h2 className="text-2xl font-semibold mt-6 mb-2">Testimonials</h2>
       <blockquote className="border-l-4 border-gray-400 pl-4 italic mb-4">
+<<<<<<< HEAD
         “The services that Outsource2india provided helped us achieve
+=======
+        “The services that Nimble Acuity provided helped us achieve
+>>>>>>> Santhiya
         substantial cost and time savings on several difficult projects. Their
         prompt attention to our requests and attention to detail is excellent.”
         <br />– Senior Vice President, Automotive & Transportation Industry
@@ -125,7 +141,11 @@ const StatisticalAnalysis: React.FC = () => {
 
       {/* CTA */}
       <p className="mt-6">
+<<<<<<< HEAD
         With 26+ years of experience, Outsource2india has been a trusted
+=======
+        With 26+ years of experience, Nimble Acuity has been a trusted
+>>>>>>> Santhiya
         provider of statistical analysis services, working with Fortune 500
         companies and beyond. Our expert statisticians use the latest tools and
         technologies to deliver comprehensive, end-to-end consulting for

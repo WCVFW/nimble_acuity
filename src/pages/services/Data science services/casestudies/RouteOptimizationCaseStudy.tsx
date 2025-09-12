@@ -13,7 +13,11 @@ const RouteOptimizationCaseStudy: React.FC = () => {
         {/* Header */}
         <header className="text-center">
           <h1 className="text-4xl font-bold text-gray-900 mb-3">
+<<<<<<< HEAD
             O2I's Route Optimization Services Helped a Leading Dairy Supplier in the Middle East Streamline Their Product Delivery
+=======
+            Nimble Acuity's Route Optimization Services Helped a Leading Dairy Supplier in the Middle East Streamline Their Product Delivery
+>>>>>>> Santhiya
           </h1>
           <p className="text-lg text-gray-600">
             Case Study on Route Optimization to Streamline Product Delivery
@@ -26,7 +30,11 @@ const RouteOptimizationCaseStudy: React.FC = () => {
           <p className="text-gray-700">
             A <strong>leader in supplying milk and dairy products</strong> in the Middle East,
             and one of the top brands in <strong>production, sales, and distribution</strong> of
+<<<<<<< HEAD
             high-quality food products approached Outsource2india. The company generates{" "}
+=======
+            high-quality food products approached Nimble Acuity. The company generates{" "}
+>>>>>>> Santhiya
             <strong>close to $400 million yearly sales</strong>, with{" "}
             <strong>500 sales routes, 35,000 customers, and 24 depots</strong> to be managed daily.
           </p>
@@ -37,7 +45,11 @@ const RouteOptimizationCaseStudy: React.FC = () => {
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">The Challenge</h2>
           <p className="text-gray-700 mb-3">
             Managing <strong>500 routes daily</strong> was a big task, creating difficulties in
+<<<<<<< HEAD
             streamlining delivery activities and optimizing daily routes. The company expected O2I
+=======
+            streamlining delivery activities and optimizing daily routes. The company expected Nimble Acuity
+>>>>>>> Santhiya
             to provide:
           </p>
           <ul className="list-disc list-inside space-y-2 text-gray-700">
@@ -58,7 +70,11 @@ const RouteOptimizationCaseStudy: React.FC = () => {
         <section>
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">Our Solution</h2>
           <p className="text-gray-700 mb-3">
+<<<<<<< HEAD
             Outsource2india resolved the problem using <strong>data science</strong> and{" "}
+=======
+            Nimble Acuity resolved the problem using <strong>data science</strong> and{" "}
+>>>>>>> Santhiya
             <strong>applied engineering</strong>. Our route optimization experts implemented
             industry-best practices:
           </p>
@@ -107,10 +123,17 @@ const RouteOptimizationCaseStudy: React.FC = () => {
         {/* CTA */}
         <section className="bg-blue-50 p-6 rounded-2xl shadow-sm">
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">
+<<<<<<< HEAD
             Choose Outsource2india for Efficient & Reliable Route Optimization Services
           </h2>
           <p className="text-gray-700 mb-4">
             Outsource2india is a <strong>leading outsourcing company</strong> providing{" "}
+=======
+            Choose Nimble Acuity for Efficient & Reliable Route Optimization Services
+          </h2>
+          <p className="text-gray-700 mb-4">
+            Nimble Acuity is a <strong>leading outsourcing company</strong> providing{" "}
+>>>>>>> Santhiya
             <strong>data science and route optimization services</strong> to global clients.
             With multi-domain expertise, we precisely understand and address clients’ operational
             challenges.

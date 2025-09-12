@@ -8,7 +8,11 @@ const MarketBasketAnalysis: React.FC = () => {
       <NavigationMenu/>
       <header className="mb-12 text-center">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource Market Basket Analysis Services
+=======
+          Nimble Market Basket Analysis Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600">
           Identify the items with close affinity and get access to key insights
@@ -28,7 +32,11 @@ const MarketBasketAnalysis: React.FC = () => {
           second group of items.
         </p>
         <p>
+<<<<<<< HEAD
           <span className="font-semibold text-blue-600">Outsource2india (O2I)</span> has over 26+ years of experience in Market
+=======
+          <span className="font-semibold text-blue-600">Nimble Acuity (Nimble Acuity)</span> has over 26+ years of experience in Market
+>>>>>>> Santhiya
           Basket Analysis. We have assisted retailers to discover unknown facts
           about consumers, financial institutions to understand credit card
           purchase decisions, call centers to uncover calling patterns, and

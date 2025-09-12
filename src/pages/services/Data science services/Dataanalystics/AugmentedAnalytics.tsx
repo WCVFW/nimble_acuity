@@ -50,7 +50,11 @@ const AugmentedAnalytics: React.FC = () => {
           transition={{ duration: 0.8, ease: "easeOut" as const }}
           className="text-4xl font-bold mb-4"
         >
+<<<<<<< HEAD
           Outsource Augmented Analytics Services
+=======
+          Nimble Augmented Analytics Services
+>>>>>>> Santhiya
         </motion.h1>
         <p className="max-w-3xl mx-auto text-lg text-gray-600">
           Operationalize insights from your data to discover patterns and identify trends with our analytics solutions!
@@ -90,7 +94,11 @@ const AugmentedAnalytics: React.FC = () => {
       <section className="py-16">
         <div className="max-w-5xl mx-auto px-6">
           <h2 className="text-3xl font-semibold text-center mb-12">
+<<<<<<< HEAD
             Why Choose Outsource2india?
+=======
+            Why Choose Nimble Acuity?
+>>>>>>> Santhiya
           </h2>
           <ul className="grid md:grid-cols-2 gap-6">
             {benefits.map((b, idx) => (
@@ -120,7 +128,11 @@ const AugmentedAnalytics: React.FC = () => {
                   Healthcare Provider – Chart Extraction
                 </h3>
                 <p className="text-gray-600 text-sm mb-2">
+<<<<<<< HEAD
                   A leading healthcare service provider outsourced chart extraction services using RPA. We delivered cost-effective and accurate solutions.
+=======
+                  A leading healthcare service provider Nimbled chart extraction services using RPA. We delivered cost-effective and accurate solutions.
+>>>>>>> Santhiya
                 </p>
                 <Button variant="link">Read Case Study</Button>
               </CardContent>

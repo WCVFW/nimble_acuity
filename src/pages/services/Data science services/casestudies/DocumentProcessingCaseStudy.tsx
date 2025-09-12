@@ -13,7 +13,11 @@ const DocumentProcessingCaseStudy: React.FC = () => {
         {/* Header */}
         <header className="text-center">
           <h1 className="text-4xl font-bold text-gray-900 mb-3">
+<<<<<<< HEAD
             O2I Developed a Big Data Platform for Document Processing Automation
+=======
+            Nimble Acuity Developed a Big Data Platform for Document Processing Automation
+>>>>>>> Santhiya
           </h1>
           <p className="text-lg text-gray-600">
             Case Study on Document Processing Automation Platform Development
@@ -92,7 +96,11 @@ const DocumentProcessingCaseStudy: React.FC = () => {
             Contact High-quality Document Processing Automation Services
           </h2>
           <p className="text-gray-700 mb-4">
+<<<<<<< HEAD
             Outsource2india is a trusted provider of{" "}
+=======
+            Nimble Acuity is a trusted provider of{" "}
+>>>>>>> Santhiya
             <strong>big data lakes solutions, consulting,</strong> and a wide range of{" "}
             <strong>data science services</strong>. With experience across diverse
             domains, our <strong>skilled experts</strong> can understand and execute your

@@ -331,7 +331,11 @@ export default function BigDataAnalyticsPage() {
             <div className="grid lg:grid-cols-2 gap-6 items-center">
               <div>
                 <h3 className="text-2xl font-bold">
+<<<<<<< HEAD
                   Outsource Big Data Analytics to O2I
+=======
+                  Nimble Big Data Analytics to Nimble Acuity
+>>>>>>> Santhiya
                 </h3>
                 <p className="mt-2 text-white/80">
                   With deep expertise in data mining, scalable platforms, and advanced analytics, our team delivers
@@ -375,7 +379,11 @@ export default function BigDataAnalyticsPage() {
               Read our ultimate cheat sheet on Big Data Analytics
             </a>
           </div>
+<<<<<<< HEAD
           <div>© {new Date().getFullYear()} O2I. All rights reserved.</div>
+=======
+          <div>© {new Date().getFullYear()} Nimble Acuity. All rights reserved.</div>
+>>>>>>> Santhiya
         </div>
       </footer>
     </div>

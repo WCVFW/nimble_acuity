@@ -185,7 +185,11 @@ const BusinessPlanWriting: React.FC = () => {
       {/* Conclusion */}
       <div className="bg-blue-50 border border-blue-200 p-6 rounded-2xl">
         <h3 className="text-lg font-semibold text-blue-700 mb-2">
+<<<<<<< HEAD
           Outsource Business Plan Drafting Services to O2I
+=======
+          Nimble Business Plan Drafting Services to Nimble Acuity
+>>>>>>> Santhiya
         </h3>
         <p className="text-gray-700">
           Inefficient resource allocation is another significant challenge

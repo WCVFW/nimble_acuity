@@ -8,7 +8,11 @@ const BenchmarkingAnalyticsServices: React.FC = () => {
       <NavigationMenu/>
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Benchmarking Analytics Services
+=======
+          Nimble Benchmarking Analytics Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Choose our advanced benchmarking analytics services and gain better
@@ -30,7 +34,11 @@ const BenchmarkingAnalyticsServices: React.FC = () => {
           you can benefit significantly from our benchmarking analytics solutions.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india (O2I) is a leading benchmarking analytics services
+=======
+          Nimble Acuity (Nimble Acuity) is a leading benchmarking analytics services
+>>>>>>> Santhiya
           company and has been catering to the requirements of a diverse and
           growing clientele for 26+ years. With our benchmarking analytics
           studies, companies can identify tangible steps to improve processes and
@@ -103,10 +111,17 @@ const BenchmarkingAnalyticsServices: React.FC = () => {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* Why Outsource */}
       <section className="bg-gray-100 py-12 px-6">
         <h2 className="text-3xl font-semibold text-center mb-10">
           Why Outsource Benchmarking Analytics Services to O2I?
+=======
+      {/* Why Nimble */}
+      <section className="bg-gray-100 py-12 px-6">
+        <h2 className="text-3xl font-semibold text-center mb-10">
+          Why Nimble Benchmarking Analytics Services to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <ul className="max-w-4xl mx-auto space-y-4 list-disc list-inside">
           <li>Affordable pricing options with cost-effective solutions.</li>
@@ -130,7 +145,11 @@ const BenchmarkingAnalyticsServices: React.FC = () => {
         <div className="grid md:grid-cols-2 gap-8">
           <div className="p-6 bg-white shadow rounded-lg">
             <h3 className="font-bold mb-2">
+<<<<<<< HEAD
               O2I Provided Accurate Primary Research Services
+=======
+              Nimble Acuity Provided Accurate Primary Research Services
+>>>>>>> Santhiya
             </h3>
             <p>
               A leading US-based technology firm required accurate and reliable
@@ -140,7 +159,11 @@ const BenchmarkingAnalyticsServices: React.FC = () => {
           </div>
           <div className="p-6 bg-white shadow rounded-lg">
             <h3 className="font-bold mb-2">
+<<<<<<< HEAD
               O2I Provided Primary Research for Air Travel Provider
+=======
+              Nimble Acuity Provided Primary Research for Air Travel Provider
+>>>>>>> Santhiya
             </h3>
             <p>
               A luxury air travel services provider in the US contacted us for
@@ -164,7 +187,11 @@ const BenchmarkingAnalyticsServices: React.FC = () => {
       {/* Final CTA */}
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Benchmarking Analytics Services to O2I
+=======
+          Nimble Benchmarking Analytics Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           We provide professional and cost-effective benchmarking analytics

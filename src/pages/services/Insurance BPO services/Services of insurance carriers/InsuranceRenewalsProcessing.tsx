@@ -8,7 +8,11 @@ const InsuranceRenewalsProcessing: React.FC = () => {
       <Imainmenu/>
       <section className="bg-blue-900 text-white py-12 px-6 text-center">
         <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Renewals Processing Services
+=======
+          Nimble Insurance Renewals Processing Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Streamline and organize your insurance renewal processing with the help
@@ -22,7 +26,11 @@ const InsuranceRenewalsProcessing: React.FC = () => {
         <p>
           Facing challenges in streamlining your insurance renewals processing?
           Struggling to meet client requirements efficiently? Outsourcing your
+<<<<<<< HEAD
           insurance renewals processing services to O2I ensures a cost-effective
+=======
+          insurance renewals processing services to Nimble Acuity ensures a cost-effective
+>>>>>>> Santhiya
           solution with experienced professionals handling your workflow.
         </p>
         <p>
@@ -121,7 +129,11 @@ const InsuranceRenewalsProcessing: React.FC = () => {
       {/* Why Choose Us */}
       <section className="bg-gray-100 py-10 px-6 max-w-5xl mx-auto">
         <h2 className="text-2xl font-semibold text-center mb-6">
+<<<<<<< HEAD
           Why Choose O2I for Insurance Renewals Processing Services?
+=======
+          Why Choose Nimble Acuity for Insurance Renewals Processing Services?
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc pl-6 space-y-2">
           <li>Flexible pricing packages starting at $8/hour</li>
@@ -161,7 +173,11 @@ const InsuranceRenewalsProcessing: React.FC = () => {
       {/* CTA */}
       <section className="bg-blue-900 text-white py-12 px-6 text-center">
         <h2 className="text-2xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Renewals Processing Services to Outsource2india
+=======
+          Nimble Insurance Renewals Processing Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           We provide cost-effective, reliable, and efficient insurance renewals

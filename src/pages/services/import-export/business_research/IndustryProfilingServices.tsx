@@ -17,7 +17,11 @@ export default function IndustryProfilingServices() {
           transition={{ duration: 0.6 }}
           className="text-4xl md:text-5xl font-bold mb-4"
         >
+<<<<<<< HEAD
           Outsource Industry Profiling Services
+=======
+          Nimble Industry Profiling Services
+>>>>>>> Santhiya
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
@@ -35,7 +39,11 @@ export default function IndustryProfilingServices() {
       <section className="py-16 px-6 max-w-6xl mx-auto space-y-6">
         <p>
           Assessing an industry requires deep evaluation of customer behavior,
+<<<<<<< HEAD
           trends, competitors, and innovations. At Outsource2india, we provide
+=======
+          trends, competitors, and innovations. At Nimble Acuity, we provide
+>>>>>>> Santhiya
           Fortune 1000 companies and global businesses with detailed, well-structured
           industry profiles that support smarter strategies and reduce risks.
         </p>
@@ -100,7 +108,11 @@ export default function IndustryProfilingServices() {
       {/* Advantages */}
       <section className="py-16 px-6 bg-gray-50">
         <h2 className="text-3xl font-bold text-center mb-10">
+<<<<<<< HEAD
           Advantages of Partnering with O2I
+=======
+          Advantages of Partnering with Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
           {[
@@ -132,7 +144,11 @@ export default function IndustryProfilingServices() {
           From retail to agriculture, mining to financial services—our industry
           profiling expertise gives you reliable information to enter new
           markets or strengthen your current strategy. Make confident decisions
+<<<<<<< HEAD
           with O2I by your side.
+=======
+          with Nimble Acuity by your side.
+>>>>>>> Santhiya
         </p>
         <Button size="lg" className="rounded-full px-8 py-6 text-lg">
           Contact Us

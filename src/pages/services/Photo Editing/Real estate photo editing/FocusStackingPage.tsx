@@ -10,7 +10,11 @@ const FocusStackingPage: React.FC = () => {
       <PEMainMenu/>
       <section className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white py-20 px-6 text-center">
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Focus Stacking Services
+=======
+          Nimble Focus Stacking Services
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           See beyond, sharper than ever. Discover limitless focus with our focus
@@ -126,7 +130,11 @@ const FocusStackingPage: React.FC = () => {
       {/* Testimonials */}
       <section className="py-16 px-6 text-center max-w-3xl mx-auto">
         <blockquote className="italic text-gray-700">
+<<<<<<< HEAD
           "I used Outsource2india.com for some photo retouching. I'm thrilled
+=======
+          "I used Nimble Acuity.com for some photo retouching. I'm thrilled
+>>>>>>> Santhiya
           with the work and time they saved me. The whole process was efficient
           and the result was great."
         </blockquote>
@@ -136,7 +144,11 @@ const FocusStackingPage: React.FC = () => {
       {/* Call to Action */}
       <section className="bg-indigo-700 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-semibold mb-4">
+<<<<<<< HEAD
           Outsource Focus Stacking Services to Us
+=======
+          Nimble Focus Stacking Services to Us
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto">
           Eliminate costly equipment investments and training. Achieve superior

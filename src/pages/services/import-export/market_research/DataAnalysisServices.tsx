@@ -8,7 +8,11 @@ const DataAnalysisServices: React.FC = () => {
       {/* Hero Section */}
       <NavigationMenu/>
       <section className="text-center space-y-4">
+<<<<<<< HEAD
         <h1 className="text-3xl font-bold">Outsource Comprehensive Data Analysis Services</h1>
+=======
+        <h1 className="text-3xl font-bold">Nimble Comprehensive Data Analysis Services</h1>
+>>>>>>> Santhiya
         <p className="text-lg text-gray-700 max-w-3xl mx-auto">
           Adapt to your expanding data requirements. Our solutions ensure scalability for your business by effectively handling unstructured, semi-structured, and structured data.
         </p>
@@ -98,9 +102,15 @@ const DataAnalysisServices: React.FC = () => {
 
       {/* CTA */}
       <section className="text-center space-y-4">
+<<<<<<< HEAD
         <h2 className="text-2xl font-semibold">Outsource Data Analysis Services to Let Experts Analyze Your Crucial Business Data</h2>
         <p>
           Outsource2india is backed with two decades of research services that distinguish us as a trusted partner. With advanced statistical tools, we help you make informed decisions while working as an extension of your team.
+=======
+        <h2 className="text-2xl font-semibold">Nimble Data Analysis Services to Let Experts Analyze Your Crucial Business Data</h2>
+        <p>
+          Nimble Acuity is backed with two decades of research services that distinguish us as a trusted partner. With advanced statistical tools, we help you make informed decisions while working as an extension of your team.
+>>>>>>> Santhiya
         </p>
         <button className="px-6 py-3 bg-blue-600 text-white rounded-xl shadow hover:bg-blue-700">
           Get in Touch

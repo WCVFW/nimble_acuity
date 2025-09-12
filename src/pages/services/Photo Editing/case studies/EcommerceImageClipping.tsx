@@ -11,7 +11,11 @@ const EcommerceImageClipping: React.FC = () => {
           E-commerce Image Clipping Services for American Client
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           See how Outsource2india helped a Southern California-based food packaging company with high-quality e-commerce image clipping services.
+=======
+          See how Nimble Acuity helped a Southern California-based food packaging company with high-quality e-commerce image clipping services.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -69,9 +73,15 @@ const EcommerceImageClipping: React.FC = () => {
 
       {/* Call to Action */}
       <section className="bg-green-600 text-white py-16 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-4">Outsource E-commerce Image Clipping Services</h2>
         <p className="max-w-3xl mx-auto mb-6">
           Outsource2india offers professional, accurate e-commerce image clipping and other photo editing services globally using skilled editors and the latest tools.
+=======
+        <h2 className="text-3xl font-semibold mb-4">Nimble E-commerce Image Clipping Services</h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          Nimble Acuity offers professional, accurate e-commerce image clipping and other photo editing services globally using skilled editors and the latest tools.
+>>>>>>> Santhiya
         </p>
         <button className="bg-white text-green-600 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">
           Contact Us Today

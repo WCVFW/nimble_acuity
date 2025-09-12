@@ -18,11 +18,19 @@ const VisualAnalyticsPage: React.FC = () => {
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-20 px-6 text-center">
         <motion.div {...fadeInUp}>
           <h1 className="text-4xl md:text-5xl font-bold mb-4">
+<<<<<<< HEAD
             Outsource Visual Analytics Services
           </h1>
           <p className="max-w-3xl mx-auto text-lg">
             Transform complex data into interactive, actionable insights with
             Outsource2india’s Visual Analytics Services.
+=======
+            Nimble Visual Analytics Services
+          </h1>
+          <p className="max-w-3xl mx-auto text-lg">
+            Transform complex data into interactive, actionable insights with
+            Nimble Acuity’s Visual Analytics Services.
+>>>>>>> Santhiya
           </p>
         </motion.div>
       </section>
@@ -33,7 +41,11 @@ const VisualAnalyticsPage: React.FC = () => {
           <p>
             The exponential growth in enterprise data makes it crucial to
             capitalize on insights — record keeping alone is no longer enough.
+<<<<<<< HEAD
             At Outsource2india, we help you go beyond static charts and tables
+=======
+            At Nimble Acuity, we help you go beyond static charts and tables
+>>>>>>> Santhiya
             to deliver interactive, meaningful visualizations that accelerate
             smarter decision-making.
           </p>
@@ -148,10 +160,17 @@ const VisualAnalyticsPage: React.FC = () => {
       <section className="bg-blue-600 text-white text-center py-16 px-6">
         <motion.div {...fadeInUp}>
           <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
             Outsource Visual Analytics Services to Us
           </h2>
           <p className="max-w-2xl mx-auto mb-6 text-lg">
             With 26+ years of experience and a global client base, Outsource2india
+=======
+            Nimble Visual Analytics Services to Us
+          </h2>
+          <p className="max-w-2xl mx-auto mb-6 text-lg">
+            With 26+ years of experience and a global client base, Nimble Acuity
+>>>>>>> Santhiya
             delivers cost-effective, cutting-edge visual analytics services that
             turn your data into actionable strategies.
           </p>

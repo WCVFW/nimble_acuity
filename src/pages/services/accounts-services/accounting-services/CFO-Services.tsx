@@ -42,7 +42,11 @@ const CFOServices = () => {
             <li><strong>Interim CFO Services:</strong> Swift financial leadership during transitions or sudden leadership gaps.</li>
             <li><strong>CFO Services for Small Business:</strong> Tailored financial strategies, cash flow management, budgeting, and profitability analysis.</li>
             <li><strong>CFO Services for Startups:</strong> Support with financing, capital raising, projections, burn rate analysis, and investor relations.</li>
+<<<<<<< HEAD
             <li><strong>CFO Accounting Services:</strong> Outsourced accounting, financial reporting, compliance, tax strategy, and audit management.</li>
+=======
+            <li><strong>CFO Accounting Services:</strong> Nimbled accounting, financial reporting, compliance, tax strategy, and audit management.</li>
+>>>>>>> Santhiya
           </ul>
         </div>
 

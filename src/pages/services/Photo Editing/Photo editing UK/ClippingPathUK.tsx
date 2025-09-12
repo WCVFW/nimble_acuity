@@ -143,7 +143,11 @@ export default function ClippingPathUK() {
           Streamline Your Post-Production Today
         </h2>
         <p className="max-w-2xl mx-auto mb-8">
+<<<<<<< HEAD
           Don’t let clipping path challenges slow down your workflow. Outsource
+=======
+          Don’t let clipping path challenges slow down your workflow. Nimble
+>>>>>>> Santhiya
           to us and ensure efficiency, precision, and professional results.
         </p>
         <Button size="lg" variant="secondary">

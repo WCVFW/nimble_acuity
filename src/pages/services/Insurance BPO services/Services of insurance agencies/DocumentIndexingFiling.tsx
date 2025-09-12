@@ -56,7 +56,11 @@ const DocumentIndexingFiling: React.FC = () => {
       <Imainmenu/>
       <section className="text-center space-y-4">
         <h1 className="text-5xl font-bold bg-gradient-to-r from-purple-600 to-indigo-600 bg-clip-text text-transparent">
+<<<<<<< HEAD
           Outsource Document Indexing & Filing Services for Insurance
+=======
+          Nimble Document Indexing & Filing Services for Insurance
+>>>>>>> Santhiya
         </h1>
         <p className="text-gray-700 text-lg">
           Efficiently organize, index, and file your insurance documents while focusing on core business tasks.
@@ -123,7 +127,11 @@ const DocumentIndexingFiling: React.FC = () => {
 
       {/* Why Choose Us */}
       <section>
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-6 text-center">Why Choose Outsource2india?</h2>
+=======
+        <h2 className="text-3xl font-semibold mb-6 text-center">Why Choose Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-2 gap-4 text-gray-700">
           {whyChooseUs.map((item, idx) => (
             <div key={idx} className="border-l-4 border-purple-600 pl-4 py-2 bg-purple-50 rounded">

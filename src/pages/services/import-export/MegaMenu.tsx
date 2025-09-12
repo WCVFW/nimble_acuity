@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 
 // ---------- Types ----------
 interface MenuLink {
+<<<<<<< HEAD
     label: string;
     href: string;
     isHeading?: boolean;
@@ -32,6 +33,38 @@ interface DropdownProps {
 // ---------- Data ----------
 const menuData: MenuSection[] = [
     {
+=======
+  label: string;
+  href: string;
+  isHeading?: boolean;
+}
+
+interface MenuSection {
+  title: string;
+  description?: string;
+  mainHref: string;
+  links: MenuLink[];
+}
+
+interface DropdownItem {
+  label: string;
+  href: string;
+}
+
+interface DropdownProps {
+  title: string;
+  heading?: string;
+  headingHref: string;
+  description?: string;
+  descriptionLinkText?: string;
+  descriptionHref?: string;
+  items: DropdownItem[];
+}
+
+// ---------- Data ----------
+const MenuLink: MenuSection[] = [
+  {
+>>>>>>> Santhiya
         title: "Financial Research",
         description:
             "We offer specialized research & analysis services. Get more information on our financial research services and sub-services.",
@@ -260,8 +293,13 @@ const menuData: MenuSection[] = [
             // Financial Research Articles
             { label: "Financial Research Articles", href: "#" },
             {
+<<<<<<< HEAD
                 label: "Why Outsource Financial Analysis?",
                 href: "/kpo/financialanalysis/whyo2i.asp",
+=======
+                label: "Why Nimble Financial Analysis?",
+                href: "/kpo/financialanalysis/whyNimble Acuity.asp",
+>>>>>>> Santhiya
             },
             {
                 label:
@@ -347,11 +385,19 @@ const menuData: MenuSection[] = [
                 href: "/kpo/articles/kpo-apprehensions.asp",
             },
             {
+<<<<<<< HEAD
                 label: "Why Outsource Web Research to O2I",
                 href: "/kpo/webresearch/whyo2i.asp",
             },
             {
                 label: "7 Reasons to Outsource Desk & Web Research",
+=======
+                label: "Why Nimble Web Research to Nimble Acuity",
+                href: "/kpo/webresearch/whyNimble Acuity.asp",
+            },
+            {
+                label: "7 Reasons to Nimble Desk & Web Research",
+>>>>>>> Santhiya
                 href: "/kpo/desk-web-research.asp",
             },
         ],
@@ -363,6 +409,7 @@ const menuData: MenuSection[] = [
 
 // ---------- DropdownMenu Component --------
 
+<<<<<<< HEAD
 const DropdownMenu: React.FC<DropdownProps> = ({
     title,
     heading,
@@ -454,10 +501,66 @@ const DropdownMenu: React.FC<DropdownProps> = ({
             </div>
         </li>
     );
+=======
+// ---------- DropdownMenu Component (Desktop only) ----------
+const DropdownMenu: React.FC<MenuSection> = ({ title, mainHref, description, links }) => {
+  const dropdownRef = useRef<HTMLDivElement>(null);
+  const [alignRight, setAlignRight] = useState(false);
+
+  useEffect(() => {
+    const handlePosition = () => {
+      if (dropdownRef.current) {
+        const rect = dropdownRef.current.getBoundingClientRect();
+        const viewportWidth = window.innerWidth;
+        setAlignRight(rect.right > viewportWidth);
+      }
+    };
+    handlePosition();
+    window.addEventListener("resize", handlePosition);
+    return () => window.removeEventListener("resize", handlePosition);
+  }, []);
+
+  return (
+    <li className="relative group">
+      <button className="px-5 py-2 font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50 transition-all duration-300 rounded-lg text-left break-words">
+        {title}
+      </button>
+
+      <div
+        ref={dropdownRef}
+        className={`
+          absolute top-full mt-2 z-50 p-4
+          opacity-0 scale-95 -translate-y-2
+          group-hover:opacity-100 group-hover:scale-100 group-hover:translate-y-0
+          pointer-events-none group-hover:pointer-events-auto
+          bg-white rounded-xl border border-gray-200 shadow-lg
+          w-[90vw] sm:w-[400px] md:w-[600px] lg:w-[700px] xl:w-[800px]
+          max-h-[500px] overflow-auto
+          ${alignRight ? "right-0 origin-top-right" : "left-0 origin-top-left"}
+          transition-all duration-300 ease-out
+        `}
+      >
+        {description && <p className="text-sm text-gray-600 mb-2">{description}</p>}
+        <div className="grid grid-cols-2 gap-2">
+          {links.map((link, idx) => (
+            <a
+              key={idx}
+              href={link.href}
+              className="block px-3 py-2 rounded-md text-gray-700 text-sm font-medium hover:bg-blue-50 hover:text-blue-600 transition-all duration-200"
+            >
+              {link.label}
+            </a>
+          ))}
+        </div>
+      </div>
+    </li>
+  );
+>>>>>>> Santhiya
 };
 
 // ---------- Main Menu Component ----------
 const NavigationMenu: React.FC = () => {
+<<<<<<< HEAD
     return (
         <nav className="sticky top-0 z-50 bg-white">
             <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
@@ -480,4 +583,89 @@ const NavigationMenu: React.FC = () => {
     );
 };
 
+=======
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [expandedSections, setExpandedSections] = useState<number[]>([]);
+
+  const toggleSection = (idx: number) => {
+    setExpandedSections((prev) =>
+      prev.includes(idx) ? prev.filter((i) => i !== idx) : [...prev, idx]
+    );
+  };
+
+  return (
+    <nav className="sticky top-0 z-50 bg-white shadow-sm">
+      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div className="flex justify-between items-center py-4">
+          {/* Desktop Menu */}
+          <ul className="hidden md:flex items-center justify-start flex-wrap gap-2">
+            {MenuLink.map((section, idx) => (
+              <DropdownMenu key={idx} {...section} />
+            ))}
+          </ul>
+
+          {/* Mobile Hamburger */}
+          <div className="md:hidden">
+            <button
+              onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+              className="inline-flex items-center justify-center p-2 rounded-md text-gray-700 hover:text-green-600 hover:bg-gray-100 transition-all duration-300"
+            >
+              {mobileMenuOpen ? (
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              ) : (
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+                </svg>
+              )}
+            </button>
+          </div>
+        </div>
+
+        {/* Mobile Accordion Menu */}
+        {mobileMenuOpen && (
+          <div className="md:hidden mt-2 p-2 bg-white rounded-xl shadow-lg">
+            {MenuLink.map((section, idx) => {
+              const isExpanded = expandedSections.includes(idx);
+              return (
+                <div key={idx} className="border-b last:border-b-0 mb-2">
+                  <button
+                    onClick={() => toggleSection(idx)}
+                    className="w-full flex justify-between items-center px-3 py-2 text-left font-semibold text-gray-800 hover:text-green-600 transition-all duration-300 rounded-lg"
+                  >
+                    <span>{section.title}</span>
+                    <span className="text-gray-500">{isExpanded ? "−" : "+"}</span>
+                  </button>
+
+                  {isExpanded && (
+                    <div className="mt-1 pl-4">
+                      {section.description && (
+                        <p className="text-sm text-gray-600 mb-1">{section.description}</p>
+                      )}
+                      <div className="flex flex-col gap-1">
+                        {section.links.map((link, linkIdx) => (
+                          <a
+                            key={linkIdx}
+                            href={link.href}
+                            className="text-sm text-gray-700 hover:text-green-600 hover:underline px-2 py-1 rounded-lg transition-all duration-200"
+                          >
+                            {link.label}
+                          </a>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                </div>
+              );
+            })}
+          </div>
+        )}
+      </div>
+    </nav>
+  );
+};
+
+
+>>>>>>> Santhiya
 export default NavigationMenu;

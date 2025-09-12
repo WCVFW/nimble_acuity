@@ -15,7 +15,11 @@ const SmallBusinessAccountingServices = () => {
       </p>
       <p className="mb-4 text-gray-700">
         Meticulous accounting is an integral part of running a successful business. Small business
+<<<<<<< HEAD
         owners often face budget constraints and may be hesitant to outsource due to data security
+=======
+        owners often face budget constraints and may be hesitant to Nimble due to data security
+>>>>>>> Santhiya
         concerns. With over 26 years of experience, we understand your unique needs and challenges.
       </p>
       <p className="mb-6 text-gray-700">

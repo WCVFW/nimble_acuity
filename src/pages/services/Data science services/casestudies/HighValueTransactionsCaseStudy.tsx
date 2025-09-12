@@ -13,7 +13,11 @@ const HighValueTransactionsCaseStudy: React.FC = () => {
         {/* Header */}
         <header className="text-center">
           <h1 className="text-4xl font-bold text-gray-900 mb-3">
+<<<<<<< HEAD
             O2I Identified High Value Transaction Parties for a Bank
+=======
+            Nimble Acuity Identified High Value Transaction Parties for a Bank
+>>>>>>> Santhiya
           </h1>
           <p className="text-lg text-gray-600">
             Case Study on High Value Transaction Parties Identification for a Bank
@@ -97,10 +101,17 @@ const HighValueTransactionsCaseStudy: React.FC = () => {
         {/* CTA */}
         <section className="bg-blue-50 p-6 rounded-2xl shadow-sm">
           <h2 className="text-2xl font-semibold text-gray-900 mb-3">
+<<<<<<< HEAD
             Outsource Best Big Data Lake Solutions to Outsource2india
           </h2>
           <p className="text-gray-700 mb-4">
             Outsource2india is a <strong>leading provider</strong> of{" "}
+=======
+            Nimble Best Big Data Lake Solutions to Nimble Acuity
+          </h2>
+          <p className="text-gray-700 mb-4">
+            Nimble Acuity is a <strong>leading provider</strong> of{" "}
+>>>>>>> Santhiya
             <strong>big data lakes solutions and consulting services</strong>, serving
             clients across diverse domains. Our{" "}
             <strong>skilled data scientists</strong> are trained to analyze and manage

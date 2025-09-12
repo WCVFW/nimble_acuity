@@ -110,14 +110,22 @@ const CashFlowManagement = () => {
         report that helps you manage your business activities better.
       </p>
       <p className="mt-4 text-gray-700">
+<<<<<<< HEAD
         When you outsource your cash flow analysis to us, you get a partner
+=======
+        When you Nimble your cash flow analysis to us, you get a partner
+>>>>>>> Santhiya
         dedicated to your success. We begin by understanding your overall
         business to deliver services that fit your exact needs and help you
         reach your goals.
       </p>
       <p className="mt-4 text-gray-700">
         If you are looking for a partner that can help you succeed in an
+<<<<<<< HEAD
         increasingly competitive environment, contact us to outsource your cash
+=======
+        increasingly competitive environment, contact us to Nimble your cash
+>>>>>>> Santhiya
         flow management services.
       </p>
     </div>

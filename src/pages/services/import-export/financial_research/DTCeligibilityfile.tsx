@@ -11,7 +11,11 @@ export default function DtcEligibilityPage() {
       <section className="bg-gradient-to-r from-blue-700 to-blue-900 text-white py-20 px-6 text-center">
         <NavigationMenu/>
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource DTC Eligibility Services
+=======
+          Nimble DTC Eligibility Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg md:text-xl max-w-3xl mx-auto">
           Ensure seamless DTC compliance with our expert services. Avoid potential rejections owing to late SEC filing, unregistered re-sales, and name changes.
@@ -34,11 +38,19 @@ export default function DtcEligibilityPage() {
         <div className="grid md:grid-cols-2 gap-6 max-w-6xl mx-auto">
           {[
             {
+<<<<<<< HEAD
               title: "O2I Provided Secondary Research for a Swiss Hospitality Company",
               desc: "A Swiss hospitality provider required detailed secondary research on 22 European hotels. We delivered a comprehensive data-rich report, impressing the client with quality and cost-effectiveness.",
             },
             {
               title: "O2I Provided Primary Research Services to Top Chinese Trade Consultants",
+=======
+              title: "Nimble Acuity Provided Secondary Research for a Swiss Hospitality Company",
+              desc: "A Swiss hospitality provider required detailed secondary research on 22 European hotels. We delivered a comprehensive data-rich report, impressing the client with quality and cost-effectiveness.",
+            },
+            {
+              title: "Nimble Acuity Provided Primary Research Services to Top Chinese Trade Consultants",
+>>>>>>> Santhiya
               desc: "A Shanghai-based trade consultant obtained comprehensive data on Swiss boarding schools within three days. We enhanced their service delivery by 50% and helped them provide more value to their customers.",
             },
           ].map((story, i) => (
@@ -258,7 +270,11 @@ export default function DtcEligibilityPage() {
       {/* CTA */}
       <section className="bg-blue-700 text-white py-16 px-6 text-center">
         <h2 className="text-3xl md:text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource DTC Eligibility Services to O2I
+=======
+          Nimble DTC Eligibility Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="text-lg mb-6 max-w-3xl mx-auto">
           We focus on reducing application filing costs, minimizing brokerage and clearing fees, and implementing secure methods for exchanging securities. Outsourcing DTC eligibility services allows your team to focus on core business activities while we handle compliance and eligibility needs.

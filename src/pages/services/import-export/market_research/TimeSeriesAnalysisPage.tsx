@@ -15,7 +15,11 @@ export default function TimeSeriesAnalysisPage() {
           animate={{ opacity: 1, y: 0 }}
           className="text-4xl font-bold mb-4"
         >
+<<<<<<< HEAD
           Outsource Time Series Analysis Services
+=======
+          Nimble Time Series Analysis Services
+>>>>>>> Santhiya
         </motion.h1>
         <p className="max-w-3xl mx-auto text-lg">
           We monitor and analyze key business metrics to predict future trends, sales, and revenue. Solutions start at just{" "}
@@ -116,7 +120,11 @@ export default function TimeSeriesAnalysisPage() {
 
       {/* Why Choose Us Section */}
       <section className="py-16 px-6 max-w-6xl mx-auto">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold text-center mb-12">Why Choose O2I?</h2>
+=======
+        <h2 className="text-3xl font-bold text-center mb-12">Why Choose Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-3 gap-6">
           {[
             { icon: Award, title: "Certified Experts", desc: "Instant access to certified data analysts with decades of experience." },
@@ -138,7 +146,11 @@ export default function TimeSeriesAnalysisPage() {
 
       {/* CTA Section */}
       <section className="bg-indigo-700 text-white text-center py-16 px-6">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold mb-4">Outsource Time Series Analysis Services to O2I</h2>
+=======
+        <h2 className="text-3xl font-bold mb-4">Nimble Time Series Analysis Services to Nimble Acuity</h2>
+>>>>>>> Santhiya
         <p className="max-w-3xl mx-auto mb-6">
           With 26+ years of experience, we help businesses predict trends, optimize strategies, and achieve growth using big data and AI-powered analytics.
         </p>

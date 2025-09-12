@@ -8,11 +8,19 @@ const CollectionsAnalytics: React.FC = () => {
       <DSMainMenu/>
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Collections Analytics Services
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Maximize collections decisions, reduce delinquencies, and improve cash
           flow with Outsource2india’s advanced collections analytics services.
+=======
+          Nimble Collections Analytics Services
+        </h1>
+        <p className="max-w-3xl mx-auto text-lg">
+          Maximize collections decisions, reduce delinquencies, and improve cash
+          flow with Nimble Acuity’s advanced collections analytics services.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -21,7 +29,11 @@ const CollectionsAnalytics: React.FC = () => {
         <p>
           It is very important for companies dealing with risk behaviors,
           delinquencies, investments, and collections to thoroughly assess
+<<<<<<< HEAD
           potential borrowers. Outsource2india provides best-in-class
+=======
+          potential borrowers. Nimble Acuity provides best-in-class
+>>>>>>> Santhiya
           collections analytics services to help lenders make smarter, data-driven
           decisions.
         </p>
@@ -36,7 +48,11 @@ const CollectionsAnalytics: React.FC = () => {
       {/* Services We Offer */}
       <section className="py-12 px-6 bg-gray-50">
         <h2 className="text-3xl font-semibold text-center mb-10">
+<<<<<<< HEAD
           Outsource2india's Collections Analytics Services
+=======
+          Nimble Acuity's Collections Analytics Services
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
           {[
@@ -123,10 +139,17 @@ const CollectionsAnalytics: React.FC = () => {
       {/* CTA Section */}
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Collections Analytics Services to Us
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           For 26+ years, Outsource2india has delivered world-class collections
+=======
+          Nimble Collections Analytics Services to Us
+        </h2>
+        <p className="max-w-3xl mx-auto mb-6">
+          For 26+ years, Nimble Acuity has delivered world-class collections
+>>>>>>> Santhiya
           analytics services to global clients. Our solutions improve customer
           collections, reduce bad debts, and save costs by eliminating the need
           for in-house analytics teams.

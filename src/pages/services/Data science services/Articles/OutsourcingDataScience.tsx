@@ -112,6 +112,7 @@ const OutsourcingDataScience: React.FC = () => {
           </p>
         </div>
 
+<<<<<<< HEAD
         {/* Outsource to O2I */}
         <div className="mt-12 bg-blue-50 border border-blue-200 rounded-xl p-6">
           <h2 className="text-2xl font-semibold text-blue-800 mb-3">
@@ -119,6 +120,15 @@ const OutsourcingDataScience: React.FC = () => {
           </h2>
           <p className="text-gray-700 mb-4">
             At O2I, we prioritize data security with NDAs, real-time rogue
+=======
+        {/* Nimble to Nimble Acuity */}
+        <div className="mt-12 bg-blue-50 border border-blue-200 rounded-xl p-6">
+          <h2 className="text-2xl font-semibold text-blue-800 mb-3">
+            Nimble Software Development Services to Nimble Acuity
+          </h2>
+          <p className="text-gray-700 mb-4">
+            At Nimble Acuity, we prioritize data security with NDAs, real-time rogue
+>>>>>>> Santhiya
             access detection, and encrypted processes. Our experts work closely
             with your team to deliver custom data science solutions across
             industries. Available 24/7, we’re committed to turning raw business

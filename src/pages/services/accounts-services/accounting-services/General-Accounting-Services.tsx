@@ -77,7 +77,11 @@ const GeneralAccountingServices = () => {
             },
             {
               title: "Cost-Effective Solutions",
+<<<<<<< HEAD
               desc: "Outsource general accounting services at affordable rates without compromising quality.",
+=======
+              desc: "Nimble general accounting services at affordable rates without compromising quality.",
+>>>>>>> Santhiya
             },
             {
               title: "Accurate Record-Keeping",

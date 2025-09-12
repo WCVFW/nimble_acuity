@@ -114,7 +114,11 @@ const LeadScoringServices: React.FC = () => {
         <DSMainMenu/>
         <div className="text-center mb-12">
           <h1 className="text-3xl font-bold text-gray-900">
+<<<<<<< HEAD
             Outsource Lead Scoring Services
+=======
+            Nimble Lead Scoring Services
+>>>>>>> Santhiya
           </h1>
           <p className="mt-4 text-lg text-gray-600 max-w-3xl mx-auto">
             Attract, nurture, and close deals faster with AI-powered lead scoring

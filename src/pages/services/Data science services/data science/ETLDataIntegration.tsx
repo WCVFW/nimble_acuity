@@ -10,7 +10,11 @@ const ETLDataIntegration: React.FC = () => {
       <DSMainMenu/>
       <section className="max-w-5xl mx-auto text-center mb-16">
         <h1 className="text-4xl font-bold text-gray-900 mb-4">
+<<<<<<< HEAD
           Outsource ETL Data Integration Services
+=======
+          Nimble ETL Data Integration Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600">
           Let us offer our ETL assistance to create records for consistent accuracy via 
@@ -106,7 +110,11 @@ const ETLDataIntegration: React.FC = () => {
       {/* Why Choose Us */}
       <section className="max-w-6xl mx-auto mb-16">
         <h2 className="text-2xl font-semibold mb-6 text-gray-800">
+<<<<<<< HEAD
           Why Outsource ETL Services to O2I?
+=======
+          Why Nimble ETL Services to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {[
@@ -161,11 +169,19 @@ const ETLDataIntegration: React.FC = () => {
       {/* CTA */}
       <section className="max-w-4xl mx-auto text-center bg-blue-600 text-white p-10 rounded-2xl shadow-lg">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource ETL Data Integration Services Today
         </h2>
         <p className="mb-6">
           Get robust ETL solutions that ensure quality, timeliness, and efficiency. 
           Partner with O2I for scalable, secure, and cost-effective ETL integration.
+=======
+          Nimble ETL Data Integration Services Today
+        </h2>
+        <p className="mb-6">
+          Get robust ETL solutions that ensure quality, timeliness, and efficiency. 
+          Partner with Nimble Acuity for scalable, secure, and cost-effective ETL integration.
+>>>>>>> Santhiya
         </p>
         <a
           href="/contact"

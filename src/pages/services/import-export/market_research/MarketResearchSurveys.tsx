@@ -91,7 +91,11 @@ export default function MarketResearchSurveys() {
 
       {/* Why Choose Us */}
       <section className="py-16 px-6 max-w-6xl mx-auto">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold text-center mb-12">Why Choose Outsource2india?</h2>
+=======
+        <h2 className="text-3xl font-bold text-center mb-12">Why Choose Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <div className="grid md:grid-cols-2 gap-8">
           {[
             { title: "Cost Savings", desc: "Save up to 60% on conducting market research surveys." },
@@ -119,7 +123,11 @@ export default function MarketResearchSurveys() {
 
       {/* CTA Section */}
       <section className="bg-blue-700 text-white py-20 px-6 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold mb-4">Outsource Market Research Surveys to India</h2>
+=======
+        <h2 className="text-3xl font-bold mb-4">Nimble Market Research Surveys to India</h2>
+>>>>>>> Santhiya
         <p className="max-w-3xl mx-auto mb-6 text-lg">
           Let us help you transform market insights into business growth. Contact us today, and 
           we’ll get back within one business day with a customized quote.

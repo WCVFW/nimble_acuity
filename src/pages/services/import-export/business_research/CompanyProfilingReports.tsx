@@ -16,7 +16,11 @@ export default function CompanyProfilingReports() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
+<<<<<<< HEAD
           Outsource Company Profiling and Industry Reports Services
+=======
+          Nimble Company Profiling and Industry Reports Services
+>>>>>>> Santhiya
         </motion.h1>
         <motion.p
           className="max-w-3xl mx-auto text-lg md:text-xl mb-8"
@@ -25,7 +29,11 @@ export default function CompanyProfilingReports() {
           transition={{ delay: 0.3, duration: 0.8 }}
         >
           Gain powerful insights into your enterprise, customers, competitors,
+<<<<<<< HEAD
           and market position with Outsource2india’s expert company profiling
+=======
+          and market position with Nimble Acuity’s expert company profiling
+>>>>>>> Santhiya
           and industry report services.
         </motion.p>
         <Button size="lg" variant="secondary">
@@ -37,7 +45,11 @@ export default function CompanyProfilingReports() {
       <section className="py-16 px-6 max-w-6xl mx-auto">
         <h2 className="text-2xl font-semibold mb-4">Your Proficient Research Partner</h2>
         <p className="text-lg leading-relaxed mb-6">
+<<<<<<< HEAD
           Outsource2india works as a proficient research partner to help you
+=======
+          Nimble Acuity works as a proficient research partner to help you
+>>>>>>> Santhiya
           gauge enterprise strength while providing critical insights on
           customers, competition, market positioning, and business credibility.
           With two decades of expertise, we deliver advanced company profiling
@@ -118,7 +130,11 @@ export default function CompanyProfilingReports() {
       {/* Why Choose Us */}
       <section className="py-16 px-6 bg-white max-w-6xl mx-auto">
         <h2 className="text-3xl font-bold text-center mb-10">
+<<<<<<< HEAD
           Why Choose Outsource2india?
+=======
+          Why Choose Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <ul className="space-y-4 max-w-4xl mx-auto text-lg">
           <li>✅ Insights to promote your brand and generate leads cost-effectively</li>
@@ -159,7 +175,11 @@ export default function CompanyProfilingReports() {
       {/* Final CTA */}
       <section className="py-20 px-6 bg-gradient-to-r from-blue-600 to-indigo-700 text-white text-center">
         <h2 className="text-3xl md:text-4xl font-bold mb-6">
+<<<<<<< HEAD
           Outsource Company Profiling & Industry Reports to Us
+=======
+          Nimble Company Profiling & Industry Reports to Us
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto text-lg mb-8">
           With skilled analysts and multiple delivery centers, we provide

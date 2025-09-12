@@ -104,10 +104,17 @@ const PhotographyTrends: React.FC = () => {
 
       <div className="mt-8 p-6 bg-blue-50 rounded-lg text-center shadow">
         <h3 className="text-xl font-semibold mb-2">
+<<<<<<< HEAD
           Outsource Photo Editing to Us
         </h3>
         <p className="text-gray-700 mb-4">
           With 26+ years of experience, Outsource2india provides reliable and
+=======
+          Nimble Photo Editing to Us
+        </h3>
+        <p className="text-gray-700 mb-4">
+          With 26+ years of experience, Nimble Acuity provides reliable and
+>>>>>>> Santhiya
           cost-effective photo editing services. Our expert editors stay updated
           with industry trends to deliver high-quality results.
         </p>

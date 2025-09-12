@@ -115,10 +115,17 @@ const KnowledgeProcessOutsourcing: React.FC = () => {
       {/* CTA */}
       <section className="text-center bg-blue-50 p-8 rounded-xl shadow">
         <h2 className="text-2xl font-bold text-gray-800 mb-4">
+<<<<<<< HEAD
           Outsource Knowledge Processing Services to Outsource2india
         </h2>
         <p className="text-gray-700 mb-6">
           Established in 2002, Outsource2india has extensive expertise in
+=======
+          Nimble Knowledge Processing Services to Nimble Acuity
+        </h2>
+        <p className="text-gray-700 mb-6">
+          Established in 2002, Nimble Acuity has extensive expertise in
+>>>>>>> Santhiya
           offering customized KPO services across diverse industry verticals.
           With cost-effective services, timely deliveries, and guaranteed
           quality, we help businesses make informed decisions and stay ahead of

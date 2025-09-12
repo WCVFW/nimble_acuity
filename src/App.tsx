@@ -99,7 +99,11 @@ import SellSideResearch from "./pages/services/import-export/financial_research/
 import FixedIncomeResearch from "./pages/services/import-export/financial_research/FixedIncomeResearch";
 import InvestmentBankingSupport from "./pages/services/import-export/financial_research/InvestmentBankingSupport";
 import CreditResearchServices from "./pages/services/import-export/financial_research/CreditResearchServices";
+<<<<<<< HEAD
 // import InvestmentMemorandumServices from "./InvestmentMemorandumServices";
+=======
+import InvestmentMemorandumServices from "./pages/services/import-export/financial_research/InvestmentMemorandumServices";
+>>>>>>> Santhiya
 import EquityResearchServices from "./pages/services/import-export/financial_research/EquityResearchServices";
 import FinancialResearchAnalysisServices from "./pages/services/import-export/financial_research/FinancialResearchAnalysisServices";
 import FinancialModelingServices from "./pages/services/import-export/financial_research/FinancialModelingServices";
@@ -446,7 +450,11 @@ import InsuranceSoftwareDevelopment from "./pages/services/Insurance BPO service
 import InsuranceAnalyticsServices from "./pages/services/Insurance BPO services/Insurance bank office support/InsuranceAnalyticsServices";
 import QQCatalystManagement from "./pages/services/Insurance BPO services/Insurance bank office support/QQCatalystManagement";
 import InsuranceOperationsServices from "./pages/services/Insurance BPO services/Insurance bank office support/InsuranceOperationsServices";
+<<<<<<< HEAD
 import OutsourceInsuranceServices from "./pages/services/Insurance BPO services/Articles/OutsourceInsuranceServices";
+=======
+// import NimbleInsuranceServices from "./pages/services/Insurance BPO services/Articles/NimbleInsuranceServices";
+>>>>>>> Santhiya
 import InsuranceClaimsArticle from "./pages/services/Insurance BPO services/Articles/InsuranceClaimsArticle";
 import InsuranceDataAnalyticsArticle from "./pages/services/Insurance BPO services/Articles/InsuranceDataAnalyticsArticle";
 import USDotEFilingArticle from "./pages/services/Insurance BPO services/Articles/USDotEFilingArticle";
@@ -459,7 +467,228 @@ import PolicyCheckingNYCaseStudy from "./pages/services/Insurance BPO services/C
 import HealthInsuranceBackOfficeCaseStudy from "./pages/services/Insurance BPO services/Case studies/HealthInsuranceBackOfficeCaseStudy";
 import MiamiInsuranceBackOfficeCaseStudy from "./pages/services/Insurance BPO services/Case studies/MiamiInsuranceBackOfficeCaseStudy";
 import InsuranceAccountsCaseStudy from "./pages/services/Insurance BPO services/Case studies/InsuranceAccountsCaseStudy";
+<<<<<<< HEAD
 import InvestmentMemorandumServices from "./InvestmentMemorandumServices";
+=======
+import DataAnnotationServices from "./pages/services/DataServices/Dataentry/DataAnnotationServices";
+import DigitalAssetManagement from "./pages/services/DataServices/Dataentry/DigitalAssetManagement";
+import RealEstateDataManagement from "./pages/services/DataServices/Dataentry/RealEstateDataManagement";
+import EmailAppendingServices from "./pages/services/DataServices/Dataentry/EmailAppendingServices";
+import OnlineDataEntryServices from "./pages/services/DataServices/Dataentry/OnlineDataEntryServices";
+import OfflineDataEntryServices from "./pages/services/DataServices/Dataentry/OfflineDataEntryServices";
+import DirectoryServices from "./pages/services/DataServices/Dataentry/DirectoryServices";
+import RealEstateAppraisalDataEntry from "./pages/services/DataServices/Dataentry/RealEstateAppraisalDataEntry";
+import GeotaggingDataEntry from "./pages/services/DataServices/Dataentry/GeotaggingDataEntry";
+import BusinessCardDataEntry from "./pages/services/DataServices/Dataentry/BusinessCardDataEntry";
+import FoodNutritionDataEntry from "./pages/services/DataServices/Dataentry/FoodNutritionDataEntry";
+import ImageDataEntry from "./pages/services/DataServices/Dataentry/ImageDataEntry";
+import EbookDataEntry from "./pages/services/DataServices/Dataentry/EbookDataEntry";
+import DocumentDataEntry from "./pages/services/DataServices/Dataentry/DocumentDataEntry";
+import DocumentImaging from "./pages/services/DataServices/Dataentry/DocumentImaging";
+import DataExtractionServices from "./pages/services/DataServices/Dataentry/DataExtractionServices";
+import DocumentManagementServices from "./pages/services/DataServices/Dataentry/DocumentManagementServices";
+import EncyclopediaDataEntry from "./pages/services/DataServices/Dataentry/EncyclopediaDataEntry";
+import CopyPasteServices from "./pages/services/DataServices/Dataentry/CopyPasteServices";
+import OffshoreDataEntryServices from "./pages/services/DataServices/Dataentry/OffshoreDataEntryServices";
+import CatalogDataEntryServices from "./pages/services/DataServices/Dataentry/CatalogDataEntryServices";
+import MailingListDataEntry from "./pages/services/DataServices/Dataentry/MailingListDataEntry";
+import CompanyReportsDataEntry from "./pages/services/DataServices/Dataentry/CompanyReportsDataEntry";
+import QuestionnairesDataEntry from "./pages/services/DataServices/Dataentry/QuestionnairesDataEntry";
+import SurveyDataEntry from "./pages/services/DataServices/Dataentry/SurveyDataEntry";
+import InvoiceDataEntry from "./pages/services/DataServices/Dataentry/InvoiceDataEntry";
+import InternetDataInput from "./pages/services/DataServices/Dataentry/InternetDataInput";
+import DatabaseDataEntry from "./pages/services/DataServices/Dataentry/DatabaseDataEntry";
+import RestaurantMenuDataEntry from "./pages/services/DataServices/Dataentry/RestaurantMenuDataEntry";
+import ProductRegistrationDataEntry from "./pages/services/DataServices/Dataentry/ProductRegistrationDataEntry";
+import InsuranceClaimsDataEntry from "./pages/services/DataServices/Dataentry/InsuranceClaimsDataEntry";
+import EnrollmentFormsDataEntry from "./pages/services/DataServices/Dataentry/EnrollmentFormsDataEntry";
+import TextNumericDataEntry from "./pages/services/DataServices/Dataentry/TextNumericDataEntry";
+import ClassifiedsDataEntry from "./pages/services/DataServices/Dataentry/ClassifiedsDataEntry";
+import LegalDocumentsDataEntry from "./pages/services/DataServices/Dataentry/LegalDocumentsDataEntry";
+import HandwrittenDocumentsDataEntry from "./pages/services/DataServices/Dataentry/HandwrittenDocumentsDataEntry";
+import MysqlDatabaseDataEntry from "./pages/services/DataServices/Dataentry/MysqlDatabaseDataEntry";
+import TelephoneDirectoryDataEntry from "./pages/services/DataServices/Dataentry/TelephoneDirectoryDataEntry";
+import WebsiteDataEntry from "./pages/services/DataServices/Dataentry/WebsiteDataEntry";
+import TranslingualDataEntry from "./pages/services/DataServices/Dataentry/TranslingualDataEntry";
+import MultilingualInvoiceDataEntry from "./pages/services/DataServices/Dataentry/MultilingualInvoiceDataEntry";
+import BiologicalSpeciesDatabase from "./pages/services/DataServices/Dataentry/BiologicalSpeciesDatabase";
+import QuickBooksDataEntry from "./pages/services/DataServices/Dataentry/QuickBooksDataEntry";
+import CRMDataEntry from "./pages/services/DataServices/Dataentry/CRMDataEntry";
+import DigitalTransactionProcessing from "./pages/services/DataServices/Dataentry/DigitalTransactionProcessing";
+import SurveyFormsProcessing from "./pages/services/DataServices/Dataentry/SurveyFormsProcessing";
+import CRMDatabaseManagement from "./pages/services/DataServices/Dataentry/CRMDatabaseManagement";
+import ERPDataEntry from "./pages/services/DataServices/Dataentry/ERPDataEntry";
+import SkuDataEntryPage from "./pages/services/DataServices/Dataentry/SkuDataEntryPage";
+import DataLicensingPage from "./pages/services/DataServices/Dataentry/DataLicensingPage";
+import HealthcareDataMining from "./pages/services/DataServices/Dataentry/HealthcareDataMining";
+import RemoteDataEntry from "./pages/services/DataServices/Dataentry/RemoteDataEntry";
+import AddressManagement from "./pages/services/DataServices/Dataentry/AddressManagement";
+import CRMDataMining from "./pages/services/DataServices/Dataentry/CRMDataMining";
+import BankingDataEntry from "./pages/services/DataServices/Dataentry/BankingDataEntry";
+import ImageSearchServices from "./pages/services/DataServices/Dataentry/ImageSearchServices";
+import TypingServices from "./pages/services/DataServices/Dataentry/TypingServices";
+import MedicalImageAnnotation from "./pages/services/DataServices/Dataentry/MedicalImageAnnotation";
+import DataIndexingServices from "./pages/services/DataServices/Dataentry/DataIndexingServices";
+import BookIndexingServices from "./pages/services/DataServices/Dataentry/BookIndexingServices";
+import DataValidationServices from "./pages/services/DataServices/Dataentry/DataValidationServices";
+import DataMaskingServices from "./pages/services/DataServices/Dataentry/DataMaskingServices";
+import DataProfilingServices from "./pages/services/DataServices/Dataentry/DataProfilingServices";
+import DataLabelingServices from "./pages/services/DataServices/Dataentry/DataLabelingServices";
+import DataAppendingServices from "./pages/services/DataServices/Dataentry/DataAppendingServices";
+import DataEnrichmentServices from "./pages/services/DataServices/Dataentry/DataEnrichmentServices";
+import JATSXMLConversionServices from "./pages/services/DataServices/Dataconversion/JATSXMLConversionServices";
+import DocumentConversionServices from "./pages/services/DataServices/Dataconversion/DocumentConversionServices";
+import FileConversionServices from "./pages/services/DataServices/Dataconversion/FileConversionServices";
+import EPub3ConversionServices from "./pages/services/DataServices/Dataconversion/EPub3ConversionServices";
+import XMLConversionServices from "./pages/services/DataServices/Dataconversion/XMLConversionServices";
+import PDFConversionServices from "./pages/services/DataServices/Dataconversion/PDFConversionServices";
+import BookConversionServices from "./pages/services/DataServices/Dataconversion/BookConversionServices";
+import HTMLConversionServices from "./pages/services/DataServices/Dataconversion/HTMLConversionServices";
+import SGMLConversionServices from "./pages/services/DataServices/Dataconversion/SGMLConversionServices";
+import EDMServices from "./pages/services/DataServices/Dataconversion/EDMServices";
+import DocumentFormattingServices from "./pages/services/DataServices/Dataconversion/DocumentFormattingServices";
+import XBRLConversionServices from "./pages/services/DataServices/Dataconversion/XBRLConversionServices";
+import PubMedConversion from "./pages/services/DataServices/Dataconversion/PubMedConversion";
+import DTBookConversion from "./pages/services/DataServices/Dataconversion/DTBookConversion";
+import PSDtoHTMLConversion from "./pages/services/DataServices/Dataconversion/PSDtoHTMLConversion";
+import FigmaToHtmlConversion from "./pages/services/DataServices/Dataconversion/FigmaToHtmlConversion";
+import HtmlToResponsiveConversion from "./pages/services/DataServices/Dataconversion/HtmlToResponsiveConversion";
+import AdobeXDToHTML from "./pages/services/DataServices/Dataconversion/AdobeXDToHTML";
+import HtmlToWordPressPage from "./pages/services/DataServices/Dataconversion/HtmlToWordPressPage";
+import SketchHtmlServices from "./pages/services/DataServices/Dataconversion/SketchHtmlServices";
+import ZeplinToHtml from "./pages/services/DataServices/Dataconversion/ZeplinToHtml";
+import PdfAccessibility from "./pages/services/DataServices/Dataconversion/PdfAccessibility";
+import NimbleInsuranceServices from "./pages/services/Insurance BPO services/Articles/NimbleInsuranceServices";
+import EpubConversionPage from "./pages/services/DataServices/ebook conversion/EpubConversionPage";
+import ePubServicesPage from "./pages/services/DataServices/ebook conversion/ePubServicesPage";
+import EPubServicesPage from "./pages/services/DataServices/ebook conversion/ePubServicesPage";
+import KindleConversionPage from "./pages/services/DataServices/ebook conversion/KindleConversionPage";
+import IPadIPhoneConversionPage from "./pages/services/DataServices/ebook conversion/IPadIPhoneConversionPage";
+import ComprehensiveDigitalServices from "./pages/services/DataServices/ebook conversion/ComprehensiveDigitalServices";
+import ReflowableEbookServices from "./pages/services/DataServices/ebook conversion/ReflowableEbookServices";
+import FixedLayoutPageContent from "./pages/services/DataServices/ebook conversion/FixedLayoutPageContent";
+import MultilingualPageContent from "./pages/services/DataServices/ebook conversion/MultilingualPageContent";
+import EnhancedEbookPage from "./pages/services/DataServices/ebook conversion/EnhancedEbookPage";
+import WebAccessibleEbookPage from "./pages/services/DataServices/ebook conversion/WebAccessibleEbookPage";
+import InteractiveEbookPage from "./pages/services/DataServices/ebook conversion/InteractiveEbookPage";
+import DocBookXMLPage from "./pages/services/DataServices/ebook conversion/DocBookXMLPage";
+import PropertyManagementPage from "./pages/services/DataServices/PropertyManagementPage";
+import MetadataTaggingPage from "./pages/services/DataServices/Dataprocessing/MetadataTaggingPage";
+import DataTransformationPage from "./pages/services/DataServices/Dataprocessing/DataTransformationPage";
+import MasterDataManagementPage from "./pages/services/DataServices/Dataprocessing/MasterDataManagementPage";
+import SemanticImageSegmentation from "./pages/services/DataServices/Dataprocessing/SemanticImageSegmentation";
+import MetadataManagement from "./pages/services/DataServices/Dataprocessing/MetadataManagement";
+import DataHarmonization from "./pages/services/DataServices/Dataprocessing/DataHarmonization";
+import DataStandardization from "./pages/services/DataServices/Dataprocessing/DataStandardization";
+import MergePurgeServices from "./pages/services/DataServices/Dataprocessing/MergePurgeServices";
+import FormsProcessingServices from "./pages/services/DataServices/Dataprocessing/FormsProcessingServices";
+import OrderProcessingServices from "./pages/services/DataServices/Dataprocessing/OrderProcessingServices";
+import ImageProcessing from "./pages/services/DataServices/Dataprocessing/ImageProcessing";
+import DataCleansing from "./pages/services/DataServices/Dataprocessing/DataCleansing";
+import InsuranceClaimsProcessing from "./pages/services/DataServices/Dataprocessing/InsuranceClaimsProcessing";
+import MarketResearchFormsProcessing from "./pages/services/DataServices/Dataprocessing/MarketResearchFormsProcessing";
+import CheckProcessing from "./pages/services/DataServices/Dataprocessing/CheckProcessing";
+import CreditCardProcessing from "./pages/services/DataServices/Dataprocessing/CreditCardProcessing";
+import TransactionProcessing from "./pages/services/DataServices/Dataprocessing/TransactionProcessing";
+import SurveyProcessing from "./pages/services/DataServices/Dataprocessing/SurveyProcessing";
+import DataDeduplication from "./pages/services/DataServices/Dataprocessing/DataDeduplication";
+import MailingListCompilation from "./pages/services/DataServices/Dataprocessing/MailingListCompilation";
+import DatabaseCreationServices from "./pages/services/DataServices/Dataprocessing/DatabaseCreationServices";
+import DataAbstractionServices from "./pages/services/DataServices/Dataprocessing/DataAbstractionServices";
+import DataMiningServices from "./pages/services/DataServices/Dataprocessing/DataMiningServices";
+import TextWebDataMining from "./pages/services/DataServices/Dataprocessing/TextWebDataMining";
+import StudentLoanProcessing from "./pages/services/DataServices/Dataprocessing/StudentLoanProcessing";
+import TaggingAnnotationServices from "./pages/services/DataServices/Dataprocessing/TaggingAnnotationServices";
+import ImageAnnotationServices from "./pages/services/DataServices/Dataprocessing/ImageAnnotationServices";
+import HumanGestureAnnotation from "./pages/services/DataServices/Dataprocessing/HumanGestureAnnotation";
+import BoundingBoxServices from "./pages/services/DataServices/Dataprocessing/BoundingBoxServices";
+import PurchaseOrderProcessing from "./pages/services/DataServices/Dataprocessing/PurchaseOrderProcessing";
+import SKUDataManagement from "./pages/services/DataServices/Dataprocessing/SKUDataManagement";
+import ProductInformationManagement from "./pages/services/DataServices/Dataprocessing/ProductInformationManagement";
+import DataPreparationServices from "./pages/services/DataServices/Dataprocessing/DataPreparationServices";
+import VideoAnnotationServices from "./pages/services/DataServices/Dataprocessing/VideoAnnotationServices";
+import CrmDataCleansingServices from "./pages/services/DataServices/Dataprocessing/CrmDataCleansingServices";
+import DataConsolidationServices from "./pages/services/DataServices/Dataprocessing/DataConsolidationServices";
+import DataProvisioningServices from "./pages/services/DataServices/Dataprocessing/DataProvisioningServices";
+import DataMonitoringServices from "./pages/services/DataServices/Dataprocessing/DataMonitoringServices";
+import DataCollectionServices from "./pages/services/DataServices/Dataprocessing/DataCollectionServices";
+import DataLifecycleManagementServices from "./pages/services/DataServices/Dataprocessing/DataLifecycleManagementServices";
+import DMSServices from "./pages/services/DataServices/Dataprocessing/DMSServices";
+import DataVerification from "./pages/services/DataServices/Dataprocessing/DataVerification";
+import DataScrubbing from "./pages/services/DataServices/Dataprocessing/DataScrubbing";
+import DocumentIndexing from "./pages/services/DataServices/Dataprocessing/DocumentIndexing";
+import DocumentScanning from "./pages/services/DataServices/Dataprocessing/DocumentScanning";
+import DPOPage from "./pages/services/DataServices/Datamanagement/DPOPage";
+import RecordsManagementPage from "./pages/services/DataServices/Datamanagement/RecordsManagementPage";
+import EcommerceTaxonomyPage from "./pages/services/DataServices/Datamanagement/EcommerceTaxonomyPage";
+import CloudDataManagementPage from "./pages/services/DataServices/Datamanagement/CloudDataManagementPage";
+import SportsDataTaggingServices from "./pages/services/DataServices/Datamanagement/SportsDataTaggingServices";
+import SportsDataTagging from "./pages/services/DataServices/Datamanagement/SportsDataTaggingServices";
+import DataFormattingServices from "./pages/services/DataServices/Datamanagement/DataFormattingServices";
+import EcommerceProductDataClassification from "./pages/services/DataServices/Datamanagement/EcommerceProductDataClassification";
+import MagentoDataEntryServices from "./pages/services/DataServices/Datamanagement/MagentoDataEntryServices";
+import EcommerceDataCleansing from "./pages/services/DataServices/Datamanagement/EcommerceDataCleansing";
+import DataProtectionConsulting from "./pages/services/DataServices/Datamanagement/DataProtectionConsulting";
+import DataGovernanceServices from "./pages/services/DataServices/Datamanagement/DataGovernanceServices";
+import DataVirtualizationServices from "./pages/services/DataServices/Datamanagement/DataVirtualizationServices";
+import FinancialDataProcessingServices from "./pages/services/DataServices/Datamanagement/FinancialDataProcessingServices";
+import DataQualityManagementServices from "./pages/services/DataServices/Datamanagement/DataQualityManagementServices";
+import DataModernizationServices from "./pages/services/DataServices/Datamanagement/DataModernizationServices";
+import PropertyPreservationDataEntry from "./pages/services/DataServices/Datamanagement/PropertyPreservationDataEntry";
+import CatalogConversionServices from "./pages/services/DataServices/onlinecatalog/CatalogConversionServices";
+import EcommerceDataEntryServices from "./pages/services/DataServices/onlinecatalog/EcommerceDataEntryServices";
+import CatalogProcessingServices from "./pages/services/DataServices/onlinecatalog/CatalogProcessingServices";
+import ProductCatalogMaintenance from "./pages/services/DataServices/onlinecatalog/ProductCatalogMaintenance";
+import CatalogContentManagement from "./pages/services/DataServices/onlinecatalog/CatalogContentManagement";
+import CatalogBuildingIndexing from "./pages/services/DataServices/onlinecatalog/CatalogBuildingIndexing";
+import OCRCleanupServices from "./pages/services/DataServices/OCR/OCRCleanupServices";
+import DocumentDigitizationServices from "./pages/services/DataServices/OCR/DocumentDigitizationServices";
+import OCRConversionServices from "./pages/services/DataServices/OCR/OCRConversionServices";
+import ManufacturingDataEntry from "./pages/services/DataServices/Industries/ManufacturingDataEntry";
+import HealthcareDataEntry from "./pages/services/DataServices/Industries/HealthcareDataEntry";
+import ArchitecturalDataEntry from "./pages/services/DataServices/Industries/ArchitecturalDataEntry";
+import GamingDataEntry from "./pages/services/DataServices/Industries/GamingDataEntry";
+import GovernmentDataEntry from "./pages/services/DataServices/Industries/GovernmentDataEntry";
+import PublishingDataEntry from "./pages/services/DataServices/Industries/PublishingDataEntry";
+import AccountingDataEntry from "./pages/services/DataServices/Industries/AccountingDataEntry";
+import LegalDataEntry from "./pages/services/DataServices/Industries/LegalDataEntry";
+import EducationalDataEntry from "./pages/services/DataServices/Industries/EducationalDataEntry";
+import StudiosDataEntry from "./pages/services/DataServices/Industries/StudiosDataEntry";
+import AciEManifestServices from "./pages/services/DataServices/Industries/AciEManifestServices";
+import CustomsBrokerage from "./pages/services/DataServices/Articles/CustomsBrokerage";
+import DataEntryBenefits from "./pages/services/DataServices/Articles/DataEntryBenefits";
+import BigData2020 from "./pages/services/DataServices/Articles/BigData2020";
+import DataManagementMisconceptions from "./pages/services/DataServices/Articles/DataManagementMisconceptions";
+import OCRDataCapture from "./pages/services/DataServices/Articles/OCRDataCapture";
+import BigDataAnalyticsCheatSheet from "./pages/services/DataServices/Articles/BigDataAnalyticsCheatSheet";
+import DataMiningTechniques from "./pages/services/DataServices/Articles/DataMiningTechniques";
+import InvestInDataAnalytics from "./pages/services/DataServices/Articles/InvestInDataAnalytics";
+import ManualDataEntrySolutions from "./pages/services/DataServices/Articles/ManualDataEntrySolutions";
+import TopDataExtractionTools from "./pages/services/DataServices/Articles/TopDataExtractionTools";
+import ProductDataEntry from "./pages/services/DataServices/Articles/ProductDataEntry";
+import CloudDataManagement from "./pages/services/DataServices/Articles/CloudDataManagement";
+import DataMigrationBestPractices from "./pages/services/DataServices/Articles/DataMigrationBestPractices";
+import BigDataTrends from "./pages/services/DataServices/Articles/BigDataTrends";
+import RestaurantMenuDigitization from "./pages/services/DataServices/Articles/RestaurantMenuDigitization";
+import FormCreationBenefits from "./pages/services/DataServices/Articles/FormCreationBenefits";
+import DataAccuracy from "./pages/services/DataServices/Articles/DataAccuracy";
+import DataEntryClerkPage from "./pages/services/DataServices/Articles/DataEntryClerkPage";
+import DataEntryIndiaPage from "./pages/services/DataServices/Articles/DataEntryIndiaPage";
+import BetterDataManagementPage from "./pages/services/DataServices/Articles/BetterDataManagementPage";
+import DataEntryIndiaAdvantage from "./pages/services/DataServices/Articles/DataEntryIndiaAdvantage";
+import DataEntryOutsourcing from "./pages/services/DataServices/Articles/DataEntryOutsourcing";
+import DataQualitySolution from "./pages/services/DataServices/Articles/DataQualitySolution";
+import InaccurateDataSolution from "./pages/services/DataServices/Articles/InaccurateDataSolution";
+import SpreadsheetToExcel from "./pages/services/DataServices/Articles/SpreadsheetConversionPage";
+import SpreadsheetConversionPage from "./pages/services/DataServices/Articles/SpreadsheetConversionPage";
+import MicrofilmScanningPage from "./pages/services/DataServices/Articles/MicrofilmScanningPage";
+import ExhibitionDesignServices from "./pages/services/creative-design/graphic-design/ExhibitionDesignServices";
+import PowerPointDesignServices from "./pages/services/creative-design/graphic-design/PowerPointDesignServices";
+import EmbroideryServices from "./pages/services/creative-design/graphic-design/EmbroideryServices";
+import SignageDesignServices from "./pages/services/creative-design/graphic-design/SignageDesignServices";
+import CorporateDesignServices from "./pages/services/creative-design/graphic-design/CorporateDesignServices";
+import EmailDesignServices from "./pages/services/creative-design/graphic-design/EmailDesignServices";
+>>>>>>> Santhiya
 
 
 
@@ -680,7 +909,11 @@ const App = () => (
               <Route path="kpo/syndicated-research-report-services.asp" element={<SyndicatedResearchReports />} />
 
               {/* research -> articles */}
+<<<<<<< HEAD
               <Route path="kpo/financialanalysis/whyo2i.asp" element={<FinancialAnalysisPage />} />
+=======
+              <Route path="kpo/financialanalysis/whyNimble Acuity.asp" element={<FinancialAnalysisPage />} />
+>>>>>>> Santhiya
               <Route path="kpo/articles/b2b-marketing-trends-to-future-proof-your-financial-services.asp" element={<B2BFinancialServicesTrends />} />
               <Route path="kpo/articles/image-analysis-transforming-business.asp" element={<ImageAnalysisBlog />} />
               <Route path="kpo/articles/the-influence-of-technology-on-pharmaceutical-services.asp" element={<PharmaTechAdvancements />} />
@@ -699,7 +932,11 @@ const App = () => (
               <Route path="kpo/articles/logistic-regression-analysis.asp" element={<LogisticRegressionAnalysis />} />
               <Route path="kpo/articles/kpo-areas.asp" element={<ResearchServicesOutsourcing />} />
               <Route path="kpo/articles/kpo-apprehensions.asp" element={<ResearchServicesApprehensions />} />
+<<<<<<< HEAD
               <Route path="kpo/webresearch/whyo2i.asp" element={<WebBasedMarketResearch />} />
+=======
+              <Route path="kpo/webresearch/whyNimble Acuity.asp" element={<WebBasedMarketResearch />} />
+>>>>>>> Santhiya
               <Route path="kpo/desk-web-research.asp" element={<DeskAndWebResearch />} />
 
               {/* Data science -> Data Engineering */}
@@ -995,7 +1232,11 @@ const App = () => (
               <Route path="insurance/insurance-operations-services.asp" element={<InsuranceOperationsServices/>} />
 
               {/* Insurance BPO Services -> Articles*/}
+<<<<<<< HEAD
               <Route path="insurance/articles/why-outsource-insurance-services-to-professional-service-provider.asp" element={<OutsourceInsuranceServices/>} />
+=======
+              <Route path="insurance/articles/why-Nimble-insurance-services-to-professional-service-provider.asp" element={<NimbleInsuranceServices/>} />
+>>>>>>> Santhiya
               <Route path="insurance/articles/all-you-need-to-know-about-insurance-claims.asp" element={<InsuranceClaimsArticle/>} />
               <Route path="insurance/articles/6-ways-data-analytics-transforming-insurance-industry.asp" element={<InsuranceDataAnalyticsArticle/>} />
               <Route path="insurance/articles/all-you-need-to-know-about-e-filing-of-us-dot.asp" element={<USDotEFilingArticle/>} />
@@ -1011,6 +1252,253 @@ const App = () => (
               <Route path="insurance/case-studies/back-office-operations-miami-client.asp" element={<MiamiInsuranceBackOfficeCaseStudy/>} />
               <Route path="financial/case-studies/maintaining-insurance-accounts.asp" element={<InsuranceAccountsCaseStudy/>} />
 
+<<<<<<< HEAD
+=======
+
+
+              {/* Data Services -> Data entry*/}
+              <Route path="data-support/data-entry/data-annotation-services.asp" element={<DataAnnotationServices/>} />
+              <Route path="data-support/data-entry/digital-asset-management-services.asp" element={<DigitalAssetManagement/>} />
+              <Route path="data-support/data-entry/real-estate-data-management-services.asp" element={<RealEstateDataManagement/>} />
+              <Route path="data-support/data-entry/email-appending-services.asp" element={<EmailAppendingServices/>} />
+              <Route path="data-support/data-entry/online-data-entry-services.asp" element={<OnlineDataEntryServices/>} />
+              <Route path="data-support/data-entry/offline-data-entry-services.asp" element={<OfflineDataEntryServices/>} />
+              <Route path="data-support/data-entry/directory-services.asp" element={<DirectoryServices/>} />
+              <Route path="data-support/data-entry/real-estate-appraisal-data-entry-services.asp" element={<RealEstateAppraisalDataEntry/>} />
+              <Route path="data-support/data-entry/geotagging-data-entry-services.asp" element={<GeotaggingDataEntry/>} />
+              <Route path="data-support/data-entry/business-card-data-entry-services.asp" element={<BusinessCardDataEntry/>} />
+              <Route path="data-support/data-entry/food-nutrition-scale-data-entry-services.asp" element={<FoodNutritionDataEntry/>} />
+              <Route path="data-support/data-entry/image-data-entry-services.asp" element={<ImageDataEntry/>} />
+              <Route path="data-support/data-entry/ebooks-data-entry-services.asp" element={<EbookDataEntry/>} />
+              <Route path="data-support/data-entry/document-data-entry-services.asp" element={<DocumentDataEntry/>} />
+              <Route path="data-support/data-entry/document-imaging-services.asp" element={<DocumentImaging/>} />
+              <Route path="data-support/data-entry/data-extraction-services.asp" element={<DataExtractionServices/>} />
+              <Route path="data-support/data-entry/document-management-services.asp" element={<DocumentManagementServices/>} />
+              <Route path="data-support/data-entry/data-entry-from-dictionaries-manuals-encyclopedias.asp" element={<EncyclopediaDataEntry/>} />
+              <Route path="data-support/data-entry/copy-paste-services.asp" element={<CopyPasteServices/>} />
+              <Route path="data-support/data-entry/offshore-data-entry-services.asp" element={<OffshoreDataEntryServices/>} />
+              <Route path="data-support/data-entry/catalog-data-entry-services.asp" element={<CatalogDataEntryServices/>} />
+              <Route path="data-support/data-entry/mailing-list-data-entry-services.asp" element={<MailingListDataEntry/>} />
+              <Route path="data-support/data-entry/company-reports-data-entry-services.asp" element={<CompanyReportsDataEntry/>} />
+              <Route path="data-support/data-entry/questionnaires-dataentry-services.asp" element={<QuestionnairesDataEntry/>} />
+              <Route path="data-support/data-entry/data-entry-surveys.asp" element={<SurveyDataEntry/>} />
+              <Route path="data-support/data-entry/invoice-forms-data-entry-services.asp" element={<InvoiceDataEntry/>} />
+              <Route path="data-support/data-entry/internet-data-input-services.asp" element={<InternetDataInput/>} />
+              <Route path="data-support/data-entry/database-entry-services.asp" element={<DatabaseDataEntry/>} />
+              <Route path="data-support/data-entry/restaurant-menu-data-entry-services.asp" element={<RestaurantMenuDataEntry/>} />
+              <Route path="data-support/data-entry/product-registration-data-entry-services.asp" element={<ProductRegistrationDataEntry/>} />
+              <Route path="data-support/data-entry/insurance-claims-data-entry-services.asp" element={<InsuranceClaimsDataEntry/>} />
+              <Route path="data-support/data-entry/enrolment-forms-data-entry-services.asp" element={<EnrollmentFormsDataEntry/>} />
+              <Route path="data-support/data-entry/text-numeric-data-entry-services.asp" element={<TextNumericDataEntry/>} />
+              <Route path="data-support/data-entry/classifieds-data-entry-services.asp" element={<ClassifiedsDataEntry/>} />
+              <Route path="data-support/data-entry/legal-documents-data-entry-services.asp" element={<LegalDocumentsDataEntry/>} />
+              <Route path="data-support/data-entry/printed-handwritten-documents-data-entry-services.asp" element={<HandwrittenDocumentsDataEntry/>} />
+              <Route path="data-support/data-entry/mysql-database-data-entry-services.asp" element={<MysqlDatabaseDataEntry/>} />
+              <Route path="data-support/data-entry/telephone-directory-data-entry-services.asp" element={<TelephoneDirectoryDataEntry/>} />
+              <Route path="data-support/data-entry/website-data-entry-services.asp" element={<WebsiteDataEntry/>} />
+              <Route path="data-support/data-entry/translingual-data-entry-services.asp" element={<TranslingualDataEntry/>} />
+              <Route path="data-support/data-entry/multilingual-invoice-data-entry-services.asp" element={<MultilingualInvoiceDataEntry/>} />
+              <Route path="data-support/data-entry/biological-species-database-creation-services.asp" element={<BiologicalSpeciesDatabase/>} />
+              <Route path="data-support/data-entry/quickbooks-data-entry-services.asp" element={<QuickBooksDataEntry/>} />
+              <Route path="data-support/data-entry/crm-data-entry-services.asp" element={<CRMDataEntry/>} />
+              <Route path="data-support/data-entry/digital-transaction-processing-services.asp" element={<DigitalTransactionProcessing/>} />
+              <Route path="data-support/data-entry/survey-forms-processing-services.asp" element={<SurveyFormsProcessing/>} />
+              <Route path="data-support/data-entry/crm-database-management-services.asp" element={<CRMDatabaseManagement/>} />
+              <Route path="data-support/data-entry/erp-data-entry-services.asp" element={<ERPDataEntry/>} />
+              <Route path="data-support/data-entry/sku-data-entry-services.asp" element={<SkuDataEntryPage/>} />
+              <Route path="data-support/data-entry/data-licensing-services.asp" element={<DataLicensingPage/>} />
+              <Route path="data-support/data-entry/healthcare-data-mining-services.asp" element={<HealthcareDataMining/>} />
+              <Route path="data-support/data-entry/remote-data-entry-services.asp" element={<RemoteDataEntry/>} />
+              <Route path="data-support/data-entry/address-management-services.asp" element={<AddressManagement/>} />
+              <Route path="data-support/data-entry/crm-data-mining-services.asp" element={<CRMDataMining/>} />
+              <Route path="data-support/data-entry/banking-data-entry-services.asp" element={<BankingDataEntry/>} />
+              <Route path="data-support/data-entry/image-search-services.asp" element={<ImageSearchServices/>} />
+              <Route path="data-support/data-entry/typing-services.asp" element={<TypingServices/>} />
+              <Route path="data-support/data-entry/medical-image-annotation-tagging-services.asp" element={<MedicalImageAnnotation/>} />
+              <Route path="data-support/data-entry/data-indexing-services.asp" element={<DataIndexingServices/>} />
+              <Route path="data-support/data-entry/book-indexing-services.asp" element={<BookIndexingServices/>} />
+              <Route path="data-service/data-entry/data-validation-services.asp" element={<DataValidationServices/>} />
+              <Route path="data-support/data-entry/data-masking-services.asp" element={<DataMaskingServices/>} />
+              <Route path="data-support/data-entry/data-profiling-services.asp" element={<DataProfilingServices/>} />
+              <Route path="data-support/data-entry/data-labeling-services.asp" element={<DataLabelingServices/>} />
+              <Route path="DataManagement/data-appending-services.asp" element={<DataAppendingServices/>} />
+              <Route path="DataManagement/data-enrichment-services.asp" element={<DataEnrichmentServices/>} />
+
+
+              {/* Data Services -> Data conversion*/}
+              <Route path="data-support/data-conversion/jats-xml-conversion-services.asp" element={<JATSXMLConversionServices/>} />
+              <Route path="data-support/data-conversion/document-conversion-services.asp" element={<DocumentConversionServices/>} />
+              <Route path="data-support/data-conversion/file-format-conversion-services.asp" element={<FileConversionServices/>} />
+              <Route path="data-support/data-conversion/epub3-conversion-services.asp" element={<EPub3ConversionServices/>} />
+              <Route path="data-support/data-conversion/xml-conversion-services.asp" element={<XMLConversionServices/>} />
+              <Route path="data-support/data-conversion/pdf-conversion-services.asp" element={<PDFConversionServices/>} />
+              <Route path="data-support/data-conversion/book-conversion-services.asp" element={<BookConversionServices/>} />
+              <Route path="data-support/data-conversion/html-conversion-services.asp" element={<HTMLConversionServices/>} />
+              <Route path="data-support/data-conversion/sgml-conversion-services.asp" element={<SGMLConversionServices/>} />
+              <Route path="data-support/data-conversion/electronic-document-management-services.asp" element={<EDMServices/>} />
+              <Route path="data-support/data-conversion/document-formatting-services.asp" element={<DocumentFormattingServices/>} />
+              <Route path="data-support/data-conversion/xbrl-conversion-services.asp" element={<XBRLConversionServices/>} />
+              <Route path="data-support/data-conversion/pubmed-conversion-services.asp" element={<PubMedConversion/>} />
+              <Route path="data-support/data-conversion/pubmed-conversion-services.asp" element={<DTBookConversion/>} />
+              <Route path="data-support/data-conversion/psd-to-html-conversion-services.asp" element={<PSDtoHTMLConversion/>} />
+              <Route path="data-support/data-conversion/figma-to-html-conversion-services.asp" element={<FigmaToHtmlConversion/>} />
+              <Route path="data-support/data-conversion/html-to-responsive-conversion-services.asp" element={<HtmlToResponsiveConversion/>} />
+              <Route path="data-support/data-conversion/adobe-xd-to-html-conversion-services.asp" element={<AdobeXDToHTML/>} />
+              <Route path="data-support/data-conversion/html-to-wordpress-conversion-services.asp" element={<HtmlToWordPressPage/>} />
+              <Route path="data-support/data-conversion/sketch-to-html-conversion-services.asp" element={<SketchHtmlServices/>} />
+              <Route path="data-support/data-conversion/zeplin-to-html-conversion-services.asp" element={<ZeplinToHtml/>} />
+              <Route path="data-support/data-conversion/pdf-accessibility-services.asp" element={<PdfAccessibility/>} />
+
+              {/* Data Services -> ebook conversion*/}
+              <Route path="data-support/ebook-conversion/epub-conversion-services.asp" element={<EpubConversionPage/>} />
+              <Route path="data-support/ebook-conversion/epub-services.asp" element={<EPubServicesPage/>} />
+              <Route path="data-support/ebook-conversion/kindle-conversion-services.asp" element={<KindleConversionPage/>} />
+              <Route path="data-support/ebook-conversion/ipad-and-iphone-ebook-conversion-services.asp" element={<IPadIPhoneConversionPage/>} />
+              <Route path="data-support/ebook-conversion/comprehensive-digital-services.asp" element={<ComprehensiveDigitalServices/>} />
+              <Route path="data-support/ebook-conversion/reflowable-ebook-conversion-services.asp" element={<ReflowableEbookServices/>} />
+              <Route path="data-support/ebook-conversion/fixed-layout-epub-conversion-services.asp" element={<FixedLayoutPageContent/>} />
+              <Route path="data-support/ebook-conversion/multilingual-ebook-conversion-services.asp" element={<MultilingualPageContent/>} />
+              <Route path="data-support/ebook-conversion/enhanced-ebook-conversion-services.asp" element={<EnhancedEbookPage/>} />
+              <Route path="data-support/ebook-conversion/web-accessible-ebook-development-services.asp" element={<WebAccessibleEbookPage/>} />
+              <Route path="data-support/ebook-conversion/interactive-ebook-conversion-services.asp" element={<InteractiveEbookPage/>} />
+              <Route path="data-support/ebook-conversion/docbook-xml-conversion-services.asp" element={<DocBookXMLPage/>} />
+
+              {/* Data Services -> property management*/}
+              <Route path="DataManagement/property-management-back-office-outsourcing.asp" element={<PropertyManagementPage/>} />
+
+              {/* Data Services -> Data Processing*/}
+              <Route path="data-support/data-processing/metadata-tagging-services.asp" element={<MetadataTaggingPage/>} />
+              <Route path="data-support/data-processing/data-transformation-services.asp" element={<DataTransformationPage/>} />
+              <Route path="data-support/data-processing/master-data-management-services.asp" element={<MasterDataManagementPage/>} />
+              <Route path="data-support/data-processing/semantic-image-segmentation-services.asp" element={<SemanticImageSegmentation/>} />
+              <Route path="data-support/data-processing/metadata-management-services.asp" element={<MetadataManagement/>} />
+              <Route path="data-support/data-processing/data-harmonization-services.asp" element={<DataHarmonization/>} />
+              <Route path="data-support/data-processing/data-standardization-services.asp" element={<DataStandardization/>} />
+              <Route path="data-support/data-processing/merge-purge-services.asp" element={<MergePurgeServices/>} />
+              <Route path="data-support/data-processing/forms-processing-services.asp" element={<FormsProcessingServices/>} />
+              <Route path="data-support/data-processing/order-processing-services.asp" element={<OrderProcessingServices/>} />
+              <Route path="data-support/data-processing/image-processing-services.asp" element={<ImageProcessing/>} />
+              <Route path="data-support/data-processing/data-cleansing-services.asp" element={<DataCleansing/>} />
+              <Route path="DataManagement/insurance-claims-processing.asp" element={<InsuranceClaimsProcessing/>} />
+              <Route path="data-support/data-processing/market-research-forms-processing-services.asp" element={<MarketResearchFormsProcessing/>} />
+              <Route path="data-support/data-processing/check-processing-services.asp" element={<CheckProcessing/>} />
+              <Route path="data-support/data-processing/credit-card-processing-services.asp" element={<CreditCardProcessing/>} />
+              <Route path="data-support/data-processing/transaction-processing-services.asp" element={<TransactionProcessing/>} />
+              <Route path="data-support/data-processing/survey-processing-services.asp" element={<SurveyProcessing/>} />
+              <Route path="data-support/data-processing/data-deduplication-services.asp" element={<DataDeduplication/>} />
+              <Route path="data-support/data-processing/mailing-list-compilation-services.asp" element={<MailingListCompilation/>} />
+              <Route path="data-support/data-processing/database-creation-services.asp" element={<DatabaseCreationServices/>} />
+              <Route path="data-support/data-processing/data-abstraction-services.asp" element={<DataAbstractionServices/>} />
+              <Route path="data-support/data-processing/data-mining-services.asp" element={<DataMiningServices/>} />
+              <Route path="data-support/data-processing/text-and-web-data-mining-services.asp" element={<TextWebDataMining/>} />
+              <Route path="data-support/data-processing/student-loan-processing-services.asp" element={<StudentLoanProcessing/>} />
+              <Route path="data-support/data-processing/tagging-and-annotation-services.asp" element={<TaggingAnnotationServices/>} />
+              <Route path="data-support/data-processing/image-annotation-services.asp" element={<ImageAnnotationServices/>} />
+              <Route path="data-support/data-processing/human-gesture-annotation-services.asp" element={<HumanGestureAnnotation/>} />
+              <Route path="data-support/data-processing/bounding-box-annotation-services.asp" element={<BoundingBoxServices/>} />
+              <Route path="data-support/data-processing/purchase-order-processing-services.asp" element={<PurchaseOrderProcessing/>} />
+              <Route path="data-support/data-processing/sku-data-management-services.asp" element={<SKUDataManagement/>} />
+              <Route path="data-support/data-processing/product-information-management-services.asp" element={<ProductInformationManagement/>} />
+              <Route path="data-support/data-processing/data-preparation-services.asp" element={<DataPreparationServices/>} />
+              <Route path="data-support/data-processing/video-annotation-services.asp" element={<VideoAnnotationServices/>} />
+              <Route path="data-support/data-processing/crm-data-cleansing-services.asp" element={<CrmDataCleansingServices/>} />
+              <Route path="data-support/data-processing/data-consolidation-services.asp" element={<DataConsolidationServices/>} />
+              <Route path="data-support/data-processing/data-provisioning-services.asp" element={<DataProvisioningServices/>} />
+              <Route path="data-support/data-processing/data-monitoring-services.asp" element={<DataMonitoringServices/>} />
+              <Route path="data-support/data-processing/data-collection-services.asp" element={<DataCollectionServices/>} />
+              <Route path="data-support/data-processing/data-collection-services.asp" element={<DataLifecycleManagementServices/>} />
+              <Route path="data-support/data-processing/dms-support-services.asp" element={<DMSServices/>} />
+              <Route path="data-support/data-processing/data-verification-services.asp" element={<DataVerification/>} />
+              <Route path="data-support/data-processing/data-scrubbing-services.asp" element={<DataScrubbing/>} />
+              <Route path="data-support/data-processing/document-indexing-services.asp" element={<DocumentIndexing/>} />
+              <Route path="data-support/ocr/document-scanning-services.asp" element={<DocumentScanning/>} />
+
+
+              {/* Data Services -> Data management*/}
+              <Route path="data-support/data-entry/data-protection-officer-services.asp" element={<DPOPage/>} />
+              <Route path="data-support/data-entry/records-management-services.asp" element={<RecordsManagementPage/>} />
+              <Route path="data-support/data-entry/e-commerce-taxonomy-development-services.asp" element={<EcommerceTaxonomyPage/>} />
+              <Route path="data-support/data-entry/cloud-data-management-services.asp" element={<CloudDataManagementPage/>} />
+              <Route path="data-support/data-processing/sports-data-tagging-services.asp" element={<SportsDataTagging/>} />
+              <Route path="data-support/data-entry/data-formatting-services.asp" element={<DataFormattingServices/>} />
+              <Route path="data-support/data-entry/ecommerce-product-data-classification-services.asp" element={<EcommerceProductDataClassification/>} />
+              <Route path="data-support/data-entry/magento-data-entry-services.asp" element={<MagentoDataEntryServices/>} />
+              <Route path="data-support/data-processing/ecommerce-product-data-cleansing-services.asp" element={<EcommerceDataCleansing/>} />
+              <Route path="data-support/data-processing/data-protection-consulting-services.asp" element={<DataProtectionConsulting/>} />
+              <Route path="data-support/data-processing/data-governance-services.asp" element={<DataGovernanceServices/>} />
+              <Route path="data-support/data-processing/data-virtualization-services.asp" element={<DataVirtualizationServices/>} />
+              <Route path="data-support/data-processing/financial-data-processing-services.asp" element={<FinancialDataProcessingServices/>} />
+              <Route path="data-support/data-processing/data-quality-management-services.asp" element={<DataQualityManagementServices/>} />
+              <Route path="data-support/data-processing/data-modernization-services.asp" element={<DataModernizationServices/>} />
+              <Route path="data-support/data-entry/property-preservation-data-entry-services.asp" element={<PropertyPreservationDataEntry/>} />
+
+              {/* Data Services -> online catalog*/}
+              <Route path="data-support/catalog/catalog-conversion-services.asp" element={<CatalogConversionServices/>} />      
+              <Route path="data-support/catalog/ecommerce-product-data-entry-services.asp" element={<EcommerceDataEntryServices/>} />
+              <Route path="data-support/catalog/catalog-processing-services.asp" element={<CatalogProcessingServices/>} />
+              <Route path="data-support/catalog/product-catalog-maintenance-services.asp" element={<ProductCatalogMaintenance/>} />
+              <Route path="data-support/catalog/catalog-content-management-services.asp" element={<CatalogContentManagement/>} />
+              <Route path="data-support/catalog/catalog-building-and-indexing-services.asp" element={<CatalogBuildingIndexing/>} />
+
+              {/* Data Services -> OCR*/}
+              <Route path="data-support/ocr/ocr-cleanup-services.asp" element={<OCRCleanupServices/>} />
+              <Route path="data-support/ocr/document-digitization-services.asp" element={<DocumentDigitizationServices/>} />
+              <Route path="data-support/ocr/ocr-conversion-services.asp" element={<OCRConversionServices/>} />
+
+              {/* Data Services -> Industries*/}
+              <Route path="DataManagement/manufacturing-data-entry-services.asp" element={<ManufacturingDataEntry/>} />
+              <Route path="DataManagement/healthcare-data-entry-services.asp" element={<HealthcareDataEntry/>} />
+              <Route path="DataManagement/architectural-data-entry-services.asp" element={<ArchitecturalDataEntry/>} />
+              <Route path="DataManagement/gaming-data-entry-services.asp" element={<GamingDataEntry/>} />
+              <Route path="DataManagement/government-agencies-data-entry.asp" element={<GovernmentDataEntry/>} />
+              <Route path="DataManagement/publishing-industry-data-entry.asp" element={<PublishingDataEntry/>} />
+              <Route path="DataManagement/accounting-data-entry.asp" element={<AccountingDataEntry/>} />
+              <Route path="DataManagement/legal-organizations-data-entry.asp" element={<LegalDataEntry/>} />
+              <Route path="DataManagement/educational-institutions-data-entry.asp" element={<EducationalDataEntry/>} />
+              <Route path="DataManagement/studio-data-entry-services.asp" element={<StudiosDataEntry/>} />
+              <Route path="DataManagement/aci-e-manifest-services.asp" element={<AciEManifestServices/>} />
+
+              {/* Data Services -> Articles*/}
+              <Route path="DataManagement/articles/top-things-avoid-while-hiring-perfect-customs-brokerage-service-provider.asp" element={<CustomsBrokerage/>} />
+              <Route path="DataManagement/articles/how-can-your-firm-benefit-from-Nimble-data-entry-services.asp" element={<DataEntryBenefits/>} />
+              <Route path="DataManagement/articles/big-data-future-growth-challenges.asp" element={<BigData2020/>} />
+              <Route path="DataManagement/articles/common-misconceptions-about-data-management.asp" element={<DataManagementMisconceptions/>} />
+              <Route path="DataManagement/articles/best-practices-of-ocr-data-capture.asp" element={<OCRDataCapture/>} />
+              <Route path="DataManagement/articles/ultimate-cheat-sheet-on-big-data-analytics.asp" element={<BigDataAnalyticsCheatSheet/>} />
+              <Route path="DataManagement/articles/data-mining-techniques.asp" element={<DataMiningTechniques/>} />
+              <Route path="DataManagement/articles/signs-you-should-invest-in-data-analytics.asp" element={<InvestInDataAnalytics/>} />
+              <Route path="DataManagement/articles/how-to-solve-manual-data-entry-challenges.asp" element={<ManualDataEntrySolutions/>} />
+              <Route path="DataManagement/articles/top-data-extraction-tools.asp" element={<TopDataExtractionTools/>} />
+              <Route path="DataManagement/articles/reasons-to-Nimble-product-data-entry-to-india.asp" element={<ProductDataEntry/>} />
+              <Route path="DataManagement/articles/cloud-data-management-trends.asp" element={<CloudDataManagement/>} />
+              <Route path="DataManagement/articles/data-migration-best-practices.asp" element={<DataMigrationBestPractices/>} />
+              <Route path="DataManagement/articles/big-data-trends.asp" element={<BigDataTrends/>} />
+              <Route path="DataManagement/articles/restaurant-menu-digitization-benefits.asp" element={<RestaurantMenuDigitization/>} />
+              <Route path="DataManagement/articles/form-creation-benefits-data-entry.asp" element={<FormCreationBenefits/>} />
+              <Route path="DataManagement/articles/ways-to-improve-data-accuracy.asp" element={<DataAccuracy/>} />
+              <Route path="DataManagement/articles/data-entry-clerk-skills.asp" element={<DataEntryClerkPage/>} />
+              <Route path="DataManagement/articles/get-the-data-entry-advatage-at-Nimble-Acuity.asp" element={<DataEntryIndiaPage/>} />
+              <Route path="DataManagement/articles/better-data-management.asp" element={<BetterDataManagementPage/>} />
+              <Route path="DataManagement/articles/Nimble-data-entry-to-india.asp" element={<DataEntryIndiaAdvantage/>} />
+              <Route path="DataManagement/articles/Nimble-data-entry-services.asp" element={<DataEntryOutsourcing/>} />
+              <Route path="DataManagement/articles/data-quality-solutions.asp" element={<DataQualitySolution/>} />
+              <Route path="DataManagement/articles/solve-data-issues.asp" element={<InaccurateDataSolution/>} />
+              <Route path="DataManagement/articles/spreadsheet-to-excel-conversion.asp" element={<SpreadsheetConversionPage/>} />
+              <Route path="DataManagement/microfilm-scanning-conversion-services.asp" element={<MicrofilmScanningPage/>} />
+
+              {/* Creative-design -> Graphic-design  */}
+              <Route path="creative-services/exhibition-design-services.asp" element={<ExhibitionDesignServices/>} />
+              <Route path="creative-services/powerpoint-design-services.asp" element={<PowerPointDesignServices/>} />
+              <Route path="creative-services/embroidery-digitizing-services.asp" element={<EmbroideryServices/>} />
+              <Route path="creative-services/signage-design-services.asp" element={<SignageDesignServices/>} />
+              <Route path="creative-services/corporate-design-services.asp" element={<CorporateDesignServices/>} />
+              <Route path="creative-services/e-mail-design-services.asp" element={<EmailDesignServices/>} />
+
+
+
+
+
+>>>>>>> Santhiya
               <Route path="/contact" element={<Contact />} />
               <Route path="*" element={<NotFound />} />
             </Routes>

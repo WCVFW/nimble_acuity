@@ -16,7 +16,11 @@ const SocialMediaMonitoring: React.FC = () => {
           animate={{ opacity: 1, y: 0 }}
           className="text-4xl font-bold"
         >
+<<<<<<< HEAD
           Outsource Social Media Monitoring Services
+=======
+          Nimble Social Media Monitoring Services
+>>>>>>> Santhiya
         </motion.h1>
         <p className="text-lg text-gray-600">
           Drive your business forward with our cost-efficient social media monitoring services. 
@@ -129,7 +133,11 @@ const SocialMediaMonitoring: React.FC = () => {
       <section className="bg-gray-100 p-8 rounded-2xl space-y-4 text-center">
         <h2 className="text-2xl font-semibold">What Our Clients Say</h2>
         <blockquote className="italic text-gray-700 max-w-2xl mx-auto">
+<<<<<<< HEAD
           “The services Outsource2india provided helped us achieve substantial cost and time savings on difficult projects. 
+=======
+          “The services Nimble Acuity provided helped us achieve substantial cost and time savings on difficult projects. 
+>>>>>>> Santhiya
           Their prompt attention and attention to detail is excellent.”
         </blockquote>
         <p className="text-sm text-gray-600">— Senior VP, Automotive & Transportation Industry Solutions</p>
@@ -137,7 +145,11 @@ const SocialMediaMonitoring: React.FC = () => {
 
       {/* Call to Action */}
       <section className="text-center space-y-4">
+<<<<<<< HEAD
         <h2 className="text-2xl font-semibold">Outsource Social Media Monitoring Today</h2>
+=======
+        <h2 className="text-2xl font-semibold">Nimble Social Media Monitoring Today</h2>
+>>>>>>> Santhiya
         <p className="text-gray-600 max-w-3xl mx-auto">
           Streamline workflows, monitor brand reputation, benchmark competitors, and understand your audience with real-time insights.
         </p>

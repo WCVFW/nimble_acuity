@@ -18,7 +18,11 @@ export default function TrendAnalysisServices() {
             transition={{ duration: 0.6 }}
             className="text-4xl md:text-5xl font-bold mb-6"
           >
+<<<<<<< HEAD
             Outsource Trend Analysis Services
+=======
+            Nimble Trend Analysis Services
+>>>>>>> Santhiya
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -27,7 +31,11 @@ export default function TrendAnalysisServices() {
             className="text-lg max-w-3xl mx-auto mb-8"
           >
             Identify emerging trends, evaluate financial shifts, and make
+<<<<<<< HEAD
             smarter business decisions with O2I’s expert services.
+=======
+            smarter business decisions with Nimble Acuity’s expert services.
+>>>>>>> Santhiya
           </motion.p>
           <Button size="lg" className="px-8 py-6 text-lg">
             Get Started
@@ -79,7 +87,11 @@ export default function TrendAnalysisServices() {
       {/* Benefits */}
       <section className="py-16 px-6 max-w-6xl mx-auto">
         <h2 className="text-3xl font-bold text-center mb-12">
+<<<<<<< HEAD
           Benefits of Outsourcing to O2I
+=======
+          Benefits of Outsourcing to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {[
@@ -103,10 +115,17 @@ export default function TrendAnalysisServices() {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* Why Choose O2I */}
       <section className="py-16 px-6 bg-gray-50">
         <h2 className="text-3xl font-bold text-center mb-12">
           Why Choose O2I?
+=======
+      {/* Why Choose Nimble Acuity */}
+      <section className="py-16 px-6 bg-gray-50">
+        <h2 className="text-3xl font-bold text-center mb-12">
+          Why Choose Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="max-w-4xl mx-auto space-y-8">
           {[
@@ -132,7 +151,11 @@ export default function TrendAnalysisServices() {
           ))}
         </div>
         <p className="text-center mt-10 italic text-gray-700">
+<<<<<<< HEAD
           Case Study: Learn how O2I provided trend analysis services to a top
+=======
+          Case Study: Learn how Nimble Acuity provided trend analysis services to a top
+>>>>>>> Santhiya
           Canadian golf technology firm.
         </p>
       </section>
@@ -140,7 +163,11 @@ export default function TrendAnalysisServices() {
       {/* CTA */}
       <section className="py-20 px-6 text-center bg-gradient-to-r from-gray-800 to-gray-900 text-white">
         <h2 className="text-3xl font-bold mb-6">
+<<<<<<< HEAD
           Partner with O2I for Smarter Business Decisions
+=======
+          Partner with Nimble Acuity for Smarter Business Decisions
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-10">
           With expert analysts, advanced statistical tools, and global delivery

@@ -8,7 +8,11 @@ const ScientificDataMiningPage: React.FC = () => {
       <NavigationMenu/>
       <section className="text-center space-y-4">
         <h1 className="text-4xl font-bold text-gray-800">
+<<<<<<< HEAD
           Outsource Scientific Data Mining Services
+=======
+          Nimble Scientific Data Mining Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600">
           Get access to expert scientific data mining services provided by
@@ -26,7 +30,11 @@ const ScientificDataMiningPage: React.FC = () => {
           outsourcing to a trusted vendor like us is the right solution.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india is a leading scientific data mining service provider
+=======
+          Nimble Acuity is a leading scientific data mining service provider
+>>>>>>> Santhiya
           offering comprehensive offshore research solutions. Our highly-trained
           analysts provide in-depth data mining services for scientific and
           medical fields, enabling you to focus on your core research goals.
@@ -81,7 +89,11 @@ const ScientificDataMiningPage: React.FC = () => {
       {/* Why Choose Us */}
       <section>
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">
+<<<<<<< HEAD
           Why Outsource Scientific Data Mining Services to O2I?
+=======
+          Why Nimble Scientific Data Mining Services to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <ul className="grid md:grid-cols-2 gap-4 list-disc list-inside text-gray-700">
           <li>World-class Infrastructure</li>
@@ -142,10 +154,17 @@ const ScientificDataMiningPage: React.FC = () => {
       {/* CTA */}
       <section className="text-center space-y-4">
         <h2 className="text-2xl font-semibold text-gray-800">
+<<<<<<< HEAD
           Outsource Scientific Data Mining to Outsource2india
         </h2>
         <p className="text-gray-700">
           For over 26+ years, Outsource2india has provided world-class
+=======
+          Nimble Scientific Data Mining to Nimble Acuity
+        </h2>
+        <p className="text-gray-700">
+          For over 26+ years, Nimble Acuity has provided world-class
+>>>>>>> Santhiya
           scientific research and data mining services to clients worldwide. Our
           experts leverage cutting-edge tools and methodologies to deliver
           accurate, timely, and cost-effective results.

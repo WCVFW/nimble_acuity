@@ -9,7 +9,11 @@ const PredictiveFinancialAnalytics: React.FC = () => {
       <NavigationMenu/>
       <header className="text-center space-y-4">
         <h1 className="text-3xl font-bold text-gray-900">
+<<<<<<< HEAD
           Outsource Predictive Financial Analytics Services
+=======
+          Nimble Predictive Financial Analytics Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-700">
           Identify the trends in your financial business to make better decisions
@@ -29,11 +33,19 @@ const PredictiveFinancialAnalytics: React.FC = () => {
           services in India and abroad, the decision to partner with the right
           company can be tricky. And this is when deciding to work with a
           predictive financial analytics service providing company like
+<<<<<<< HEAD
           <strong> Outsource2india </strong>that has the experience and expertise
           in the field can make a huge difference.
         </p>
         <p>
           Outsource2india is a leading predictive financial analytics service
+=======
+          <strong> Nimble Acuity </strong>that has the experience and expertise
+          in the field can make a huge difference.
+        </p>
+        <p>
+          Nimble Acuity is a leading predictive financial analytics service
+>>>>>>> Santhiya
           provider with over <strong>26+ years of experience</strong> and a team
           of professional analysts who have worked with thousands of clients to
           help them in their decision-making process.
@@ -92,7 +104,11 @@ const PredictiveFinancialAnalytics: React.FC = () => {
       {/* Why Choose Us Section */}
       <section className="space-y-4">
         <h2 className="text-2xl font-semibold text-gray-900">
+<<<<<<< HEAD
           Why Outsource Predictive Analytics Services to O2I?
+=======
+          Why Nimble Predictive Analytics Services to Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc list-inside space-y-2 text-gray-700">
           <li>
@@ -114,13 +130,21 @@ const PredictiveFinancialAnalytics: React.FC = () => {
         </h2>
         <div className="space-y-2 text-gray-700">
           <p>
+<<<<<<< HEAD
             <strong>O2I Provided Primary Research Services to a Luxury Air
+=======
+            <strong>Nimble Acuity Provided Primary Research Services to a Luxury Air
+>>>>>>> Santhiya
             Travel Provider:</strong> A leading California-based air travel
             company contacted us for high-quality and accurate research services.
             We delivered accurate services quickly.
           </p>
           <p>
+<<<<<<< HEAD
             <strong>O2I Provided Primary Research Services to a US-based
+=======
+            <strong>Nimble Acuity Provided Primary Research Services to a US-based
+>>>>>>> Santhiya
             Technology Leader:</strong> A top technology provider required
             accurate research services. We provided them with quick, high-quality
             solutions, much to their delight.
@@ -132,7 +156,11 @@ const PredictiveFinancialAnalytics: React.FC = () => {
       <section className="space-y-4">
         <h2 className="text-2xl font-semibold text-gray-900">Testimonials</h2>
         <blockquote className="italic text-gray-700 border-l-4 border-blue-500 pl-4">
+<<<<<<< HEAD
           “The services that Outsource2india provided helped us achieve
+=======
+          “The services that Nimble Acuity provided helped us achieve
+>>>>>>> Santhiya
           substantial cost and time savings on several difficult projects.”
         </blockquote>
         <p className="text-gray-600 font-medium">
@@ -144,10 +172,17 @@ const PredictiveFinancialAnalytics: React.FC = () => {
       {/* CTA Section */}
       <section className="text-center space-y-4">
         <h2 className="text-2xl font-semibold text-gray-900">
+<<<<<<< HEAD
           Outsource Predictive Analytics Services To Outsource2india
         </h2>
         <p className="text-gray-700 max-w-3xl mx-auto">
           Outsource2india has the experience needed to ensure you have access to
+=======
+          Nimble Predictive Analytics Services To Nimble Acuity
+        </h2>
+        <p className="text-gray-700 max-w-3xl mx-auto">
+          Nimble Acuity has the experience needed to ensure you have access to
+>>>>>>> Santhiya
           useful data that helps you make the right business decisions. We have
           offered robust predictive analytics services as well as other similar
           solutions to businesses worldwide.

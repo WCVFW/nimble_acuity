@@ -31,7 +31,11 @@ export default function RiskAnalyticsPage() {
       <section className="bg-gradient-to-r from-blue-50 to-blue-100 py-20 px-6 text-center">
         <motion.div {...fadeInUp}>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-6">
+<<<<<<< HEAD
             Outsource Risk Analytics Services
+=======
+            Nimble Risk Analytics Services
+>>>>>>> Santhiya
           </h1>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto mb-8">
             Strengthen accountability, mitigate risks, and make confident
@@ -127,13 +131,21 @@ export default function RiskAnalyticsPage() {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* Why Partner with O2I */}
+=======
+      {/* Why Partner with Nimble Acuity */}
+>>>>>>> Santhiya
       <section className="bg-gray-50 py-16 px-6">
         <motion.h2
           {...fadeInUp}
           className="text-3xl font-bold text-gray-800 text-center mb-12"
         >
+<<<<<<< HEAD
           Why Partner with Outsource2india?
+=======
+          Why Partner with Nimble Acuity?
+>>>>>>> Santhiya
         </motion.h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
           {[
@@ -161,7 +173,11 @@ export default function RiskAnalyticsPage() {
           {...fadeInUp}
           className="text-3xl md:text-4xl font-bold mb-6"
         >
+<<<<<<< HEAD
           Outsource Risk Analytics Services to O2I
+=======
+          Nimble Risk Analytics Services to Nimble Acuity
+>>>>>>> Santhiya
         </motion.h2>
         <p className="max-w-2xl mx-auto text-blue-100 mb-8">
           Mitigate risks, enhance accountability, and strengthen your business

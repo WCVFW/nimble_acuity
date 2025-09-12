@@ -9,7 +9,11 @@ export default function SurveyProgrammingServices() {
       <NavigationMenu/>
       <section className="text-center space-y-4">
         <h1 className="text-4xl font-bold text-purple-700">
+<<<<<<< HEAD
           Outsource Survey Programming Services
+=======
+          Nimble Survey Programming Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           Get help with critical data gathering and building custom questionnaires with our 
@@ -22,10 +26,17 @@ export default function SurveyProgrammingServices() {
         <p>
           Is your company struggling to gather critical data and develop customized questionnaires for decision making? 
           Are you unable to find the right set of resources who can handle your survey programming service requirements? 
+<<<<<<< HEAD
           Then, the best option for your firm would be to outsource survey programming services to an experienced provider.
         </p>
         <p>
           Outsource2india is one such survey programming company that can be your one-stop-shop for all your needs. 
+=======
+          Then, the best option for your firm would be to Nimble survey programming services to an experienced provider.
+        </p>
+        <p>
+          Nimble Acuity is one such survey programming company that can be your one-stop-shop for all your needs. 
+>>>>>>> Santhiya
           Our skilled and experienced survey programming experts leverage the latest tools and technologies to 
           deliver top-notch services.
         </p>
@@ -72,7 +83,11 @@ export default function SurveyProgrammingServices() {
       {/* Why Choose Us */}
       <section className="space-y-6">
         <h2 className="text-2xl font-bold text-purple-700 text-center">
+<<<<<<< HEAD
           Why Choose O2I for Survey Programming Services?
+=======
+          Why Choose Nimble Acuity for Survey Programming Services?
+>>>>>>> Santhiya
         </h2>
         <ul className="grid md:grid-cols-2 gap-4 text-gray-700 max-w-4xl mx-auto list-disc pl-5">
           <li>Affordable & flexible pricing options</li>
@@ -116,10 +131,17 @@ export default function SurveyProgrammingServices() {
       {/* CTA */}
       <section className="text-center space-y-4">
         <h2 className="text-2xl font-bold text-purple-700">
+<<<<<<< HEAD
           Outsource Survey Programming Services to O2I
         </h2>
         <p className="max-w-3xl mx-auto text-gray-700">
           With 26+ years of experience, O2I delivers scalable, secure, and high-quality survey programming services 
+=======
+          Nimble Survey Programming Services to Nimble Acuity
+        </h2>
+        <p className="max-w-3xl mx-auto text-gray-700">
+          With 26+ years of experience, Nimble Acuity delivers scalable, secure, and high-quality survey programming services 
+>>>>>>> Santhiya
           that empower businesses to gather insights and make data-driven decisions. 
           Get in touch with us today to explore how we can help your business.
         </p>

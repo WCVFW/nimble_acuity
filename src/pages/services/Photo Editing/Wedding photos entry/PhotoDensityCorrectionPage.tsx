@@ -15,7 +15,11 @@ const PhotoDensityCorrectionPage: React.FC = () => {
           Photo Density & Color Correction Services
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
+<<<<<<< HEAD
           Give your images a professional and brand-new look with Outsource2india’s
+=======
+          Give your images a professional and brand-new look with Nimble Acuity’s
+>>>>>>> Santhiya
           density and color correction services. Restore old photos, correct poorly
           captured images, and enhance every detail for lasting impact.
         </p>
@@ -28,7 +32,11 @@ const PhotoDensityCorrectionPage: React.FC = () => {
       <section className="py-16 px-6 max-w-6xl mx-auto text-center">
         <p className="text-gray-600 leading-relaxed max-w-4xl mx-auto">
           Even with advanced cameras, photos often suffer from errors such as poor
+<<<<<<< HEAD
           lighting, low contrast, or faded details. Outsource2india’s expert photo
+=======
+          lighting, low contrast, or faded details. Nimble Acuity’s expert photo
+>>>>>>> Santhiya
           density and color correction services resolve these issues, giving you
           sharper, brighter, and more vibrant images.
         </p>
@@ -86,6 +94,7 @@ const PhotoDensityCorrectionPage: React.FC = () => {
         </div>
       </section>
 
+<<<<<<< HEAD
       {/* Why Outsource */}
       <section className="bg-gray-100 py-16 px-6">
         <h2 className="text-3xl font-semibold text-center mb-10">
@@ -94,6 +103,16 @@ const PhotoDensityCorrectionPage: React.FC = () => {
         <div className="max-w-4xl mx-auto text-gray-700 space-y-4">
           <p>
             By outsourcing to Outsource2india, you save time and cost while gaining
+=======
+      {/* Why Nimble */}
+      <section className="bg-gray-100 py-16 px-6">
+        <h2 className="text-3xl font-semibold text-center mb-10">
+          Why Nimble Photo Density & Color Correction Services?
+        </h2>
+        <div className="max-w-4xl mx-auto text-gray-700 space-y-4">
+          <p>
+            By outsourcing to Nimble Acuity, you save time and cost while gaining
+>>>>>>> Santhiya
             access to professionals who deliver high-quality editing at scale. Our
             team ensures sharp, clear images with the perfect color balance at
             competitive rates.
@@ -134,7 +153,11 @@ const PhotoDensityCorrectionPage: React.FC = () => {
           Restore and Revitalize Your Images Today
         </h2>
         <p className="max-w-3xl mx-auto">
+<<<<<<< HEAD
           Contact us to outsource your photo density and color correction needs.
+=======
+          Contact us to Nimble your photo density and color correction needs.
+>>>>>>> Santhiya
           Experience sharper, clearer, and more vibrant photographs that leave a
           lasting impression.
         </p>

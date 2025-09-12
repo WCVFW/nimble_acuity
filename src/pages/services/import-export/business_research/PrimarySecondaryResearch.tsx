@@ -8,16 +8,27 @@ const PrimarySecondaryResearch: React.FC = () => {
       <NavigationMenu/>
       <section className="max-w-5xl mx-auto text-center mb-12">
         <h1 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Primary and Secondary Research Services
         </h1>
         <p className="text-lg mb-6">
           Gain competitive advantage with O2I’s comprehensive suite of{" "}
+=======
+          Nimble Primary and Secondary Research Services
+        </h1>
+        <p className="text-lg mb-6">
+          Gain competitive advantage with Nimble Acuity’s comprehensive suite of{" "}
+>>>>>>> Santhiya
           <span className="font-semibold">primary and secondary research</span>{" "}
           services. We help businesses make smarter decisions by providing
           accurate, data-driven insights.
         </p>
         <p>
+<<<<<<< HEAD
           With 20+ years of expertise, Outsource2india delivers precise,
+=======
+          With 20+ years of expertise, Nimble Acuity delivers precise,
+>>>>>>> Santhiya
           cost-effective research using scientific frameworks, innovative tools,
           and a dedicated research team.
         </p>
@@ -69,7 +80,11 @@ const PrimarySecondaryResearch: React.FC = () => {
       {/* Advantages */}
       <section className="max-w-5xl mx-auto mb-12">
         <h2 className="text-2xl font-semibold mb-6">
+<<<<<<< HEAD
           Advantages of Outsource2india’s Research Services
+=======
+          Advantages of Nimble Acuity’s Research Services
+>>>>>>> Santhiya
         </h2>
         <ul className="list-disc pl-6 space-y-3">
           <li>Up to 60% cost savings</li>
@@ -95,7 +110,11 @@ const PrimarySecondaryResearch: React.FC = () => {
       <section className="max-w-5xl mx-auto mb-12">
         <h2 className="text-2xl font-semibold mb-6">Case Study</h2>
         <p>
+<<<<<<< HEAD
           Learn how Outsource2india provided exclusive research reports on the{" "}
+=======
+          Learn how Nimble Acuity provided exclusive research reports on the{" "}
+>>>>>>> Santhiya
           <strong>Travel Industry</strong> for a Marketing Strategy Firm,
           enabling them to build effective, data-backed strategies.
         </p>
@@ -104,11 +123,19 @@ const PrimarySecondaryResearch: React.FC = () => {
       {/* CTA */}
       <section className="max-w-4xl mx-auto text-center">
         <h2 className="text-2xl font-semibold mb-4">
+<<<<<<< HEAD
           Contact O2I for Expert Primary and Secondary Research
         </h2>
         <p className="mb-6">
           Be it <strong>B2B</strong> or <strong>B2C</strong>,{" "}
           <strong>qualitative</strong> or <strong>quantitative</strong>, O2I
+=======
+          Contact Nimble Acuity for Expert Primary and Secondary Research
+        </h2>
+        <p className="mb-6">
+          Be it <strong>B2B</strong> or <strong>B2C</strong>,{" "}
+          <strong>qualitative</strong> or <strong>quantitative</strong>, Nimble Acuity
+>>>>>>> Santhiya
           ensures thorough research support with proven methodologies and
           experienced professionals.
         </p>

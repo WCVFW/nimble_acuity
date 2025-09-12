@@ -10,7 +10,11 @@ const MarketForecast: React.FC = () => {
       <NavigationMenu/>
       <section className="text-center space-y-6">
         <h1 className="text-4xl md:text-5xl font-bold text-blue-800">
+<<<<<<< HEAD
           Outsource Market Forecast and Analysis Services
+=======
+          Nimble Market Forecast and Analysis Services
+>>>>>>> Santhiya
         </h1>
         <p className="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto">
           Strategic forecasting and analysis to help pharmaceutical companies
@@ -24,7 +28,11 @@ const MarketForecast: React.FC = () => {
         <p>
           With unpredictable markets and intense competition in healthcare and
           pharmaceuticals, companies need powerful forecasting tools to survive
+<<<<<<< HEAD
           and thrive. Outsource2india (O2I) provides detailed, high-level
+=======
+          and thrive. Nimble Acuity (Nimble Acuity) provides detailed, high-level
+>>>>>>> Santhiya
           research at cost-effective prices, helping both startups and Fortune
           1000 giants make data-driven decisions with confidence.
         </p>
@@ -91,7 +99,11 @@ const MarketForecast: React.FC = () => {
       {/* Benefits */}
       <section className="space-y-8">
         <h2 className="text-3xl font-bold text-blue-700 text-center">
+<<<<<<< HEAD
           Benefits of Outsourcing to O2I
+=======
+          Benefits of Outsourcing to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
@@ -135,12 +147,20 @@ const MarketForecast: React.FC = () => {
       {/* CTA */}
       <section className="text-center space-y-6 bg-blue-50 p-10 rounded-2xl shadow-inner">
         <h2 className="text-3xl font-bold text-blue-800">
+<<<<<<< HEAD
           Choose O2I for Accurate Market Forecasting & Analysis Services
+=======
+          Choose Nimble Acuity for Accurate Market Forecasting & Analysis Services
+>>>>>>> Santhiya
         </h2>
         <p className="text-gray-700 max-w-3xl mx-auto">
           Our skilled team delivers reliable, objective, and accurate insights to
           help pharmaceutical companies excel in the competitive market.
+<<<<<<< HEAD
           Outsource your market research needs to us for efficiency, accuracy,
+=======
+          Nimble your market research needs to us for efficiency, accuracy,
+>>>>>>> Santhiya
           and cost-effectiveness.
         </p>
         <button className="px-6 py-3 bg-blue-700 text-white font-semibold rounded-xl shadow hover:bg-blue-800 transition">

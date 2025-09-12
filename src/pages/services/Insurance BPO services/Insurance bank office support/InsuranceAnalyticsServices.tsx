@@ -10,11 +10,19 @@ const InsuranceAnalyticsServices: React.FC = () => {
       <Imainmenu/>
       <section className="bg-blue-900 text-white py-20 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Analytics Services
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Keep track of the changing regulations and latest trends in the
           insurance industry by leveraging Outsource2india's Insurance analytics
+=======
+          Nimble Insurance Analytics Services
+        </h1>
+        <p className="max-w-3xl mx-auto text-lg">
+          Keep track of the changing regulations and latest trends in the
+          insurance industry by leveraging Nimble Acuity's Insurance analytics
+>>>>>>> Santhiya
           services at highly flexible pricing.
         </p>
       </section>
@@ -26,13 +34,21 @@ const InsuranceAnalyticsServices: React.FC = () => {
           regulations, the intense competition, and streamlining the business
           operations? Are you falling short of resources for insurance data
           analytics and missing out on the opportunities to grow your business?
+<<<<<<< HEAD
           Then, it is time you outsource insurance analytics services to an
+=======
+          Then, it is time you Nimble insurance analytics services to an
+>>>>>>> Santhiya
           experienced service provider. By outsourcing, you will not only save on
           costs but also will get proper insights into how to improve your
           business operations.
         </p>
         <p>
+<<<<<<< HEAD
           Outsource2india is one such service provider who can be your
+=======
+          Nimble Acuity is one such service provider who can be your
+>>>>>>> Santhiya
           one-stop-shop for all your insurance data analytics needs. Our team
           comprises some of the most talented and skilled analysts who can
           deliver the best services within a quick time without compromising on
@@ -111,7 +127,11 @@ const InsuranceAnalyticsServices: React.FC = () => {
       {/* Why Choose Us */}
       <section className="py-12 bg-gray-50 px-6">
         <h2 className="text-3xl font-bold text-center mb-10">
+<<<<<<< HEAD
           Why Choose O2I for Insurance Analytics Services?
+=======
+          Why Choose Nimble Acuity for Insurance Analytics Services?
+>>>>>>> Santhiya
         </h2>
         <div className="grid md:grid-cols-2 gap-6 max-w-6xl mx-auto">
           {[
@@ -163,7 +183,11 @@ const InsuranceAnalyticsServices: React.FC = () => {
       {/* Final CTA */}
       <section className="py-16 text-center bg-blue-900 text-white">
         <h2 className="text-3xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Analytics Services to O2I
+=======
+          Nimble Insurance Analytics Services to Nimble Acuity
+>>>>>>> Santhiya
         </h2>
         <p className="max-w-3xl mx-auto mb-6">
           We deliver cost-effective, reliable, and quick insurance analytics

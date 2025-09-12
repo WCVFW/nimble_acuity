@@ -8,7 +8,11 @@ const MarketingSalesCreativeMedia: React.FC = () => {
       <Imainmenu/>
       <section className="bg-blue-600 text-white py-20 px-6 text-center">
         <h1 className="text-4xl font-bold mb-4">
+<<<<<<< HEAD
           Outsource Insurance Services for MGAs
+=======
+          Nimble Insurance Services for MGAs
+>>>>>>> Santhiya
         </h1>
         <p className="max-w-3xl mx-auto text-lg">
           Adapt to change, capitalize on new opportunities, and accelerate growth with our insurance back-office services. Reduce costs, improve accuracy, and focus on generating better revenues.

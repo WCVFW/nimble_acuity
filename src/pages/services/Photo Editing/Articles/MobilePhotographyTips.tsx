@@ -68,7 +68,11 @@ const MobilePhotographyTips: React.FC = () => {
           Enhance Your Photos Professionally
         </h2>
         <p className="max-w-2xl mx-auto mb-6">
+<<<<<<< HEAD
           Outsource2india offers professional image enhancement services to elevate your photos with perfect composition, color, and clarity.
+=======
+          Nimble Acuity offers professional image enhancement services to elevate your photos with perfect composition, color, and clarity.
+>>>>>>> Santhiya
         </p>
         <button className="px-6 py-3 bg-white text-red-500 font-semibold rounded-lg shadow hover:bg-gray-100 transition">
           Get a Free Consultation

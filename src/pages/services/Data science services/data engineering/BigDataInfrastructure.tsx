@@ -77,7 +77,11 @@ const BigDataInfrastructure: React.FC = () => {
         <DSMainMenu/>
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-gray-900">
+<<<<<<< HEAD
             Outsource Big Data Infrastructure Services
+=======
+            Nimble Big Data Infrastructure Services
+>>>>>>> Santhiya
           </h2>
           <p className="mt-4 text-lg text-gray-600 max-w-3xl mx-auto">
             Enhance your IT systems with our expert big data infrastructure

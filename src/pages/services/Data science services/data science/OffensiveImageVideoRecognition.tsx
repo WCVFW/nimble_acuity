@@ -15,7 +15,11 @@ const OffensiveImageVideoRecognition: React.FC = () => {
         <p className="text-lg text-gray-600">
           Leverage deep learning to automatically detect, filter, and block 
           inappropriate images and videos. Ensure safety, compliance, and 
+<<<<<<< HEAD
           trustworthiness of your platforms with O2I’s AI-powered recognition solutions.
+=======
+          trustworthiness of your platforms with Nimble Acuity’s AI-powered recognition solutions.
+>>>>>>> Santhiya
         </p>
       </section>
 
@@ -102,7 +106,11 @@ const OffensiveImageVideoRecognition: React.FC = () => {
       {/* Why Choose Us */}
       <section className="max-w-6xl mx-auto mb-16">
         <h2 className="text-2xl font-semibold mb-6 text-gray-800">
+<<<<<<< HEAD
           Why Choose O2I?
+=======
+          Why Choose Nimble Acuity?
+>>>>>>> Santhiya
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {[
@@ -130,7 +138,11 @@ const OffensiveImageVideoRecognition: React.FC = () => {
           Ready to Secure Your Platform?
         </h2>
         <p className="mb-6">
+<<<<<<< HEAD
           Partner with Outsource2india for reliable and scalable image & video 
+=======
+          Partner with Nimble Acuity for reliable and scalable image & video 
+>>>>>>> Santhiya
           recognition software development using deep learning.
         </p>
         <a

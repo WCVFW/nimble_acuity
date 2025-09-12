@@ -10,7 +10,11 @@ const CarImageClipping: React.FC = () => {
       {/* Hero Section */}
       <PEMainMenu/>
       <section className="bg-gray-50 py-16 text-center">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold mb-4">Outsource Car Image Clipping Services</h1>
+=======
+        <h1 className="text-4xl font-bold mb-4">Nimble Car Image Clipping Services</h1>
+>>>>>>> Santhiya
         <p className="max-w-2xl mx-auto text-lg text-gray-600 mb-6">
           Effortlessly streamline your image editing process with our car image clipping services. From flawless backgrounds to precise detailing, we deliver exceptional quality while meeting demanding deadlines.
         </p>
@@ -132,7 +136,11 @@ const CarImageClipping: React.FC = () => {
 
       {/* Final CTA */}
       <section className="bg-green-600 text-white py-16 text-center">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold mb-4">Outsource Car Image Clipping Services to Outsource2india</h2>
+=======
+        <h2 className="text-3xl font-bold mb-4">Nimble Car Image Clipping Services to Nimble Acuity</h2>
+>>>>>>> Santhiya
         <p className="max-w-2xl mx-auto mb-6">
           Save time, scale your business, and achieve consistent quality with our professional car image clipping solutions.
         </p>

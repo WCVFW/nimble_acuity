@@ -8,9 +8,15 @@ const IFRSValuationServicesPage: React.FC = () => {
       {/* Hero Section */}
       <NavigationMenu/>
       <section className="text-center mb-12">
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold mb-4">Outsource IFRS Valuation Services</h1>
         <p className="text-lg text-gray-700 mb-6">
           At O2I, we enable businesses to rapidly update their accounting systems as per IFRS guidelines at the most affordable rates. Prices start at <strong>$14/hour</strong>.
+=======
+        <h1 className="text-4xl font-bold mb-4">Nimble IFRS Valuation Services</h1>
+        <p className="text-lg text-gray-700 mb-6">
+          At Nimble Acuity, we enable businesses to rapidly update their accounting systems as per IFRS guidelines at the most affordable rates. Prices start at <strong>$14/hour</strong>.
+>>>>>>> Santhiya
         </p>
         <p className="text-gray-600">
           The International Accounting Standards Board (IASB) establishes accounting principles known as International Financial Reporting Standards (IFRS). They provide a global standard for corporations when creating balance sheets and financial statements, eliminating complicated country-specific standards.
@@ -73,7 +79,11 @@ const IFRSValuationServicesPage: React.FC = () => {
 
       {/* Why Choose Us Section */}
       <section className="mb-12">
+<<<<<<< HEAD
         <h2 className="text-3xl font-semibold mb-6">Why Outsource IFRS Valuation Services to Outsource2india?</h2>
+=======
+        <h2 className="text-3xl font-semibold mb-6">Why Nimble IFRS Valuation Services to Nimble Acuity?</h2>
+>>>>>>> Santhiya
         <ul className="space-y-4 text-gray-700">
           <li><strong>Competitive Pricing:</strong> Immediate access to technical expertise at the most reasonable pricing.</li>
           <li><strong>Complete Data Security:</strong> Strict data privacy ensures your critical data remains safe.</li>
@@ -102,14 +112,22 @@ const IFRSValuationServicesPage: React.FC = () => {
       <section className="mb-12">
         <h2 className="text-3xl font-semibold mb-6">Testimonials</h2>
         <blockquote className="p-6 bg-white rounded-xl shadow text-gray-700 italic">
+<<<<<<< HEAD
           “The services that Outsource2india provided helped us achieve substantial cost and time savings on several difficult projects.”
+=======
+          “The services that Nimble Acuity provided helped us achieve substantial cost and time savings on several difficult projects.”
+>>>>>>> Santhiya
           <footer className="mt-2 font-semibold">— Senior Vice President, Automotive & Transportation Industry Solutions Group</footer>
         </blockquote>
       </section>
 
       {/* Call to Action */}
       <section className="text-center bg-blue-50 p-8 rounded-2xl shadow">
+<<<<<<< HEAD
         <h2 className="text-2xl font-bold mb-4">Outsource IFRS Valuation Services to Outsource2india</h2>
+=======
+        <h2 className="text-2xl font-bold mb-4">Nimble IFRS Valuation Services to Nimble Acuity</h2>
+>>>>>>> Santhiya
         <p className="text-gray-700 mb-6">
           Increase efficiency, compliance, and cost-effectiveness with our IFRS valuation services. We help you understand and apply IFRS requirements tailored to your business needs.
         </p>
