@@ -26,7 +26,7 @@ const Navbar = () => {
     { name: "Marketing, Sales, Creative & Media", href: "/services/marketing-sales-creative-media" },
     { name: "Mortgage Service", href: "/services/MortgageService" },
     { name: "Data, AI, Analytics & Research", href: "/services/data-ai-analytics-research" },
-    { name: "Software Development", href: "#" },
+    { name: "Software Development", href: "/services/ITServices" },
     { name: "Customer Experience, Communications & Telephony", href: "/services/customer-experience-communications-telephony" },
     { name: "Operations, Procurement, Supply Chain & Manufacturing Support", href: "/services/operations-procurement-supplychain-manufacturing" },
     { name: "HR, Training, Admin & Specialized Professional Services", href: "/services/hr-training-admin-specialized-services" },

@@ -17,7 +17,7 @@ import LegalCorporateCompliance from "./pages/services/legal-corporate-complianc
 // import HealthcareMedTechSupport from "./pages/services/HealthcareBPO/healthcare-service";
 import HealthcareBPO from "./pages/services/HealthcareBPO/healthcare-service";
 import MortgageService from "./pages/services/Mortgage-Services/MortgageServices";
-
+import ITServices from "./pages/services/SoftwareDevelopment/ITServices";
 import DataAIAnalyticsResearch from "./pages/services/data-ai-analytics-research";
 import MarketingSalesCreativeMedia from "./pages/services/marketing-sales-creative-media";
 import CustomerExperienceCommunicationsTelephony from "./pages/services/customer-experience-communications-telephony";
@@ -549,8 +549,88 @@ import REOListingSupportServices from "./pages/services/Mortgage-Services/REOSup
 import RealEstateTitleSupport from "./pages/services/Mortgage-Services/REOSupport/RealEstateTitleSupport";
 import LeaseAbstactionSupportServices from "./pages/services/Mortgage-Services/REOSupport/LeaseAbstactionSupportServices";
 
-{/* Mortgage Loan */}
+{/* Mortgage Loan */ }
 import MortgageLoanServicing from "./pages/services/Mortgage-Services/MortgageLoan/MortgageLoanServicing";
+
+
+{/* SoftwareDevelopment */ }
+{/* custom Software */ }
+import CustomSoftwareDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/CustomSoftwareDevelopment";
+import EmbeddedSoftwareDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/EmbeddedSoftwareDevelopment";
+import AlgorithmAnalysisDesign from "./pages/services/SoftwareDevelopment/CustomSoftware/AlgorithmAnalysisDesign";
+import HighFidelityDesign from "./pages/services/SoftwareDevelopment/CustomSoftware/HighFidelityDesign";
+import OTTAppDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/OTTAppDevelopment";
+import RestAPIDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/RestAPIDevelopment";
+import InteractiveKioskSoftwareDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/InteractiveKioskSoftwareDevelopment";
+import FirmwareDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/FirmwareDevelopment";
+import LMSDevelopmentServices from "./pages/services/SoftwareDevelopment/CustomSoftware/LMSDevelopmentServices";
+import IoTAnalyticsDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/IoTAnalyticsDevelopment";
+import DeviceDriversDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/DeviceDriversDevelopment";
+import MVPDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/MVPDevelopment";
+import AndroidTVAppDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/AndroidTVAppDevelopment";
+import SitecoreDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/SitecoreDevelopment";
+import SoftwareModernization from "./pages/services/SoftwareDevelopment/CustomSoftware/SoftwareModernization";
+import BespokeSoftwareDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/BespokeSoftwareDevelopment";
+import CustomTemplateDesign from "./pages/services/SoftwareDevelopment/CustomSoftware/CustomTemplateDesign";
+import BSPDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/BSPDevelopment";
+import ChromecastAppDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/ChromecastAppDevelopment";
+import SoftwareRequirementAnalysis from "./pages/services/SoftwareDevelopment/CustomSoftware/SoftwareRequirementAnalysis";
+import HMIDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/HMIDevelopment";
+import ElixirDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/ElixirDevelopment";
+import SoftwareArchitectureDesign from "./pages/services/SoftwareDevelopment/CustomSoftware/SoftwareArchitectureDesign";
+import CISasService from "./pages/services/SoftwareDevelopment/CustomSoftware/CISasService";
+import EthereumDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/EthereumDevelopment";
+import IoTasAService from "./pages/services/SoftwareDevelopment/CustomSoftware/IoTasAService";
+import FileMakerDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/FileMakerDevelopment";
+import FullStackDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/FullStackDevelopment";
+import SoftwareProductDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/SoftwareProductDevelopment";
+import MachineLearningConsulting from "./pages/services/SoftwareDevelopment/CustomSoftware/MachineLearningConsulting";
+import IeoDevelopmentServices from "./pages/services/SoftwareDevelopment/CustomSoftware/IeoDevelopmentServices";
+import SoftwareProgramming from "./pages/services/SoftwareDevelopment/CustomSoftware/SoftwareProgramming";
+import IotAppDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/IotAppDevelopment";
+import InteractivePrototypeServices from "./pages/services/SoftwareDevelopment/CustomSoftware/InteractivePrototypeServices";
+import DesktopApplicationDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/DesktopApplicationDevelopment";
+import NopcommerceDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/NopcommerceDevelopment";
+import LegacyApplicationModernization from "./pages/services/SoftwareDevelopment/CustomSoftware/LegacyApplicationModernization";
+import AgileSoftwareDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/AgileSoftwareDevelopment";
+import NearshoreSoftwareDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/NearshoreSoftwareDevelopment";
+import LiferayDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/LiferayDevelopment";
+import GameDevelopmentServices from "./pages/services/SoftwareDevelopment/CustomSoftware/GameDevelopmentServices";
+import SoftwareRndServices from "./pages/services/SoftwareDevelopment/CustomSoftware/SoftwareRndServices";
+import MatlabDevelopmentServices from "./pages/services/SoftwareDevelopment/CustomSoftware/MatlabDevelopmentServices";
+import SoftwareMaintenanceServices from "./pages/services/SoftwareDevelopment/CustomSoftware/SoftwareMaintenanceServices";
+import OffshoreSoftwareDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/OffshoreSoftwareDevelopment";
+import PocDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/PocDevelopment";
+import ChatbotDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/ChatbotDevelopment";
+import CoreModernizationServices from "./pages/services/SoftwareDevelopment/CustomSoftware/CoreModernizationServices";
+import StoDevelopmentServices from "./pages/services/SoftwareDevelopment/CustomSoftware/StoDevelopmentServices";
+import ProductManagementServices from "./pages/services/SoftwareDevelopment/CustomSoftware/ProductManagementServices";
+import PaymentGatewayIntegrationServices from "./pages/services/SoftwareDevelopment/CustomSoftware/PaymentGatewayIntegrationServices";
+import ApplicationDevelopmentServices from "./pages/services/SoftwareDevelopment/CustomSoftware/ApplicationDevelopmentServices";
+import ApplicationLifecycleManagementServices from "./pages/services/SoftwareDevelopment/CustomSoftware/ApplicationLifecycleManagementServices";
+import NFTMarketplaceDevelopmentServices from "./pages/services/SoftwareDevelopment/CustomSoftware/NFTMarketplaceDevelopmentServices";
+import RecognitionSoftwareDevelopmentServices from "./pages/services/SoftwareDevelopment/CustomSoftware/RecognitionSoftwareDevelopmentServices";
+import DigitalInteractiveServices from "./pages/services/SoftwareDevelopment/CustomSoftware/DigitalInteractiveServices";
+import SoftwareProductEngineering from "./pages/services/SoftwareDevelopment/CustomSoftware/SoftwareProductEngineering";
+import FraudDetectionSoftwareDevelopmentServices from "./pages/services/SoftwareDevelopment/CustomSoftware/FraudDetectionSoftwareDevelopmentServices";
+import ApplicationReengineeringServices from "./pages/services/SoftwareDevelopment/CustomSoftware/ApplicationReengineeringServices";
+import VRPrototypingServices from "./pages/services/SoftwareDevelopment/CustomSoftware/VRPrototypingServices";
+import BusinessApplicationDevelopment from "./pages/services/SoftwareDevelopment/CustomSoftware/BusinessApplicationDevelopment";
+import ICODevelopmentServices from "./pages/services/SoftwareDevelopment/CustomSoftware/ICODevelopmentServices";
+import SoftwareDevelopmentForStartups from "./pages/services/SoftwareDevelopment/CustomSoftware/SoftwareDevelopmentForStartups";
+import FintechSoftwareDevelopmentServices from "./pages/services/SoftwareDevelopment/CustomSoftware/FintechSoftwareDevelopmentServices";
+
+{/* Mobile App */ }
+import AppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/AppDevelopmentServices";
+import AndroidAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/AndroidAppDevelopmentServices";
+import XamarinAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/XamarinAppDevelopmentServices";
+import FintechAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/FintechAppDevelopmentServices";
+import ReactNativeDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/ReactNativeDevelopmentServices";
+import J2MEAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/J2MEAppDevelopmentServices";
+import RapidApplicationDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/RapidApplicationDevelopmentServices";
+import IOSAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/iOSAppDevelopmentServices";
+import MobileCommerceDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/MobileCommerceDevelopmentServices";
+import KotlinAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/KotlinAppDevelopmentServices";
 
 
 const queryClient = new QueryClient();
@@ -573,6 +653,7 @@ const App = () => (
               <Route path="/services/finance-accounting-finops" element={<FinanceAccountingFinOps />} />
               <Route path="/services/healthcare-BPO-Service" element={<HealthcareBPO />} />
               <Route path="/services/MortgageService" element={<MortgageService />} />
+              <Route path="/services/ITServices" element={<ITServices />} />
               <Route path="/services/legal-corporate-compliance" element={<LegalCorporateCompliance />} />
               <Route path="/services/data-ai-analytics-research" element={<DataAIAnalyticsResearch />} />
               <Route path="/services/marketing-sales-creative-media" element={<MarketingSalesCreativeMedia />} />
@@ -1107,6 +1188,89 @@ const App = () => (
 
               {/* Mortgage Loan */}
               <Route path="/services/MortgageService/MortgageLoanServicing" element={<MortgageLoanServicing />} />
+
+              {/* SoftwareDevelopment */}
+              {/* custom Software */}
+              <Route path="/services/ITServices/CustomSoftwareDevelopment" element={<CustomSoftwareDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/EmbeddedSoftwareDevelopment" element={<EmbeddedSoftwareDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/AlgorithmAnalysisDesign" element={<AlgorithmAnalysisDesign />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/HighFidelityDesign" element={<HighFidelityDesign />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/OTTAppDevelopment" element={<OTTAppDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/RestAPIDevelopment" element={<RestAPIDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/InteractiveKioskSoftwareDevelopment" element={<InteractiveKioskSoftwareDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/FirmwareDevelopment" element={<FirmwareDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/LMSDevelopmentServices" element={<LMSDevelopmentServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/IoTAnalyticsDevelopment" element={<IoTAnalyticsDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/DeviceDriversDevelopment" element={<DeviceDriversDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/MVPDevelopment" element={<MVPDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/AndroidTVAppDevelopment" element={<AndroidTVAppDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/SitecoreDevelopment" element={<SitecoreDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/SoftwareModernization" element={<SoftwareModernization />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/BespokeSoftwareDevelopment" element={<BespokeSoftwareDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/CustomTemplateDesign" element={<CustomTemplateDesign />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/BSPDevelopment" element={<BSPDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/ChromecastAppDevelopment" element={<ChromecastAppDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/SoftwareRequirementAnalysis" element={<SoftwareRequirementAnalysis />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/HMIDevelopment" element={<HMIDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/ElixirDevelopment" element={<ElixirDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/SoftwareArchitectureDesign" element={<SoftwareArchitectureDesign />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/CISasService" element={<CISasService />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/EthereumDevelopment" element={<EthereumDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/IoTasAService" element={<IoTasAService />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/FileMakerDevelopment" element={<FileMakerDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/FullStackDevelopment" element={<FullStackDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/SoftwareProductDevelopment" element={<SoftwareProductDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/MachineLearningConsulting" element={<MachineLearningConsulting />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/IeoDevelopmentServices" element={<IeoDevelopmentServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/SoftwareProgramming" element={<SoftwareProgramming />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/IotAppDevelopment" element={<IotAppDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/InteractivePrototypeServices" element={<InteractivePrototypeServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/DesktopApplicationDevelopment" element={<DesktopApplicationDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/NopcommerceDevelopment" element={<NopcommerceDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/LegacyApplicationModernization" element={<LegacyApplicationModernization />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/AgileSoftwareDevelopment" element={<AgileSoftwareDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/NearshoreSoftwareDevelopment" element={<NearshoreSoftwareDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/LiferayDevelopment" element={<LiferayDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/GameDevelopmentServices" element={<GameDevelopmentServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/SoftwareRndServices" element={<SoftwareRndServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/MatlabDevelopmentServices" element={<MatlabDevelopmentServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/SoftwareMaintenanceServices" element={<SoftwareMaintenanceServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/OffshoreSoftwareDevelopment" element={<OffshoreSoftwareDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/PocDevelopment" element={<PocDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/ChatbotDevelopment" element={<ChatbotDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/CoreModernizationServices" element={<CoreModernizationServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/StoDevelopmentServices" element={<StoDevelopmentServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/ProductManagementServices" element={<ProductManagementServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/PaymentGatewayIntegrationServices" element={<PaymentGatewayIntegrationServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/ApplicationDevelopmentServices" element={<ApplicationDevelopmentServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/ApplicationLifecycleManagementServices" element={<ApplicationLifecycleManagementServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/NFTMarketplaceDevelopmentServices" element={<NFTMarketplaceDevelopmentServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/RecognitionSoftwareDevelopmentServices" element={<RecognitionSoftwareDevelopmentServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/DigitalInteractiveServices" element={<DigitalInteractiveServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/SoftwareProductEngineering" element={<SoftwareProductEngineering />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/FraudDetectionSoftwareDevelopmentServices" element={<FraudDetectionSoftwareDevelopmentServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/ApplicationReengineeringServices" element={<ApplicationReengineeringServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/VRPrototypingServices" element={<VRPrototypingServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/BusinessApplicationDevelopment" element={<BusinessApplicationDevelopment />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/ICODevelopmentServices" element={<ICODevelopmentServices />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/SoftwareDevelopmentForStartups" element={<SoftwareDevelopmentForStartups />} />
+              <Route path="/services/ITServices/CustomSoftwareDevelopment/FintechSoftwareDevelopmentServices" element={<FintechSoftwareDevelopmentServices />} />
+
+              {/* Mobile App */}
+              <Route path="/services/ITServices/MobileAppDevelopmentServices" element={<AppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/AndroidAppDevelopmentServices" element={<AndroidAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/XamarinAppDevelopmentServices" element={<XamarinAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/FintechAppDevelopmentServices" element={<FintechAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/ReactNativeDevelopmentServices" element={<ReactNativeDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/J2MEAppDevelopmentServices" element={<J2MEAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/RapidApplicationDevelopmentServices" element={<RapidApplicationDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/iOSAppDevelopmentServices" element={<IOSAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/MobileCommerceDevelopmentServices" element={<MobileCommerceDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/KotlinAppDevelopmentServices" element={<KotlinAppDevelopmentServices />} />
+
+
+
+
               {/* Shenbagavel End */}
 
               <Route path="/contact" element={<Contact />} />
