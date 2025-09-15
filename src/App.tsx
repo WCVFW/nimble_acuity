@@ -677,6 +677,220 @@ import EmbroideryServices from "./pages/services/creative-design/graphic-design/
 import SignageDesignServices from "./pages/services/creative-design/graphic-design/SignageDesignServices";
 import CorporateDesignServices from "./pages/services/creative-design/graphic-design/CorporateDesignServices";
 import EmailDesignServices from "./pages/services/creative-design/graphic-design/EmailDesignServices";
+import BrandDesignServices from "./pages/services/creative-design/graphic-design/BrandDesignServices";
+import MenuDesign from "./pages/services/creative-design/graphic-design/MenuDesign";
+import EcommerceDesignPage from "./pages/services/creative-design/graphic-design/EcommerceDesignPage";
+import EcommerceDesign from "./pages/services/creative-design/graphic-design/EcommerceDesignPage";
+import WebDesign from "./pages/services/creative-design/graphic-design/WebDesign";
+import LabelDesign from "./pages/services/creative-design/graphic-design/LabelDesign";
+import PromotionalMaterialDesign from "./pages/services/creative-design/graphic-design/PromotionalMaterialDesign";
+import VisualDesignServices from "./pages/services/creative-design/graphic-design/VisualDesignServices";
+import BusinessCardDesignServices from "./pages/services/creative-design/graphic-design/BusinessCardDesignServices";
+import NewsletterDesignServices from "./pages/services/creative-design/graphic-design/NewsletterDesignServices";
+import AnnualReportDesignServices from "./pages/services/creative-design/graphic-design/AnnualReportDesignServices";
+import FlyerDesignServices from "./pages/services/creative-design/graphic-design/FlyerDesignServices";
+import PackagingDesignServices from "./pages/services/creative-design/graphic-design/PackagingDesignServices";
+import PackagingArtworkServices from "./pages/services/creative-design/graphic-design/PackagingArtworkServices";
+import Product3DPackageDesign from "./pages/services/creative-design/graphic-design/Product3DPackageDesign";
+import CoverDesignServices from "./pages/services/creative-design/graphic-design/CoverDesignServices";
+import BannerDesignServices from "./pages/services/creative-design/graphic-design/BannerDesignServices";
+import BrochureDesignServices from "./pages/services/creative-design/graphic-design/BrochureDesignServices";
+import HoardingDesignServices from "./pages/services/creative-design/graphic-design/HoardingDesignServices";
+import InteriorBrandingServices from "./pages/services/creative-design/graphic-design/InteriorBrandingServices";
+import EditorialDesignServices from "./pages/services/creative-design/graphic-design/EditorialDesignServices";
+import PosterDesignServices from "./pages/services/creative-design/graphic-design/PosterDesignServices";
+import CatalogDesignServices from "./pages/services/creative-design/graphic-design/CatalogDesignServices";
+import ToteBagDesignServices from "./pages/services/creative-design/graphic-design/ToteBagDesignServices";
+import TattooDesignServices from "./pages/services/creative-design/graphic-design/TattooDesignServices";
+import InfographicDesignServices from "./pages/services/creative-design/graphic-design/InfographicDesignServices";
+import StationeryDesignServices from "./pages/services/creative-design/graphic-design/StationeryDesignServices";
+import CarWrapDesignServices from "./pages/services/creative-design/graphic-design/CarWrapDesignServices";
+import LetterheadDesignServices from "./pages/services/creative-design/graphic-design/LetterheadDesignServices";
+import InvitationDesignServices from "./pages/services/creative-design/graphic-design/InvitationDesignServices";
+import CalendarDesignServices from "./pages/services/creative-design/graphic-design/CalendarDesignServices";
+import ApparelDesignServices from "./pages/services/creative-design/graphic-design/ApparelDesignServices";
+import MerchandiseDesignServices from "./pages/services/creative-design/graphic-design/MerchandiseDesignServices";
+import TradeShowBoothDesign from "./pages/services/creative-design/graphic-design/TradeShowBoothDesign";
+import ThankYouCardDesign from "./pages/services/creative-design/graphic-design/ThankYouCardDesign";
+import TShirtDesign from "./pages/services/creative-design/graphic-design/TShirtDesign";
+import WordTemplateDesign from "./pages/services/creative-design/graphic-design/WordTemplateDesign";
+import StickerDesign from "./pages/services/creative-design/graphic-design/StickerDesign";
+import WhitePaperDesign from "./pages/services/creative-design/graphic-design/WhitePaperDesign";
+import CampaignDesign from "./pages/services/creative-design/graphic-design/CampaignDesign";
+import DesignThinking from "./pages/services/creative-design/graphic-design/DesignThinking";
+import WebPageLayoutDesign from "./pages/services/creative-design/graphic-design/WebPageLayoutDesign";
+import RealEstateBrochureDesign from "./pages/services/creative-design/graphic-design/RealEstateBrochureDesign";
+import MarketingCollateralDesign from "./pages/services/creative-design/graphic-design/MarketingCollateralDesign";
+import PresentationDesignServices from "./pages/services/creative-design/graphic-design/PresentationDesignServices";
+import Logo3DDesignServices from "./pages/services/creative-design/Logo-design/Logo3DDesignServices";
+import AnimatedLogoDesignServices from "./pages/services/creative-design/Logo-design/AnimatedLogoDesignServices";
+import Logo2DDesignServices from "./pages/services/creative-design/Logo-design/Logo2DDesignServices";
+import VectorArtworkServices from "./pages/services/creative-design/Logo-design/VectorArtworkServices";
+import LogoCleanupServices from "./pages/services/creative-design/Logo-design/LogoCleanupServices";
+import LayoutAndFormatting from "./pages/services/creative-design/Artwork/LayoutAndFormatting";
+import MagazineDesign from "./pages/services/creative-design/Artwork/MagazineDesign";
+import DesktopPublishing from "./pages/services/creative-design/Artwork/DesktopPublishing";
+import BookLayout from "./pages/services/creative-design/Artwork/BookLayout";
+import ImageOptimization from "./pages/services/creative-design/Artwork/ImageOptimization";
+import ImageToVectorConversion from "./pages/services/creative-design/Artwork/ImageToVectorConversion";
+import MagazineDigitization from "./pages/services/creative-design/Artwork/MagazineDigitization";
+import Art2DServices from "./pages/services/creative-design/Artwork/Art2DServices";
+import TypesettingServices from "./pages/services/creative-design/Prepress/TypesettingServices";
+import PodcastEditing from "./pages/services/creative-design/Audio-editing/PodcastEditing";
+import AudioConversion from "./pages/services/creative-design/Audio-editing/AudioConversion";
+import AdJingleCreation from "./pages/services/creative-design/Audio-editing/AdJingleCreation";
+import CorporateAudioEditing from "./pages/services/creative-design/Audio-editing/CorporateAudioEditing";
+import RadioProgramEditing from "./pages/services/creative-design/Audio-editing/RadioProgramEditing";
+import MusicEditingMixing from "./pages/services/creative-design/Audio-editing/MusicEditingMixing";
+import AdvertisingDesignServices from "./pages/services/creative-design/Audio-editing/AdvertisingDesignServices";
+import CharacterCreationServices from "./pages/services/creative-design/storyboard-creation/CharacterCreationServices";
+import CharacterDesigningServices from "./pages/services/creative-design/storyboard-creation/CharacterDesigningServices";
+import StoryboardAnimaticServices from "./pages/services/creative-design/storyboard-creation/StoryboardAnimaticServices";
+import CartoonStoryboardServices from "./pages/services/creative-design/storyboard-creation/CartoonStoryboardServices";
+import VideoGameStoryboardServices from "./pages/services/creative-design/storyboard-creation/VideoGameStoryboardServices";
+import PhotomaticStoryboardServices from "./pages/services/creative-design/storyboard-creation/PhotomaticStoryboardServices";
+import IllustrationStoryboardServices from "./pages/services/creative-design/storyboard-creation/IllustrationStoryboardServices";
+import ELearningStoryboardServices from "./pages/services/creative-design/storyboard-creation/ELearningStoryboardServices";
+import ThreeDSculptingServices from "./pages/services/creative-design/3D modeling/ThreeDSculptingServices";
+import ThreeDGameModelingServices from "./pages/services/creative-design/3D modeling/ThreeDGameModelingServices";
+import ThreeDTexturingServices from "./pages/services/creative-design/3D modeling/ThreeDTexturingServices";
+import ThreeDEnvironmentServices from "./pages/services/creative-design/3D modeling/ThreeDEnvironmentServices";
+import WeddingVideoEditing from "./pages/services/creative-design/creative-uk/WeddingVideoEditing";
+import VideoEditingServicesUK from "./pages/services/creative-design/creative-uk/VideoEditingServicesUK";
+import GraphicDesignServicesUK from "./pages/services/creative-design/creative-uk/GraphicDesignServicesUK";
+import RealEstateVideoEditing from "./pages/services/creative-design/creative-uk/RealEstateVideoEditing";
+import CorporateVideoEditing from "./pages/services/creative-design/video-editing/CorporateVideoEditing";
+import EdiusServicesPage from "./pages/services/creative-design/video-editing/EdiusServicesPage";
+import ExplainerVideoPage from "./pages/services/creative-design/video-editing/ExplainerVideoPage";
+import FilmServicesPage from "./pages/services/creative-design/video-editing/FilmServicesPage";
+import HolidayVideoEditing from "./pages/services/creative-design/video-editing/HolidayVideoEditing";
+import MotionGraphicsPage from "./pages/services/creative-design/video-editing/MotionGraphicsPage";
+import MP4VideoEditingPage from "./pages/services/creative-design/video-editing/MP4VideoEditingPage";
+import RealEstateDroneVideoEditing from "./pages/services/creative-design/video-editing/RealEstateDroneVideoEditing";
+import RealEstateVideoEditingPage from "./pages/services/creative-design/video-editing/RealEstateVideoEditingPage";
+import Video360Page from "./pages/services/creative-design/video-editing/Video360Page";
+import VideoCompositingPage from "./pages/services/creative-design/video-editing/VideoCompositingPage";
+import YouTubeMonitoringPage from "./pages/services/creative-design/video-editing/YouTubeMonitoringPage";
+import OutsourcingCreativeDesign from "./pages/services/creative-design/Articles/OutsourcingCreativeDesign";
+import AnimationTips from "./pages/services/creative-design/Articles/AnimationTips";
+import GraphicDesignTrends from "./pages/services/creative-design/Articles/GraphicDesignTrends";
+import VideoEditingTips from "./pages/services/creative-design/Articles/VideoEditingTips";
+import GraphicDesignResources from "./pages/services/creative-design/Articles/GraphicDesignResources";
+import DroneVideoEditingTips from "./pages/services/creative-design/Articles/DroneVideoEditingTips";
+import GraphicDesignPredictions2018 from "./pages/services/creative-design/Articles/GraphicDesignPredictions2018";
+import VideographyTrends2018 from "./pages/services/creative-design/Articles/VideographyTrends2018";
+import VideoEditingTools from "./pages/services/creative-design/Articles/VideoEditingTools";
+import CreativeDesignSteps from "./pages/services/creative-design/Articles/CreativeDesignSteps";
+import BrochurePrintingTips from "./pages/services/creative-design/Articles/BrochurePrintingTips";
+import PrepressTips from "./pages/services/creative-design/Articles/PrepressTips";
+import PrepressInfrastructure from "./pages/services/creative-design/Articles/PrepressInfrastructure";
+import BusinessWriting from "./pages/services/creative-design/Articles/BusinessWriting";
+import OutsourcingWriting from "./pages/services/creative-design/Articles/OutsourcingWriting";
+import VirtualReality from "./pages/services/creative-design/Articles/VirtualReality";
+import WritersInIndia from "./pages/services/creative-design/Articles/WritersInIndia";
+import MagazineLayoutGuide from "./pages/services/creative-design/Articles/MagazineLayoutGuide";
+import MagazineTips from "./pages/services/creative-design/Articles/MagazineTips";
+import DigitalArtworkFormat from "./pages/services/creative-design/Articles/DigitalArtworkFormat";
+import AdobeSuiteFAQs from "./pages/services/creative-design/Articles/AdobeSuiteFAQs";
+import StoryboardingTips from "./pages/services/creative-design/Articles/StoryboardingTips";
+import VideoEditingProficiency from "./pages/services/creative-design/Articles/VideoEditingProficiency";
+import PersonalizingAIArtwork from "./pages/services/creative-design/Articles/PersonalizingAIArtwork";
+import MovieEditingServices from "./pages/services/creative-design/video-editing/MovieEditingServices";
+import YouTubeEditingServices from "./pages/services/creative-design/video-editing/YouTubeEditingServices";
+import GoProVideoEditing from "./pages/services/creative-design/video-editing/GoProVideoEditing";
+import VideoBrochureServices from "./pages/services/creative-design/video-editing/VideoBrochureServices";
+import VideoSummaryServices from "./pages/services/creative-design/video-editing/VideoSummaryServices";
+import OnlineVideoEditingServices from "./pages/services/creative-design/video-editing/OnlineVideoEditingServices";
+import HomeVideoEditingServices from "./pages/services/creative-design/video-editing/HomeVideoEditingServices";
+import SportsVideoEditingServices from "./pages/services/creative-design/video-editing/SportsVideoEditingServices";
+import VideoCroppingServices from "./pages/services/creative-design/video-editing/VideoCroppingServices";
+import VideoTrimmingServices from "./pages/services/creative-design/video-editing/VideoTrimmingServices";
+import FilmReeditingServices from "./pages/services/creative-design/video-editing/FilmReeditingServices";
+import VideoTaggingServices from "./pages/services/creative-design/video-editing/VideoTaggingServices";
+import VideoStabilizingServices from "./pages/services/creative-design/video-editing/VideoStabilizingServices";
+import TestimonialVideoEditing from "./pages/services/creative-design/video-editing/TestimonialVideoEditing";
+import VRPostProduction from "./pages/services/creative-design/video-editing/VRPostProduction";
+import ProductVideoEditing from "./pages/services/creative-design/video-editing/ProductVideoEditing";
+import DroneVideoEditing from "./pages/services/creative-design/video-editing/DroneVideoEditing";
+import VideoClippingServices from "./pages/services/creative-design/video-editing/VideoClippingServices";
+import MedicalVideoEditingServices from "./pages/services/creative-design/video-editing/MedicalVideoEditingServices";
+import InterviewVideoEditing from "./pages/services/creative-design/video-editing/InterviewVideoEditing";
+import VlogVideoEditing from "./pages/services/creative-design/video-editing/VlogVideoEditing";
+import PictureToVideoEditing from "./pages/services/creative-design/video-editing/PictureToVideoEditing";
+import ExplainerVideoServices from "./pages/services/creative-design/video-editing/ExplainerVideoServices";
+import SalesPitchVideoEditing from "./pages/services/creative-design/video-editing/SalesPitchVideoEditing";
+import MedicalVideoProduction from "./pages/services/creative-design/video-editing/MedicalVideoProduction";
+import VeterinaryIllustration from "./pages/services/creative-design/Illustration/VeterinaryIllustration";
+import ProductIllustration from "./pages/services/creative-design/Illustration/ProductIllustration";
+import ChildrensBookIllustration from "./pages/services/creative-design/Illustration/ChildrensBookIllustration";
+import BookIllustrationServices from "./pages/services/creative-design/Illustration/BookIllustrationServices";
+import ScientificIllustrationServices from "./pages/services/creative-design/Illustration/ScientificIllustrationServices";
+import FashionIllustration from "./pages/services/creative-design/Illustration/FashionIllustration";
+import SportsIllustration from "./pages/services/creative-design/Illustration/SportsIllustration";
+import ArchitecturalIllustration from "./pages/services/creative-design/Illustration/ArchitecturalIllustration";
+import ComicIllustration from "./pages/services/creative-design/Illustration/ComicIllustration";
+import BrandIllustration from "./pages/services/creative-design/Illustration/BrandIllustration";
+import StoryboardIllustration from "./pages/services/creative-design/Illustration/StoryboardIllustration";
+import VectorIllustration from "./pages/services/creative-design/Illustration/VectorIllustration";
+import PopArtIllustration from "./pages/services/creative-design/Illustration/PopArtIllustration";
+import SurgicalIllustration from "./pages/services/creative-design/Illustration/SurgicalIllustration";
+import DentalIllustration from "./pages/services/creative-design/Illustration/DentalIllustration";
+import OphthalmologyIllustration from "./pages/services/creative-design/Illustration/OphthalmologyIllustration";
+import ImageIllustrationServices from "./pages/services/creative-design/Illustration/ImageIllustrationServices";
+import MascotDesignServices from "./pages/services/creative-design/Illustration/MascotDesignServices";
+import EducationalIllustration from "./pages/services/creative-design/Illustration/EducationalIllustration";
+import CharacterIllustration from "./pages/services/creative-design/Illustration/CharacterIllustration";
+import InfographicsVideoPage from "./pages/services/creative-design/Illustration/InfographicsVideoPage";
+import InsuranceIllustration from "./pages/services/creative-design/Illustration/InsuranceIllustration";
+import Infographics2D from "./pages/services/creative-design/Illustration/Infographics2D";
+import ComicIllustrationServices from "./pages/services/creative-design/Illustration/ComicIllustrationServices";
+import PetIllustrationServices from "./pages/services/creative-design/Illustration/PetIllustrationServices";
+import TextEditingProofreading from "./pages/services/creative-design/writing-services/TextEditingProofreading";
+import ProofreadingServices from "./pages/services/creative-design/writing-services/ProofreadingServices";
+import ContentEditingServices from "./pages/services/creative-design/writing-services/ContentEditingServices";
+import ContentRewritingServices from "./pages/services/creative-design/writing-services/ContentRewritingServices";
+import ContentWritingServices from "./pages/services/creative-design/writing-services/ContentWritingServices";
+import SEOContentWritingServices from "./pages/services/creative-design/writing-services/SEOContentWritingServices";
+import SummaryReviewWritingServices from "./pages/services/creative-design/writing-services/SummaryReviewWritingServices";
+import ArticleWritingServices from "./pages/services/creative-design/writing-services/ArticleWritingServices";
+import ProductDescriptionServices from "./pages/services/creative-design/writing-services/ProductDescriptionServices";
+import BlogWritingServices from "./pages/services/creative-design/writing-services/BlogWritingServices";
+import BusinessWritingServices from "./pages/services/creative-design/writing-services/BusinessWritingServices";
+import AcademicWritingServices from "./pages/services/creative-design/writing-services/AcademicWritingServices";
+import SpeechWritingServices from "./pages/services/creative-design/writing-services/SpeechWritingServices";
+import MedicalWritingService from "./pages/services/creative-design/writing-services/MedicalWritingServices";
+import LegalWritingServices from "./pages/services/creative-design/writing-services/LegalWritingServices";
+import TravelWritingServices from "./pages/services/creative-design/writing-services/TravelWritingServices";
+import TechnicalWritingServices from "./pages/services/creative-design/writing-services/TechnicalWritingServices";
+import AbstractWritingServices from "./pages/services/creative-design/writing-services/AbstractWritingServices";
+import WebsiteCopywritingServices from "./pages/services/creative-design/writing-services/WebsiteCopywritingServices";
+import ScientificWritingServices from "./pages/services/creative-design/writing-services/ScientificWritingServices";
+import ManuscriptEditingServices from "./pages/services/creative-design/Animation/ManuscriptEditingServices";
+import ManuscriptEditingService from "./pages/services/creative-design/Animation/ManuscriptEditingServices";
+import FeatureFilmAnimationServices from "./pages/services/creative-design/Animation/FeatureFilmAnimationServices";
+import VisualEffectsServices from "./pages/services/creative-design/Animation/VisualEffectsServices";
+import RotoscopingServices from "./pages/services/creative-design/Animation/RotoscopingServices";
+import Animation2DServices from "./pages/services/creative-design/Animation/Animation2DServices";
+import AnimaticsServices from "./pages/services/creative-design/Animation/AnimaticsServices";
+import ThreeDAnimationServices from "./pages/services/creative-design/Animation/ThreeDAnimationServices";
+import FlashAnimationServices from "./pages/services/creative-design/Animation/FlashAnimationServices";
+import AnimationRenderingServices from "./pages/services/creative-design/Animation/AnimationRenderingServices";
+import WhiteboardAnimationServices from "./pages/services/creative-design/Animation/WhiteboardAnimationServices";
+import TVCommercialAnimationServices from "./pages/services/creative-design/Animation/TVCommercialAnimationServices";
+import CharacterAnimationServices from "./pages/services/creative-design/Animation/CharacterAnimationServices";
+import StopMotionAnimationServices from "./pages/services/creative-design/Animation/StopMotionAnimationServices";
+import ProductAnimationServices from "./pages/services/creative-design/Animation/ProductAnimationServices";
+import TitlingAnimationServices from "./pages/services/creative-design/Animation/TitlingAnimationServices";
+import ArchitecturalAnimationServices from "./pages/services/creative-design/Animation/ArchitecturalAnimationServices";
+import AnimatedFeatureFilms from "./pages/services/creative-design/Animation/AnimatedFeatureFilms";
+import CutoutAnimation from "./pages/services/creative-design/Animation/CutoutAnimation";
+import ForensicAnimation from "./pages/services/creative-design/Animation/ForensicAnimation";
+import EngineeringAnimation from "./pages/services/creative-design/Animation/EngineeringAnimation";
+import MusicVideoAnimation from "./pages/services/creative-design/Animation/MusicVideoAnimation";
+import KineticTypography from "./pages/services/creative-design/Animation/KineticTypography";
+import CartoonAnimation from "./pages/services/creative-design/Animation/CartoonAnimation";
+import RotoPaintArt from "./pages/services/creative-design/Animation/RotoPaintArt";
+import VFXWireRemoval from "./pages/services/creative-design/Animation/VFXWireRemoval";
 
 
 
@@ -1467,8 +1681,252 @@ const App = () => (
               <Route path="creative-services/signage-design-services.asp" element={<SignageDesignServices/>} />
               <Route path="creative-services/corporate-design-services.asp" element={<CorporateDesignServices/>} />
               <Route path="creative-services/e-mail-design-services.asp" element={<EmailDesignServices/>} />
+              <Route path="creative-services/brand-design-services.asp" element={<BrandDesignServices/>} />
+              <Route path="creative-services/design/menu-design-services.asp" element={<MenuDesign/>} />
+              <Route path="creative-services/e-commerce-design-services.asp" element={<EcommerceDesign/>} />
+              <Route path="creative-services/web-design-services.asp" element={<WebDesign/>} />
+              <Route path="creative-services/label-design-services.asp" element={<LabelDesign/>} />
+              <Route path="creative-services/design/promotional-material-design-services.asp" element={<PromotionalMaterialDesign/>} />
+              <Route path="creative-services/visual-design-services.asp" element={<VisualDesignServices/>} />
+              <Route path="creative-services/design/business-card-design-services.asp" element={<BusinessCardDesignServices/>} />
+              <Route path="creative-services/newsletter-design-services.asp" element={<NewsletterDesignServices/>} />
+              <Route path="creative-services/design/annual-report-design-services.asp" element={<AnnualReportDesignServices/>} />
+              <Route path="creative-services/design/flyer-design-services.asp" element={<FlyerDesignServices/>} />
+              <Route path="creative-services/packaging-design-services.asp" element={<PackagingDesignServices/>} />
+              <Route path="creative-services/packaging-artwork-product-label-design-services.asp" element={<PackagingArtworkServices/>} />
+              <Route path="creative-services/3d-product-package-design-services.asp" element={<Product3DPackageDesign/>} />
+              <Route path="creative-services/cover-design-services.asp" element={<CoverDesignServices/>} />
+              <Route path="creative-services/banner-design.asp" element={<BannerDesignServices/>} />
+              <Route path="creative-services/brochure-design.asp" element={<BrochureDesignServices/>} />
+              <Route path="creative-services/hoarding-design-services.asp" element={<HoardingDesignServices/>} />
+              <Route path="creative-services/interior-branding-design-services.asp" element={<InteriorBrandingServices/>} />
+              <Route path="creative-services/design/editorial-design-services.asp" element={<EditorialDesignServices/>} />
+              <Route path="creative-services/design/poster-design-services.asp" element={<PosterDesignServices/>} />
+              <Route path="creative-services/catalog-designing-services.asp" element={<CatalogDesignServices/>} />
+              <Route path="creative-services/tote-bag-design-services.asp" element={<ToteBagDesignServices/>} />
+              <Route path="creative-services/tattoo-design-services.asp" element={<TattooDesignServices/>} />
+              <Route path="creative-services/infographics-design-services.asp" element={<InfographicDesignServices/>} />
+              <Route path="creative-services/stationery-design-services.asp" element={<StationeryDesignServices/>} />
+              <Route path="creative-services/design/car-wrap-design-services.asp" element={<CarWrapDesignServices/>} />
+              <Route path="creative-services/letterhead-design-services.asp" element={<LetterheadDesignServices/>} />
+              <Route path="creative-services/design/invitation-design-services.asp" element={<InvitationDesignServices/>} />
+              <Route path="creative-services/design/calendar-design-services.asp" element={<CalendarDesignServices/>} />
+              <Route path="creative-services/apparel-design-services.asp" element={<ApparelDesignServices/>} />
+              <Route path="creative-services/merchandise-design-services.asp" element={<MerchandiseDesignServices/>} />
+              <Route path="creative-services/trade-show-booth-design-services.asp" element={<TradeShowBoothDesign/>} />
+              <Route path="creative-services/thank-you-card-design-services.asp" element={<ThankYouCardDesign/>} />
+              <Route path="creative-services/t-shirt-design-services.asp" element={<TShirtDesign/>} />
+              <Route path="creative-services/word-template-design-services.asp" element={<WordTemplateDesign/>} />
+              <Route path="creative-services/sticker-design-services.asp" element={<StickerDesign/>} />
+              <Route path="creative-services/design/white-paper-design-services.asp" element={<WhitePaperDesign/>} />
+              <Route path="creative-services/campaign-design-services.asp" element={<CampaignDesign/>} />
+              <Route path="creative-services/design-thinking-services.asp" element={<DesignThinking/>} />
+              <Route path="creative-services/web-page-layout-design-services.asp" element={<WebPageLayoutDesign/>} />
+              <Route path="creative-services/real-estate-brochure-design-services.asp" element={<RealEstateBrochureDesign/>} />
+              <Route path="creative-services/marketing-and-promotional-design-services.asp" element={<MarketingCollateralDesign/>} />
+              <Route path="creative-services/marketing-and-promotional-design-services.asp" element={<PresentationDesignServices/>} />
 
 
+              {/* Creative-design -> Logo-design  */}
+              <Route path="creative-services/3d-logo-design.asp" element={<Logo3DDesignServices/>} />
+              <Route path="creative-services/animated-logo-design.asp" element={<AnimatedLogoDesignServices/>} />
+              <Route path="creative-services/2d-logo-design-services.asp" element={<Logo2DDesignServices/>} />
+              <Route path="creative-services/vector-artwork-services.asp" element={<VectorArtworkServices/>} />
+              <Route path="creative-services/logo-cleanup-services.asp" element={<LogoCleanupServices/>} />
+
+              {/* Creative-design -> Artwork  */}
+              <Route path="creative-services/layout-formatting-design-services.asp" element={<LayoutAndFormatting/>} />
+              <Route path="services/magazine-typesetting.asp" element={<MagazineDesign/>} />
+              <Route path="services/DTP.asp" element={<DesktopPublishing/>} />
+              <Route path="creative-services/book-layout-design.asp" element={<BookLayout/>} />
+              <Route path="creative-services/image-optimization-vectorization-services.asp" element={<ImageOptimization/>} />
+              <Route path="creative-services/image-to-vector-conversion-services.asp" element={<ImageToVectorConversion/>} />
+              <Route path="creative-services/magazine-digitization-services.asp" element={<MagazineDigitization/>} />
+              <Route path="creative-services/2d-art-services.asp" element={<Art2DServices/>} />
+
+              {/* Creative-design -> Prepress */}
+              <Route path="creative-services/typesetting-services.asp" element={<TypesettingServices/>} />
+
+              
+              {/* Creative-design -> Audio Editing */}
+              <Route path="creative-services/podcast-editing-services.asp" element={<PodcastEditing/>} />
+              <Route path="creative-services/audio-conversion-services.asp" element={<AudioConversion/>} />
+              <Route path="creative-services/ad-jingle-creation-services.asp" element={<AdJingleCreation/>} />
+              <Route path="creative-services/corporate-audio-editing-services.asp" element={<CorporateAudioEditing/>} />
+              <Route path="creative-services/radio-program-editing-services.asp" element={<RadioProgramEditing/>} />
+              <Route path="creative-services/music-editing-and-mixing-services.asp" element={<MusicEditingMixing/>} />
+
+              {/* Creative-design -> Advertising */}
+              <Route path="creative-services/digital-advertising.asp" element={<AdvertisingDesignServices/>} />
+
+              {/* Creative-design -> Storyboard creation */}
+              <Route path="creative-services/character-creation-services.asp" element={<CharacterCreationServices/>} />
+              <Route path="creative-services/character-designing-services.asp" element={<CharacterDesigningServices/>} />
+              <Route path="creative-services/storyboard-animatic-services.asp" element={<StoryboardAnimaticServices/>} />
+              <Route path="creative-services/cartoon-storyboard-services.asp" element={<CartoonStoryboardServices/>} />
+              <Route path="creative-services/video-game-storyboard-services.asp" element={<VideoGameStoryboardServices/>} />
+              <Route path="creative-services/photomatic-storyboard-services.asp" element={<PhotomaticStoryboardServices/>} />
+              <Route path="creative-services/illustration-storyboard-services.asp" element={<IllustrationStoryboardServices/>} />
+              <Route path="creative-services/elearning-storyboard-services.asp" element={<ELearningStoryboardServices/>} />
+
+               {/* Creative-design -> Storyboard creation */}             
+              <Route path="creative-services/3d-sculpting-services.asp" element={<ThreeDSculptingServices/>} />
+              <Route path="creative-services/3d-game-modeling-services.asp" element={<ThreeDGameModelingServices/>} />
+              <Route path="creative-services/3d-texturing-services.asp" element={<ThreeDTexturingServices/>} />
+              <Route path="creative-services/3d-environment-design-services.asp" element={<ThreeDEnvironmentServices/>} />
+
+               {/* Creative-design ->creative-uk*/}             
+              <Route path="uk/creative/video-editing/wedding-video-editing-services.asp" element={<WeddingVideoEditing/>} />
+              <Route path="uk/creative/video-editing/video-editing-services.asp" element={<VideoEditingServicesUK/>} />
+              <Route path="uk/creative/graphic-design-services.asp" element={<GraphicDesignServicesUK/>} />
+              <Route path="uk/creative/video-editing/real-estate-video-editing-services.asp" element={<RealEstateVideoEditing/>} />
+
+              {/* Creative-design ->Video-Editing*/}      
+              <Route path="creative-services/film/corporate-video-editing.asp" element={<CorporateVideoEditing/>} />
+              <Route path="creative-services/film/edius-video-editing.asp" element={<EdiusServicesPage/>} />
+              <Route path="creative-services/film/explainer-video-creation-services.asp" element={<ExplainerVideoPage/>} />
+              <Route path="creative-services/film/" element={<FilmServicesPage/>} />
+              <Route path="creative-services/holiday-video-editing-services.asp" element={<HolidayVideoEditing/>} />
+              <Route path="creative-services/motion-graphic-services.asp" element={<MotionGraphicsPage/>} />
+              <Route path="creative-services/film/mp4-video-editing.asp" element={<MP4VideoEditingPage/>} />
+              <Route path="creative-services/film/real-estate-drone-video-editing-services.asp" element={<RealEstateDroneVideoEditing/>} />
+              <Route path="creative-services/film/real-estate-video-editing-services.asp" element={<RealEstateVideoEditingPage/>} />
+              <Route path="creative-services/film/360-degree-video-editing.asp" element={<Video360Page/>} />
+              <Route path="creative-services/film/video-compositing-services.asp" element={<VideoCompositingPage/>} />
+              <Route path="creative-services/wedding-video-editing-services.asp" element={<WeddingVideoEditing/>} />
+              <Route path="creative-services/film/youtube-monitoring-services.asp" element={<YouTubeMonitoringPage/>} />
+              <Route path="creative-services/articles/artwork-personalization-localization-through-ai-in-design.asp" element={<MovieEditingServices/>} />
+              <Route path="creative-services/film/youtube-video-editing.asp" element={<YouTubeEditingServices/>} />
+              <Route path="creative-services/film/gopro-video-editing.asp" element={<GoProVideoEditing/>} />
+              <Route path="creative-services/video-brochure.asp" element={<VideoBrochureServices/>} />
+              <Route path="creative-services/film/video-summary-services.asp" element={<VideoSummaryServices/>} />
+              <Route path="creative-services/film/online-video-editing-services.asp" element={<OnlineVideoEditingServices/>} />
+              <Route path="creative-services/film/home-video-editing-services.asp" element={<HomeVideoEditingServices/>} />
+              <Route path="creative-services/film/sports-video-editing-services.asp" element={<SportsVideoEditingServices/>} />
+              <Route path="creative-services/video-cropping-services.asp" element={<VideoCroppingServices/>} />
+              <Route path="creative-services/video-trimming-services.asp" element={<VideoTrimmingServices/>} />
+              <Route path="creative-services/film-re-editing-services.asp" element={<FilmReeditingServices/>} />
+              <Route path="creative-services/film/video-tagging-services.asp" element={<VideoTaggingServices/>} />
+              <Route path="creative-services/film/video-stabilizing-services.asp" element={<VideoStabilizingServices/>} />
+              <Route path="creative-services/film/testimonial-video-editing-services.asp" element={<TestimonialVideoEditing/>} />
+              <Route path="creative-services/film/virtual-reality-post-production-services.asp" element={<VRPostProduction/>} />
+              <Route path="creative-services/film/product-video-editing-services.asp" element={<ProductVideoEditing/>} />
+              <Route path="creative-services/film/drone-video-editing-services.asp" element={<DroneVideoEditing/>} />
+              <Route path="creative-services/film/video-clipping-services.asp" element={<VideoClippingServices/>} />
+              <Route path="creative-services/medical-video-editing-services.asp" element={<MedicalVideoEditingServices/>} />
+              <Route path="creative-services/interview-video-editing-services.asp" element={<InterviewVideoEditing/>} />
+              <Route path="creative-services/film/vlog-video-editing-services.asp" element={<VlogVideoEditing/>} />
+              <Route path="creative-services/film/picture-to-video-editing-services.asp" element={<PictureToVideoEditing/>} />
+              <Route path="creative-services/3d-explainer-video-production-services.asp" element={<ExplainerVideoServices/>} />
+              <Route path="creative-services/sales-pitch-video-editing-services.asp" element={<SalesPitchVideoEditing/>} />
+              <Route path="creative-services/film/medical-video-production-services.asp" element={<MedicalVideoProduction/>} />
+
+
+              {/* Creative-design ->Articles*/}      
+              <Route path="creative-services/film/movie-editing-services.asp" element={<OutsourcingCreativeDesign/>} />
+              <Route path="creative-services/articles/8-tips-to-make-animation-realistic.asp" element={<AnimationTips/>} />
+              <Route path="creative-services/articles/top-21-graphic-design-trends.asp" element={<GraphicDesignTrends/>} />
+              <Route path="creative-services/articles/video-editing-tips-and-tricks.asp" element={<VideoEditingTips/>} />
+              <Route path="creative-services/articles/top-graphic-design-resources.asp" element={<GraphicDesignResources/>} />
+              <Route path="creative-services/articles/drone-video-editing-tips.asp" element={<DroneVideoEditingTips/>} />
+              <Route path="creative-services/articles/graphic-design-trends-predictions.asp" element={<GraphicDesignPredictions2018/>} />
+              <Route path="creative-services/articles/10-emerging-videography-trends.asp" element={<VideographyTrends2018/>} />
+              <Route path="creative-services/articles/quick-effective-video-editing-tools.asp" element={<VideoEditingTools/>} />
+              <Route path="creative-services/articles/brochure-printing-tips.asp" element={<BrochurePrintingTips/>} />
+              <Route path="creative-services/articles/prepress-publishing-printing.asp" element={<PrepressTips/>} />
+              <Route path="creative-services/articles/prepress-infrastructure.asp" element={<PrepressInfrastructure/>} />
+              <Route path="content/business-writing.asp" element={<BusinessWriting/>} />
+              <Route path="creative-services/articles/the-potential-and-perils-of-outsourcing-writing-to-india.asp" element={<OutsourcingWriting/>} />
+              <Route path="creative-services/articles/changing-face-of-virtual-reality.asp" element={<VirtualReality/>} />
+              <Route path="creative-services/articles/looking-for-a-writer-in-india-discover-diversity.asp" element={<WritersInIndia/>} />
+              <Route path="creative-services/articles/10-key-elements-magazine-layout-design.asp" element={<MagazineLayoutGuide/>} />
+              <Route path="creative-services/articles/magazine-design-layout-tips.asp" element={<MagazineTips/>} />
+              <Route path="creative-services/articles/correct-format-digital-artwork.asp" element={<DigitalArtworkFormat/>} />
+              <Route path="creative-services/articles/faqs-on-adobe-creative-suite.asp" element={<AdobeSuiteFAQs/>} />
+              <Route path="creative-services/articles/storyboarding-tips-for-short-films.asp" element={<StoryboardingTips/>} />
+              <Route path="creative-services/articles/video-editing-software-proficiency.asp" element={<VideoEditingProficiency/>} />
+              <Route path="creative-services/articles/artwork-personalization-localization-through-ai-in-design.asp" element={<PersonalizingAIArtwork/>} />
+
+
+              {/* Creative-design -> Illustration */}
+              <Route path="creative-services/veterinary-illustration-services.asp" element={<VeterinaryIllustration/>} />
+              <Route path="creative-services/product-illustration-services.asp" element={<ProductIllustration/>} />
+              <Route path="creative-services/children-book-illustration.asp" element={<ChildrensBookIllustration/>} />
+              <Route path="creative-services/book-illustration-services.asp" element={<BookIllustrationServices/>} />
+              <Route path="creative-services/scientific-illustration-services.asp" element={<ScientificIllustrationServices/>} />
+              <Route path="creative-services/fashion-illustration-services.asp" element={<FashionIllustration/>} />
+              <Route path="creative-services/sports-illustration-services.asp" element={<SportsIllustration/>} />
+              <Route path="creative-services/architectural-illustration-services.asp" element={<ArchitecturalIllustration/>} />
+              <Route path="creative-services/comic-illustration-services.asp" element={<ComicIllustration/>} />
+              <Route path="creative-services/brand-illustration-services.asp" element={<BrandIllustration/>} />
+              <Route path="creative-services/storyboard-illustration-services.asp" element={<StoryboardIllustration/>} />
+              <Route path="creative-services/vector-illustration-services.asp" element={<VectorIllustration/>} />
+              <Route path="creative-services/pop-art-illustration-services.asp" element={<PopArtIllustration/>} />
+              <Route path="creative-services/surgical-illustration-services.asp" element={<SurgicalIllustration/>} />
+              <Route path="creative-services/dental-illustration-services.asp" element={<DentalIllustration/>} />
+              <Route path="creative-services/ophthalmology-illustration-services.asp" element={<OphthalmologyIllustration/>} />
+              <Route path="creative-services/image-illustration-services.asp" element={<ImageIllustrationServices/>} />
+              <Route path="creative-services/mascot-design-services.asp" element={<MascotDesignServices/>} />
+              <Route path="creative-services/educational-illustration-services.asp" element={<EducationalIllustration/>} />
+              <Route path="creative-services/character-illustration-services.asp" element={<CharacterIllustration/>} />
+              <Route path="creative-services/2d-infographics-video-production-services.asp" element={<InfographicsVideoPage/>} />
+              <Route path="creative-services/insurance-illustration-services.asp" element={<InsuranceIllustration/>} />
+              <Route path="creative-services/2d-infographic-services.asp" element={<Infographics2D/>} />
+              <Route path="creative-services/comic-book-illustration-services.asp" element={<ComicIllustrationServices/>} />
+              <Route path="creative-services/pet-illustration-services.asp" element={<PetIllustrationServices/>} />
+
+
+
+              {/* Creative-design -> Writing services */}
+              <Route path="creative-services/writing/textediting-proofreading-services.asp" element={<TextEditingProofreading/>} />
+              <Route path="creative-services/writing/proofreading.asp" element={<ProofreadingServices/>} />
+              <Route path="creative-services/writing/content-editing.asp" element={<ContentEditingServices/>} />
+              <Route path="creative-services/writing/content-rewriting.asp" element={<ContentRewritingServices/>} />
+              <Route path="creative-services/writing/content-development-services.asp" element={<ContentWritingServices/>} />
+              <Route path="creative-services/writing/SEO-content-writing.asp" element={<SEOContentWritingServices/>} />
+              <Route path="creative-services/writing/review-summary-writing.asp" element={<SummaryReviewWritingServices/>} />
+              <Route path="creative-services/writing/article-writing.asp" element={<ArticleWritingServices/>} />
+              <Route path="creative-services/writing/description-writing.asp" element={<ProductDescriptionServices/>} />
+              <Route path="creative-services/writing/blog-writing.asp" element={<BlogWritingServices/>} />
+              <Route path="creative-services/writing/business-writing.asp" element={<BusinessWritingServices/>} />
+              <Route path="creative-services/writing/academic-writing.asp" element={<AcademicWritingServices/>} />
+              <Route path="creative-services/writing/speech-writing.asp" element={<SpeechWritingServices/>} />
+              <Route path="creative-services/writing/medical-writing.asp" element={<MedicalWritingService/>} />
+              <Route path="creative-services/writing/legal-writing.asp" element={<LegalWritingServices/>} />
+              <Route path="creative-services/writing/travel-writing.asp" element={<TravelWritingServices/>} />
+              <Route path="content/technical-writing.asp" element={<TechnicalWritingServices/>} />
+              <Route path="kpo/abstract-writing.asp" element={<AbstractWritingServices/>} />
+              <Route path="creative-services/writing/website-copywriting-services.asp" element={<WebsiteCopywritingServices/>} />
+              <Route path="creative-services/writing/scientific-writing-services.asp" element={<ScientificWritingServices/>} />
+              <Route path="creative-services/writing/manuscript-editing-services.asp" element={<ManuscriptEditingServices/>} />
+
+              {/* Creative-design -> Animation */}
+              <Route path="creative-services/stock-animation-services.asp" element={<ManuscriptEditingService/>} />
+              <Route path="creative-services/feature-film-animation-services.asp" element={<FeatureFilmAnimationServices/>} />
+              <Route path="creative-services/visual-effects-services.asp" element={<VisualEffectsServices/>} />
+              <Route path="creative-services/rotoscoping-services.asp" element={<RotoscopingServices/>} />
+              <Route path="creative-services/2D-animation-services.asp" element={<Animation2DServices/>} />
+              <Route path="creative-services/animatics-services.asp" element={<AnimaticsServices/>} />
+              <Route path="creative-services/3D-animation-services.asp" element={<ThreeDAnimationServices/>} />
+              <Route path="creative-services/flash-animation-services.asp" element={<FlashAnimationServices/>} />
+              <Route path="creative-services/3d-animation-rendering-services.asp" element={<AnimationRenderingServices/>} />
+              <Route path="creative-services/whiteboard-animation-services.asp" element={<WhiteboardAnimationServices/>} />
+              <Route path="creative-services/tv-commercial-animation-services.asp" element={<TVCommercialAnimationServices/>} />
+              <Route path="creative-services/character-animation-services.asp" element={<CharacterAnimationServices/>} />
+              <Route path="creative-services/stop-motion-animation-services.asp" element={<StopMotionAnimationServices/>} />
+              <Route path="creative-services/product-animation-services.asp" element={<ProductAnimationServices/>} />
+              <Route path="creative-services/explainer-video-animation-services.asp" element={<ExplainerVideoServices/>} />
+              <Route path="creative-services/titling-animation-services.asp" element={<TitlingAnimationServices/>} />
+              <Route path="creative-services/architectural-animation-services.asp" element={<ArchitecturalAnimationServices/>} />
+              <Route path="creative-services/animated-feature-films-services.asp" element={<AnimatedFeatureFilms/>} />
+              <Route path="creative-services/cutout-animation-services.asp" element={<CutoutAnimation/>} />
+              <Route path="creative-services/forensic-animation-services.asp" element={<ForensicAnimation/>} />
+              <Route path="creative-services/engineering-animation-services.asp" element={<EngineeringAnimation/>} />
+              <Route path="creative-services/music-video-animation-services.asp" element={<MusicVideoAnimation/>} />
+              <Route path="creative-services/kinetic-typography-services.asp" element={<KineticTypography/>} />
+              <Route path="creative-services/cartoon-animation-services.asp" element={<CartoonAnimation/>} />
+              <Route path="creative-services/rotopaint-art-services.asp" element={<RotoPaintArt/>} />
+              <Route path="creative-services/vfx-wire-removal-services.asp" element={<VFXWireRemoval/>} />
 
 
 

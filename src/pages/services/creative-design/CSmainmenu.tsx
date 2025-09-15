@@ -89,10 +89,7 @@ const MenuLink: MenuSection[] = [
     { label: "Design Thinking Services", href: "/creative-services/design-thinking-services.asp" },
     { label: "Web Page Layout Design Services", href: "/creative-services/web-page-layout-design-services.asp" },
     { label: "Real Estate Brochure Design Services", href: "/creative-services/real-estate-brochure-design-services.asp" },
-    { label: "Pitch Deck Design Services", href: "/creative-services/pitch-deck-design-services.asp" },
-    { label: "Caricature Design Services", href: "/creative-services/caricature-design-services.asp" },
     { label: "Marketing and Promotional Design Services", href: "/creative-services/marketing-and-promotional-design-services.asp" },
-    { label: "InDesign Services", href: "/creative/graphic-design/indesign-services.asp" },
     { label: "Presentation Design Services", href: "/creative/graphic-design/presentation-design-services.asp" }
   ]
 },
