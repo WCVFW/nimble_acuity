@@ -7,9 +7,10 @@ const Programs = () => {
   const navigate = useNavigate();
 
   return (
+    <div><NavigationMenu/>
     <div className="max-w-5xl mx-auto min-h-screen text-gray-900 overflow-hidden">
       
-      <NavigationMenu/>
+   
       <h1 className="text-4xl font-bold mb-8 text-center">
         Nimble Corporate Finance Support Services
       </h1>
@@ -143,6 +144,7 @@ const Programs = () => {
           Contact Nimble Acuity today to explore how we can support your financial objectives through tailored, high-quality corporate finance solutions.
         </p>
       </section>
+    </div>
     </div>
   );
 };
