@@ -706,6 +706,62 @@ import ZendDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment
 import WebsiteMaintenance from "./pages/services/SoftwareDevelopment/WebDevelopment/WebsiteMaintenance";
 import FlaskDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/FlaskDevelopment";
 import AspNetDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/AspNetDevelopment";
+import WebsiteMigration from "./pages/services/SoftwareDevelopment/WebDevelopment/WebsiteMigration";
+import GatsbyDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/GatsbyDevelopment";
+import WebSocketDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/WebSocketDevelopment";
+import WireframeDesign from "./pages/services/SoftwareDevelopment/WebDevelopment/WireframeDesign";
+import GolangDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/GolangDevelopment";
+import OpenCartDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/OpenCartDevelopment";
+import KenticoDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/KenticoDevelopment";
+import DrupalDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/DrupalDevelopment";
+import MobileWebsiteDesign from "./pages/services/SoftwareDevelopment/WebDevelopment/MobileWebsiteDesign";
+import RiaDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/RiaDevelopment";
+import SpaDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/SpaDevelopment";
+import ParallaxDesign from "./pages/services/SoftwareDevelopment/WebDevelopment/ParallaxDesign";
+import SitefinityDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/SitefinityDevelopment";
+import EcommerceDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/EcommerceDevelopment";
+
+{/* Service Now */}
+import ServiceNowServices from "./pages/services/SoftwareDevelopment/ServiceNow/ServiceNowServices";
+import ServiceNowConsulting from "./pages/services/SoftwareDevelopment/ServiceNow/ServiceNowConsulting";
+import HrServiceNow from "./pages/services/SoftwareDevelopment/ServiceNow/HrServiceNow";
+import ServiceNowChange from "./pages/services/SoftwareDevelopment/ServiceNow/ServiceNowChange";
+import ServiceNowITOM from "./pages/services/SoftwareDevelopment/ServiceNow/ServiceNowITOM";
+import ServiceNowResourceManagement from "./pages/services/SoftwareDevelopment/ServiceNow/ServiceNowResourceManagement";
+import ServiceNowAppDevelopment from "./pages/services/SoftwareDevelopment/ServiceNow/ServiceNowAppDevelopment";
+import ServiceNowCSM from "./pages/services/SoftwareDevelopment/ServiceNow/ServiceNowCSM";
+import ServiceNowMigration from "./pages/services/SoftwareDevelopment/ServiceNow/ServiceNowMigration";
+import ServiceNowITBM from "./pages/services/SoftwareDevelopment/ServiceNow/ServiceNowITBM";
+import ServiceNowIntegration from "./pages/services/SoftwareDevelopment/ServiceNow/ServiceNowIntegration";
+import ServiceNowSecOps from "./pages/services/SoftwareDevelopment/ServiceNow/ServiceNowSecOps";
+import ServiceNowITSM from "./pages/services/SoftwareDevelopment/ServiceNow/ServiceNowITSM";
+
+
+{/* Azure */}
+import AzureConsulting from "./pages/services/SoftwareDevelopment/Azure/AzureConsulting";
+import AzureManagedServices from "./pages/services/SoftwareDevelopment/Azure/AzureManagedServices";
+import AzureIntegration from "./pages/services/SoftwareDevelopment/Azure/AzureIntegration";
+import AzureCloudConsulting from "./pages/services/SoftwareDevelopment/Azure/AzureCloudConsulting";
+import AzureMigration from "./pages/services/SoftwareDevelopment/Azure/AzureMigration";
+import AzureApplicationDevelopment from "./pages/services/SoftwareDevelopment/Azure/AzureApplicationDevelopment";
+import AzureSynapseAnalytics from "./pages/services/SoftwareDevelopment/Azure/AzureSynapseAnalytics";
+
+
+{/* Microsoft Services */}
+import MicrosoftConsulting from "./pages/services/SoftwareDevelopment/MicrosoftServices/MicrosoftConsulting";
+import MicrosoftPowerAutomate from "./pages/services/SoftwareDevelopment/MicrosoftServices/MicrosoftPowerAutomate";
+import SharePointDevelopment from "./pages/services/SoftwareDevelopment/MicrosoftServices/SharePointDevelopment";
+import MicrosoftSharePoint from "./pages/services/SoftwareDevelopment/MicrosoftServices/MicrosoftSharePoint";
+import PowerAppsConsulting from "./pages/services/SoftwareDevelopment/MicrosoftServices/PowerAppsConsulting";
+import PowerBIServices from "./pages/services/SoftwareDevelopment/MicrosoftServices/PowerBIServices";
+import MicrosoftDynamics from "./pages/services/SoftwareDevelopment/MicrosoftServices/MicrosoftDynamics";
+import MicrosoftDynamicsCustomization from "./pages/services/SoftwareDevelopment/MicrosoftServices/MicrosoftDynamicsCustomization";
+import MicrosoftOffice365 from "./pages/services/SoftwareDevelopment/MicrosoftServices/MicrosoftOffice365";
+import MicrosoftStackDevelopment from "./pages/services/SoftwareDevelopment/MicrosoftServices/MicrosoftStackDevelopment";
+import MicrosoftTeamsConsulting from "./pages/services/SoftwareDevelopment/MicrosoftServices/MicrosoftTeamsConsulting";
+
+{/* E-Commerce */}
+import ECommerceDevelopment from "./pages/services/SoftwareDevelopment/E-Commerce/ECommerceDevelopment";
 
 
 
@@ -1416,7 +1472,62 @@ const App = () => (
               <Route path="/services/ITServices/WebDevelopment/WebsiteMaintenance" element={<WebsiteMaintenance />} />
               <Route path="/services/ITServices/WebDevelopment/FlaskDevelopment" element={<FlaskDevelopment />} />
               <Route path="/services/ITServices/WebDevelopment/AspNetDevelopment" element={<AspNetDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/WebsiteMigration" element={<WebsiteMigration />} />
+              <Route path="/services/ITServices/WebDevelopment/GatsbyDevelopment" element={<GatsbyDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/WebSocketDevelopment" element={<WebSocketDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/WireframeDesign" element={<WireframeDesign />} />
+              <Route path="/services/ITServices/WebDevelopment/GolangDevelopment" element={<GolangDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/OpenCartDevelopment" element={<OpenCartDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/KenticoDevelopment" element={<KenticoDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/DrupalDevelopment" element={<DrupalDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/MobileWebsiteDesign" element={<MobileWebsiteDesign />} />
+              <Route path="/services/ITServices/WebDevelopment/RiaDevelopment" element={<RiaDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/SpaDevelopment" element={<SpaDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/ParallaxDesign" element={<ParallaxDesign />} />
+              <Route path="/services/ITServices/WebDevelopment/SitefinityDevelopment" element={<SitefinityDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/EcommerceDevelopment" element={<EcommerceDevelopment />} />
 
+
+              {/* Service Now */}
+              <Route path="/services/ITServices/ServiceNow" element={<ServiceNowServices />} />
+              <Route path="/services/ITServices/ServiceNow/ServiceNowConsulting" element={<ServiceNowConsulting />} />
+              <Route path="/services/ITServices/ServiceNow/HrServiceNow" element={<HrServiceNow />} />
+              <Route path="/services/ITServices/ServiceNow/ServiceNowChange" element={<ServiceNowChange />} />
+              <Route path="/services/ITServices/ServiceNow/ServiceNowITOM" element={<ServiceNowITOM />} />
+              <Route path="/services/ITServices/ServiceNow/ServiceNowResourceManagement" element={<ServiceNowResourceManagement />} />
+              <Route path="/services/ITServices/ServiceNow/ServiceNowAppDevelopment" element={<ServiceNowAppDevelopment />} />
+              <Route path="/services/ITServices/ServiceNow/ServiceNowCSM" element={<ServiceNowCSM />} />
+              <Route path="/services/ITServices/ServiceNow/ServiceNowMigration" element={<ServiceNowMigration />} />
+              <Route path="/services/ITServices/ServiceNow/ServiceNowITBM" element={<ServiceNowITBM />} />
+              <Route path="/services/ITServices/ServiceNow/ServiceNowIntegration" element={<ServiceNowIntegration />} />
+              <Route path="/services/ITServices/ServiceNow/ServiceNowITSM" element={<ServiceNowITSM />} />
+              <Route path="/services/ITServices/ServiceNow/ServiceNowSecOps" element={<ServiceNowSecOps />} />
+
+              {/* Azure */}
+              <Route path="/services/ITServices/AzureConsulting" element={<AzureConsulting />} />
+              <Route path="/services/ITServices/AzureConsulting/AzureManagedServices" element={<AzureManagedServices />} />
+              <Route path="/services/ITServices/AzureConsulting/AzureIntegration" element={<AzureIntegration />} />
+              <Route path="/services/ITServices/AzureConsulting/AzureCloudConsulting" element={<AzureCloudConsulting />} />
+              <Route path="/services/ITServices/AzureConsulting/AzureMigration" element={<AzureMigration />} />
+              <Route path="/services/ITServices/AzureConsulting/AzureApplicationDevelopment" element={<AzureApplicationDevelopment />} />
+              <Route path="/services/ITServices/AzureConsulting/AzureSynapseAnalytics" element={<AzureSynapseAnalytics />} />
+
+              {/* Microsoft Services */}
+              <Route path="/services/ITServices/MicrosoftConsulting" element={<MicrosoftConsulting />} />
+              <Route path="/services/ITServices/MicrosoftConsulting/MicrosoftPowerAutomate" element={<MicrosoftPowerAutomate />} />
+              <Route path="/services/ITServices/MicrosoftConsulting/SharePointDevelopment" element={<SharePointDevelopment />} />
+              <Route path="/services/ITServices/MicrosoftConsulting/MicrosoftSharePoint" element={<MicrosoftSharePoint />} />
+              <Route path="/services/ITServices/MicrosoftConsulting/PowerAppsConsulting" element={<PowerAppsConsulting />} />
+              <Route path="/services/ITServices/MicrosoftConsulting/PowerBIServices" element={<PowerBIServices />} />
+              <Route path="/services/ITServices/MicrosoftConsulting/MicrosoftDynamics" element={<MicrosoftDynamics />} />
+              <Route path="/services/ITServices/MicrosoftConsulting/MicrosoftDynamicsCustomization" element={<MicrosoftDynamicsCustomization />} />
+              <Route path="/services/ITServices/MicrosoftConsulting/MicrosoftOffice365" element={<MicrosoftOffice365 />} />
+              <Route path="/services/ITServices/MicrosoftConsulting/MicrosoftStackDevelopment" element={<MicrosoftStackDevelopment />} />
+              <Route path="/services/ITServices/MicrosoftConsulting/MicrosoftTeamsConsulting" element={<MicrosoftTeamsConsulting />} />
+
+
+              {/* E-Commerce */}
+              <Route path="/services/ITServices/ECommerceDevelopment" element={<ECommerceDevelopment />} />
 
 
 
