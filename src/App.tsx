@@ -628,9 +628,85 @@ import FintechAppDevelopmentServices from "./pages/services/SoftwareDevelopment/
 import ReactNativeDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/ReactNativeDevelopmentServices";
 import J2MEAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/J2MEAppDevelopmentServices";
 import RapidApplicationDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/RapidApplicationDevelopmentServices";
-import IOSAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/iOSAppDevelopmentServices";
+import IOSAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/IOSAppDevelopmentServices";
 import MobileCommerceDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/MobileCommerceDevelopmentServices";
 import KotlinAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/KotlinAppDevelopmentServices";
+import IosAppMaintenanceServices from "./pages/services/SoftwareDevelopment/MobileApp/IosAppMaintenanceServices";
+import ArabicAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/ArabicAppDevelopmentServices";
+import XcodeAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/XcodeAppDevelopmentServices";
+import WearableAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/WearableAppDevelopmentServices";
+import IpadAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/IpadAppDevelopmentServices";
+import TitaniumAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/TitaniumAppDevelopmentServices";
+import HoloLensAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/HoloLensAppDevelopmentServices";
+import NativeAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/NativeAppDevelopmentServices";
+import Html5MobileAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/Html5MobileAppDevelopmentServices";
+import IPhoneAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/IPhoneAppDevelopmentServices";
+import SwiftAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/SwiftAppDevelopmentServices";
+import AppleWatchAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/AppleWatchAppDevelopmentServices";
+import JQueryAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/JQueryAppDevelopmentServices";
+import PhoneGapAppDevelopmentServices from "./pages/services/SoftwareDevelopment/MobileApp/PhoneGapAppDevelopmentServices";
+import OnDemandServicesAppDevelopment from "./pages/services/SoftwareDevelopment/MobileApp/OnDemandServicesAppDevelopment";
+import MobileAppDesignServices from "./pages/services/SoftwareDevelopment/MobileApp/MobileAppDesignServices";
+import IBeaconAppDevelopment from "./pages/services/SoftwareDevelopment/MobileApp/IBeaconAppDevelopment";
+import DatingAppDevelopment from "./pages/services/SoftwareDevelopment/MobileApp/DatingAppDevelopment";
+import HybridAppDevelopment from "./pages/services/SoftwareDevelopment/MobileApp/HybridAppDevelopment";
+import FlutterAppDevelopment from "./pages/services/SoftwareDevelopment/MobileApp/FlutterAppDevelopment";
+import AndroidAppMaintenance from "./pages/services/SoftwareDevelopment/MobileApp/AndroidAppMaintenance";
+import IonicAppDevelopment from "./pages/services/SoftwareDevelopment/MobileApp/IonicAppDevelopment";
+import CrossPlatformAppDevelopment from "./pages/services/SoftwareDevelopment/MobileApp/CrossPlatformAppDevelopment";
+
+
+{/* ApplicationServices */ }
+import ApplicationServices from "./pages/services/SoftwareDevelopment/Application/ApplicationServices";
+import ADACompliance from "./pages/services/SoftwareDevelopment/Application/ADACompliance";
+import HederaDevelopment from "./pages/services/SoftwareDevelopment/Application/HederaDevelopment";
+import OdooDevelopment from "./pages/services/SoftwareDevelopment/Application/OdooDevelopment";
+import APIDevelopment from "./pages/services/SoftwareDevelopment/Application/APIDevelopment";
+import HyperledgerDevelopment from "./pages/services/SoftwareDevelopment/Application/HyperledgerDevelopment";
+import PimcoreDevelopment from "./pages/services/SoftwareDevelopment/Application/PimcoreDevelopment";
+import APIManagement from "./pages/services/SoftwareDevelopment/Application/APIManagement";
+import KonyDevelopment from "./pages/services/SoftwareDevelopment/Application/KonyDevelopment";
+import PythonDevelopment from "./pages/services/SoftwareDevelopment/Application/PythonDevelopment";
+import ApplicationModernization from "./pages/services/SoftwareDevelopment/Application/ApplicationModernization";
+import LAMPDevelopment from "./pages/services/SoftwareDevelopment/Application/LAMPDevelopment";
+import SvelteDevelopment from "./pages/services/SoftwareDevelopment/Application/SvelteDevelopment";
+import ARGameDevelopment from "./pages/services/SoftwareDevelopment/Application/ARGameDevelopment";
+import LaravelDevelopment from "./pages/services/SoftwareDevelopment/Application/LaravelDevelopment";
+import APIIntegration from "./pages/services/SoftwareDevelopment/Application/APIIntegration";
+import DAppsDevelopment from "./pages/services/SoftwareDevelopment/Application/DAppsDevelopment";
+import LinuxDevelopment from "./pages/services/SoftwareDevelopment/Application/LinuxDevelopment";
+import UnityDevelopment from "./pages/services/SoftwareDevelopment/Application/UnityDevelopment";
+import DartDevelopment from "./pages/services/SoftwareDevelopment/Application/DartDevelopment";
+import MotionUIDevelopment from "./pages/services/SoftwareDevelopment/Application/MotionUIDevelopment";
+import ApplicationSupport from "./pages/services/SoftwareDevelopment/Application/ApplicationSupport";
+import GraphQLDevelopment from "./pages/services/SoftwareDevelopment/Application/GraphQLDevelopment";
+import ObjectiveCDevelopment from "./pages/services/SoftwareDevelopment/Application/ObjectiveCDevelopment";
+
+
+{/* Web Development Services */ }
+import WebDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/WebDevelopment";
+import ScalaDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/ScalaDevelopment";
+import LandingPageDesign from "./pages/services/SoftwareDevelopment/WebDevelopment/LandingPageDesign";
+import WordPressMigration from "./pages/services/SoftwareDevelopment/WebDevelopment/WordPressMigration";
+import PHPDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/PHPDevelopment";
+import PWA from "./pages/services/SoftwareDevelopment/WebDevelopment/PWA";
+import WordPressPlugin from "./pages/services/SoftwareDevelopment/WebDevelopment/WordPressPlugin";
+import RubyOnRails from "./pages/services/SoftwareDevelopment/WebDevelopment/RubyOnRails";
+import WebApplication from "./pages/services/SoftwareDevelopment/WebDevelopment/WebApplication";
+import WordPressSupport from "./pages/services/SoftwareDevelopment/WebDevelopment/WordPressSupport";
+import JoomlaDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/JoomlaDevelopment";
+import BootstrapDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/BootstrapDevelopment";
+import WordPressTheme from "./pages/services/SoftwareDevelopment/WebDevelopment/WordPressTheme";
+import ResponsiveWebDesign from "./pages/services/SoftwareDevelopment/WebDevelopment/ResponsiveWebDesign";
+import WordPressDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/WordPressDevelopment";
+import DjangoDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/DjangoDevelopment";
+import UiUxDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/UiUxDevelopment";
+import DotNetNukeDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/DotNetNukeDevelopment";
+import ZendDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/ZendDevelopment";
+import WebsiteMaintenance from "./pages/services/SoftwareDevelopment/WebDevelopment/WebsiteMaintenance";
+import FlaskDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/FlaskDevelopment";
+import AspNetDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/AspNetDevelopment";
+
 
 
 const queryClient = new QueryClient();
@@ -1267,6 +1343,79 @@ const App = () => (
               <Route path="/services/ITServices/MobileAppDevelopmentServices/iOSAppDevelopmentServices" element={<IOSAppDevelopmentServices />} />
               <Route path="/services/ITServices/MobileAppDevelopmentServices/MobileCommerceDevelopmentServices" element={<MobileCommerceDevelopmentServices />} />
               <Route path="/services/ITServices/MobileAppDevelopmentServices/KotlinAppDevelopmentServices" element={<KotlinAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/IosAppMaintenanceServices" element={<IosAppMaintenanceServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/ArabicAppDevelopmentServices" element={<ArabicAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/XcodeAppDevelopmentServices" element={<XcodeAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/WearableAppDevelopmentServices" element={<WearableAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/IpadAppDevelopmentServices" element={<IpadAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/TitaniumAppDevelopmentServices" element={<TitaniumAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/NativeAppDevelopmentServices" element={<NativeAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/Html5MobileAppDevelopmentServices" element={<Html5MobileAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/HoloLensAppDevelopmentServices" element={<HoloLensAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/IPhoneAppDevelopmentServices" element={<IPhoneAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/SwiftAppDevelopmentServices" element={<SwiftAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/JQueryAppDevelopmentServices" element={<JQueryAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/AppleWatchAppDevelopmentServices" element={<AppleWatchAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/PhoneGapAppDevelopmentServices" element={<PhoneGapAppDevelopmentServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/OnDemandServicesAppDevelopment" element={<OnDemandServicesAppDevelopment />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/MobileAppDesignServices" element={<MobileAppDesignServices />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/IBeaconAppDevelopment" element={<IBeaconAppDevelopment />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/DatingAppDevelopment" element={<DatingAppDevelopment />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/HybridAppDevelopment" element={<HybridAppDevelopment />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/FlutterAppDevelopment" element={<FlutterAppDevelopment />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/AndroidAppMaintenance" element={<AndroidAppMaintenance />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/IonicAppDevelopment" element={<IonicAppDevelopment />} />
+              <Route path="/services/ITServices/MobileAppDevelopmentServices/CrossPlatformAppDevelopment" element={<CrossPlatformAppDevelopment />} />
+
+              {/* ApplicationServices */}
+              <Route path="/services/ITServices/ApplicationServices" element={<ApplicationServices />} />
+              <Route path="/services/ITServices/ApplicationServices/ADACompliance" element={<ADACompliance />} />
+              <Route path="/services/ITServices/ApplicationServices/HederaDevelopment" element={<HederaDevelopment />} />
+              <Route path="/services/ITServices/ApplicationServices/OdooDevelopment" element={<OdooDevelopment />} />
+              <Route path="/services/ITServices/ApplicationServices/APIDevelopment" element={<APIDevelopment />} />
+              <Route path="/services/ITServices/ApplicationServices/HyperledgerDevelopment" element={<HyperledgerDevelopment />} />
+              <Route path="/services/ITServices/ApplicationServices/PimcoreDevelopment" element={<PimcoreDevelopment />} />
+              <Route path="/services/ITServices/ApplicationServices/APIManagement" element={<APIManagement />} />
+              <Route path="/services/ITServices/ApplicationServices/KonyDevelopment" element={<KonyDevelopment />} />
+              <Route path="/services/ITServices/ApplicationServices/PythonDevelopment" element={<PythonDevelopment />} />
+              <Route path="/services/ITServices/ApplicationServices/ApplicationModernization" element={<ApplicationModernization />} />
+              <Route path="/services/ITServices/ApplicationServices/LAMPDevelopment" element={<LAMPDevelopment />} />
+              <Route path="/services/ITServices/ApplicationServices/SvelteDevelopment" element={<SvelteDevelopment />} />
+              <Route path="/services/ITServices/ApplicationServices/ARGameDevelopment" element={<ARGameDevelopment />} />
+              <Route path="/services/ITServices/ApplicationServices/LaravelDevelopment" element={<LaravelDevelopment />} />
+              <Route path="/services/ITServices/ApplicationServices/APIIntegration" element={<APIIntegration />} />
+              <Route path="/services/ITServices/ApplicationServices/DAppsDevelopment" element={<DAppsDevelopment />} />
+              <Route path="/services/ITServices/ApplicationServices/LinuxDevelopment" element={<LinuxDevelopment />} />
+              <Route path="/services/ITServices/ApplicationServices/UnityDevelopment" element={<UnityDevelopment />} />
+              <Route path="/services/ITServices/ApplicationServices/DartDevelopment" element={<DartDevelopment />} />
+              <Route path="/services/ITServices/ApplicationServices/MotionUIDevelopment" element={<MotionUIDevelopment />} />
+              <Route path="/services/ITServices/ApplicationServices/ApplicationSupport" element={<ApplicationSupport />} />
+              <Route path="/services/ITServices/ApplicationServices/GraphQLDevelopment" element={<GraphQLDevelopment />} />
+              <Route path="/services/ITServices/ApplicationServices/ObjectiveCDevelopment" element={<ObjectiveCDevelopment />} />
+
+              {/* Web Development Services */}
+              <Route path="/services/ITServices/WebDevelopment" element={<WebDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/ScalaDevelopment" element={<ScalaDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/LandingPageDesign" element={<LandingPageDesign />} />
+              <Route path="/services/ITServices/WebDevelopment/WordPressMigration" element={<WordPressMigration />} />
+              <Route path="/services/ITServices/WebDevelopment/PHPDevelopment" element={<PHPDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/PWA" element={<PWA />} />
+              <Route path="/services/ITServices/WebDevelopment/WordPressPlugin" element={<WordPressPlugin />} />
+              <Route path="/services/ITServices/WebDevelopment/RubyOnRails" element={<RubyOnRails />} />
+              <Route path="/services/ITServices/WebDevelopment/WebApplication" element={<WebApplication />} />
+              <Route path="/services/ITServices/WebDevelopment/WordPressSupport" element={<WordPressSupport />} />
+              <Route path="/services/ITServices/WebDevelopment/JoomlaDevelopment" element={<JoomlaDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/BootstrapDevelopment" element={<BootstrapDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/WordPressTheme" element={<WordPressTheme />} />
+              <Route path="/services/ITServices/WebDevelopment/ResponsiveWebDesign" element={<ResponsiveWebDesign />} />
+              <Route path="/services/ITServices/WebDevelopment/DjangoDevelopment" element={<DjangoDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/WordPressDevelopment" element={<WordPressDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/UiUxDevelopment" element={<UiUxDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/DotNetNukeDevelopment" element={<DotNetNukeDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/ZendDevelopment" element={<ZendDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/WebsiteMaintenance" element={<WebsiteMaintenance />} />
+              <Route path="/services/ITServices/WebDevelopment/FlaskDevelopment" element={<FlaskDevelopment />} />
+              <Route path="/services/ITServices/WebDevelopment/AspNetDevelopment" element={<AspNetDevelopment />} />
 
 
 
