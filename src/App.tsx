@@ -773,7 +773,7 @@ import SpreeCommerceDevelopment from "./pages/services/SoftwareDevelopment/E-Com
 import OsCommerceDevelopment from "./pages/services/SoftwareDevelopment/E-Commerce/OsCommerceDevelopment";
 import SquarespaceDevelopment from "./pages/services/SoftwareDevelopment/E-Commerce/SquarespaceDevelopment";
 
-{/* Cloud Counsulting */}
+{/* Cloud Counsulting */ }
 import CloudConsulting from "./pages/services/SoftwareDevelopment/CloudConsulting/CloudConsulting";
 import HybridCloudServices from "./pages/services/SoftwareDevelopment/CloudConsulting/HybridCloudServices";
 import MultiCloudManagement from "./pages/services/SoftwareDevelopment/CloudConsulting/MultiCloudManagement";
@@ -809,7 +809,7 @@ import HybridInfrastructureManagedServices from "./pages/services/SoftwareDevelo
 import PlatformAsAService from "./pages/services/SoftwareDevelopment/CloudConsulting/PlatformAsAService";
 import VirtualDesktopInfrastructure from "./pages/services/SoftwareDevelopment/CloudConsulting/VirtualDesktopInfrastructure";
 
-{/* IT Staffing */}
+{/* IT Staffing */ }
 import ITStaffingServices from "./pages/services/SoftwareDevelopment/ITStaffing/ITStaffingServices";
 import HireAngularDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/HireAngularDevelopers";
 import ITStaffingForWordPress from "./pages/services/SoftwareDevelopment/ITStaffing/ITStaffingForWordPress";
@@ -845,6 +845,99 @@ import OracleDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/Or
 import SwiftDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/SwiftDevelopers";
 import OracleDBA from "./pages/services/SoftwareDevelopment/ITStaffing/OracleDBA";
 import IPhoneAppDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/IPhoneAppDevelopers";
+
+
+{/* Software Testing */ }
+import SoftwareTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/SoftwareTesting";
+import RegressionTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/RegressionTestingServices";
+import SoftwareTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/SoftwareTestingServices";
+import NetworkTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/NetworkTestingServices";
+import TestingKnowledgeManagementServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/TestingKnowledgeManagementServices";
+import AcceptanceTestDrivenDevelopmentServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/AcceptanceTestDrivenDevelopmentServices";
+import ContinuousIntegrationServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/ContinuousIntegrationServices";
+import ReliabilityTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/ReliabilityTestingServices";
+import IndependentTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/IndependentTestingServices";
+import ManagedTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/ManagedTestingServices";
+import CompatibilityTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/CompatibilityTestingServices";
+import BetaTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/BetaTestingServices";
+import StressTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/StressTestingServices";
+import MainframeTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/MainframeTestingServices";
+import ManagedCrowdTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/ManagedCrowdTestingServices";
+import DevOpsTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/DevOpsTestingServices";
+import ComplianceTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/ComplianceTestingServices";
+import NetworkPenetrationTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/NetworkPenetrationTesting";
+import SoaWebServicesTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/SoaWebServicesTesting";
+import LocalizationTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/LocalizationTesting";
+import SoaTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/SoaTesting";
+import TestAutomationServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/TestAutomationServices";
+import LoadTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/LoadTesting";
+import SeleniumTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/SeleniumTesting";
+import TypesOfSoftwareTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/TypesOfSoftwareTesting";
+import VolumeTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/VolumeTesting";
+import RobotFrameworkTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/RobotFrameworkTesting";
+import IndustryTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/IndustryTestingServices";
+import RecoveryTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/RecoveryTesting";
+import BillingTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/BillingTesting";
+import ECommerceTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/ECommerceTesting";
+import InstallationTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/InstallationTesting";
+import EDITesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/EDITesting";
+import EmbeddedTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/EmbeddedTesting";
+import ETLTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/ETLTesting";
+import UsabilityTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/UsabilityTesting";
+import MobileApplicationTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/MobileApplicationTesting";
+import SoakTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/SoakTesting";
+import OutcomeBasedTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/OutcomeBasedTesting";
+import ComputerSystemValidation from "./pages/services/SoftwareDevelopment/SoftwareTesting/ComputerSystemValidation";
+import PerformanceTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/PerformanceTesting";
+import HappyPathTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/HappyPathTesting";
+import DesktopApplicationTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/DesktopApplicationTesting";
+import ScalabilityTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/ScalabilityTesting";
+import APITesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/APITesting";
+import MobileTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/MobileTesting";
+import SAPTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/SAPTesting";
+import WebsiteTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/WebsiteTesting";
+import ExternalPenetrationTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/ExternalPenetrationTesting";
+import BackwardCompatibilityTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/BackwardCompatibilityTesting";
+import CrmTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/CrmTestingServices";
+import InternalNetworkPenetrationTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/InternalNetworkPenetrationTesting";
+import BrowserCompatibilityTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/BrowserCompatibilityTesting";
+import SmokeTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/SmokeTestingServices";
+import FirewallPenetrationTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/FirewallPenetrationTesting";
+import RiskManagementTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/RiskManagementTesting";
+import SystemTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/SystemTestingServices";
+import PenetrationTestingServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/PenetrationTestingServices";
+import CyberSecurityTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/CyberSecurityTesting";
+import WebServicesTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/WebServicesTesting";
+import TestEnvironmentManagement from "./pages/services/SoftwareDevelopment/SoftwareTesting/TestEnvironmentManagement";
+import GUITesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/GUITesting";
+import CloudTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/CloudTesting";
+import TestProcessImprovement from "./pages/services/SoftwareDevelopment/SoftwareTesting/TestProcessImprovement";
+import GameTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/GameTesting";
+import UnitTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/UnitTesting";
+import SecurityTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/SecurityTesting";
+import VAPTServices from "./pages/services/SoftwareDevelopment/SoftwareTesting/VAPTServices";
+import IntegrationTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/IntegrationTesting";
+import GDPRCompliance from "./pages/services/SoftwareDevelopment/SoftwareTesting/GDPRCompliance";
+import SocialEngineering from "./pages/services/SoftwareDevelopment/SoftwareTesting/SocialEngineering";
+import SanityTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/SanityTesting";
+import SoftwareTestingProjects from "./pages/services/SoftwareDevelopment/SoftwareTesting/SoftwareTestingProjects";
+import WirelessPenetrationTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/WirelessPenetrationTesting";
+import ExploratoryTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/ExploratoryTesting";
+import ManagedQualityAssurance from "./pages/services/SoftwareDevelopment/SoftwareTesting/ManagedQualityAssurance";
+import WebAppPenetrationTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/WebAppPenetrationTesting";
+import UserAcceptanceTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/UserAcceptanceTesting";
+
+
+{/* IMS */}
+import ITInfrastructureManagement from "./pages/services/SoftwareDevelopment/IMS/ITInfrastructureManagement";
+import CybersecurityCountermeasures from "./pages/services/SoftwareDevelopment/IMS/CybersecurityCountermeasures";
+import ManagedVirtualizationServices from "./pages/services/SoftwareDevelopment/IMS/ManagedVirtualizationServices";
+import ApplicationPerformanceMonitoring from "./pages/services/SoftwareDevelopment/IMS/ApplicationPerformanceMonitoring";
+import ITRiskAndSecurity from "./pages/services/SoftwareDevelopment/IMS/ITRiskAndSecurity";
+import ManagedStorageServices from "./pages/services/SoftwareDevelopment/IMS/ManagedStorageServices";
+import SecurityRiskAssessment from "./pages/services/SoftwareDevelopment/IMS/SecurityRiskAssessment";
+import CybersecurityDueDiligence from "./pages/services/SoftwareDevelopment/IMS/CybersecurityDueDiligence";
+import ManagedBackupServices from "./pages/services/SoftwareDevelopment/IMS/ManagedBackupServices";
 
 
 
@@ -1697,9 +1790,97 @@ const App = () => (
               <Route path="/services/ITServices/ITStaffingServices/IPhoneAppDevelopers" element={<IPhoneAppDevelopers />} />
 
 
+              {/* Software Testing */}
+              <Route path="/services/ITServices/SoftwareTestingServices" element={<SoftwareTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/RegressionTestingServices" element={<RegressionTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/SoftwareTestingServices" element={<SoftwareTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/NetworkTestingServices" element={<NetworkTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/TestingKnowledgeManagementServices" element={<TestingKnowledgeManagementServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/AcceptanceTestDrivenDevelopmentServices" element={<AcceptanceTestDrivenDevelopmentServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/ContinuousIntegrationServices" element={<ContinuousIntegrationServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/ReliabilityTestingServices" element={<ReliabilityTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/IndependentTestingServices" element={<IndependentTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/ManagedTestingServices" element={<ManagedTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/CompatibilityTestingServices" element={<CompatibilityTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/BetaTestingServices" element={<BetaTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/MainframeTestingServices" element={<MainframeTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/StressTestingServices" element={<StressTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/DevOpsTestingServices" element={<DevOpsTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/ManagedCrowdTestingServices" element={<ManagedCrowdTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/ComplianceTestingServices" element={<ComplianceTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/NetworkPenetrationTesting" element={<NetworkPenetrationTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/SoaWebServicesTesting" element={<SoaWebServicesTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/LocalizationTesting" element={<LocalizationTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/SoaTesting" element={<SoaTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/TestAutomationServices" element={<TestAutomationServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/LoadTesting" element={<LoadTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/SeleniumTesting" element={<SeleniumTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/TypesOfSoftwareTesting" element={<TypesOfSoftwareTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/VolumeTesting" element={<VolumeTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/RobotFrameworkTesting" element={<RobotFrameworkTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/IndustryTestingServices" element={<IndustryTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/RecoveryTesting" element={<RecoveryTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/BillingTesting" element={<BillingTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/ECommerceTesting" element={<ECommerceTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/InstallationTesting" element={<InstallationTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/EDITesting" element={<EDITesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/EmbeddedTesting" element={<EmbeddedTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/ETLTesting" element={<ETLTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/UsabilityTesting" element={<UsabilityTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/MobileApplicationTesting" element={<MobileApplicationTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/SoakTesting" element={<SoakTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/OutcomeBasedTesting" element={<OutcomeBasedTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/ComputerSystemValidation" element={<ComputerSystemValidation />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/PerformanceTesting" element={<PerformanceTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/HappyPathTesting" element={<HappyPathTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/DesktopApplicationTesting" element={<DesktopApplicationTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/ScalabilityTesting" element={<ScalabilityTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/APITesting" element={<APITesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/MobileTesting" element={<MobileTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/SAPTesting" element={<SAPTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/WebsiteTesting" element={<WebsiteTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/ExternalPenetrationTesting" element={<ExternalPenetrationTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/BackwardCompatibilityTesting" element={<BackwardCompatibilityTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/CrmTestingServices" element={<CrmTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/InternalNetworkPenetrationTesting" element={<InternalNetworkPenetrationTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/BrowserCompatibilityTesting" element={<BrowserCompatibilityTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/SmokeTestingServices" element={<SmokeTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/FirewallPenetrationTesting" element={<FirewallPenetrationTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/RiskManagementTesting" element={<RiskManagementTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/SystemTestingServices" element={<SystemTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/PenetrationTestingServices" element={<PenetrationTestingServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/CyberSecurityTesting" element={<CyberSecurityTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/WebServicesTesting" element={<WebServicesTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/TestEnvironmentManagement" element={<TestEnvironmentManagement />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/GUITesting" element={<GUITesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/CloudTesting" element={<CloudTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/TestProcessImprovement" element={<TestProcessImprovement />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/GameTesting" element={<GameTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/UnitTesting" element={<UnitTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/SecurityTesting" element={<SecurityTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/VAPTServices" element={<VAPTServices />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/IntegrationTesting" element={<IntegrationTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/GDPRCompliance" element={<GDPRCompliance />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/SocialEngineering" element={<SocialEngineering />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/SanityTesting" element={<SanityTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/SoftwareTestingProjects" element={<SoftwareTestingProjects />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/WirelessPenetrationTesting" element={<WirelessPenetrationTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/ExploratoryTesting" element={<ExploratoryTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/ManagedQualityAssurance" element={<ManagedQualityAssurance />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/WebAppPenetrationTesting" element={<WebAppPenetrationTesting />} />
+              <Route path="/services/ITServices/SoftwareTestingServices/UserAcceptanceTesting" element={<UserAcceptanceTesting />} />
 
 
-
+              {/* IMS */}
+              <Route path="/services/ITServices/ITInfrastructureManagement" element={<ITInfrastructureManagement />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/CybersecurityCountermeasures" element={<CybersecurityCountermeasures />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/ManagedVirtualizationServices" element={<ManagedVirtualizationServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/ApplicationPerformanceMonitoring" element={<ApplicationPerformanceMonitoring />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/ITRiskAndSecurity" element={<ITRiskAndSecurity />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/ManagedStorageServices" element={<ManagedStorageServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/SecurityRiskAssessment" element={<SecurityRiskAssessment />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/CybersecurityDueDiligence" element={<CybersecurityDueDiligence />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/ManagedBackupServices" element={<ManagedBackupServices />} />
 
 
               {/* Shenbagavel End */}
