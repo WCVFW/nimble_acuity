@@ -938,6 +938,9 @@ import ManagedStorageServices from "./pages/services/SoftwareDevelopment/IMS/Man
 import SecurityRiskAssessment from "./pages/services/SoftwareDevelopment/IMS/SecurityRiskAssessment";
 import CybersecurityDueDiligence from "./pages/services/SoftwareDevelopment/IMS/CybersecurityDueDiligence";
 import ManagedBackupServices from "./pages/services/SoftwareDevelopment/IMS/ManagedBackupServices";
+import VulnerabilityManagement from "./pages/services/SoftwareDevelopment/IMS/VulnerabilityManagement";
+import CyberSecurityAssessment from "./pages/services/SoftwareDevelopment/IMS/CyberSecurityAssessment";
+import ITAuditServices from "./pages/services/SoftwareDevelopment/IMS/ITAuditServices";
 
 
 
@@ -1881,6 +1884,9 @@ const App = () => (
               <Route path="/services/ITServices/ITInfrastructureManagement/SecurityRiskAssessment" element={<SecurityRiskAssessment />} />
               <Route path="/services/ITServices/ITInfrastructureManagement/CybersecurityDueDiligence" element={<CybersecurityDueDiligence />} />
               <Route path="/services/ITServices/ITInfrastructureManagement/ManagedBackupServices" element={<ManagedBackupServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/VulnerabilityManagement" element={<VulnerabilityManagement />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/CyberSecurityAssessment" element={<CyberSecurityAssessment />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/ITAuditServices" element={<ITAuditServices />} />
 
 
               {/* Shenbagavel End */}
