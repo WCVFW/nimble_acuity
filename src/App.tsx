@@ -721,7 +721,7 @@ import ParallaxDesign from "./pages/services/SoftwareDevelopment/WebDevelopment/
 import SitefinityDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/SitefinityDevelopment";
 import EcommerceDevelopment from "./pages/services/SoftwareDevelopment/WebDevelopment/EcommerceDevelopment";
 
-{/* Service Now */}
+{/* Service Now */ }
 import ServiceNowServices from "./pages/services/SoftwareDevelopment/ServiceNow/ServiceNowServices";
 import ServiceNowConsulting from "./pages/services/SoftwareDevelopment/ServiceNow/ServiceNowConsulting";
 import HrServiceNow from "./pages/services/SoftwareDevelopment/ServiceNow/HrServiceNow";
@@ -737,7 +737,7 @@ import ServiceNowSecOps from "./pages/services/SoftwareDevelopment/ServiceNow/Se
 import ServiceNowITSM from "./pages/services/SoftwareDevelopment/ServiceNow/ServiceNowITSM";
 
 
-{/* Azure */}
+{/* Azure */ }
 import AzureConsulting from "./pages/services/SoftwareDevelopment/Azure/AzureConsulting";
 import AzureManagedServices from "./pages/services/SoftwareDevelopment/Azure/AzureManagedServices";
 import AzureIntegration from "./pages/services/SoftwareDevelopment/Azure/AzureIntegration";
@@ -747,7 +747,7 @@ import AzureApplicationDevelopment from "./pages/services/SoftwareDevelopment/Az
 import AzureSynapseAnalytics from "./pages/services/SoftwareDevelopment/Azure/AzureSynapseAnalytics";
 
 
-{/* Microsoft Services */}
+{/* Microsoft Services */ }
 import MicrosoftConsulting from "./pages/services/SoftwareDevelopment/MicrosoftServices/MicrosoftConsulting";
 import MicrosoftPowerAutomate from "./pages/services/SoftwareDevelopment/MicrosoftServices/MicrosoftPowerAutomate";
 import SharePointDevelopment from "./pages/services/SoftwareDevelopment/MicrosoftServices/SharePointDevelopment";
@@ -760,8 +760,91 @@ import MicrosoftOffice365 from "./pages/services/SoftwareDevelopment/MicrosoftSe
 import MicrosoftStackDevelopment from "./pages/services/SoftwareDevelopment/MicrosoftServices/MicrosoftStackDevelopment";
 import MicrosoftTeamsConsulting from "./pages/services/SoftwareDevelopment/MicrosoftServices/MicrosoftTeamsConsulting";
 
-{/* E-Commerce */}
+{/* E-Commerce */ }
 import ECommerceDevelopment from "./pages/services/SoftwareDevelopment/E-Commerce/ECommerceDevelopment";
+import ThreeDCartDevelopment from "./pages/services/SoftwareDevelopment/E-Commerce/3DCartDevelopment";
+import PrestashopDevelopment from "./pages/services/SoftwareDevelopment/E-Commerce/PrestashopDevelopment";
+import VirtuemartDevelopment from "./pages/services/SoftwareDevelopment/E-Commerce/VirtuemartDevelopment";
+import BigCommerceDevelopment from "./pages/services/SoftwareDevelopment/E-Commerce/BigCommerceDevelopment";
+import ShopifyDevelopment from "./pages/services/SoftwareDevelopment/E-Commerce/ShopifyDevelopment";
+import WooCommerceDevelopment from "./pages/services/SoftwareDevelopment/E-Commerce/WooCommerceDevelopment";
+import CsCartDevelopment from "./pages/services/SoftwareDevelopment/E-Commerce/CsCartDevelopment";
+import SpreeCommerceDevelopment from "./pages/services/SoftwareDevelopment/E-Commerce/SpreeCommerceDevelopment";
+import OsCommerceDevelopment from "./pages/services/SoftwareDevelopment/E-Commerce/OsCommerceDevelopment";
+import SquarespaceDevelopment from "./pages/services/SoftwareDevelopment/E-Commerce/SquarespaceDevelopment";
+
+{/* Cloud Counsulting */}
+import CloudConsulting from "./pages/services/SoftwareDevelopment/CloudConsulting/CloudConsulting";
+import HybridCloudServices from "./pages/services/SoftwareDevelopment/CloudConsulting/HybridCloudServices";
+import MultiCloudManagement from "./pages/services/SoftwareDevelopment/CloudConsulting/MultiCloudManagement";
+import MultiCloudServices from "./pages/services/SoftwareDevelopment/CloudConsulting/MultiCloudServices";
+import CloudBusinessTransformation from "./pages/services/SoftwareDevelopment/CloudConsulting/CloudBusinessTransformation";
+import AlibabaCloudServices from "./pages/services/SoftwareDevelopment/CloudConsulting/AlibabaCloudServices";
+import IbmCloudManagedServices from "./pages/services/SoftwareDevelopment/CloudConsulting/IbmCloudManagedServices";
+import CloudSecurityServices from "./pages/services/SoftwareDevelopment/CloudConsulting/CloudSecurityServices";
+import CloudIntegrationServices from "./pages/services/SoftwareDevelopment/CloudConsulting/CloudIntegrationServices";
+import ManagedApplicationServices from "./pages/services/SoftwareDevelopment/CloudConsulting/ManagedApplicationServices";
+import AlexaSkillDevelopmentServices from "./pages/services/SoftwareDevelopment/CloudConsulting/AlexaSkillDevelopmentServices";
+import CloudMonitoringServices from "./pages/services/SoftwareDevelopment/CloudConsulting/CloudMonitoringServices";
+import BSSTransformationServices from "./pages/services/SoftwareDevelopment/CloudConsulting/BSSTransformationServices";
+import AWSApplicationIntegrationServices from "./pages/services/SoftwareDevelopment/CloudConsulting/AWSApplicationIntegrationServices";
+import CloudApplicationDevelopmentServices from "./pages/services/SoftwareDevelopment/CloudConsulting/CloudApplicationDevelopmentServices";
+import ContainerizationServices from "./pages/services/SoftwareDevelopment/CloudConsulting/ContainerizationServices";
+import CloudComputingApplicationDevelopmentServices from "./pages/services/SoftwareDevelopment/CloudConsulting/CloudComputingApplicationDevelopmentServices";
+import Office365SetupAndMigrationServices from "./pages/services/SoftwareDevelopment/CloudConsulting/Office365SetupAndMigrationServices";
+import AmazonRedshiftServices from "./pages/services/SoftwareDevelopment/CloudConsulting/AmazonRedshiftServices";
+import DataWarehouseServices from "./pages/services/SoftwareDevelopment/CloudConsulting/DataWarehouseServices";
+import CloudMigrationServices from "./pages/services/SoftwareDevelopment/CloudConsulting/CloudMigrationServices";
+import CloudOptimizationServices from "./pages/services/SoftwareDevelopment/CloudConsulting/CloudOptimizationServices";
+import AdobeCreativeCloudServices from "./pages/services/SoftwareDevelopment/CloudConsulting/AdobeCreativeCloudServices";
+import DigitalWorkplaceServices from "./pages/services/SoftwareDevelopment/CloudConsulting/DigitalWorkplaceServices";
+import CloudNativeAppDevelopmentServices from "./pages/services/SoftwareDevelopment/CloudConsulting/CloudNativeAppDevelopmentServices";
+import OracleCloudServices from "./pages/services/SoftwareDevelopment/CloudConsulting/OracleCloudServices";
+import AmazonWebServices from "./pages/services/SoftwareDevelopment/CloudConsulting/AmazonWebServices";
+import CloudEnablementServices from "./pages/services/SoftwareDevelopment/CloudConsulting/CloudEnablementServices";
+import SnowflakeDataWarehouseServices from "./pages/services/SoftwareDevelopment/CloudConsulting/SnowflakeDataWarehouseServices";
+import InfrastructureAsAService from "./pages/services/SoftwareDevelopment/CloudConsulting/InfrastructureAsAService";
+import ToktivBusinessVoip from "./pages/services/SoftwareDevelopment/CloudConsulting/ToktivBusinessVoip";
+import HybridInfrastructureManagedServices from "./pages/services/SoftwareDevelopment/CloudConsulting/HybridInfrastructureManagedServices";
+import PlatformAsAService from "./pages/services/SoftwareDevelopment/CloudConsulting/PlatformAsAService";
+import VirtualDesktopInfrastructure from "./pages/services/SoftwareDevelopment/CloudConsulting/VirtualDesktopInfrastructure";
+
+{/* IT Staffing */}
+import ITStaffingServices from "./pages/services/SoftwareDevelopment/ITStaffing/ITStaffingServices";
+import HireAngularDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/HireAngularDevelopers";
+import ITStaffingForWordPress from "./pages/services/SoftwareDevelopment/ITStaffing/ITStaffingForWordPress";
+import HireMaximoDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/HireMaximoDevelopers";
+import HireNodeJSDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/HireNodeJSDevelopers";
+import ITStaffingForDrupal from "./pages/services/SoftwareDevelopment/ITStaffing/ITStaffingForDrupal";
+import HireSpringBootDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/HireSpringBootDevelopers";
+import HireOpenCartDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/HireOpenCartDevelopers";
+import ITStaffingForWebDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/ITStaffingForWebDevelopers";
+import HireElixirDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/HireElixirDevelopers";
+import ITStaffingForLAMP from "./pages/services/SoftwareDevelopment/ITStaffing/ITStaffingForLAMP";
+import DedicatedPHPDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/DedicatedPHPDevelopers";
+import HireKonyAppDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/HireKonyAppDevelopers";
+import JavaStaffing from "./pages/services/SoftwareDevelopment/ITStaffing/JavaStaffing";
+import MagentoDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/MagentoDevelopers";
+import ExpressJSDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/ExpressJSDevelopers";
+import MicrosoftStaffing from "./pages/services/SoftwareDevelopment/ITStaffing/MicrosoftStaffing";
+import ARDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/ARDevelopers";
+import GolangDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/GolangDevelopers";
+import DigitalMarketingStaffing from "./pages/services/SoftwareDevelopment/ITStaffing/DigitalMarketingStaffing";
+import PythonDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/PythonDevelopers";
+import SvelteJSDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/SvelteJSDevelopers";
+import AndroidDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/AndroidDevelopers";
+import IosDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/IosDevelopers";
+import NuxtJSDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/NuxtJSDevelopers";
+import WebDesignStaffing from "./pages/services/SoftwareDevelopment/ITStaffing/WebDesignStaffing";
+import IpadAppDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/IpadAppDevelopers";
+import ReactJSDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/ReactJSDevelopers";
+import MobileAppDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/MobileAppDevelopers";
+import BlockchainDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/BlockchainDevelopers";
+import FlutterDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/FlutterDevelopers";
+import OracleDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/OracleDevelopers";
+import SwiftDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/SwiftDevelopers";
+import OracleDBA from "./pages/services/SoftwareDevelopment/ITStaffing/OracleDBA";
+import IPhoneAppDevelopers from "./pages/services/SoftwareDevelopment/ITStaffing/IPhoneAppDevelopers";
 
 
 
@@ -1528,6 +1611,94 @@ const App = () => (
 
               {/* E-Commerce */}
               <Route path="/services/ITServices/ECommerceDevelopment" element={<ECommerceDevelopment />} />
+              <Route path="/services/ITServices/ECommerceDevelopment/ThreeDCartDevelopment" element={<ThreeDCartDevelopment />} />
+              <Route path="/services/ITServices/ECommerceDevelopment/PrestashopDevelopment" element={<PrestashopDevelopment />} />
+              <Route path="/services/ITServices/ECommerceDevelopment/VirtuemartDevelopment" element={<VirtuemartDevelopment />} />
+              <Route path="/services/ITServices/ECommerceDevelopment/BigCommerceDevelopment" element={<BigCommerceDevelopment />} />
+              <Route path="/services/ITServices/ECommerceDevelopment/ShopifyDevelopment" element={<ShopifyDevelopment />} />
+              <Route path="/services/ITServices/ECommerceDevelopment/WooCommerceDevelopment" element={<WooCommerceDevelopment />} />
+              <Route path="/services/ITServices/ECommerceDevelopment/CsCartDevelopment" element={<CsCartDevelopment />} />
+              <Route path="/services/ITServices/ECommerceDevelopment/SpreeCommerceDevelopment" element={<SpreeCommerceDevelopment />} />
+              <Route path="/services/ITServices/ECommerceDevelopment/OsCommerceDevelopment" element={<OsCommerceDevelopment />} />
+              <Route path="/services/ITServices/ECommerceDevelopment/SquarespaceDevelopment" element={<SquarespaceDevelopment />} />
+
+              {/* Cloud Counsulting */}
+              <Route path="/services/ITServices/CloudConsulting" element={<CloudConsulting />} />
+              <Route path="/services/ITServices/CloudConsulting/HybridCloudServices" element={<HybridCloudServices />} />
+              <Route path="/services/ITServices/CloudConsulting/MultiCloudManagement" element={<MultiCloudManagement />} />
+              <Route path="/services/ITServices/CloudConsulting/MultiCloudServices" element={<MultiCloudServices />} />
+              <Route path="/services/ITServices/CloudConsulting/CloudBusinessTransformation" element={<CloudBusinessTransformation />} />
+              <Route path="/services/ITServices/CloudConsulting/AlibabaCloudServices" element={<AlibabaCloudServices />} />
+              <Route path="/services/ITServices/CloudConsulting/IbmCloudManagedServices" element={<IbmCloudManagedServices />} />
+              <Route path="/services/ITServices/CloudConsulting/CloudSecurityServices" element={<CloudSecurityServices />} />
+              <Route path="/services/ITServices/CloudConsulting/CloudIntegrationServices" element={<CloudIntegrationServices />} />
+              <Route path="/services/ITServices/CloudConsulting/ManagedApplicationServices" element={<ManagedApplicationServices />} />
+              <Route path="/services/ITServices/CloudConsulting/AlexaSkillDevelopmentServices" element={<AlexaSkillDevelopmentServices />} />
+              <Route path="/services/ITServices/CloudConsulting/CloudMonitoringServices" element={<CloudMonitoringServices />} />
+              <Route path="/services/ITServices/CloudConsulting/BSSTransformationServices" element={<BSSTransformationServices />} />
+              <Route path="/services/ITServices/CloudConsulting/AWSApplicationIntegrationServices" element={<AWSApplicationIntegrationServices />} />
+              <Route path="/services/ITServices/CloudConsulting/CloudApplicationDevelopmentServices" element={<CloudApplicationDevelopmentServices />} />
+              <Route path="/services/ITServices/CloudConsulting/ContainerizationServices" element={<ContainerizationServices />} />
+              <Route path="/services/ITServices/CloudConsulting/CloudComputingApplicationDevelopmentServices" element={<CloudComputingApplicationDevelopmentServices />} />
+              <Route path="/services/ITServices/CloudConsulting/Office365SetupAndMigrationServices" element={<Office365SetupAndMigrationServices />} />
+              <Route path="/services/ITServices/CloudConsulting/AmazonRedshiftServices" element={<AmazonRedshiftServices />} />
+              <Route path="/services/ITServices/CloudConsulting/DataWarehouseServices" element={<DataWarehouseServices />} />
+              <Route path="/services/ITServices/CloudConsulting/CloudMigrationServices" element={<CloudMigrationServices />} />
+              <Route path="/services/ITServices/CloudConsulting/CloudOptimizationServices" element={<CloudOptimizationServices />} />
+              <Route path="/services/ITServices/CloudConsulting/AdobeCreativeCloudServices" element={<AdobeCreativeCloudServices />} />
+              <Route path="/services/ITServices/CloudConsulting/DigitalWorkplaceServices" element={<DigitalWorkplaceServices />} />
+              <Route path="/services/ITServices/CloudConsulting/CloudNativeAppDevelopmentServices" element={<CloudNativeAppDevelopmentServices />} />
+              <Route path="/services/ITServices/CloudConsulting/OracleCloudServices" element={<OracleCloudServices />} />
+              <Route path="/services/ITServices/CloudConsulting/AmazonWebServices" element={<AmazonWebServices />} />
+              <Route path="/services/ITServices/CloudConsulting/CloudEnablementServices" element={<CloudEnablementServices />} />
+              <Route path="/services/ITServices/CloudConsulting/SnowflakeDataWarehouseServices" element={<SnowflakeDataWarehouseServices />} />
+              <Route path="/services/ITServices/CloudConsulting/InfrastructureAsAService" element={<InfrastructureAsAService />} />
+              <Route path="/services/ITServices/CloudConsulting/ToktivBusinessVoip" element={<ToktivBusinessVoip />} />
+              <Route path="/services/ITServices/CloudConsulting/HybridInfrastructureManagedServices" element={<HybridInfrastructureManagedServices />} />
+              <Route path="/services/ITServices/CloudConsulting/PlatformAsAService" element={<PlatformAsAService />} />
+              <Route path="/services/ITServices/CloudConsulting/VirtualDesktopInfrastructure" element={<VirtualDesktopInfrastructure />} />
+
+
+              {/* IT Staffing */}
+              <Route path="/services/ITServices/ITStaffingServices" element={<ITStaffingServices />} />
+              <Route path="/services/ITServices/ITStaffingServices/HireAngularDevelopers" element={<HireAngularDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/ITStaffingForWordPress" element={<ITStaffingForWordPress />} />
+              <Route path="/services/ITServices/ITStaffingServices/HireMaximoDevelopers" element={<HireMaximoDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/HireNodeJSDevelopers" element={<HireNodeJSDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/ITStaffingForDrupal" element={<ITStaffingForDrupal />} />
+              <Route path="/services/ITServices/ITStaffingServices/HireSpringBootDevelopers" element={<HireSpringBootDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/HireOpenCartDevelopers" element={<HireOpenCartDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/ITStaffingForWebDevelopers" element={<ITStaffingForWebDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/HireElixirDevelopers" element={<HireElixirDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/ITStaffingForLAMP" element={<ITStaffingForLAMP />} />
+              <Route path="/services/ITServices/ITStaffingServices/DedicatedPHPDevelopers" element={<DedicatedPHPDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/HireKonyAppDevelopers" element={<HireKonyAppDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/JavaStaffing" element={<JavaStaffing />} />
+              <Route path="/services/ITServices/ITStaffingServices/MagentoDevelopers" element={<MagentoDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/ExpressJSDevelopers" element={<ExpressJSDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/MicrosoftStaffing" element={<MicrosoftStaffing />} />
+              <Route path="/services/ITServices/ITStaffingServices/ARDevelopers" element={<ARDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/GolangDevelopers" element={<GolangDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/DigitalMarketingStaffing" element={<DigitalMarketingStaffing />} />
+              <Route path="/services/ITServices/ITStaffingServices/PythonDevelopers" element={<PythonDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/SvelteJSDevelopers" element={<SvelteJSDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/AndroidDevelopers" element={<AndroidDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/IosDevelopers" element={<IosDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/NuxtJSDevelopers" element={<NuxtJSDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/WebDesignStaffing" element={<WebDesignStaffing />} />
+              <Route path="/services/ITServices/ITStaffingServices/IpadAppDevelopers" element={<IpadAppDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/ReactJSDevelopers" element={<ReactJSDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/MobileAppDevelopers" element={<MobileAppDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/BlockchainDevelopers" element={<BlockchainDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/FlutterDevelopers" element={<FlutterDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/OracleDevelopers" element={<OracleDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/SwiftDevelopers" element={<SwiftDevelopers />} />
+              <Route path="/services/ITServices/ITStaffingServices/OracleDBA" element={<OracleDBA />} />
+              <Route path="/services/ITServices/ITStaffingServices/IPhoneAppDevelopers" element={<IPhoneAppDevelopers />} />
+
+
+
+
 
 
 
