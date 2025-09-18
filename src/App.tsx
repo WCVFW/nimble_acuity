@@ -928,7 +928,7 @@ import WebAppPenetrationTesting from "./pages/services/SoftwareDevelopment/Softw
 import UserAcceptanceTesting from "./pages/services/SoftwareDevelopment/SoftwareTesting/UserAcceptanceTesting";
 
 
-{/* IMS */}
+{/* IMS */ }
 import ITInfrastructureManagement from "./pages/services/SoftwareDevelopment/IMS/ITInfrastructureManagement";
 import CybersecurityCountermeasures from "./pages/services/SoftwareDevelopment/IMS/CybersecurityCountermeasures";
 import ManagedVirtualizationServices from "./pages/services/SoftwareDevelopment/IMS/ManagedVirtualizationServices";
@@ -941,6 +941,98 @@ import ManagedBackupServices from "./pages/services/SoftwareDevelopment/IMS/Mana
 import VulnerabilityManagement from "./pages/services/SoftwareDevelopment/IMS/VulnerabilityManagement";
 import CyberSecurityAssessment from "./pages/services/SoftwareDevelopment/IMS/CyberSecurityAssessment";
 import ITAuditServices from "./pages/services/SoftwareDevelopment/IMS/ITAuditServices";
+import Windows365Consulting from "./pages/services/SoftwareDevelopment/IMS/Windows365Consulting";
+import RemoteMonitoring from "./pages/services/SoftwareDevelopment/IMS/RemoteMonitoring";
+import ApplicationManagedServices from "./pages/services/SoftwareDevelopment/IMS/ApplicationManagedServices";
+import Windows365ChangeManagement from "./pages/services/SoftwareDevelopment/IMS/Windows365ChangeManagement";
+import DigitalForensics from "./pages/services/SoftwareDevelopment/IMS/DigitalForensics";
+import NetworkMonitoring from "./pages/services/SoftwareDevelopment/IMS/NetworkMonitoring";
+import Windows365 from "./pages/services/SoftwareDevelopment/IMS/Windows365";
+import DataCenterServices from "./pages/services/SoftwareDevelopment/IMS/DataCenterServices";
+import SOCService from "./pages/services/SoftwareDevelopment/IMS/SOCService";
+import Windows365Migration from "./pages/services/SoftwareDevelopment/IMS/Windows365Migration";
+import EnterpriseSecurity from "./pages/services/SoftwareDevelopment/IMS/EnterpriseSecurity";
+import NOCMonitoringServices from "./pages/services/SoftwareDevelopment/IMS/NOCMonitoringServices";
+import DigitalWorkforce from "./pages/services/SoftwareDevelopment/IMS/DigitalWorkforce";
+import ITHelpDesk from "./pages/services/SoftwareDevelopment/IMS/ITHelpDesk";
+import CyberThreat from "./pages/services/SoftwareDevelopment/IMS/CyberThreat";
+import TerraformServices from "./pages/services/SoftwareDevelopment/IMS/TerraformServices";
+import ActiveDirectory from "./pages/services/SoftwareDevelopment/IMS/ActiveDirectory";
+import DataCenterMiddleware from "./pages/services/SoftwareDevelopment/IMS/DataCenterMiddleware";
+import Kubernetes from "./pages/services/SoftwareDevelopment/IMS/Kubernetes";
+import ManagedSIEM from "./pages/services/SoftwareDevelopment/IMS/ManagedSIEM";
+import NetworkInfrastructure from "./pages/services/SoftwareDevelopment/IMS/NetworkInfrastructure";
+import DataRecoveryServices from "./pages/services/SoftwareDevelopment/IMS/DataRecoveryServices";
+import InfrastructureApplicationSupportServices from "./pages/services/SoftwareDevelopment/IMS/InfrastructureApplicationSupportServices";
+import CompromiseAssessmentServices from "./pages/services/SoftwareDevelopment/IMS/CompromiseAssessmentServices";
+import DigitalCommerceServices from "./pages/services/SoftwareDevelopment/IMS/DigitalCommerceServices";
+import ServerMonitoringServices from "./pages/services/SoftwareDevelopment/IMS/ServerMonitoringServices";
+import PCIComplianceServices from "./pages/services/SoftwareDevelopment/IMS/PCIComplianceServices";
+import Windows365SetupServices from "./pages/services/SoftwareDevelopment/IMS/Windows365SetupServices";
+import ManagedITServices from "./pages/services/SoftwareDevelopment/IMS/ManagedITServices";
+import QuantumComputingServices from "./pages/services/SoftwareDevelopment/IMS/QuantumComputingServices";
+import SugarCRMDevelopmentServices from "./pages/services/SoftwareDevelopment/IMS/SugarCRMDevelopmentServices";
+import ManagedITServicesForInsurance from "./pages/services/SoftwareDevelopment/IMS/ManagedITServicesForInsurance";
+import VirtualCTOServices from "./pages/services/SoftwareDevelopment/IMS/VirtualCTOServices";
+import CIOAdvisoryServices from "./pages/services/SoftwareDevelopment/IMS/CIOAdvisoryServices";
+import IAMServices from "./pages/services/SoftwareDevelopment/IMS/IAMServices";
+import CyberSecurityResilienceServices from "./pages/services/SoftwareDevelopment/IMS/CyberSecurityResilienceServices";
+import ServerManagementServices from "./pages/services/SoftwareDevelopment/IMS/ServerManagementServices";
+
+
+{/* Enterprise */}
+import EnterpriseSoftwareSolutions from "./pages/services/SoftwareDevelopment/Enterprise/EnterpriseSoftwareSolutions";
+import DevSecOpsServices from "./pages/services/SoftwareDevelopment/Enterprise/DevSecOpsServices";
+import WorkdayServices from "./pages/services/SoftwareDevelopment/Enterprise/WorkdayServices";
+import MetaverseEnterpriseSolutions from "./pages/services/SoftwareDevelopment/Enterprise/MetaverseEnterpriseSolutions";
+import SAPProductLifecycleServices from "./pages/services/SoftwareDevelopment/Enterprise/SAPProductLifecycleServices";
+import SalesforceApplicationDevelopment from "./pages/services/SoftwareDevelopment/Enterprise/SalesforceApplicationDevelopment";
+import UnifiedDataManagement from "./pages/services/SoftwareDevelopment/Enterprise/UnifiedDataManagement";
+import SAPHybrisCommerceSolutions from "./pages/services/SoftwareDevelopment/Enterprise/SAPHybrisCommerceSolutions";
+import ITServiceContinuityManagement from "./pages/services/SoftwareDevelopment/Enterprise/ITServiceContinuityManagement";
+import DigitalQueryAssistantServices from "./pages/services/SoftwareDevelopment/Enterprise/DigitalQueryAssistantServices";
+import TwilioConsultingServices from "./pages/services/SoftwareDevelopment/Enterprise/TwilioConsultingServices";
+import SAPHANACloudServices from "./pages/services/SoftwareDevelopment/Enterprise/SAPHANACloudServices";
+import MicroservicesArchitectureServices from "./pages/services/SoftwareDevelopment/Enterprise/MicroservicesArchitectureServices";
+import SAPSupportServices from "./pages/services/SoftwareDevelopment/Enterprise/SAPSupportServices";
+import TwilioFlexServices from "./pages/services/SoftwareDevelopment/Enterprise/TwilioFlexServices";
+import ApplicationPortfolioServices from "./pages/services/SoftwareDevelopment/Enterprise/ApplicationPortfolioServices";
+import CustomerManagementServices from "./pages/services/SoftwareDevelopment/Enterprise/CustomerManagementServices";
+import DevOpsAutomationServices from "./pages/services/SoftwareDevelopment/Enterprise/DevOpsAutomationServices";
+import DevOpsServices from "./pages/services/SoftwareDevelopment/Enterprise/DevOpsServices";
+import DigitalMailroomServices from "./pages/services/SoftwareDevelopment/Enterprise/DigitalMailroomServices";
+import ERPDevelopmentServices from "./pages/services/SoftwareDevelopment/Enterprise/ERPDevelopmentServices";
+import ITConsultingServices from "./pages/services/SoftwareDevelopment/Enterprise/ITConsultingServices";
+import SAPConsultingServices from "./pages/services/SoftwareDevelopment/Enterprise/SAPConsultingServices";
+import SIPTrunkingServices from "./pages/services/SoftwareDevelopment/Enterprise/SIPTrunkingServices";
+import TwilioIntegrationServices from "./pages/services/SoftwareDevelopment/Enterprise/TwilioIntegrationServices";
+import CRMDevelopmentServices from "./pages/services/SoftwareDevelopment/Enterprise/CRMDevelopmentServices";
+import EnterpriseApplicationServices from "./pages/services/SoftwareDevelopment/Enterprise/EnterpriseApplicationServices";
+import EnterpriseMobilitySolutions from "./pages/services/SoftwareDevelopment/Enterprise/EnterpriseMobilitySolutions";
+import MaximoDevelopmentServices from "./pages/services/SoftwareDevelopment/Enterprise/MaximoDevelopmentServices";
+import SAPApplicationDevelopmentServices from "./pages/services/SoftwareDevelopment/Enterprise/SAPApplicationDevelopmentServices";
+import SAPBusinessOneServices from "./pages/services/SoftwareDevelopment/Enterprise/SAPBusinessOneServices";
+import SalesforceAutomationServices from "./pages/services/SoftwareDevelopment/Enterprise/SalesforceAutomationServices";
+import SoftwareAssetManagementServices from "./pages/services/SoftwareDevelopment/Enterprise/SoftwareAssetManagementServices";
+import SpreadsheetValidationServices from "./pages/services/SoftwareDevelopment/Enterprise/SpreadsheetValidationServices";
+import SupplyChainServices from "./pages/services/SoftwareDevelopment/Enterprise/SupplyChainServices";
+import WebPortalServices from "./pages/services/SoftwareDevelopment/Enterprise/WebPortalServices";
+import WorkflowAutomationServices from "./pages/services/SoftwareDevelopment/Enterprise/WorkflowAutomationServices";
+import CRMConsultingServices from "./pages/services/SoftwareDevelopment/Enterprise/CRMConsultingServices";
+import DigitalProcessAutomationServices from "./pages/services/SoftwareDevelopment/Enterprise/DigitalProcessAutomationServices";
+import Dynamics365BusinessCentralServices from "./pages/services/SoftwareDevelopment/Enterprise/Dynamics365BusinessCentralServices";
+import EnterpriseApplicationIntegrationServices from "./pages/services/SoftwareDevelopment/Enterprise/EnterpriseApplicationIntegrationServices";
+import OracleConsultingServices from "./pages/services/SoftwareDevelopment/Enterprise/OracleConsultingServices";
+
+
+{/* Technologies */}
+import SoftwareDevelopment from "./pages/services/SoftwareDevelopment/Technologies/SoftwareDevelopment";
+import BubbleAppDevelopment from "./pages/services/SoftwareDevelopment/Technologies/BubbleAppDevelopment";
+import ExpressJSServices from "./pages/services/SoftwareDevelopment/Technologies/ExpressJSServices";
+import JavascriptDevelopment from "./pages/services/SoftwareDevelopment/Technologies/JavascriptDevelopment";
+import QtDevelopment from "./pages/services/SoftwareDevelopment/Technologies/QtDevelopment";
+import SmartContractDevelopment from "./pages/services/SoftwareDevelopment/Technologies/SmartContractDevelopment";
+import TableauDevelopmentServices from "./pages/services/SoftwareDevelopment/Technologies/TableauDevelopmentServices";
 
 
 
@@ -1887,6 +1979,98 @@ const App = () => (
               <Route path="/services/ITServices/ITInfrastructureManagement/VulnerabilityManagement" element={<VulnerabilityManagement />} />
               <Route path="/services/ITServices/ITInfrastructureManagement/CyberSecurityAssessment" element={<CyberSecurityAssessment />} />
               <Route path="/services/ITServices/ITInfrastructureManagement/ITAuditServices" element={<ITAuditServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/Windows365Consulting" element={<Windows365Consulting />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/RemoteMonitoring" element={<RemoteMonitoring />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/ApplicationManagedServices" element={<ApplicationManagedServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/Windows365ChangeManagement" element={<Windows365ChangeManagement />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/DigitalForensics" element={<DigitalForensics />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/NetworkMonitoring" element={<NetworkMonitoring />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/Windows365" element={<Windows365 />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/DataCenterServices" element={<DataCenterServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/SOCService" element={<SOCService />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/Windows365Migration" element={<Windows365Migration />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/EnterpriseSecurity" element={<EnterpriseSecurity />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/NOCMonitoringServices" element={<NOCMonitoringServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/DigitalWorkforce" element={<DigitalWorkforce />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/ITHelpDesk" element={<ITHelpDesk />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/CyberThreat" element={<CyberThreat />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/TerraformServices" element={<TerraformServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/ActiveDirectory" element={<ActiveDirectory />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/DataCenterMiddleware" element={<DataCenterMiddleware />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/Kubernetes" element={<Kubernetes />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/NetworkInfrastructure" element={<NetworkInfrastructure />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/ManagedSIEM" element={<ManagedSIEM />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/DataRecoveryServices" element={<DataRecoveryServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/InfrastructureApplicationSupportServices" element={<InfrastructureApplicationSupportServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/CompromiseAssessmentServices" element={<CompromiseAssessmentServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/DigitalCommerceServices" element={<DigitalCommerceServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/ServerMonitoringServices" element={<ServerMonitoringServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/PCIComplianceServices" element={<PCIComplianceServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/Windows365SetupServices" element={<Windows365SetupServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/ManagedITServices" element={<ManagedITServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/QuantumComputingServices" element={<QuantumComputingServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/SugarCRMDevelopmentServices" element={<SugarCRMDevelopmentServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/ManagedITServicesForInsurance" element={<ManagedITServicesForInsurance />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/VirtualCTOServices" element={<VirtualCTOServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/CIOAdvisoryServices" element={<CIOAdvisoryServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/IAMServices" element={<IAMServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/CyberSecurityResilienceServices" element={<CyberSecurityResilienceServices />} />
+              <Route path="/services/ITServices/ITInfrastructureManagement/ServerManagementServices" element={<ServerManagementServices />} />
+
+
+              {/* Enterprise */}
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions" element={<EnterpriseSoftwareSolutions />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/DevSecOpsServices" element={<DevSecOpsServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/WorkdayServices" element={<WorkdayServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/MetaverseEnterpriseSolutions" element={<MetaverseEnterpriseSolutions />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/SAPProductLifecycleServices" element={<SAPProductLifecycleServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/SalesforceApplicationDevelopment" element={<SalesforceApplicationDevelopment />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/UnifiedDataManagement" element={<UnifiedDataManagement />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/SAPHybrisCommerceSolutions" element={<SAPHybrisCommerceSolutions />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/ITServiceContinuityManagement" element={<ITServiceContinuityManagement />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/DigitalQueryAssistantServices" element={<DigitalQueryAssistantServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/TwilioConsultingServices" element={<TwilioConsultingServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/SAPHANACloudServices" element={<SAPHANACloudServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/MicroservicesArchitectureServices" element={<MicroservicesArchitectureServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/SAPSupportServices" element={<SAPSupportServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/TwilioFlexServices" element={<TwilioFlexServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/CustomerManagementServices" element={<CustomerManagementServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/ITConsultingServices" element={<ITConsultingServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/SIPTrunkingServices" element={<SIPTrunkingServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/DevOpsAutomationServices" element={<DevOpsAutomationServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/SAPConsultingServices" element={<SAPConsultingServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/ApplicationPortfolioServices" element={<ApplicationPortfolioServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/DevOpsServices" element={<DevOpsServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/ERPDevelopmentServices" element={<ERPDevelopmentServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/TwilioIntegrationServices" element={<TwilioIntegrationServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/DigitalMailroomServices" element={<DigitalMailroomServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/CRMDevelopmentServices" element={<CRMDevelopmentServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/SAPBusinessOneServices" element={<SAPBusinessOneServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/EnterpriseApplicationServices" element={<EnterpriseApplicationServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/SupplyChainServices" element={<SupplyChainServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/SpreadsheetValidationServices" element={<SpreadsheetValidationServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/EnterpriseMobilitySolutions" element={<EnterpriseMobilitySolutions />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/WebPortalServices" element={<WebPortalServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/SalesforceAutomationServices" element={<SalesforceAutomationServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/MaximoDevelopmentServices" element={<MaximoDevelopmentServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/WorkflowAutomationServices" element={<WorkflowAutomationServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/SAPApplicationDevelopmentServices" element={<SAPApplicationDevelopmentServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/SoftwareAssetManagementServices" element={<SoftwareAssetManagementServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/EnterpriseApplicationIntegrationServices" element={<EnterpriseApplicationIntegrationServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/Dynamics365BusinessCentralServices" element={<Dynamics365BusinessCentralServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/OracleConsultingServices" element={<OracleConsultingServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/CRMConsultingServices" element={<CRMConsultingServices />} />
+              <Route path="/services/ITServices/EnterpriseSoftwareSolutions/DigitalProcessAutomationServices" element={<DigitalProcessAutomationServices />} />
+
+              {/* Technologies */}
+              <Route path="/services/ITServices/SoftwareDevelopment" element={<SoftwareDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/JavascriptDevelopment" element={<JavascriptDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/SmartContractDevelopment" element={<SmartContractDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/BubbleAppDevelopment" element={<BubbleAppDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/TableauDevelopmentServices" element={<TableauDevelopmentServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/QtDevelopment" element={<QtDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/ExpressJSServices" element={<ExpressJSServices />} />
+
 
 
               {/* Shenbagavel End */}
