@@ -37,7 +37,7 @@ const additionalServices = [
   "Optical Character Recognition",
 ];
 
-const ImageProcessing: React.FC = () => {
+const ImageProcessingDS: React.FC = () => {
   return (
     <div className="font-sans">
       {/* Hero Section */}
@@ -148,4 +148,4 @@ const ImageProcessing: React.FC = () => {
   );
 };
 
-export default ImageProcessing;
+export default ImageProcessingDS;

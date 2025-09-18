@@ -334,10 +334,7 @@ const MenuLink: MenuSection[] = [
           "label": "10 Reasons Why All eCom Sites Should Have Live Chat Support",
           "href": "/callcenter/articles/10-reasons-why-ecom-sites-should-have-live-chat-support.asp"
         },
-        {
-          "label": "5 Ways to Leverage Artificial Intelligence in Call Centers",
-          "href": "/callcenter/articles/ways-to-leverage-artificial-intelligence-in-call-centers.asp"
-        }
+        
       ]
     }
   ]

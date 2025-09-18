@@ -572,7 +572,7 @@ import DataStandardization from "./pages/services/DataServices/Dataprocessing/Da
 import MergePurgeServices from "./pages/services/DataServices/Dataprocessing/MergePurgeServices";
 import FormsProcessingServices from "./pages/services/DataServices/Dataprocessing/FormsProcessingServices";
 import OrderProcessingServices from "./pages/services/DataServices/Dataprocessing/OrderProcessingServices";
-import ImageProcessing from "./pages/services/DataServices/Dataprocessing/ImageProcessing";
+import ImageProcessing from "./pages/services/DataServices/Dataprocessing/ImageProcessingDS";
 import DataCleansing from "./pages/services/DataServices/Dataprocessing/DataCleansing";
 import InsuranceClaimsProcessing from "./pages/services/DataServices/Dataprocessing/InsuranceClaimsProcessing";
 import MarketResearchFormsProcessing from "./pages/services/DataServices/Dataprocessing/MarketResearchFormsProcessing";
@@ -891,6 +891,175 @@ import KineticTypography from "./pages/services/creative-design/Animation/Kineti
 import CartoonAnimation from "./pages/services/creative-design/Animation/CartoonAnimation";
 import RotoPaintArt from "./pages/services/creative-design/Animation/RotoPaintArt";
 import VFXWireRemoval from "./pages/services/creative-design/Animation/VFXWireRemoval";
+import AnsweringServices800 from "./pages/services/Call-center-services/Inbound-call-center/AnsweringServices800";
+import ImageProcessingDS from "./pages/services/DataServices/Dataprocessing/ImageProcessingDS";
+import OrderTakingServices from "./pages/services/Call-center-services/Inbound-call-center/OrderTakingServices";
+import RebateProcessing from "./pages/services/Call-center-services/Inbound-call-center/RebateProcessing";
+import ClaimsProcessing from "./pages/services/Call-center-services/Inbound-call-center/ClaimsProcessing";
+import ProductInformationRequest from "./pages/services/Call-center-services/Inbound-call-center/ProductInformationRequest";
+import ProductRecallManagement from "./pages/services/Call-center-services/Inbound-call-center/ProductRecallManagement";
+import IVRServices from "./pages/services/Call-center-services/Inbound-call-center/IVRServices";
+import BillingQueryServices from "./pages/services/Call-center-services/Inbound-call-center/BillingQueryServices";
+import ReservationBooking from "./pages/services/Call-center-services/Inbound-call-center/ReservationBooking";
+import OmnichannelContactCenter from "./pages/services/Call-center-services/Inbound-call-center/OmnichannelContactCenter";
+import InboundSales from "./pages/services/Call-center-services/Inbound-call-center/InboundSales";
+import SalesManagement from "./pages/services/Call-center-services/Inbound-call-center/SalesManagement";
+import ConsumerResponse from "./pages/services/Call-center-services/Inbound-call-center/ConsumerResponse";
+import HotlineServices from "./pages/services/Call-center-services/Inbound-call-center/HotlineServices";
+import EnquiryHandling from "./pages/services/Call-center-services/Inbound-call-center/EnquiryHandling";
+import DatabaseDevelopment from "./pages/services/Call-center-services/Outbound-call-center/DatabaseDevelopment";
+import DebtCollection from "./pages/services/Call-center-services/Outbound-call-center/DebtCollection";
+import DisasterRecovery from "./pages/services/Call-center-services/Outbound-call-center/DisasterRecovery";
+import DatabaseSellingServices from "./pages/services/Call-center-services/Outbound-call-center/DatabaseSellingServices";
+import DirectMailFollowUpServices from "./pages/services/Call-center-services/Outbound-call-center/DirectMailFollowUpServices";
+import CustomerFollowUpServices from "./pages/services/Call-center-services/Outbound-call-center/CustomerFollowUpServices";
+import MarketIntelligenceServices from "./pages/services/Call-center-services/Outbound-call-center/MarketIntelligenceServices";
+import CustomerSatisfactionSurvey from "./pages/services/Call-center-services/Outbound-call-center/CustomerSatisfactionSurvey";
+import CustomerAcquisition from "./pages/services/Call-center-services/Outbound-call-center/CustomerAcquisition";
+import CATIServices from "./pages/services/Call-center-services/Outbound-call-center/CATIServices";
+import SubscriptionRenewalServices from "./pages/services/Call-center-services/Outbound-call-center/SubscriptionRenewalServices";
+import CustomerLoyaltyManagement from "./pages/services/Call-center-services/Outbound-call-center/CustomerLoyaltyManagement";
+import EmailListManagement from "./pages/services/Call-center-services/Outbound-call-center/EmailListManagement";
+import CustomerRetention from "./pages/services/Call-center-services/Outbound-call-center/CustomerRetention";
+import ProductPromotion from "./pages/services/Call-center-services/Outbound-call-center/ProductPromotion";
+import UpsellingCrossSelling from "./pages/services/Call-center-services/Outbound-call-center/UpsellingCrossSelling";
+import ColdCallingServices from "./pages/services/Call-center-services/Telemarketing/ColdCallingServices";
+import RealEstateColdCalling from "./pages/services/Call-center-services/Telemarketing/RealEstateColdCalling";
+import B2BColdCalling from "./pages/services/Call-center-services/Telemarketing/B2BColdCalling";
+import B2CColdCalling from "./pages/services/Call-center-services/Telemarketing/B2CColdCalling";
+import TeleprospectingServices from "./pages/services/Call-center-services/Telemarketing/TeleprospectingServices";
+import ColdCanvassingServices from "./pages/services/Call-center-services/Telemarketing/ColdCanvassingServices";
+import B2BTelesalesServices from "./pages/services/Call-center-services/Telemarketing/B2BTelesalesServices";
+import InsuranceTelemarketingServices from "./pages/services/Call-center-services/Telemarketing/InsuranceTelemarketingServices";
+import TelecomConsultingServices from "./pages/services/Call-center-services/Telemarketing/TelecomConsultingServices";
+import B2BTelemarketingServices from "./pages/services/Call-center-services/Telemarketing/B2BTelemarketingServices";
+import InsuranceTelemarketingPage from "./pages/services/Call-center-services/Telemarketing/InsuranceTelemarketingPage";
+import TelesalesCustomerAcquisitionPage from "./pages/services/Call-center-services/Telemarketing/TelesalesCustomerAcquisitionPage";
+import BFSILeadGeneration from "./pages/services/Call-center-services/Lead-generation/BFSILeadGeneration";
+import B2CLeadGeneration from "./pages/services/Call-center-services/Lead-generation/B2CLeadGeneration";
+import TelemarketingLeadGeneration from "./pages/services/Call-center-services/Lead-generation/TelemarketingLeadGeneration";
+import TravelHospitalityLeadGen from "./pages/services/Call-center-services/Lead-generation/TravelHospitalityLeadGen";
+import LogisticsLeadGen from "./pages/services/Call-center-services/Lead-generation/LogisticsLeadGen";
+import LeadGenerationLogistics from "./pages/services/Call-center-services/Lead-generation/LogisticsLeadGen";
+import LocalLeadGeneration from "./pages/services/Call-center-services/Lead-generation/LocalLeadGeneration";
+import B2BLeadGeneration from "./pages/services/Call-center-services/Lead-generation/B2BLeadGeneration";
+import LeadGenerationProcess from "./pages/services/Call-center-services/Lead-generation/LeadGenerationProcess";
+import LeadGenerationIT from "./pages/services/Call-center-services/Lead-generation/LeadGenerationIT";
+import LeadGenerationEducation from "./pages/services/Call-center-services/Lead-generation/LeadGenerationEducation";
+import EcommerceLeadGen from "./pages/services/Call-center-services/Lead-generation/EcommerceLeadGen";
+import StartupLeadGen from "./pages/services/Call-center-services/Lead-generation/StartupLeadGen";
+import RealEstateLeadGeneration from "./pages/services/Call-center-services/Lead-generation/RealEstateLeadGeneration";
+import MortgageLeadGeneration from "./pages/services/Call-center-services/Lead-generation/MortgageLeadGeneration";
+import AppointmentSetting from "./pages/services/Call-center-services/Lead-generation/AppointmentSetting";
+import OutboundLeadGen from "./pages/services/Call-center-services/Lead-generation/OutboundLeadGen";
+import OutboundLeadGeneration from "./pages/services/Call-center-services/Lead-generation/OutboundLeadGen";
+import B2BAppointmentSetting from "./pages/services/Call-center-services/Lead-generation/B2BAppointmentSetting";
+import B2CAppointmentSetting from "./pages/services/Call-center-services/Lead-generation/B2CAppointmentSetting";
+import LeadGenChemicalManufacturing from "./pages/services/Call-center-services/Lead-generation/LeadGenChemicalManufacturing";
+import SoftLeadGeneration from "./pages/services/Call-center-services/Lead-generation/SoftLeadGeneration";
+import LeadQualification from "./pages/services/Call-center-services/Lead-generation/LeadQualification";
+import InsuranceLeadGeneration from "./pages/services/Call-center-services/Lead-generation/InsuranceLeadGeneration";
+import HomeInsuranceLeadGen from "./pages/services/Call-center-services/Lead-generation/HomeInsuranceLeadGen";
+import HealthInsuranceLeadGen from "./pages/services/Call-center-services/Lead-generation/HealthInsuranceLeadGen";
+import TruckingInsuranceLeadGen from "./pages/services/Call-center-services/Lead-generation/TruckingInsuranceLeadGen";
+import InsuranceAgentLeadGen from "./pages/services/Call-center-services/Lead-generation/InsuranceAgentLeadGen";
+import CommercialInsuranceLeadGen from "./pages/services/Call-center-services/Lead-generation/CommercialInsuranceLeadGen";
+import PetInsuranceLeadGen from "./pages/services/Call-center-services/Lead-generation/PetInsuranceLeadGen";
+import LifeInsuranceLeadGen from "./pages/services/Call-center-services/Lead-generation/LifeInsuranceLeadGen";
+import AutoInsuranceLeadGen from "./pages/services/Call-center-services/Lead-generation/AutoInsuranceLeadGen";
+import CarInsuranceLeadGen from "./pages/services/Call-center-services/Lead-generation/CarInsuranceLeadGen";
+import ReactivatingDormantClient from "./pages/services/Call-center-services/customer-support/ReactivatingDormantClient";
+import ThirdPartyVerification from "./pages/services/Call-center-services/customer-support/ThirdPartyVerification";
+import ClickToTalkSupport from "./pages/services/Call-center-services/customer-support/ClickToTalkSupport";
+import TechnicalSupport from "./pages/services/Call-center-services/customer-support/TechnicalSupport";
+import RemoteITSupport from "./pages/services/Call-center-services/customer-support/RemoteITSupport";
+import TollFreeSupport from "./pages/services/Call-center-services/customer-support/TollFreeSupport";
+import MultilingualCallCenter from "./pages/services/Call-center-services/customer-support/MultilingualCallCenter";
+import RetailCustomerSupport from "./pages/services/Call-center-services/customer-support/RetailCustomerSupport";
+import RetailBPOSupport from "./pages/services/Call-center-services/customer-support/RetailBPOSupport";
+import OrderTrackingSupport from "./pages/services/Call-center-services/customer-support/OrderTrackingSupport";
+import BusinessProcessReengineering from "./pages/services/Call-center-services/customer-support/BusinessProcessReengineering";
+import ComplaintManagementServices from "./pages/services/Call-center-services/customer-support/ComplaintManagementServices";
+import LoyaltyProgramManagement from "./pages/services/Call-center-services/customer-support/LoyaltyProgramManagement";
+import EmailSupportServices from "./pages/services/Call-center-services/customer-support/EmailSupportServices";
+import ChatSupportServices from "./pages/services/Call-center-services/customer-support/ChatSupportServices";
+import SocialMediaCustomerService from "./pages/services/Call-center-services/customer-support/SocialMediaCustomerService";
+import VideoChatCustomerService from "./pages/services/Call-center-services/customer-support/VideoChatCustomerService";
+import MultiChannelContactCenter from "./pages/services/Call-center-services/customer-support/MultiChannelContactCenter";
+import RailwayLogisticsBPO from "./pages/services/Call-center-services/customer-support/RailwayLogisticsBPO";
+import CustomerInteraction from "./pages/services/Call-center-services/customer-support/CustomerInteraction";
+import EcommerceSupport from "./pages/services/Call-center-services/customer-support/EcommerceSupport";
+import SeminarRegistration from "./pages/services/Call-center-services/customer-support/SeminarRegistration";
+import ConsumerProductSupport from "./pages/services/Call-center-services/customer-support/ConsumerProductSupport";
+import DigitalAgentServices from "./pages/services/Call-center-services/customer-support/DigitalAgentServices";
+import PreSalesSupport from "./pages/services/Call-center-services/customer-support/PreSalesSupport";
+import AdminSupport from "./pages/services/Call-center-services/customer-support/AdminSupport";
+import CSRServices from "./pages/services/Call-center-services/customer-support/CSRServices";
+import DigitalSupportServices from "./pages/services/Call-center-services/customer-support/DigitalSupportServices";
+import CXTransformationServices from "./pages/services/Call-center-services/customer-support/CXTransformationServices";
+import BCPServices from "./pages/services/Call-center-services/customer-support/BCPServices";
+import RealEstateVA from "./pages/services/Call-center-services/Virtual-Assistant/RealEstateVA";
+import VirtualAssistantPhone from "./pages/services/Call-center-services/Virtual-Assistant/VirtualAssistantPhone";
+import AccountingBookkeepingVA from "./pages/services/Call-center-services/Virtual-Assistant/AccountingBookkeepingVA";
+import VirtualAssistantAppointments from "./pages/services/Call-center-services/Virtual-Assistant/VirtualAssistantAppointments";
+import VirtualAssistantInternetResearch from "./pages/services/Call-center-services/Virtual-Assistant/VirtualAssistantInternetResearch";
+import VirtualAssistantBusinessCards from "./pages/services/Call-center-services/Virtual-Assistant/VirtualAssistantBusinessCards";
+import VirtualAssistantDTP from "./pages/services/Call-center-services/Virtual-Assistant/VirtualAssistantDTP";
+import VirtualAssistantTravel from "./pages/services/Call-center-services/Virtual-Assistant/VirtualAssistantTravel";
+import CorrespondenceVA from "./pages/services/Call-center-services/Virtual-Assistant/CorrespondenceVA";
+import EventPlanningVA from "./pages/services/Call-center-services/Virtual-Assistant/EventPlanningVA";
+import SupplyManagementVA from "./pages/services/Call-center-services/Virtual-Assistant/SupplyManagementVA";
+import TransactionCoordinator from "./pages/services/Call-center-services/Virtual-Assistant/TransactionCoordinator";
+import VirtualReceptionistServices from "./pages/services/Call-center-services/Virtual-Assistant/VirtualReceptionistServices";
+import VirtualMedicalAssistant from "./pages/services/Call-center-services/Virtual-Assistant/VirtualMedicalAssistant";
+import HealthcareVirtualAssistant from "./pages/services/Call-center-services/Virtual-Assistant/HealthcareVirtualAssistant";
+import SmallBusinessVA from "./pages/services/Call-center-services/Virtual-Assistant/SmallBusinessVA";
+import DataEntryVA from "./pages/services/Call-center-services/Virtual-Assistant/DataEntryVA";
+import AudioMonitoring from "./pages/services/Call-center-services/Monitoring-support/AudioMonitoring";
+import CCTVMonitoring from "./pages/services/Call-center-services/Monitoring-support/CCTVMonitoring";
+import CallQualityAnalytics from "./pages/services/Call-center-services/Monitoring-support/CallQualityAnalytics";
+import CallQualityMonitoring from "./pages/services/Call-center-services/Monitoring-support/CallQualityMonitoring";
+import VideoMonitoringServices from "./pages/services/Call-center-services/Monitoring-support/VideoMonitoringServices";
+import TextMonitoringServices from "./pages/services/Call-center-services/Monitoring-support/TextMonitoringServices";
+import AIMonitoringSupport from "./pages/services/Call-center-services/Monitoring-support/AIMonitoringSupport";
+import CallAuditingServices from "./pages/services/Call-center-services/Monitoring-support/CallAuditingServices";
+import VoiceBroadcastingServices from "./pages/services/Call-center-services/Monitoring-support/VoiceBroadcastingServices";
+import ContentMonitoring from "./pages/services/Call-center-services/Monitoring-support/ContentMonitoring";
+import RemoteVideoMonitoring from "./pages/services/Call-center-services/Monitoring-support/RemoteVideoMonitoring";
+import ContentModeration from "./pages/services/Call-center-services/Monitoring-support/ContentModeration";
+import PhoneAnsweringServices from "./pages/services/Call-center-services/Answering-services/PhoneAnsweringServices";
+import MedicalAnsweringServices from "./pages/services/Call-center-services/Answering-services/MedicalAnsweringServices";
+import RealEstateCallAnswering from "./pages/services/Call-center-services/Answering-services/RealEstateCallAnswering";
+import AfterHoursCallCenter from "./pages/services/Call-center-services/Answering-services/AfterHoursCallCenter";
+import ContactCenterServices from "./pages/services/Call-center-services/Callcenter-Consulting/ContactCenterServices";
+import CloudContactCenterServices from "./pages/services/Call-center-services/Callcenter-Consulting/CloudContactCenterServices";
+import BPaaSServices from "./pages/services/Call-center-services/Callcenter-Consulting/BPaaSServices";
+import ContactCenterModernization from "./pages/services/Call-center-services/Callcenter-Consulting/ContactCenterModernization";
+import ContactCenterTransformation from "./pages/services/Call-center-services/Callcenter-Consulting/ContactCenterTransformation";
+import InboundCustomerFAQs from "./pages/services/Call-center-services/Articles/InboundCustomerFAQs";
+import CallCenterFAQ from "./pages/services/Call-center-services/Articles/CallCenterFAQ";
+import InboundCustomerSupport from "./pages/services/Call-center-services/Articles/InboundCustomerSupport";
+import OrderTakingProfit from "./pages/services/Call-center-services/Articles/OrderTakingProfit";
+import CallCenterWorkforce2024 from "./pages/services/Call-center-services/Articles/CallCenterWorkforce2024";
+import CustomerSupport24x7 from "./pages/services/Call-center-services/Articles/CustomerSupport24x7";
+import CallCenterChallenges from "./pages/services/Call-center-services/Articles/CallCenterChallenges";
+import CallCenterTrends from "./pages/services/Call-center-services/Articles/CallCenterTrends";
+import OffshoreCallCenters from "./pages/services/Call-center-services/Articles/OffshoreCallCenters";
+import VirtualAssistantServices from "./pages/services/Call-center-services/Articles/VirtualAssistantServices";
+import CustomerSupportOutsourcing from "./pages/services/Call-center-services/Articles/CustomerSupportOutsourcing";
+import IntelligentContactCenter from "./pages/services/Call-center-services/Articles/IntelligentContactCenter";
+import PostPandemicChallenges from "./pages/services/Call-center-services/Articles/PostPandemicChallenges";
+import ChatbotsInCallCenters from "./pages/services/Call-center-services/Articles/ChatbotsInCallCenters";
+import AIInCallCenters from "./pages/services/Call-center-services/Articles/AIInCallCenters";
+import USPArticle from "./pages/services/Call-center-services/Articles/USPArticle";
+import IVRArticle from "./pages/services/Call-center-services/Articles/IVRArticle";
+import CallCenterOutsourcing from "./pages/services/Call-center-services/Articles/CallCenterOutsourcing";
+import RinglessVoicemailBenefits from "./pages/services/Call-center-services/Articles/RinglessVoicemail";
+import PostCovidContactCenterTrends from "./pages/services/Call-center-services/Articles/PostCovidContactCenterTrends";
+import CallCenterSecurityTrends from "./pages/services/Call-center-services/Articles/CallCenterSecurityTrends";
+import LiveChatSupport from "./pages/services/Call-center-services/Articles/LiveChatSupport";
+import ContactCenterInsights from "./pages/services/Call-center-services/Articles/ContactCenterInsights";
+
 
 
 
@@ -1565,7 +1734,7 @@ const App = () => (
               <Route path="data-support/data-processing/merge-purge-services.asp" element={<MergePurgeServices/>} />
               <Route path="data-support/data-processing/forms-processing-services.asp" element={<FormsProcessingServices/>} />
               <Route path="data-support/data-processing/order-processing-services.asp" element={<OrderProcessingServices/>} />
-              <Route path="data-support/data-processing/image-processing-services.asp" element={<ImageProcessing/>} />
+              <Route path="data-support/data-processing/image-processing-services.asp" element={<ImageProcessingDS/>} />
               <Route path="data-support/data-processing/data-cleansing-services.asp" element={<DataCleansing/>} />
               <Route path="DataManagement/insurance-claims-processing.asp" element={<InsuranceClaimsProcessing/>} />
               <Route path="data-support/data-processing/market-research-forms-processing-services.asp" element={<MarketResearchFormsProcessing/>} />
@@ -1876,7 +2045,6 @@ const App = () => (
               <Route path="creative-services/pet-illustration-services.asp" element={<PetIllustrationServices/>} />
 
 
-
               {/* Creative-design -> Writing services */}
               <Route path="creative-services/writing/textediting-proofreading-services.asp" element={<TextEditingProofreading/>} />
               <Route path="creative-services/writing/proofreading.asp" element={<ProofreadingServices/>} />
@@ -1929,6 +2097,195 @@ const App = () => (
               <Route path="creative-services/vfx-wire-removal-services.asp" element={<VFXWireRemoval/>} />
 
 
+              {/* Call center services -> Inbound call center */}
+              <Route path="call-center/inbound/800-answering-services.asp" element={<AnsweringServices800/>} />
+              <Route path="call-center/inbound/order-taking-services.asp" element={<OrderTakingServices/>} />
+              <Route path="call-center/inbound/rebate-processing-services.asp" element={<RebateProcessing/>} />
+              <Route path="call-center/inbound/claims-processing-services.asp" element={<ClaimsProcessing/>} />
+              <Route path="call-center/inbound/product-information-request-services.asp" element={<ProductInformationRequest/>} />
+              <Route path="call-center/inbound/product-recall-management-services.asp" element={<ProductRecallManagement/>} />
+              <Route path="call-center/inbound/interactive-voice-response.asp" element={<IVRServices/>} />
+              <Route path="call-center/inbound/billing-query-services.asp" element={<BillingQueryServices/>} />
+              <Route path="call-center/inbound/reservation-booking-services.asp" element={<ReservationBooking/>} />
+              <Route path="call-center/call-center-consulting/omnichannel-contact-center-services.asp" element={<OmnichannelContactCenter/>} />
+              <Route path="call-center/inbound/inbound-sales-services.asp" element={<InboundSales/>} />
+              <Route path="call-center/inbound/sales-management-services.asp" element={<SalesManagement/>} />
+              <Route path="call-center/inbound/consumer-response-services.asp" element={<ConsumerResponse/>} />
+              <Route path="call-center/inbound/hotline-services.asp" element={<HotlineServices/>} />
+              <Route path="call-center/inbound/enquiry-handling-services.asp" element={<EnquiryHandling/>} />
+
+              {/* Call center services -> Outbound call center */}
+              <Route path="call-center/outbound/database-development-management-services.asp" element={<DatabaseDevelopment/>} />
+              
+              <Route path="call-center/outbound/debt-collection-services.asp" element={<DebtCollection/>} />
+              <Route path="call-center/outbound/disaster-recovery-services.asp" element={<DisasterRecovery/>} />
+              <Route path="callcenter/database-selling-services.asp" element={<DatabaseSellingServices/>} />
+              <Route path="call-center/outbound/direct-mail-follow-up-services.asp" element={<DirectMailFollowUpServices/>} />
+              <Route path="call-center/outbound/customer-follow-up-services.asp" element={<CustomerFollowUpServices/>} />
+              <Route path="call-center/outbound/market-intelligence-services.asp" element={<MarketIntelligenceServices/>} />
+              <Route path="call-center/outbound/customer-satisfaction-survey-services.asp" element={<CustomerSatisfactionSurvey/>} />
+              <Route path="call-center/outbound/customer-acquisition-services.asp" element={<CustomerAcquisition/>} />
+              <Route path="call-center/outbound/cati-services.asp" element={<CATIServices/>} />
+              <Route path="call-center/outbound/subscription-renewal-services.asp" element={<SubscriptionRenewalServices/>} />
+              <Route path="call-center/outbound/customer-loyalty-management-services.asp" element={<CustomerLoyaltyManagement/>} />
+              <Route path="call-center/outbound/email-list-management-services.asp" element={<EmailListManagement/>} />
+              <Route path="call-center/outbound/customer-retention-services.asp" element={<CustomerRetention/>} />
+              <Route path="call-center/outbound/product-promotion-services.asp" element={<ProductPromotion/>} />
+              <Route path="call-center/outbound/upselling-and-cross-selling-services.asp" element={<UpsellingCrossSelling/>} />
+
+              {/* Call center services -> Telemarketing */}
+              <Route path="call-center/telemarketing/cold-calling-services.asp" element={<ColdCallingServices/>} />
+              <Route path="call-center/telemarketing/real-estate-cold-calling-services.asp" element={<RealEstateColdCalling/>} />
+              <Route path="call-center/telemarketing/b2b-cold-calling-services.asp" element={<B2BColdCalling/>} />
+              <Route path="call-center/telemarketing/b2c-cold-calling-services.asp" element={<B2CColdCalling/>} />
+              <Route path="call-center/telemarketing/teleprospecting-services.asp" element={<TeleprospectingServices/>} />
+              <Route path="call-center/telemarketing/cold-canvassing-services.asp" element={<ColdCanvassingServices/>} />
+              <Route path="call-center/telemarketing/b2b-telesales-services.asp" element={<B2BTelesalesServices/>} />
+              <Route path="call-center/telemarketing/commercial-insurance-telemarketing-services.asp" element={<InsuranceTelemarketingServices/>} />
+              <Route path="call-center/telemarketing/telecommunication-consulting-services.asp" element={<TelecomConsultingServices/>} />
+              <Route path="callcenter/b2b-telemarketing-services.asp" element={<B2BTelemarketingServices/>} />
+              <Route path="call-center/telemarketing/insurance-telemarketing-services.asp" element={<InsuranceTelemarketingPage/>} />
+              <Route path="call-center/telemarketing/telesales-customer-acquisition-services.asp" element={<TelesalesCustomerAcquisitionPage/>} />
+
+             {/* Call center services -> Lead generation */}
+              <Route path="call-center/lead-generation/lead-generation-services-for-bfsi-industry.asp" element={<BFSILeadGeneration/>} />
+              <Route path="call-center/lead-generation/b2c-lead-generation-services.asp" element={<B2CLeadGeneration/>} />
+              <Route path="call-center/lead-generation/telemarketing-lead-generation-services.asp" element={<TelemarketingLeadGeneration/>} />
+              <Route path="call-center/lead-generation/lead-generation-for-the-travel-hospitality-industry.asp" element={<TravelHospitalityLeadGen/>} />
+              <Route path="call-center/lead-generation/lead-generation-for-logistics-transportation-industry.asp" element={<LeadGenerationLogistics/>} />
+              <Route path="call-center/lead-generation/local-lead-generation-services.asp" element={<LocalLeadGeneration/>} />
+              <Route path="call-center/lead-generation/b2b-lead-generation-services.asp" element={<B2BLeadGeneration/>} />
+              <Route path="call-center/lead-generation/lead-generation-process.asp" element={<LeadGenerationProcess/>} />
+              <Route path="call-center/lead-generation/lead-generation-for-it-companies.asp" element={<LeadGenerationIT/>} />
+              <Route path="call-center/lead-generation/education-sector-lead-generation-services.asp" element={<LeadGenerationEducation/>} />
+              <Route path="call-center/lead-generation/ecommerce-lead-generation-services.asp" element={<EcommerceLeadGen/>} />
+              <Route path="call-center/lead-generation/lead-generation-for-small-business.asp" element={<StartupLeadGen/>} />
+              <Route path="call-center/lead-generation/real-estate-lead-generation-services.asp" element={<RealEstateLeadGeneration/>} />
+              <Route path="call-center/lead-generation/mortgage-lead-generation-services.asp" element={<MortgageLeadGeneration/>} />
+              <Route path="call-center/lead-generation/appointment-setting-services.asp" element={<AppointmentSetting/>} />
+              <Route path="call-center/lead-generation/outbound-lead-generation-services.asp" element={<OutboundLeadGeneration/>} />
+              <Route path="call-center/lead-generation/b2b-appointment-setting-services.asp" element={<B2BAppointmentSetting/>} />
+              <Route path="call-center/lead-generation/b2c-appointment-setting-services.asp" element={<B2CAppointmentSetting/>} />
+              <Route path="call-center/lead-generation/lead-generation-for-the-chemical-and-manufacturing-industry.asp" element={<LeadGenChemicalManufacturing/>} />
+              <Route path="call-center/lead-generation/soft-lead-generation-services.asp" element={<SoftLeadGeneration/>} />
+              <Route path="call-center/lead-generation/lead-qualification-services.asp" element={<LeadQualification/>} />
+              <Route path="call-center/lead-generation/insurance-lead-generation-services.asp" element={<InsuranceLeadGeneration/>} />
+              <Route path="call-center/lead-generation/home-insurance-lead-generation-services.asp" element={<HomeInsuranceLeadGen/>} />
+              <Route path="call-center/lead-generation/health-insurance-lead-generation-services.asp" element={<HealthInsuranceLeadGen/>} />
+              <Route path="call-center/lead-generation/trucking-insurance-lead-generation-services.asp" element={<TruckingInsuranceLeadGen/>} />
+              <Route path="call-center/lead-generation/lead-generation-for-insurance-agents.asp" element={<InsuranceAgentLeadGen/>} />
+              <Route path="call-center/lead-generation/commercial-insurance-lead-generation-services.asp" element={<CommercialInsuranceLeadGen/>} />
+              <Route path="call-center/lead-generation/pet-insurance-lead-generation-services.asp" element={<PetInsuranceLeadGen/>} />
+              <Route path="call-center/lead-generation/life-insurance-lead-generation-services.asp" element={<LifeInsuranceLeadGen/>} />
+              <Route path="call-center/lead-generation/auto-insurance-lead-generation-services.asp" element={<AutoInsuranceLeadGen/>} />
+              <Route path="call-center/lead-generation/car-insurance-lead-generation-services.asp" element={<CarInsuranceLeadGen/>} />
+
+
+             {/* Call center services -> customer support*/}
+              <Route path="call-center/customer-support/reactivating-dormant-client-services.asp" element={<ReactivatingDormantClient/>} />
+              <Route path="call-center/customer-support/third-party-verification-services.asp" element={<ThirdPartyVerification/>} />
+              <Route path="call-center/customer-support/click-to-talk-support-services.asp" element={<ClickToTalkSupport/>} />
+              <Route path="call-center/customer-support/technical-support-call-center-services.asp" element={<TechnicalSupport/>} />
+              <Route path="call-center/customer-support/remote-it-support-services.asp" element={<RemoteITSupport/>} />
+              <Route path="call-center/customer-support/toll-free-customer-support-services.asp" element={<TollFreeSupport/>} />
+              <Route path="call-center/customer-support/multilingual-call-center-services.asp" element={<MultilingualCallCenter/>} />
+              <Route path="call-center/customer-support/retail-customer-support-services.asp" element={<RetailCustomerSupport/>} />
+              <Route path="call-center/customer-support/retail-bpo-support-services.asp" element={<RetailBPOSupport/>} />
+              <Route path="call-center/customer-support/order-tracking-and-status-enquiry-services.asp" element={<OrderTrackingSupport/>} />
+              <Route path="call-center/customer-support/business-process-reengineering-services.asp" element={<BusinessProcessReengineering/>} />
+              <Route path="call-center/customer-support/complaint-management-services.asp" element={<ComplaintManagementServices/>} />
+              <Route path="call-center/customer-support/loyalty-program-management-services.asp" element={<LoyaltyProgramManagement/>} />
+              <Route path="call-center/customer-support/email-support-services.asp" element={<EmailSupportServices/>} />
+              <Route path="call-center/customer-support/chat-support-services.asp" element={<ChatSupportServices/>} />
+              <Route path="call-center/customer-support/social-media-customer-services.asp" element={<SocialMediaCustomerService/>} />
+              <Route path="call-center/customer-support/video-chat-support-services.asp" element={<VideoChatCustomerService/>} />
+              <Route path="call-center/customer-support/multi-channel-contact-center-services.asp" element={<MultiChannelContactCenter/>} />
+              <Route path="call-center/customer-support/railway-logistics-bpo-services.asp" element={<RailwayLogisticsBPO/>} />
+              <Route path="call-center/customer-support/customer-interaction-services.asp" element={<CustomerInteraction/>} />
+              <Route path="call-center/customer-support/ecommerce-customer-support-services.asp" element={<EcommerceSupport/>} />
+              <Route path="call-center/customer-support/seminar-registration-services.asp" element={<SeminarRegistration/>} />
+              <Route path="call-center/customer-support/consumer-product-support-services.asp" element={<ConsumerProductSupport/>} />
+              <Route path="call-center/customer-support/digital-agent-services.asp" element={<DigitalAgentServices/>} />
+              <Route path="call-center/customer-support/pre-sales-support-services.asp" element={<PreSalesSupport/>} />
+              <Route path="call-center/customer-support/administrative-support-services.asp" element={<AdminSupport/>} />
+              <Route path="call-center/customer-support/customer-service-representative-services.asp" element={<CSRServices/>} />
+              <Route path="call-center/customer-support/digital-customer-support-services.asp" element={<DigitalSupportServices/>} />
+              <Route path="call-center/customer-support/customer-experience-cx-transformation-services.asp" element={<CXTransformationServices/>} />
+              <Route path="call-center/customer-support/business-continuity-planning-services.asp" element={<BCPServices/>} />
+
+              {/* Call center services -> Virtual Assistant*/}
+              <Route path="call-center/customer-support/business-continuity-planning-services.asp" element={<RealEstateVA/>} />
+              <Route path="call-center/virtual-assistant/virtual-assistant-phone-answering-services.asp" element={<VirtualAssistantPhone/>} />
+              <Route path="call-center/virtual-assistant/virtual-assistants-for-accounting-and-bookkeeping-services.asp" element={<AccountingBookkeepingVA/>} />
+              <Route path="call-center/virtual-assistant/data-entry-virtual-assistant-services.asp" element={<DataEntryVA/>} />
+              <Route path="call-center/virtual-assistant/virtual-appointment-scheduling-assistant-services.asp" element={<VirtualAssistantAppointments/>} />
+              <Route path="call-center/virtual-assistant/virtual-internet-research-assistant-services.asp" element={<VirtualAssistantInternetResearch/>} />
+              <Route path="call-center/virtual-assistant/virtual-business-card-scanning-assistant-services.asp" element={<VirtualAssistantBusinessCards/>} />
+              <Route path="call-center/virtual-assistant/virtual-desktop-publishing-assistant-services.asp" element={<VirtualAssistantDTP/>} />
+              <Route path="call-center/virtual-assistant/travel-planning-virtual-assistant-services.asp" element={<VirtualAssistantTravel/>} />
+              <Route path="call-center/virtual-assistant/virtual-correspondence-management-assistant-services.asp" element={<CorrespondenceVA/>} />
+              <Route path="call-center/virtual-assistant/virtual-event-planning-assistant-services.asp" element={<EventPlanningVA/>} />
+              <Route path="call-center/virtual-assistant/virtual-assistants-for-supply-management-services.asp" element={<SupplyManagementVA/>} />
+              <Route path="call-center/virtual-assistant/transaction-coordinator-services.asp" element={<TransactionCoordinator/>} />
+              <Route path="call-center/virtual-assistant/virtual-receptionist-services.asp" element={<VirtualReceptionistServices/>} />
+              <Route path="call-center/virtual-assistant/virtual-medical-assistant-services.asp" element={<VirtualMedicalAssistant/>} />
+              <Route path="call-center/virtual-assistant/virtual-assistant-for-healthcare.asp" element={<HealthcareVirtualAssistant/>} />
+              <Route path="call-center/virtual-assistant/virtual-assistant-for-small-business.asp" element={<SmallBusinessVA/>} />
+
+
+              {/* Call center services -> Monitoring support*/}
+              <Route path="call-center/virtual-assistant/transaction-coordinator-services.asp" element={<AudioMonitoring/>} />
+              <Route path="call-center/call-center-monitoring/cctv-monitoring-services.asp" element={<CCTVMonitoring/>} />
+              <Route path="call-center/call-center-monitoring/call-quality-analytics-services.asp" element={<CallQualityAnalytics/>} />
+              <Route path="call-center/call-center-monitoring/call-quality-monitoring-support.asp" element={<CallQualityMonitoring/>} />
+              <Route path="call-center/call-center-monitoring/video-monitoring-services.asp" element={<VideoMonitoringServices/>} />
+              <Route path="call-center/call-center-monitoring/text-monitoring-services.asp" element={<TextMonitoringServices/>} />
+              <Route path="call-center/call-center-monitoring/ai-monitoring-support.asp" element={<AIMonitoringSupport/>} />
+              <Route path="call-center/call-center-monitoring/call-auditing-services.asp" element={<CallAuditingServices/>} />
+              <Route path="call-center/call-center-monitoring/voice-broadcasting-services.asp" element={<VoiceBroadcastingServices/>} />
+              <Route path="call-center/call-center-monitoring/content-monitoring-support-services.asp" element={<ContentMonitoring/>} />
+              <Route path="call-center/call-center-monitoring/remote-video-monitoring-services.asp" element={<RemoteVideoMonitoring/>} />
+              <Route path="call-center/call-center-monitoring/content-moderation-services.asp" element={<ContentModeration/>} />
+
+              {/* Call center services -> Answering services*/}  
+              <Route path="call-center/answering-service/phone-answering-services.asp" element={<PhoneAnsweringServices/>} />
+              <Route path="call-center/answering-service/medical-answering-services.asp" element={<MedicalAnsweringServices/>} />
+              <Route path="call-center/answering-service/real-estate-call-answering-services.asp" element={<RealEstateCallAnswering/>} />
+              <Route path="call-center/answering-service/after-hours-call-center-services.asp" element={<AfterHoursCallCenter/>} />\
+
+              {/* Call center services -> Call center consulting*/}  
+              <Route path="call-center/call-center-consulting/contact-center-services.asp" element={<ContactCenterServices/>} />
+              <Route path="call-center/call-center-consulting/cloud-contact-center-services.asp" element={<CloudContactCenterServices/>} />
+              <Route path="call-center/call-center-consulting/business-process-as-a-service.asp" element={<BPaaSServices/>} />
+              <Route path="call-center/call-center-consulting/contact-center-modernization-services.asp" element={<ContactCenterModernization/>} />
+              <Route path="call-center/call-center-consulting/contact-center-transformation-services.asp" element={<ContactCenterTransformation/>} />
+
+              {/* Call center services -> Articles*/}  
+              <Route path="callcenter/articles/faqs-on-inbound-customer-services.asp" element={<InboundCustomerFAQs/>} />
+              <Route path="call-center/articles/faqs-on-outsourcing-call-center-services.asp" element={<CallCenterFAQ/>} />
+              <Route path="callcenter/articles/outsourcing-inbound-customer-support-to-o2i.asp" element={<InboundCustomerSupport/>} />
+              <Route path="callcenter/articles/how-outsourcing-order-taking-can-increase-your-profit.asp" element={<OrderTakingProfit/>} />
+              <Route path="callcenter/articles/shaping-the-future-of-call-centers-efficient-workforce-management-strategies.asp" element={<CallCenterWorkforce2024/>} />
+              <Route path="callcenter/articles/why-should-you-embrace-24-7-customer-support.asp" element={<CustomerSupport24x7/>} />
+              <Route path="callcenter/articles/strategies-for-overcoming-call-center-challenges.asp" element={<CallCenterChallenges/>} />
+              <Route path="callcenter/articles/6-call-center-trends-charting-the-course-of-customer-service.asp" element={<CallCenterTrends/>} />
+              <Route path="callcenter/articles/embracing-offshore-call-center-services-for-strategic-business-growth.asp" element={<OffshoreCallCenters/>} />
+              <Route path="callcenter/articles/10-tips-to-leverage-virtual-assistant-services.asp" element={<VirtualAssistantServices/>} />
+              <Route path="callcenter/articles/the-impact-of-customer-support-outsourcing-on-customer-satisfaction.asp" element={<CustomerSupportOutsourcing/>} />
+              <Route path="callcenter/articles/what-intelligent-contact-center.asp" element={<IntelligentContactCenter/>} />
+              <Route path="callcenter/articles/post-pandemic-challenges-contact-centers-solutions.asp" element={<PostPandemicChallenges/>} />
+              <Route path="callcenter/articles/call-centers-chatbots-use-cases-opportunities.asp" element={<ChatbotsInCallCenters/>} />
+              <Route path="callcenter/articles/how-ai-becoming-instrumental-boosting-call-center-productivity.asp" element={<AIInCallCenters/>} />
+              <Route path="callcenter/articles/unique-selling-proposition-your-key-to-successful-marketing.asp" element={<USPArticle/>} />
+              <Route path="callcenter/articles/ivr-setup-benefits.asp" element={<IVRArticle/>} />
+              <Route path="callcenter/articles/benefits-of-outsourcing-call-center-services-you-must-not-miss.asp" element={<CallCenterOutsourcing/>} />
+              <Route path="callcenter/articles/top-benefits-of-ringless-voicemail-for-businesses.asp" element={<RinglessVoicemailBenefits/>} />
+              <Route path="callcenter/articles/top-post-covid-contact-center-trends-insights.asp" element={<PostCovidContactCenterTrends/>} />
+              <Route path="callcenter/articles/call-center-security-trends-predictions.asp" element={<CallCenterSecurityTrends/>} />
+              <Route path="callcenter/articles/10-reasons-why-ecom-sites-should-have-live-chat-support.asp" element={<LiveChatSupport/>} />
+
+
+
 
               <Route path="/contact" element={<Contact />} />
               <Route path="*" element={<NotFound />} />
@@ -1936,10 +2293,10 @@ const App = () => (
           </main>
           <Footer />
         </div>
+
       </BrowserRouter>
     </TooltipProvider>
   </QueryClientProvider>
 );
 
 export default App;
-

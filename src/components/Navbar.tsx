@@ -28,7 +28,7 @@ const Navbar = () => {
     { name: "Insurance BPO Services", href: "/services/marketing-sales-creative-media" },
     { name: "Customer Experience, Communications & Telephony", href: "/services/customer-experience-communications-telephony" },
     { name: "Photo Editing", href: "/services/operations-procurement-supplychain-manufacturing" },
-    { name: "Real Estate, Facilities, Energy & Environment", href: "/services/real-estate-facilities-energy-environment" },
+    { name: "Call Center Services", href: "/services/real-estate-facilities-energy-environment" },
     { name: "Data sciences", href: "/services/hr-training-admin-specialized-services" },
     { name: "Global Outsourcing / Offshoring Program Management", href: "/services/global-outsourcing-offshoring" },
     { name: "Research and analysis", href: "/services/import-export-services" },
