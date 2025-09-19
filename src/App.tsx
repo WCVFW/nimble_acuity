@@ -1073,6 +1073,8 @@ import ConstructionDocumentationPage from "./pages/services/Engineering-services
 import ConstructionSupportPage from "./pages/services/Engineering-services/Infrastructure-Engineering/ConstructionSupportPage";
 import ThematicMappingPage from "./pages/services/Engineering-services/Infrastructure-Engineering/ThematicMappingPage";
 import ParcelMappingPage from "./pages/services/Engineering-services/Infrastructure-Engineering/ParcelMappingPage";
+import LandDevelopmentServices from "./pages/services/Engineering-services/Infrastructure-Engineering/LandDevelopmentServices";
+import TownPlanningServices from "./pages/services/Engineering-services/Infrastructure-Engineering/TownPlanningServices";
 
 
 
@@ -2319,6 +2321,8 @@ const App = () => (
               <Route path="engineering/infrastructure/construction-support-services.asp" element={<ConstructionSupportPage/>} />
               <Route path="engineering/infrastructure/thematic-mapping-services.asp" element={<ThematicMappingPage/>} />
               <Route path="engineering/infrastructure/parcel-mapping-services.asp" element={<ParcelMappingPage/>} />
+              <Route path="engineering/infrastructure/land-development-design-services.asp" element={<LandDevelopmentServices/>} />
+              <Route path="engineering/infrastructure/town-planning-services.asp" element={<TownPlanningServices/>} />
 
 
 
