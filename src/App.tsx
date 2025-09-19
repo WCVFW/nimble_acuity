@@ -1059,6 +1059,21 @@ import PostCovidContactCenterTrends from "./pages/services/Call-center-services/
 import CallCenterSecurityTrends from "./pages/services/Call-center-services/Articles/CallCenterSecurityTrends";
 import LiveChatSupport from "./pages/services/Call-center-services/Articles/LiveChatSupport";
 import ContactCenterInsights from "./pages/services/Call-center-services/Articles/ContactCenterInsights";
+import BIMServicesUK from "./pages/services/Engineering-services/Engineering-uk/BIMServicesUK";
+import ArchitecturalServicesUK from "./pages/services/Engineering-services/Engineering-uk/ArchitecturalServicesUK";
+import CADServicesUK from "./pages/services/Engineering-services/Engineering-uk/CADServicesUK";
+import RevitModellingServices from "./pages/services/Engineering-services/Engineering-uk/RevitModellingServices";
+import RetailEngineeringDesign from "./pages/services/Engineering-services/Industries/RetailEngineeringDesign";
+import ConstructionEngineeringServices from "./pages/services/Engineering-services/Industries/ConstructionEngineeringServices";
+import OilGasEngineeringPage from "./pages/services/Engineering-services/Industries/OilGasEngineeringPage";
+import KitchenEquipmentEngineering from "./pages/services/Engineering-services/Industries/KitchenEquipmentEngineering";
+import QsrEngineering from "./pages/services/Engineering-services/Industries/QsrEngineering";
+import GlassIndustryPage from "./pages/services/Engineering-services/Industries/GlassIndustryPage";
+import ConstructionDocumentationPage from "./pages/services/Engineering-services/Infrastructure-Engineering/ConstructionDocumentationPage";
+import ConstructionSupportPage from "./pages/services/Engineering-services/Infrastructure-Engineering/ConstructionSupportPage";
+import ThematicMappingPage from "./pages/services/Engineering-services/Infrastructure-Engineering/ThematicMappingPage";
+import ParcelMappingPage from "./pages/services/Engineering-services/Infrastructure-Engineering/ParcelMappingPage";
+
 
 
 
@@ -2283,6 +2298,27 @@ const App = () => (
               <Route path="callcenter/articles/top-post-covid-contact-center-trends-insights.asp" element={<PostCovidContactCenterTrends/>} />
               <Route path="callcenter/articles/call-center-security-trends-predictions.asp" element={<CallCenterSecurityTrends/>} />
               <Route path="callcenter/articles/10-reasons-why-ecom-sites-should-have-live-chat-support.asp" element={<LiveChatSupport/>} />
+
+              {/* Engineeering services - Enginerring-uk */}
+              <Route path="uk/engineering/bim-services.asp" element={<BIMServicesUK/>} />
+              <Route path="uk/engineering/architectural-3d-modelling-drafting-rendering-services.asp" element={<ArchitecturalServicesUK/>} />
+              <Route path="uk/engineering/cad-services.asp" element={<CADServicesUK/>} />
+              <Route path="uk/engineering/revit-modeling-services.asp" element={<RevitModellingServices/>} />
+
+              {/* Engineeering services - Industries */}
+              <Route path="engineering/engineering-design-for-retail-stores.asp" element={<RetailEngineeringDesign/>} />
+              
+              <Route path="engineering/engineering-services-for-construction-companies.asp" element={<ConstructionEngineeringServices/>} />
+              <Route path="eso/construction/engineering-for-oil-gas-industry.asp" element={<OilGasEngineeringPage/>} />
+              <Route path="eso/construction/engineering-for-kitchen-equipment-manufacturer.asp" element={<KitchenEquipmentEngineering/>} />
+              <Route path="engineering/engineering-services-for-quick-service-restaurant.asp" element={<QsrEngineering/>} />
+              <Route path="engineering/cad-engineering-for-glass-industry.asp" element={<GlassIndustryPage/>} />
+
+              {/* Engineeering services - Infrastructure engineering */}
+              <Route path="engineering/infrastructure/construction-documentation-services.asp" element={<ConstructionDocumentationPage/>} />
+              <Route path="engineering/infrastructure/construction-support-services.asp" element={<ConstructionSupportPage/>} />
+              <Route path="engineering/infrastructure/thematic-mapping-services.asp" element={<ThematicMappingPage/>} />
+              <Route path="engineering/infrastructure/parcel-mapping-services.asp" element={<ParcelMappingPage/>} />
 
 
 

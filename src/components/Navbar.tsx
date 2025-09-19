@@ -30,7 +30,7 @@ const Navbar = () => {
     { name: "Photo Editing", href: "/services/operations-procurement-supplychain-manufacturing" },
     { name: "Call Center Services", href: "/services/real-estate-facilities-energy-environment" },
     { name: "Data sciences", href: "/services/hr-training-admin-specialized-services" },
-    { name: "Global Outsourcing / Offshoring Program Management", href: "/services/global-outsourcing-offshoring" },
+    { name: "Engineering services", href: "/services/global-outsourcing-offshoring" },
     { name: "Research and analysis", href: "/services/import-export-services" },
   ];
 
