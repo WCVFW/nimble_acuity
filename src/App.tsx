@@ -1042,6 +1042,20 @@ import NuxtJsDevelopment from "./pages/services/SoftwareDevelopment/Technologies
 import ReactJSDevelopment from "./pages/services/SoftwareDevelopment/Technologies/ReactJSDevelopment";
 import SilverlightDevelopment from "./pages/services/SoftwareDevelopment/Technologies/SilverlightDevelopment";
 import SymfonyDevelopment from "./pages/services/SoftwareDevelopment/Technologies/SymfonyDevelopment";
+import BackboneJSDevelopment from "./pages/services/SoftwareDevelopment/Technologies/BackboneJSDevelopment";
+import EmberJSDevelopment from "./pages/services/SoftwareDevelopment/Technologies/EmberJSDevelopment";
+import KnockoutJSDevelopment from "./pages/services/SoftwareDevelopment/Technologies/KnockoutJSDevelopment";
+import MERNStackDevelopment from "./pages/services/SoftwareDevelopment/Technologies/MERNStackDevelopment";
+import MagentoDevelopment from "./pages/services/SoftwareDevelopment/Technologies/MagentoDevelopment";
+import MeteorJSDevelopment from "./pages/services/SoftwareDevelopment/Technologies/MeteorJSDevelopment";
+import NetMVCDevelopment from "./pages/services/SoftwareDevelopment/Technologies/NetMVCDevelopment";
+import NodeJSDevelopment from "./pages/services/SoftwareDevelopment/Technologies/NodeJSDevelopment";
+import StellarDevelopment from "./pages/services/SoftwareDevelopment/Technologies/StellarDevelopment";
+import MEANStackDevelopment from "./pages/services/SoftwareDevelopment/Technologies/MEANStackDevelopment";
+import NetDevelopment from "./pages/services/SoftwareDevelopment/Technologies/NetDevelopment";
+import SenchaDevelopment from "./pages/services/SoftwareDevelopment/Technologies/SenchaDevelopment";
+import SpringBootDevelopment from "./pages/services/SoftwareDevelopment/Technologies/SpringBootDevelopment";
+import TezosDevelopment from "./pages/services/SoftwareDevelopment/Technologies/TezosDevelopment";
 
 
 
@@ -2088,6 +2102,20 @@ const App = () => (
               <Route path="/services/ITServices/SoftwareDevelopment/SilverlightDevelopment" element={<SilverlightDevelopment />} />
               <Route path="/services/ITServices/SoftwareDevelopment/SymfonyDevelopment" element={<SymfonyDevelopment />} />
               <Route path="/services/ITServices/SoftwareDevelopment/CreateJSServices" element={<CreateJSServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/NetMVCDevelopment" element={<NetMVCDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/BackboneJSDevelopment" element={<BackboneJSDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/MeteorJSDevelopment" element={<MeteorJSDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/MagentoDevelopment" element={<MagentoDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/StellarDevelopment" element={<StellarDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/KnockoutJSDevelopment" element={<KnockoutJSDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/NodeJSDevelopment" element={<NodeJSDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/MERNStackDevelopment" element={<MERNStackDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/EmberJSDevelopment" element={<EmberJSDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/SenchaDevelopment" element={<SenchaDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/SpringBootDevelopment" element={<SpringBootDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/MEANStackDevelopment" element={<MEANStackDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/TezosDevelopment" element={<TezosDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/NetDevelopment" element={<NetDevelopment />} />
 
 
 
