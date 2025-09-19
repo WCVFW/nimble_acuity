@@ -22,11 +22,11 @@ const Navbar = () => {
   const services: NavItem[] = [
     { name: "Finance, Accounting & FinOps", href: "/services/finance-accounting-finops" },
     { name: "Creative design", href: "/services/legal-corporate-compliance" },
-    { name: "Healthcare & MedTech Support", href: "/services/healthcare-medtech-support" },
+    { name: "Healthcare BPO", href: "/services/healthcare-BPO-Service" },
     { name: "Data Services", href: "/services/it-software-cloud-cybersecurity" },
-    { name: "Data, AI, Analytics & Research", href: "/services/data-ai-analytics-research" },
+    { name: "Mortgage Service", href: "/services/MortgageService" },
     { name: "Insurance BPO Services", href: "/services/marketing-sales-creative-media" },
-    { name: "Customer Experience, Communications & Telephony", href: "/services/customer-experience-communications-telephony" },
+    { name: "Software Development", href: "/services/SoftwareDevelopment" }, 
     { name: "Photo Editing", href: "/services/operations-procurement-supplychain-manufacturing" },
     { name: "Call Center Services", href: "/services/real-estate-facilities-energy-environment" },
     { name: "Data sciences", href: "/services/hr-training-admin-specialized-services" },
@@ -59,9 +59,8 @@ const Navbar = () => {
               {/* Home Link */}
               <Link
                 to="/"
-                className={`px-3 py-2 text-sm font-medium transition-colors hover:text-[#006A7C] ${
-                  isActive("/") ? "text-[#006A7C]" : "text-gray-900"
-                }`}
+                className={`px-3 py-2 text-sm font-medium transition-colors hover:text-[#006A7C] ${isActive("/") ? "text-[#006A7C]" : "text-gray-900"
+                  }`}
               >
                 Home
               </Link>
@@ -72,16 +71,15 @@ const Navbar = () => {
                 onMouseEnter={() => setIsServicesDropdownOpen(true)}
                 onMouseLeave={() => setIsServicesDropdownOpen(false)}
               >
-                
+
                 <Link
-                to="/services">
+                  to="/services">
                   <button
-                  className={`flex items-center px-3 py-2 text-sm font-medium transition-colors hover:text-[#006A7C] ${
-                    isServicesPage ? "text-[#006A7C]" : "text-gray-900"
-                  }`}
-                >
-                  Services <ChevronDown className={`ml-1 h-4 w-4 transition-transform duration-200 ${isServicesDropdownOpen ? "rotate-180" : ""}`} />
-                </button>
+                    className={`flex items-center px-3 py-2 text-sm font-medium transition-colors hover:text-[#006A7C] ${isServicesPage ? "text-[#006A7C]" : "text-gray-900"
+                      }`}
+                  >
+                    Services <ChevronDown className={`ml-1 h-4 w-4 transition-transform duration-200 ${isServicesDropdownOpen ? "rotate-180" : ""}`} />
+                  </button>
                 </Link>
 
                 {/* Centered Dropdown */}
@@ -112,9 +110,8 @@ const Navbar = () => {
                 <Link
                   key={item.name}
                   to={item.href}
-                  className={`px-3 py-2 text-sm font-medium transition-colors hover:text-[#006A7C] ${
-                    isActive(item.href) ? "text-[#006A7C]" : "text-gray-900"
-                  }`}
+                  className={`px-3 py-2 text-sm font-medium transition-colors hover:text-[#006A7C] ${isActive(item.href) ? "text-[#006A7C]" : "text-gray-900"
+                    }`}
                 >
                   {item.name}
                 </Link>
@@ -143,9 +140,8 @@ const Navbar = () => {
               <Link
                 key={item.name}
                 to={item.href}
-                className={`block px-3 py-2 text-sm font-medium transition-colors hover:bg-gray-100 hover:text-[#006A7C] rounded-md ${
-                  isActive(item.href) ? "text-[#006A7C] bg-gray-100" : "text-gray-900"
-                }`}
+                className={`block px-3 py-2 text-sm font-medium transition-colors hover:bg-gray-100 hover:text-[#006A7C] rounded-md ${isActive(item.href) ? "text-[#006A7C] bg-gray-100" : "text-gray-900"
+                  }`}
                 onClick={handleMobileLinkClick}
               >
                 {item.name}
@@ -166,11 +162,10 @@ const Navbar = () => {
                     <Link
                       key={service.name}
                       to={service.href}
-                      className={`block pl-6 pr-3 py-2 text-sm transition-colors hover:bg-[#006A7C] hover:text-white rounded-md ${
-                        isActive(service.href)
+                      className={`block pl-6 pr-3 py-2 text-sm transition-colors hover:bg-[#006A7C] hover:text-white rounded-md ${isActive(service.href)
                           ? "text-[#006A7C] bg-gray-50"
                           : "text-gray-900"
-                      }`}
+                        }`}
                       onClick={handleMobileLinkClick}
                     >
                       {service.name}
