@@ -1033,6 +1033,15 @@ import JavascriptDevelopment from "./pages/services/SoftwareDevelopment/Technolo
 import QtDevelopment from "./pages/services/SoftwareDevelopment/Technologies/QtDevelopment";
 import SmartContractDevelopment from "./pages/services/SoftwareDevelopment/Technologies/SmartContractDevelopment";
 import TableauDevelopmentServices from "./pages/services/SoftwareDevelopment/Technologies/TableauDevelopmentServices";
+import TensorFlowDevelopment from "./pages/services/SoftwareDevelopment/Technologies/TensorFlowDevelopment";
+import AngularDevelopment from "./pages/services/SoftwareDevelopment/Technologies/AngularDevelopment";
+import CakePHPDevelopment from "./pages/services/SoftwareDevelopment/Technologies/CakePHPDevelopment";
+import CreateJSServices from "./pages/services/SoftwareDevelopment/Technologies/CreateJSServices";
+import NextJSDevelopment from "./pages/services/SoftwareDevelopment/Technologies/NextJSDevelopment";
+import NuxtJsDevelopment from "./pages/services/SoftwareDevelopment/Technologies/NuxtJsDevelopment";
+import ReactJSDevelopment from "./pages/services/SoftwareDevelopment/Technologies/ReactJSDevelopment";
+import SilverlightDevelopment from "./pages/services/SoftwareDevelopment/Technologies/SilverlightDevelopment";
+import SymfonyDevelopment from "./pages/services/SoftwareDevelopment/Technologies/SymfonyDevelopment";
 
 
 
@@ -2070,6 +2079,15 @@ const App = () => (
               <Route path="/services/ITServices/SoftwareDevelopment/TableauDevelopmentServices" element={<TableauDevelopmentServices />} />
               <Route path="/services/ITServices/SoftwareDevelopment/QtDevelopment" element={<QtDevelopment />} />
               <Route path="/services/ITServices/SoftwareDevelopment/ExpressJSServices" element={<ExpressJSServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/TensorFlowDevelopment" element={<TensorFlowDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/ReactJSDevelopment" element={<ReactJSDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/NextJSDevelopment" element={<NextJSDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/AngularDevelopment" element={<AngularDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/CakePHPDevelopment" element={<CakePHPDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/NuxtJsDevelopment" element={<NuxtJsDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/SilverlightDevelopment" element={<SilverlightDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/SymfonyDevelopment" element={<SymfonyDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/CreateJSServices" element={<CreateJSServices />} />
 
 
 
