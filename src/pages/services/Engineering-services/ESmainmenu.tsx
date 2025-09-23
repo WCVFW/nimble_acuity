@@ -225,7 +225,6 @@ const MenuLink: MenuSection[] = [
     { label: "Industrial Structures Design & Analysis", href: "/engineering/structural/industrial-structures-design-and-analysis-services.asp" },
     { label: "Custom Homes Design & Analysis", href: "/engineering/structural/custom-home-design-and-analysis-services.asp" },
     { label: "Retrofitting & Rehabilitation of Structures", href: "/engineering/structural/retrofitting-rehabilitation-existing-structures.asp" },
-    { label: "Finite Element Modeling and Analysis", href: "/eso/construction/structural-design.asp#fema" },
     { label: "Peer Review Services", href: "/engineering/structural/peer-review-services.asp" },
     { label: "Structural Design and Drafting Services", href: "/engineering/structural/structural-design-and-drafting-services.asp" },
     { label: "Structural Fabrication Drawing Services", href: "/engineering/structural/structural-fabrication-drawing-services.asp" },

@@ -142,29 +142,41 @@ const ITServices = () => {
       {/* Page Content */}
       <section className="py-16 bg-white mt-20">
         <div className="max-w-7xl mx-auto px-6 md:px-12 lg:px-24">
-          {/* Hero Section */}
-          <div className="max-w-4xl mb-12">
-            <h1 className="text-4xl font-bold text-[#006A7C] mb-4">
-              IT Outsourcing Services
-            </h1>
-            <p className="text-lg text-gray-600">
-              At Nimble Acuity, we offer reliable and secure IT outsourcing
-              services to ensure zero business disruption. We empower your
-              business to embrace technological advancements by modernizing your
-              mission-critical IT needs.
-            </p>
-          </div>
+          {/* Hero + Stats Section */}
+          <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
+            {/* Left Side: Heading + Paragraph + Stats */}
+            <div>
+              <h1 className="text-4xl font-bold text-[#006A7C] mb-4">
+                IT Outsourcing Services
+              </h1>
+              <p className="text-lg text-gray-600 mb-8">
+                At Nimble Acuity, we offer reliable and secure IT outsourcing
+                services to ensure zero business disruption. We empower your
+                business to embrace technological advancements by modernizing
+                your mission-critical IT needs.
+              </p>
 
-          {/* Stats */}
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mb-16">
-            {stats.map((stat, idx) => (
-              <div key={idx} className="text-center">
-                <p className="text-4xl font-bold text-[#006A7C]">
-                  {stat.value}
-                </p>
-                <p className="text-sm text-gray-600">{stat.label}</p>
+              {/* Stats */}
+              <div className="grid grid-cols-2 gap-6 md:gap-8">
+                {stats.map((stat, idx) => (
+                  <div key={idx} className="text-center md:text-left">
+                    <p className="text-4xl font-bold text-[#006A7C]">
+                      {stat.value}
+                    </p>
+                    <p className="text-sm text-gray-600">{stat.label}</p>
+                  </div>
+                ))}
               </div>
-            ))}
+            </div>
+
+            {/* Right Side: Image */}
+            <div className="flex justify-center">
+              <img
+                src="/images/software.jpg"        // <- leading slash
+                alt="IT Outsourcing"
+                className="w-full max-w-md rounded-xl shadow-lg object-cover md:h-80"
+              />
+            </div>
           </div>
 
           {/* Intro Paragraphs */}
@@ -182,10 +194,10 @@ const ITServices = () => {
             <p className="text-gray-700 leading-relaxed">
               We go beyond simply providing solutions. We work with your team,
               processes, and objectives, delivering customized services that not
-              only solve immediate problems but also set the stage for
-              long-term success. Our commitment is to help you navigate
-              intricate challenges, leverage new opportunities, and achieve
-              greater performance, scalability, and competitiveness.
+              only solve immediate problems but also set the stage for long-term
+              success. Our commitment is to help you navigate intricate
+              challenges, leverage new opportunities, and achieve greater
+              performance, scalability, and competitiveness.
             </p>
           </div>
 
@@ -244,7 +256,9 @@ const ITServices = () => {
                   <ul className="space-y-2 text-gray-700">
                     {list.map((tech, i) => (
                       <li key={i}>
-                        <span className="font-medium text-gray-800">{tech}</span>
+                        <span className="font-medium text-gray-800">
+                          {tech}
+                        </span>
                       </li>
                     ))}
                   </ul>

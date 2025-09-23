@@ -2046,10 +2046,356 @@ import NodeJSDevelopment from "./pages/services/SoftwareDevelopment/Technologies
 import StellarDevelopment from "./pages/services/SoftwareDevelopment/Technologies/StellarDevelopment";
 import MEANStackDevelopment from "./pages/services/SoftwareDevelopment/Technologies/MEANStackDevelopment";
 import NetDevelopment from "./pages/services/SoftwareDevelopment/Technologies/NetDevelopment";
+// import SenchaDevelopment from "./pages/services/SoftwareDevelopment/Technologies/SenchaDevelopment";
+// import SpringBootDevelopment from "./pages/services/SoftwareDevelopment/Technologies/SpringBootDevelopment";
+// import TezosDevelopment from "./pages/services/SoftwareDevelopment/Technologies/TezosDevelopment";
+import UrbanDevelopmentServices from "./pages/services/Engineering-services/Infrastructure-Engineering/UrbanDevelopmentServices";
+import DrainageDesignServices from "./pages/services/Engineering-services/Infrastructure-Engineering/DrainageDesignServices";
+import GISServices from "./pages/services/Engineering-services/Infrastructure-Engineering/GISServices";
+import GISAndCADDServices from "./pages/services/Engineering-services/Infrastructure-Engineering/GISAndCADDServices";
+import UndergroundUtilityMapping from "./pages/services/Engineering-services/Infrastructure-Engineering/UndergroundUtilityMapping";
+import HighwayEngineering from "./pages/services/Engineering-services/Infrastructure-Engineering/HighwayEngineering";
+import PublicHealthEngineering from "./pages/services/Engineering-services/Infrastructure-Engineering/PublicHealthEngineering";
+import CorridorMapping from "./pages/services/Engineering-services/Infrastructure-Engineering/CorridorMapping";
+import ConstructionSequencing from "./pages/services/Engineering-services/Infrastructure-Engineering/ConstructionSequencing";
+import InfrastructurePlanning from "./pages/services/Engineering-services/Infrastructure-Engineering/InfrastructurePlanning";
+import GeotechnicalEngineering from "./pages/services/Engineering-services/Infrastructure-Engineering/GeotechnicalEngineering";
+import ConstructionPhaseServices from "./pages/services/Engineering-services/Infrastructure-Engineering/ConstructionPhaseServices";
+import EnergyAuditServices from "./pages/services/Engineering-services/Infrastructure-Engineering/EnergyAuditServices";
+import PHEDesignServices from "./pages/services/Engineering-services/Infrastructure-Engineering/PHEDesignServices";
+import LightingControlServices from "./pages/services/Engineering-services/Electrical-Engineering/LightingControlServices";
+import ControlSystemServices from "./pages/services/Engineering-services/Electrical-Engineering/ControlSystemServices";
+import VLSIDesignServices from "./pages/services/Engineering-services/Electrical-Engineering/VLSIDesignServices";
+import HardwareDesignServices from "./pages/services/Engineering-services/Electrical-Engineering/HardwareDesignServices";
+import ElectricalInstrumentationServices from "./pages/services/Engineering-services/Electrical-Engineering/ElectricalInstrumentationServices";
+import ElectricalSystemsDesign from "./pages/services/Engineering-services/Electrical-Engineering/ElectricalSystemsDesign";
+import ElectricalDesignLayout from "./pages/services/Engineering-services/Electrical-Engineering/ElectricalDesignLayout";
+import PCBDesignServices from "./pages/services/Engineering-services/Electrical-Engineering/PCBDesignServices";
+import SolarPanelLayout from "./pages/services/Engineering-services/Electrical-Engineering/SolarPanelLayout";
+import FpgaDesignServices from "./pages/services/Engineering-services/Electrical-Engineering/FpgaDesignServices";
+import EmbeddedSystemDesign from "./pages/services/Engineering-services/Electrical-Engineering/EmbeddedSystemDesign";
+import ElectricalSchematicDrawing from "./pages/services/Engineering-services/Electrical-Engineering/ElectricalSchematicDrawing";
+import ElectronicCircuitDesign from "./pages/services/Engineering-services/Electrical-Engineering/ElectronicCircuitDesign";
+import EnergyModelingServices from "./pages/services/Engineering-services/Electrical-Engineering/EnergyModelingServices";
+import ElectricalGroundingServices from "./pages/services/Engineering-services/Electrical-Engineering/ElectricalGroundingServices";
+import ElectricalDraftingServices from "./pages/services/Engineering-services/Electrical-Engineering/ElectricalDraftingServices";
+import PcbReverseEngineering from "./pages/services/Engineering-services/Electrical-Engineering/PcbReverseEngineering";
+import ElectricalDrafting from "./pages/services/Engineering-services/Electrical-Engineering/ElectricalDrafting";
+import ElectricalCalibrationServices from "./pages/services/Engineering-services/Electrical-Engineering/ElectricalCalibrationServices";
+import MechanicalBIMServices from "./pages/services/Engineering-services/Bim/MechanicalBIMServices";
+import BIM5DCostEstimation from "./pages/services/Engineering-services/Bim/BIM5DCostEstimation";
+import BIMComponentCreation from "./pages/services/Engineering-services/Bim/BIMComponentCreation";
+import LaserScanToBIM from "./pages/services/Engineering-services/Bim/LaserScanToBIM";
+import AsBuiltBIM from "./pages/services/Engineering-services/Bim/AsBuiltBIM";
+import BIMAppDevelopment from "./pages/services/Engineering-services/Bim/BIMAppDevelopment";
+import BIMModelAuditing from "./pages/services/Engineering-services/Bim/BIMModelAuditing";
+import BIMExecutionPlanning from "./pages/services/Engineering-services/Bim/BIMExecutionPlanning";
+import BIMClashDetection from "./pages/services/Engineering-services/Bim/BIMClashDetection";
+import BIM6DModeling from "./pages/services/Engineering-services/Bim/BIM6DModeling";
+import BIMCoordination from "./pages/services/Engineering-services/Bim/BIMCoordination";
+import BIMQuantityEstimation from "./pages/services/Engineering-services/Bim/BIMQuantityEstimation";
+import BIMVRServices from "./pages/services/Engineering-services/Bim/BIMVRServices";
+import BIMFacilityManagement from "./pages/services/Engineering-services/Bim/BIMFacilityManagement";
+import StructuralBIM from "./pages/services/Engineering-services/Bim/StructuralBIM";
+import CivilInfrastructureBIM from "./pages/services/Engineering-services/Bim/CivilInfrastructureBIM";
+import CivilBIMServices from "./pages/services/Engineering-services/Bim/CivilBIMServices";
+import ArchitecturalBIMServices from "./pages/services/Engineering-services/Bim/ArchitecturalBIMServices";
+import ElectricalBIMServices from "./pages/services/Engineering-services/Bim/ElectricalBIMServices";
+import StructuralBIMServices from "./pages/services/Engineering-services/Bim/StructuralBIMServices";
+import BIMEnergyModelingServices from "./pages/services/Engineering-services/Bim/BIMEnergyModelingServices";
+import BIMLeanConstructionServices from "./pages/services/Engineering-services/Bim/BIMLeanConstructionServices";
+import BIM4DModelingServices from "./pages/services/Engineering-services/Bim/BIM4DModelingServices";
+import CADServices from "./pages/services/Engineering-services/CAD-Services/CADServices";
+import CADConversionServices from "./pages/services/Engineering-services/CAD-Services/CADConversionServices";
+import AutoCADDraftingServices from "./pages/services/Engineering-services/CAD-Services/AutoCADDraftingServices";
+import MechanicalCADDraftingPage from "./pages/services/Engineering-services/CAD-Services/MechanicalCADDraftingPage";
+import AutoCADConversion from "./pages/services/Engineering-services/CAD-Services/AutoCADConversion";
+import MatterportToCAD from "./pages/services/Engineering-services/CAD-Services/MatterportToCAD";
+import LegacyConversion from "./pages/services/Engineering-services/CAD-Services/LegacyConversion";
+import PaperToCAD from "./pages/services/Engineering-services/CAD-Services/PaperToCAD";
+import CADAutomation from "./pages/services/Engineering-services/CAD-Services/CADAutomation";
+import CADMigration from "./pages/services/Engineering-services/CAD-Services/CADMigration";
+import PrecastDetailing from "./pages/services/Engineering-services/Structural-engineering-services/PrecastDetailing";
+import SkidDesign from "./pages/services/Engineering-services/Structural-engineering-services/SkidDesign";
+import HighRiseDesign from "./pages/services/Engineering-services/Structural-engineering-services/HighRiseDesign";
+import IndustrialStructuresDesign from "./pages/services/Engineering-services/Structural-engineering-services/IndustrialStructuresDesign";
+import CustomHomeDesign from "./pages/services/Engineering-services/Structural-engineering-services/CustomHomeDesign";
+import RetrofittingServices from "./pages/services/Engineering-services/Structural-engineering-services/RetrofittingServices";
+import PeerReviewServices from "./pages/services/Engineering-services/Structural-engineering-services/PeerReviewServices";
+import StructuralDesign from "./pages/services/Engineering-services/Structural-engineering-services/StructuralDesign";
+import StructuralFabrication from "./pages/services/Engineering-services/Structural-engineering-services/StructuralFabrication";
+import SteelDetailing from "./pages/services/Engineering-services/Structural-engineering-services/SteelDetailing";
+import StructuralShopDrawing from "./pages/services/Engineering-services/Structural-engineering-services/StructuralShopDrawing";
+import Structural3DModeling from "./pages/services/Engineering-services/Structural-engineering-services/Structural3DModeling";
+import RebarDetailing from "./pages/services/Engineering-services/Structural-engineering-services/RebarDetailing";
+import DroneMappingServices from "./pages/services/Engineering-services/Civil-Engineering/DroneMappingServices";
+import ContourMappingServices from "./pages/services/Engineering-services/Civil-Engineering/ContourMappingServices";
+import ResidentialDrainageDesign from "./pages/services/Engineering-services/Civil-Engineering/ResidentialDrainageDesign";
+import ConstructionGADrawings from "./pages/services/Engineering-services/Civil-Engineering/ConstructionGADrawings";
+import HVACDesignServices from "./pages/services/Engineering-services/Civil-Engineering/HVACDesignServices";
+import MEPDesignServices from "./pages/services/Engineering-services/Civil-Engineering/MEPDesignServices";
+import RemoteDraftingServices from "./pages/services/Engineering-services/Civil-Engineering/RemoteDraftingServices";
+import LandSurveyingServices from "./pages/services/Engineering-services/Civil-Engineering/LandSurveyingServices";
+import GeospatialServices from "./pages/services/Engineering-services/Civil-Engineering/GeospatialServices";
+import PlanimetricMapping from "./pages/services/Engineering-services/Civil-Engineering/PlanimetricMapping";
+import OrthophotoProduction from "./pages/services/Engineering-services/Civil-Engineering/OrthophotoProduction";
+import TopographicMapping from "./pages/services/Engineering-services/Civil-Engineering/TopographicMapping";
+import PhotogrammetricServices from "./pages/services/Engineering-services/Civil-Engineering/PhotogrammetricServices";
+import DigitalElevationModeling from "./pages/services/Engineering-services/Civil-Engineering/DigitalElevationModeling";
+import TerrainModelingServices from "./pages/services/Engineering-services/Civil-Engineering/TerrainModelingServices";
+import LiDARMappingServices from "./pages/services/Engineering-services/Civil-Engineering/LiDARMappingServices";
+import GIsSurveyingServices from "./pages/services/Engineering-services/Civil-Engineering/GIsSurveyingServices";
+import CadastralMappingServices from "./pages/services/Engineering-services/Civil-Engineering/CadastralMappingServices";
+import ThreeDCoordinationServices from "./pages/services/Engineering-services/Civil-Engineering/ThreeDCoordinationServices";
+import CivilInformationModelingServices from "./pages/services/Engineering-services/Civil-Engineering/CivilInformationModelingServices";
+import VirtualConstructionServices from "./pages/services/Engineering-services/Civil-Engineering/VirtualConstructionServices";
+import ConstructionScheduling from "./pages/services/Engineering-services/Civil-Engineering/ConstructionScheduling";
+import Simulation5D from "./pages/services/Engineering-services/Civil-Engineering/Simulation5D";
+import Simulation4D from "./pages/services/Engineering-services/Civil-Engineering/Simulation4D";
+import ContractorSupport from "./pages/services/Engineering-services/Civil-Engineering/ContractorSupport";
+import QualityAssurancePage from "./pages/services/Engineering-services/Civil-Engineering/QualityAssurancePage";
+import TrafficEngineering from "./pages/services/Engineering-services/Civil-Engineering/TrafficEngineering";
+import GeothermalEngineering from "./pages/services/Engineering-services/Civil-Engineering/GeothermalEngineering";
+import DigitalTwinImplementation from "./pages/services/Engineering-services/Civil-Engineering/DigitalTwinImplementation";
+import PlumbingDesignServices from "./pages/services/Engineering-services/Civil-Engineering/PlumbingDesignServices";
+import QuantityTakeoffServices from "./pages/services/Engineering-services/Civil-Engineering/QuantityTakeoffServices";
+import StormwaterManagement from "./pages/services/Engineering-services/Civil-Engineering/StormwaterManagement";
+import IndoorMappingServices from "./pages/services/Engineering-services/Civil-Engineering/IndoorMappingServices";
+import RemoteSensingServices from "./pages/services/Engineering-services/Civil-Engineering/RemoteSensingServices";
+import DroneSurveyServices from "./pages/services/Engineering-services/Civil-Engineering/DroneSurveyServices";
+import ResilienceEngineeringServices from "./pages/services/Engineering-services/Civil-Engineering/ResilienceEngineeringServices";
+import AerialMappingServices from "./pages/services/Engineering-services/Civil-Engineering/AerialMappingServices";
+import Civil3DServices from "./pages/services/Engineering-services/Civil-Engineering/Civil3DServices";
+import AugmentedRealityInterior from "./pages/services/Engineering-services/Architectural-services/AugmentedRealityInterior";
+import MicroStationServices from "./pages/services/Engineering-services/Architectural-services/MicroStationServices";
+import VacuumCastingServices from "./pages/services/Engineering-services/Architectural-services/VacuumCastingServices";
+import DesignServices from "./pages/services/Engineering-services/Architectural-services/DesignServices";
+import PipingSpoolDrawing from "./pages/services/Engineering-services/Architectural-services/PipingSpoolDrawing";
+import RetailVisualMerchandising from "./pages/services/Engineering-services/Architectural-services/RetailVisualMerchandising";
+import ArchitecturalWalkthrough from "./pages/services/Engineering-services/Architectural-services/ArchitecturalWalkthrough";
+import TechnicalDrawingServices from "./pages/services/Engineering-services/Architectural-services/TechnicalDrawingServices";
+import VirtualStagingServices from "./pages/services/Engineering-services/Architectural-services/VirtualStagingServices";
+import LandscapeDesignServices from "./pages/services/Engineering-services/Architectural-services/LandscapeDesignServices";
+import RetailSpaceDesignServices from "./pages/services/Engineering-services/Architectural-services/RetailSpaceDesignServices";
+import FurnitureModelingServices from "./pages/services/Engineering-services/Architectural-services/FurnitureModelingServices";
+import Architectural3DServices from "./pages/services/Engineering-services/Architectural-services/Architectural3DServices";
+import FloorPlan3DServices from "./pages/services/Engineering-services/Architectural-services/FloorPlan3DServices";
+import ThreeDPrintingServices from "./pages/services/Engineering-services/Architectural-services/ThreeDPrintingServices";
+import ArchitecturalDraftingServices from "./pages/services/Engineering-services/Architectural-services/ArchitecturalDraftingServices";
+import MillworkDraftingServices from "./pages/services/Engineering-services/Architectural-services/MillworkDraftingServices";
+import SketchUpServices from "./pages/services/Engineering-services/Architectural-services/SketchUpServices";
+import PointCloudServices from "./pages/services/Engineering-services/Architectural-services/PointCloudServices";
+import ParametricModelingPage from "./pages/services/Engineering-services/Architectural-services/ParametricModelingPage";
+import CabinetDrawingServices from "./pages/services/Engineering-services/Architectural-services/CabinetDrawingServices";
+import KitchenCabinetDesign from "./pages/services/Engineering-services/Architectural-services/KitchenCabinetDesign";
+import RevitModeling from "./pages/services/Engineering-services/Architectural-services/RevitModeling";
+import ConstructionSimulation from "./pages/services/Engineering-services/Architectural-services/ConstructionSimulation";
+import FloorPlan2D from "./pages/services/Engineering-services/Architectural-services/FloorPlan2D";
+import PresentationDrawingServices from "./pages/services/Engineering-services/Architectural-services/PresentationDrawingServices";
+import ArchitecturalVisualizationServices from "./pages/services/Engineering-services/Architectural-services/ArchitecturalVisualizationServices";
+import AugmentedRealityEngineering from "./pages/services/Engineering-services/Architectural-services/AugmentedRealityEngineering";
+import PanoramaRendering from "./pages/services/Engineering-services/Architectural-services/PanoramaRendering";
+import VirtualTours from "./pages/services/Engineering-services/Architectural-services/VirtualTours";
+import MixedRealityServices from "./pages/services/Engineering-services/Architectural-services/MixedRealityServices";
+import VirtualRealityServices from "./pages/services/Engineering-services/Architectural-services/VirtualRealityServices";
+import SolidGeometryModeling from "./pages/services/Engineering-services/Architectural-services/SolidGeometryModeling";
+import PresentationModeling from "./pages/services/Engineering-services/Architectural-services/PresentationModeling";
+import BREPModeling from "./pages/services/Engineering-services/Architectural-services/BREPModeling";
+import RealEstateRendering from "./pages/services/Engineering-services/Architectural-services/RealEstateRendering";
+import IsometricDrawingServices from "./pages/services/Engineering-services/Architectural-services/IsometricDrawingServices";
+import ArchitecturalModelMaking from "./pages/services/Engineering-services/Architectural-services/ArchitecturalModelMaking";
+import FacadeEngineering from "./pages/services/Engineering-services/Architectural-services/FacadeEngineering";
+import TelecomNetworkDrawings from "./pages/services/Engineering-services/Architectural-services/TelecomNetworkDrawings";
+import InteriorRenderingServices from "./pages/services/Engineering-services/Architectural-services/InteriorRenderingServices";
+import PhotorealisticRenderingServices from "./pages/services/Engineering-services/Architectural-services/PhotorealisticRenderingServices";
+import BIMLODServices from "./pages/services/Engineering-services/Architectural-services/BIMLODServices";
+import SkylightDetailingServices from "./pages/services/Engineering-services/Architectural-services/SkylightDetailingServices";
+import ConstructionAdministrationServices from "./pages/services/Engineering-services/Architectural-services/ConstructionAdministrationServices";
+import LeedConsultingServices from "./pages/services/Engineering-services/Architectural-services/LeedConsultingServices";
+import AsBuiltDrawingServices from "./pages/services/Engineering-services/Architectural-services/AsBuiltDrawingServices";
+import ConstructionDetailDrawingServices from "./pages/services/Engineering-services/Architectural-services/ConstructionDetailDrawingServices";
+import ComponentDrawingServices from "./pages/services/Engineering-services/Architectural-services/ComponentDrawingServices";
+
 import SenchaDevelopment from "./pages/services/SoftwareDevelopment/Technologies/SenchaDevelopment";
 import SpringBootDevelopment from "./pages/services/SoftwareDevelopment/Technologies/SpringBootDevelopment";
 import TezosDevelopment from "./pages/services/SoftwareDevelopment/Technologies/TezosDevelopment";
+import AlfrescoDevelopment from "./pages/services/SoftwareDevelopment/Technologies/AlfrescoDevelopment";
+import AngularJSDevelopment from "./pages/services/SoftwareDevelopment/Technologies/AngularJSDevelopment";
+import ColdFusionDevelopment from "./pages/services/SoftwareDevelopment/Technologies/ColdFusionDevelopment";
+import SaaSDevelopment from "./pages/services/SoftwareDevelopment/Technologies/SaaSDevelopment";
+import OpenSourceCMS from "./pages/services/SoftwareDevelopment/Technologies/OpenSourceCMS";
+import ContentManagementServices from "./pages/services/SoftwareDevelopment/Technologies/ContentManagementServices";
+import DAppDevelopmentServices from "./pages/services/SoftwareDevelopment/Technologies/DAppDevelopmentServices";
+import AEMDevelopmentServices from "./pages/services/SoftwareDevelopment/Technologies/AEMDevelopmentServices";
+import CodeIgniterDevelopmentServices from "./pages/services/SoftwareDevelopment/Technologies/CodeIgniterDevelopmentServices";
+import BizTalkDevelopmentServices from "./pages/services/SoftwareDevelopment/Technologies/BizTalkDevelopmentServices";
+import VueJsDevelopmentServices from "./pages/services/SoftwareDevelopment/Technologies/VueJsDevelopmentServices";
 
+{/* Digital Transformation  */ }
+import DigitalTransformation from "./pages/services/SoftwareDevelopment/DigitalTransformation/DigitalTransformation";
+
+{/* Network Infrastructure */ }
+import NetworkInfrastructures from "./pages/services/SoftwareDevelopment/NetworkInfrastructure/NetworkInfrastructure";
+
+{/* Database Service */ }
+import DatabaseServices from "./pages/services/SoftwareDevelopment/DatabaseService/DatabaseServices";
+import ApacheIgniteManagedServices from "./pages/services/SoftwareDevelopment/DatabaseService/ApacheIgniteManagedServices";
+import CouchDBManagedServices from "./pages/services/SoftwareDevelopment/DatabaseService/CouchDBManagedServices";
+import DatabaseAdministrationServices from "./pages/services/SoftwareDevelopment/DatabaseService/DatabaseAdministrationServices";
+import DatabaseDevelopmentServices from "./pages/services/SoftwareDevelopment/DatabaseService/DatabaseDevelopmentServices";
+import DatabaseManagementServices from "./pages/services/SoftwareDevelopment/DatabaseService/DatabaseManagementServices";
+import MongoDBManagedServices from "./pages/services/SoftwareDevelopment/DatabaseService/MongoDBManagedServices";
+import Neo4jManagedServices from "./pages/services/SoftwareDevelopment/DatabaseService/Neo4jManagedServices";
+import PostgreSQLService from "./pages/services/SoftwareDevelopment/DatabaseService/PostgreSQLService";
+import SQLServerManagedServices from "./pages/services/SoftwareDevelopment/DatabaseService/SQLServerManagedServices";
+import ArangoDBService from "./pages/services/SoftwareDevelopment/DatabaseService/ArangoDBService";
+import CassandraService from "./pages/services/SoftwareDevelopment/DatabaseService/CassandraService";
+import DatabaseDesignServices from "./pages/services/SoftwareDevelopment/DatabaseService/DatabaseDesignServices";
+import DatabaseMigrationService from "./pages/services/SoftwareDevelopment/DatabaseService/DatabaseMigrationService";
+import DevelopmentAndMigrationServices from "./pages/services/SoftwareDevelopment/DatabaseService/DevelopmentAndMigrationServices";
+import GraphDBService from "./pages/services/SoftwareDevelopment/DatabaseService/GraphDBService";
+import JanusGraphService from "./pages/services/SoftwareDevelopment/DatabaseService/JanusGraphService";
+import MySQLDevelopmentServices from "./pages/services/SoftwareDevelopment/DatabaseService/MySQLDevelopmentServices";
+import MySQLManagedServices from "./pages/services/SoftwareDevelopment/DatabaseService/MySQLManagedServices";
+import PatchManagementService from "./pages/services/SoftwareDevelopment/DatabaseService/PatchManagementService";
+import PostgreSQLManagedServices from "./pages/services/SoftwareDevelopment/DatabaseService/PostgreSQLManagedServices";
+import ScyllaDBService from "./pages/services/SoftwareDevelopment/DatabaseService/ScyllaDBService";
+
+{/* Industries */ }
+import SoftwareDevelopmentForIndustries from "./pages/services/SoftwareDevelopment/Industries/SoftwareDevelopmentForIndustries";
+import AerospaceSoftwareServices from "./pages/services/SoftwareDevelopment/Industries/AerospaceSoftwareServices";
+import CustomsBrokerageSoftware from "./pages/services/SoftwareDevelopment/Industries/CustomsBrokerageSoftware";
+import EducationSoftwareDevelopment from "./pages/services/SoftwareDevelopment/Industries/EducationSoftwareDevelopment";
+import FoodAndBeverageSoftware from "./pages/services/SoftwareDevelopment/Industries/FoodAndBeverageSoftware";
+import MediaAndEntertainmentServices from "./pages/services/SoftwareDevelopment/Industries/MediaAndEntertainmentServices";
+import PublishingAndAdvertisingSoftware from "./pages/services/SoftwareDevelopment/Industries/PublishingAndAdvertisingSoftware";
+import RecruitmentSoftwareDevelopment from "./pages/services/SoftwareDevelopment/Industries/RecruitmentSoftwareDevelopment";
+import SoftwareDevelopmentForISVs from "./pages/services/SoftwareDevelopment/Industries/SoftwareDevelopmentForISVs";
+import TravelPortalDevelopment from "./pages/services/SoftwareDevelopment/Industries/TravelPortalDevelopment";
+import AugmentedRealityDriverAssistance from "./pages/services/SoftwareDevelopment/Industries/AugmentedRealityDriverAssistance";
+import AutomotiveTelematics from "./pages/services/SoftwareDevelopment/Industries/AutomotiveTelematics";
+import BankingAndFinancialSoftware from "./pages/services/SoftwareDevelopment/Industries/BankingAndFinancialSoftware";
+import ConsumerGoodsSoftware from "./pages/services/SoftwareDevelopment/Industries/ConsumerGoodsSoftware";
+import FashionManagementSoftware from "./pages/services/SoftwareDevelopment/Industries/FashionManagementSoftware";
+import HealthcareSoftware from "./pages/services/SoftwareDevelopment/Industries/HealthcareSoftware";
+import IoTHCApplicationManagement from "./pages/services/SoftwareDevelopment/Industries/IoTHCApplicationManagement";
+import SchoolManagementSoftware from "./pages/services/SoftwareDevelopment/Industries/SchoolManagementSoftware";
+import TravelsPortalDevelopment from "./pages/services/SoftwareDevelopment/Industries/TravelsPortalDevelopment";
+import AutomotiveSoftwareSolutions from "./pages/services/SoftwareDevelopment/Industries/AutomotiveSoftwareSolutions";
+import SportsAppDevelopment from "./pages/services/SoftwareDevelopment/Industries/SportsAppDevelopment";
+import TelecomSoftwareDevelopment from "./pages/services/SoftwareDevelopment/Industries/TelecomSoftwareDevelopment";
+
+
+
+{/* Other Service */ }
+import ProjectPortfolioManagement from "./pages/services/SoftwareDevelopment/OtherService/ProjectPortfolioManagement";
+import CorporateITTtraining from "./pages/services/SoftwareDevelopment/OtherService/CorporateITTtraining";
+import CustomWebAnalytics from "./pages/services/SoftwareDevelopment/OtherService/CustomWebAnalytics";
+import DigitalGameELearning from "./pages/services/SoftwareDevelopment/OtherService/DigitalGameELearning";
+import ELearningArtDesign from "./pages/services/SoftwareDevelopment/OtherService/ELearningArtDesign";
+import ELearningContentDevelopment from "./pages/services/SoftwareDevelopment/OtherService/ELearningContentDevelopment";
+import ELearningContentPorting from "./pages/services/SoftwareDevelopment/OtherService/ELearningContentPorting";
+import ELearningMobileAppDev from "./pages/services/SoftwareDevelopment/OtherService/ELearningMobileAppDev";
+import ELearningServices from "./pages/services/SoftwareDevelopment/OtherService/ELearningServices";
+import ELearningSoftwareDevelopment from "./pages/services/SoftwareDevelopment/OtherService/ELearningSoftwareDevelopment";
+import ImageVideoAnalytics from "./pages/services/SoftwareDevelopment/OtherService/ImageVideoAnalytics";
+import OpenSourceELearning from "./pages/services/SoftwareDevelopment/OtherService/OpenSourceELearning";
+import PredictiveAnalyticsos from "./pages/services/SoftwareDevelopment/OtherService/PredictiveAnalytics";
+import PrescriptiveAnalytics from "./pages/services/SoftwareDevelopment/OtherService/PrescriptiveAnalytics";
+import WebAnalyticsConfig from "./pages/services/SoftwareDevelopment/OtherService/WebAnalyticsConfig";
+import CampaignAnalyticsServices from "./pages/services/SoftwareDevelopment/OtherService/CampaignAnalyticsServices";
+import CorporateTrainingELearning from "./pages/services/SoftwareDevelopment/OtherService/CorporateTrainingELearning";
+import DomoConsultingServices from "./pages/services/SoftwareDevelopment/OtherService/DomoConsultingServices";
+import ELearningSolutions from "./pages/services/SoftwareDevelopment/OtherService/ELearningSolutions";
+import GoogleAnalyticsServices from "./pages/services/SoftwareDevelopment/OtherService/GoogleAnalyticsServices";
+import PerformanceGapAnalysis from "./pages/services/SoftwareDevelopment/OtherService/PerformanceGapAnalysis";
+import PrimaveraConsulting from "./pages/services/SoftwareDevelopment/OtherService/PrimaveraConsulting";
+import RemoteWebAnalytics from "./pages/services/SoftwareDevelopment/OtherService/RemoteWebAnalytics";
+import TrainingProductDevelopment from "./pages/services/SoftwareDevelopment/OtherService/TrainingProductDevelopment";
+import UipathConsulting from "./pages/services/SoftwareDevelopment/OtherService/UipathConsulting";
+import WebAnalyticsPhilippines from "./pages/services/SoftwareDevelopment/OtherService/WebAnalyticsPhilippines";
+import ClickstreamAnalytics from "./pages/services/SoftwareDevelopment/OtherService/ClickstreamAnalytics";
+import CustomDashboard from "./pages/services/SoftwareDevelopment/OtherService/CustomDashboard";
+import DataVisualization from "./pages/services/SoftwareDevelopment/OtherService/DataVisualization";
+import InstructionalDesign from "./pages/services/SoftwareDevelopment/OtherService/InstructionalDesign";
+import MoodleDevelopment from "./pages/services/SoftwareDevelopment/OtherService/MoodleDevelopment";
+import ProductDemos from "./pages/services/SoftwareDevelopment/OtherService/ProductDemos";
+import RealEstateDashboard from "./pages/services/SoftwareDevelopment/OtherService/RealEstateDashboard";
+import WebAnalytics from "./pages/services/SoftwareDevelopment/OtherService/WebAnalytics";
+import WorkforceAnalytics from "./pages/services/SoftwareDevelopment/OtherService/WorkforceAnalytics";
+
+
+{/* Mechanical Engineering */ }
+import ModularPlantDesign from "./pages/services/Engineering-services/MechanicalEngineering/ModularPlantDesign";
+import CrashAnalysisServices from "./pages/services/Engineering-services/MechanicalEngineering/CrashAnalysisServices";
+import FiniteElementAnalysis from "./pages/services/Engineering-services/MechanicalEngineering/FiniteElementAnalysis";
+import ProductDesignAndDevelopment from "./pages/services/Engineering-services/MechanicalEngineering/ProductDesignAndDevelopment";
+import ProductLifecycleSupport from "./pages/services/Engineering-services/MechanicalEngineering/ProductLifecycleSupport";
+import ProposalAndBidManagement from "./pages/services/Engineering-services/MechanicalEngineering/ProposalAndBidManagement";
+import PrototypingAndRapidPrototyping from "./pages/services/Engineering-services/MechanicalEngineering/PrototypingAndRapidPrototyping";
+import TechnicalPublicationServices from "./pages/services/Engineering-services/MechanicalEngineering/TechnicalPublicationServices";
+import VirtualPrototypingServices from "./pages/services/Engineering-services/MechanicalEngineering/VirtualPrototypingServices";
+import CATIAServices from "./pages/services/Engineering-services/MechanicalEngineering/CATIAServices";
+import DetailedEngineeringDesign from "./pages/services/Engineering-services/MechanicalEngineering/DetailedEngineeringDesign";
+import FatigueAnalysisServices from "./pages/services/Engineering-services/MechanicalEngineering/FatigueAnalysisServices";
+import PlantDesignEngineering from "./pages/services/Engineering-services/MechanicalEngineering/PlantDesignEngineering";
+import PlantDesignManagementSystem from "./pages/services/Engineering-services/MechanicalEngineering/PlantDesignManagementSystem";
+import ValueEngineeringServices from "./pages/services/Engineering-services/MechanicalEngineering/ValueEngineeringServices";
+import AssemblyDrawings from "./pages/services/Engineering-services/MechanicalEngineering/AssemblyDrawings";
+import AutodeskInventorServices from "./pages/services/Engineering-services/MechanicalEngineering/AutodeskInventorServices";
+import CNCProgrammingServices from "./pages/services/Engineering-services/MechanicalEngineering/CNCProgrammingServices";
+import CastingDesign from "./pages/services/Engineering-services/MechanicalEngineering/CastingDesign";
+import LaserScanning from "./pages/services/Engineering-services/MechanicalEngineering/LaserScanning";
+import MechanicalConceptDesign from "./pages/services/Engineering-services/MechanicalEngineering/MechanicalConceptDesign";
+import MechanicalEngineeringAnalysis from "./pages/services/Engineering-services/MechanicalEngineering/MechanicalEngineeringAnalysis";
+import PipingDesign from "./pages/services/Engineering-services/MechanicalEngineering/PipingDesign";
+import ProcessPlanning from "./pages/services/Engineering-services/MechanicalEngineering/ProcessPlanning";
+import ProductRenderingModeling from "./pages/services/Engineering-services/MechanicalEngineering/ProductRenderingModeling";
+import ReverseEngineering from "./pages/services/Engineering-services/MechanicalEngineering/ReverseEngineering";
+import RevitFamilyCreation from "./pages/services/Engineering-services/MechanicalEngineering/RevitFamilyCreation";
+import SheetMetalDesign from "./pages/services/Engineering-services/MechanicalEngineering/SheetMetalDesign";
+import SolidWorksDesign from "./pages/services/Engineering-services/MechanicalEngineering/SolidWorksDesign";
+import StructuralStressAnalysis from "./pages/services/Engineering-services/MechanicalEngineering/StructuralStressAnalysis";
+import ThermalModeling from "./pages/services/Engineering-services/MechanicalEngineering/ThermalModeling";
+import ToleranceStackup from "./pages/services/Engineering-services/MechanicalEngineering/ToleranceStackup";
+import VisualMerchandising from "./pages/services/Engineering-services/MechanicalEngineering/VisualMerchandising";
+import AssemblyModelingServices from "./pages/services/Engineering-services/MechanicalEngineering/AssemblyModelingServices";
+import CAEModalAnalysis from "./pages/services/Engineering-services/MechanicalEngineering/CAEModalAnalysis";
+import EngineeringChangeOrder from "./pages/services/Engineering-services/MechanicalEngineering/EngineeringChangeOrder";
+import HVACSystemReplacement from "./pages/services/Engineering-services/MechanicalEngineering/HVACSystemReplacement";
+import JigsFixturesDesign from "./pages/services/Engineering-services/MechanicalEngineering/JigsFixturesDesign";
+import MachineDesignDevelopment from "./pages/services/Engineering-services/MechanicalEngineering/MachineDesignDevelopment";
+import ThreeDModelingDrafting from "./pages/services/Engineering-services/MechanicalEngineering/ThreeDModelingDrafting";
+import ThreeDPartModeling from "./pages/services/Engineering-services/MechanicalEngineering/ThreeDPartModeling";
+import ToolingFixtureDesign from "./pages/services/Engineering-services/MechanicalEngineering/ToolingFixtureDesign";
+import MicroStationServiceses from "./pages/services/Engineering-services/Architectural-services/MicroStationServices";
+import DWGtoDGN from "./pages/services/Engineering-services/MechanicalEngineering/DWGtoDGN";
+import Drafting2DServices from "./pages/services/Engineering-services/MechanicalEngineering/Drafting2DServices";
+import MCDtoDWGConversion from "./pages/services/Engineering-services/MechanicalEngineering/MCDtoDWGConversion";
+import Max3DServices from "./pages/services/Engineering-services/MechanicalEngineering/Max3DServices";
+import Mechanical3DAnimation from "./pages/services/Engineering-services/MechanicalEngineering/Mechanical3DAnimation";
+import PDFtoDWGConversion from "./pages/services/Engineering-services/MechanicalEngineering/PDFtoDWGConversion";
+import PLMservices from "./pages/services/Engineering-services/MechanicalEngineering/PLMservices";
+import RasterToVector from "./pages/services/Engineering-services/MechanicalEngineering/RasterToVector";
+import ScanningMeasurementServices from "./pages/services/Engineering-services/MechanicalEngineering/ScanningMeasurementServices";
+import CFDservices from "./pages/services/Engineering-services/MechanicalEngineering/CFDservices";
+import DFMservices from "./pages/services/Engineering-services/MechanicalEngineering/DFMservices";
+import FabricationCost from "./pages/services/Engineering-services/MechanicalEngineering/FabricationCost";
+import FailureAnalysis from "./pages/services/Engineering-services/MechanicalEngineering/FailureAnalysis";
+import IndustrialAutomationServices from "./pages/services/Engineering-services/MechanicalEngineering/IndustrialAutomationServices";
+import ManufacturingServices from "./pages/services/Engineering-services/MechanicalEngineering/ManufacturingServices";
+import PlumbingFirefighting from "./pages/services/Engineering-services/MechanicalEngineering/PlumbingFirefighting";
+import ProductEngineering from "./pages/services/Engineering-services/MechanicalEngineering/ProductEngineering";
+import ProjectManagementServices from "./pages/services/Engineering-services/MechanicalEngineering/ProjectManagementServices";
+import TowerDesign from "./pages/services/Engineering-services/MechanicalEngineering/TowerDesign";
+import FireProtectionServices from "./pages/services/Engineering-services/MechanicalEngineering/FireProtectionServices";
+import OEMservices from "./pages/services/Engineering-services/MechanicalEngineering/OEMservices";
+import OfficeFurnitureServices from "./pages/services/Engineering-services/MechanicalEngineering/OfficeFurnitureServices";
+import ParametricModelingServices from "./pages/services/Engineering-services/MechanicalEngineering/ParametricModelingServices";
+import RadonTestingServices from "./pages/services/Engineering-services/MechanicalEngineering/RadonTestingServices";
+import ShipDeckDesignServices from "./pages/services/Engineering-services/MechanicalEngineering/ShipDeckDesignServices";
+import SimulationEngineeringServices from "./pages/services/Engineering-services/MechanicalEngineering/SimulationEngineeringServices";
+import VisualMerchandisingServices from "./pages/services/Engineering-services/MechanicalEngineering/VisualMerchandisingServices";
 
 {/* Shenbagavel End */ }
 
@@ -3296,6 +3642,198 @@ const App = () => (
               <Route path="engineering/infrastructure/parcel-mapping-services.asp" element={<ParcelMappingPage />} />
               <Route path="engineering/infrastructure/land-development-design-services.asp" element={<LandDevelopmentServices />} />
               <Route path="engineering/infrastructure/town-planning-services.asp" element={<TownPlanningServices />} />
+              <Route path="engineering/infrastructure/urban-development-services.asp" element={<UrbanDevelopmentServices />} />
+              <Route path="engineering/infrastructure/storm-sewer-drainage-design-services.asp" element={<DrainageDesignServices />} />
+              <Route path="engineering/infrastructure/geographic-information-system-services.asp" element={<GISServices />} />
+              <Route path="engineering/infrastructure/gis-cadd-data-development-maintenance.asp" element={<GISAndCADDServices />} />
+              <Route path="engineering/infrastructure/underground-utility-mapping-services.asp" element={<UndergroundUtilityMapping />} />
+              <Route path="engineering/infrastructure/highway-engineering-services.asp" element={<HighwayEngineering />} />
+              <Route path="engineering/infrastructure/public-health-engineering-services.asp" element={<PublicHealthEngineering />} />
+              <Route path="engineering/infrastructure/3d-corridor-mapping-generation-of-gis-database-services.asp" element={<CorridorMapping />} />
+              <Route path="engineering/infrastructure/construction-sequencing-services.asp" element={<ConstructionSequencing />} />
+              <Route path="engineering/infrastructure/infrastructure-planning-services.asp" element={<InfrastructurePlanning />} />
+              <Route path="engineering/infrastructure/geotechnical-engineering-services.asp" element={<GeotechnicalEngineering />} />
+              <Route path="engineering/infrastructure/construction-phase-services.asp" element={<ConstructionPhaseServices />} />
+              <Route path="engineering/infrastructure/energy-auditing-services.asp" element={<EnergyAuditServices />} />
+              <Route path="engineering/infrastructure/public-health-engineering-design-services.asp" element={<PHEDesignServices />} />
+
+              {/* Engineeering services - Electrical engineering */}
+              <Route path="engineering/electrical/lighting-control-and-design-services.asp" element={<LightingControlServices />} />
+
+              <Route path="engineering/electrical/control-system-engineering-services.asp" element={<ControlSystemServices />} />
+              <Route path="engineering/electrical/vlsi-design-services.asp" element={<VLSIDesignServices />} />
+              <Route path="engineering/electrical/hardware-design-services.asp" element={<HardwareDesignServices />} />
+              <Route path="engineering/electrical/electrical-instrumentation-services.asp" element={<ElectricalInstrumentationServices />} />
+              <Route path="engineering/electrical/electrical-systems-design-and-drafting-services.asp" element={<ElectricalSystemsDesign />} />
+              <Route path="engineering/electrical/electrical-design-and-layout-services.asp" element={<ElectricalDesignLayout />} />
+              <Route path="engineering/electrical/PCB-design-and-layout-services.asp" element={<PCBDesignServices />} />
+              <Route path="engineering/electrical/solar-panel-design-services.asp" element={<SolarPanelLayout />} />
+              <Route path="engineering/electrical/fpga-design-services.asp" element={<FpgaDesignServices />} />
+              <Route path="engineering/electrical/embedded-system-design-services.asp" element={<EmbeddedSystemDesign />} />
+              <Route path="engineering/electrical/electrical-schematic-drawing-services.asp" element={<ElectricalSchematicDrawing />} />
+              <Route path="engineering/electrical/electronic-circuit-design-services.asp" element={<ElectronicCircuitDesign />} />
+              <Route path="engineering/electrical/energy-modeling-services.asp" element={<EnergyModelingServices />} />
+              <Route path="engineering/electrical/electrical-grounding-system-design-services.asp" element={<ElectricalGroundingServices />} />
+              <Route path="engineering/electrical/electrical-drafting-services.asp" element={<ElectricalDraftingServices />} />
+              <Route path="engineering/electrical/pcb-reverse-engineering-services.asp" element={<PcbReverseEngineering />} />
+              <Route path="engineering/electrical/electrical-2d-drafting-services.asp" element={<ElectricalDrafting />} />
+              <Route path="engineering/electrical/electrical-calibration-services.asp" element={<ElectricalCalibrationServices />} />
+
+
+              {/* Engineeering services - Bim */}
+              <Route path="engineering/bim/mechanical-bim-services.asp" element={<MechanicalBIMServices />} />
+              <Route path="engineering/bim/bim-5d-cost-estimation-services.asp" element={<BIM5DCostEstimation />} />
+              <Route path="engineering/bim/bim-component-creation-services.asp" element={<BIMComponentCreation />} />
+              <Route path="engineering/bim/laser-scan-to-bim-services.asp" element={<LaserScanToBIM />} />
+              <Route path="engineering/bim/as-built-bim-modeling-services.asp" element={<AsBuiltBIM />} />
+              <Route path="engineering/bim/bim-app-development-services.asp" element={<BIMAppDevelopment />} />
+              <Route path="engineering/bim/bim-model-auditing-services.asp" element={<BIMModelAuditing />} />
+              <Route path="engineering/bim/bim-execution-planning-services.asp" element={<BIMExecutionPlanning />} />
+              <Route path="engineering/bim/bim-clash-detection-services.asp" element={<BIMClashDetection />} />
+              <Route path="engineering/bim/bim-6d-modeling-services.asp" element={<BIM6DModeling />} />
+              <Route path="engineering/bim/bim-coordination-services.asp" element={<BIMCoordination />} />
+              <Route path="engineering/bim/bim-quantity-estimation-services.asp" element={<BIMQuantityEstimation />} />
+              <Route path="engineering/bim/bim-3d-virtual-reality-services.asp" element={<BIMVRServices />} />
+              <Route path="engineering/bim/bim-for-facility-management-services.asp" element={<BIMFacilityManagement />} />
+              <Route path="engineering/bim/structural-bim-consulting-design-services.asp" element={<StructuralBIM />} />
+              <Route path="engineering/bim/bim-for-civil-infrastructure-projects.asp" element={<CivilInfrastructureBIM />} />
+              <Route path="engineering/bim/civil-bim-services.asp" element={<CivilBIMServices />} />
+              <Route path="engineering/bim/architectural-bim-services.asp" element={<ArchitecturalBIMServices />} />
+              <Route path="engineering/bim/electrical-bim-services.asp" element={<ElectricalBIMServices />} />
+              <Route path="engineering/bim/structural-bim-drafting-services.asp" element={<StructuralBIMServices />} />
+              <Route path="engineering/bim/bim-energy-modeling-services.asp" element={<BIMEnergyModelingServices />} />
+              <Route path="engineering/bim/bim-lean-construction-services.asp" element={<BIMLeanConstructionServices />} />
+              <Route path="engineering/bim/4d-bim-modeling-services.asp" element={<BIM4DModelingServices />} />
+
+
+              {/* Engineeering services - CAD Services */}
+              <Route path="engineering/cad/cad-design-and-drafting-services.asp" element={<CADServices />} />
+              <Route path="engineering/mechanical/cad-conversion-services.asp" element={<CADConversionServices />} />
+              <Route path="engineering/cad/autocad-drafting-services.asp" element={<AutoCADDraftingServices />} />
+              <Route path="engineering/mechanical/mechanical-cad-drafting-services.asp" element={<MechanicalCADDraftingPage />} />
+              <Route path="engineering/mechanical/autocad-conversion-services.asp" element={<AutoCADConversion />} />
+              <Route path="engineering/architectural/matterport-cad-conversion-services.asp" element={<MatterportToCAD />} />
+              <Route path="engineering/mechanical/legacy-conversion-services.asp" element={<LegacyConversion />} />
+              <Route path="engineering/civil/paper-to-cad-conversion-services.asp" element={<PaperToCAD />} />
+              <Route path="engineering/mechanical/cad-automation-services.asp" element={<CADAutomation />} />
+              <Route path="engineering/mechanical/cad-migration-services.asp" element={<CADMigration />} />
+
+              {/* Engineeering services - Structural engineering Services */}
+              <Route path="engineering/structural/precast-panel-detailing-services.asp" element={<PrecastDetailing />} />
+              <Route path="engineering/structural/skid-design-services.asp" element={<SkidDesign />} />
+              <Route path="engineering/structural/high-rise-structures-design-analysis-services.asp" element={<HighRiseDesign />} />
+              <Route path="engineering/structural/industrial-structures-design-and-analysis-services.asp" element={<IndustrialStructuresDesign />} />
+              <Route path="engineering/structural/custom-home-design-and-analysis-services.asp" element={<CustomHomeDesign />} />
+              <Route path="engineering/structural/retrofitting-rehabilitation-existing-structures.asp" element={<RetrofittingServices />} />
+              <Route path="engineering/structural/peer-review-services.asp" element={<PeerReviewServices />} />
+              <Route path="engineering/structural/structural-design-and-drafting-services.asp" element={<StructuralDesign />} />
+              <Route path="engineering/structural/structural-fabrication-drawing-services.asp" element={<StructuralFabrication />} />
+              <Route path="engineering/structural/structural-steel-detailing-services.asp" element={<SteelDetailing />} />
+              <Route path="engineering/structural/structural-shop-drawings-services.asp" element={<StructuralShopDrawing />} />
+              <Route path="structural-design/structural-3d-modeling-drafting-rendering-services.asp" element={<Structural3DModeling />} />
+              <Route path="engineering/structural/rebar-detailing-services.asp" element={<RebarDetailing />} />
+
+
+
+              {/* Engineeering services - Civil engineering */}
+              <Route path="engineering/civil/drone-mapping-services.asp" element={<DroneMappingServices />} />
+              <Route path="engineering/civil/contour-mapping-services.asp" element={<ContourMappingServices />} />
+              <Route path="engineering/civil/residential-drainage-design-services.asp" element={<ResidentialDrainageDesign />} />
+              <Route path="engineering/civil/construction-drawing-services.asp" element={<ConstructionGADrawings />} />
+              <Route path="engineering/civil/hvac-services.asp" element={<HVACDesignServices />} />
+              <Route path="engineering/civil/mep-design-drafting-services.asp" element={<MEPDesignServices />} />
+              <Route path="engineering/civil/remote-drafting-services.asp" element={<RemoteDraftingServices />} />
+              <Route path="engineering/civil/land-surveying-services.asp" element={<LandSurveyingServices />} />
+              <Route path="engineering/civil/geospatial-services.asp" element={<GeospatialServices />} />
+              <Route path="engineering/civil/planimetric-mapping-services.asp" element={<PlanimetricMapping />} />
+              <Route path="engineering/civil/orthophoto-production-services.asp" element={<OrthophotoProduction />} />
+              <Route path="engineering/civil/topographic-mapping-services.asp" element={<TopographicMapping />} />
+              <Route path="engineering/civil/photogrammetric-services.asp" element={<PhotogrammetricServices />} />
+              <Route path="engineering/civil/digital-elevation-modeling-services.asp" element={<DigitalElevationModeling />} />
+              <Route path="engineering/civil/terrain-modeling-services.asp" element={<TerrainModelingServices />} />
+              <Route path="engineering/civil/lidar-mapping-services.asp" element={<LiDARMappingServices />} />
+              <Route path="engineering/civil/gis-surveying-services.asp" element={<GIsSurveyingServices />} />
+              <Route path="engineering/civil/cadastral-mapping-services.asp" element={<CadastralMappingServices />} />
+              <Route path="engineering/civil/drainage-design-services.asp" element={<DrainageDesignServices />} />
+              <Route path="engineering/civil/3d-coordination-services.asp" element={<ThreeDCoordinationServices />} />
+              <Route path="engineering/civil/civil-information-modeling-services.asp" element={<CivilInformationModelingServices />} />
+              <Route path="engineering/civil/virtual-construction-services.asp" element={<VirtualConstructionServices />} />
+              <Route path="engineering/civil/construction-scheduling-tracking-services.asp" element={<ConstructionScheduling />} />
+              <Route path="engineering/civil/5d-simulation-services.asp" element={<Simulation5D />} />
+              <Route path="engineering/bim/4d-simulation-services.asp" element={<Simulation4D />} />
+              <Route path="engineering/civil/contractor-support-services.asp" element={<ContractorSupport />} />
+              <Route path="engineering/civil/construction-quality-assurance-services.asp" element={<QualityAssurancePage />} />
+              <Route path="engineering/civil/traffic-engineering-services.asp" element={<TrafficEngineering />} />
+              <Route path="engineering/civil/geothermal-engineering-services.asp" element={<GeothermalEngineering />} />
+              <Route path="engineering/civil/digital-twin-implementation-services.asp" element={<DigitalTwinImplementation />} />
+              <Route path="engineering/civil/plumbing-design-services.asp" element={<PlumbingDesignServices />} />
+              <Route path="engineering/civil/construction-quantity-takeoff-services.asp" element={<QuantityTakeoffServices />} />
+              <Route path="engineering/civil/stormwater-management-services.asp" element={<StormwaterManagement />} />
+              <Route path="engineering/civil/indoor-mapping-services.asp" element={<IndoorMappingServices />} />
+              <Route path="engineering/civil/remote-sensing-services.asp" element={<RemoteSensingServices />} />
+              <Route path="engineering/civil/drone-survey-services.asp" element={<DroneSurveyServices />} />
+              <Route path="engineering/architectural/resilience-engineering-services.asp" element={<ResilienceEngineeringServices />} />
+              <Route path="engineering/civil/aerial-mapping-services.asp" element={<AerialMappingServices />} />
+              <Route path="eso/construction/civil-3d-modeling-drafting-rendering-services.asp" element={<Civil3DServices />} />
+
+
+              {/* Engineeering services - Architectural services */}
+              <Route path="engineering/architectural/augmented-reality-interior-design-services.asp" element={<AugmentedRealityInterior />} />
+              <Route path="engineering/architectural/microstation-drafting-and-modeling-services.asp" element={<MicroStationServices />} />
+              <Route path="engineering/mechanical/vacuum-casting-services.asp" element={<VacuumCastingServices />} />
+              <Route path="engineering/architectural/architectural-schematic-design-services.asp" element={<DesignServices />} />
+              <Route path="engineering/architectural/piping-spool-drawing-services.asp" element={<PipingSpoolDrawing />} />
+              <Route path="engineering/architectural/retail-visual-merchandising-services.asp" element={<RetailVisualMerchandising />} />
+              <Route path="engineering/architectural/3d-architectural-walkthrough-services.asp" element={<ArchitecturalWalkthrough />} />
+              <Route path="engineering/architectural/technical-drawing-services.asp" element={<TechnicalDrawingServices />} />
+              <Route path="engineering/architectural/virtual-staging-services.asp" element={<VirtualStagingServices />} />
+              <Route path="engineering/architectural/landscape-design-drafting-services.asp" element={<LandscapeDesignServices />} />
+              <Route path="engineering/architectural/retail-space-planning-design-services.asp" element={<RetailSpaceDesignServices />} />
+              <Route path="engineering/architectural/3d-furniture-modeling-services.asp" element={<FurnitureModelingServices />} />
+              <Route path="engineering/architectural/architectural-3d-modeling-drafting-rendering-services.asp" element={<Architectural3DServices />} />
+              <Route path="engineering/architectural/3d-floor-plan-creation-services.asp" element={<FloorPlan3DServices />} />
+              <Route path="engineering/architectural/3d-printing-file-creation-services.asp" element={<ThreeDPrintingServices />} />
+              <Route path="engineering/architectural/architectural-drafting-services.asp" element={<ArchitecturalDraftingServices />} />
+              <Route path="engineering/architectural/millwork-drafting-services.asp" element={<MillworkDraftingServices />} />
+              <Route path="engineering/architectural/sketchup-services.asp" element={<SketchUpServices />} />
+              <Route path="engineering/architectural/point-cloud-services.asp" element={<PointCloudServices />} />
+              <Route path="engineering/architectural/parametric-computational-modeling-services.asp" element={<ParametricModelingPage />} />
+              <Route path="engineering/architectural/cabinet-drawing-services-using-cabinet-vision-software.asp" element={<CabinetDrawingServices />} />
+              <Route path="engineering/architectural/kitchen-cabinet-design-services.asp" element={<KitchenCabinetDesign />} />
+              <Route path="engineering/architectural/revit-modeling-services.asp" element={<RevitModeling />} />
+              <Route path="engineering/architectural/4d-construction-simulation-services.asp" element={<ConstructionSimulation />} />
+              <Route path="engineering/architectural/2d-floor-plan-creation-services.asp" element={<FloorPlan2D />} />
+              <Route path="engineering/architectural/presentation-drawing-services.asp" element={<PresentationDrawingServices />} />
+              <Route path="eso/construction/3d-architectural-visualization-services.asp" element={<ArchitecturalVisualizationServices />} />
+              <Route path="engineering/architectural/augmented-reality-engineering-services.asp" element={<AugmentedRealityEngineering />} />
+              <Route path="engineering/architectural/360-degree-panorama-rendering-services.asp" element={<PanoramaRendering />} />
+              <Route path="engineering/architectural/3d-virtual-tours-and-walkthrough-services.asp" element={<VirtualTours />} />
+              <Route path="engineering/architectural/mixed-reality-engineering-services.asp" element={<MixedRealityServices />} />
+              <Route path="engineering/architectural/virtual-reality-engineering-services.asp" element={<VirtualRealityServices />} />
+              <Route path="engineering/architectural/construction-solid-geometry-modeling-services.asp" element={<SolidGeometryModeling />} />
+              <Route path="engineering/architectural/presentation-modeling-services.asp" element={<PresentationModeling />} />
+              <Route path="engineering/architectural/boundary-representation-modeling-services.asp" element={<BREPModeling />} />
+              <Route path="engineering/architectural/real-estate-rendering-services.asp" element={<RealEstateRendering />} />
+              <Route path="engineering/architectural/isometric-drawing-services.asp" element={<IsometricDrawingServices />} />
+              <Route path="engineering/architectural/architectural-model-making-services.asp" element={<ArchitecturalModelMaking />} />
+              <Route path="engineering/architectural/facade-engineering-services.asp" element={<FacadeEngineering />} />
+              <Route path="engineering/architectural/telecom-network-drawings-services.asp" element={<TelecomNetworkDrawings />} />
+              <Route path="engineering/architectural/interior-rendering-services.asp" element={<InteriorRenderingServices />} />
+              <Route path="engineering/architectural/photorealistic-rendering-services.asp" element={<PhotorealisticRenderingServices />} />
+              <Route path="engineering/architectural/bim-level-of-development-services.asp" element={<BIMLODServices />} />
+              <Route path="engineering/architectural/skylight-detailing-services.asp" element={<SkylightDetailingServices />} />
+              <Route path="engineering/architectural/construction-administration-services.asp" element={<ConstructionAdministrationServices />} />
+              <Route path="engineering/architectural/leed-consulting-services.asp" element={<LeedConsultingServices />} />
+              <Route path="engineering/architectural/as-built-drawings-services.asp" element={<AsBuiltDrawingServices />} />
+              <Route path="engineering/architectural/construction-detail-drawings-services.asp" element={<ConstructionDetailDrawingServices />} />
+              <Route path="engineering/architectural/component-drawing-services.asp" element={<ComponentDrawingServices />} />
+
+
+
+
+
+
+
 
               {/* Shenbagavel Start */}
               {/* services */}
@@ -4326,7 +4864,187 @@ const App = () => (
               <Route path="/services/ITServices/SoftwareDevelopment/TezosDevelopment" element={<TezosDevelopment />} />
               <Route path="/services/ITServices/SoftwareDevelopment/NetDevelopment" element={<NetDevelopment />} />
 
+              <Route path="/services/ITServices/SoftwareDevelopment/ColdFusionDevelopment" element={<ColdFusionDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/SaaSDevelopment" element={<SaaSDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/AlfrescoDevelopment" element={<AlfrescoDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/AngularJSDevelopment" element={<AngularJSDevelopment />} />
 
+              {/* 22-09-2025 */}
+              <Route path="/services/ITServices/SoftwareDevelopment/OpenSourceCMS" element={<OpenSourceCMS />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/ContentManagementServices" element={<ContentManagementServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/DAppDevelopmentServices" element={<DAppDevelopmentServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/AEMDevelopmentServices" element={<AEMDevelopmentServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/CodeIgniterDevelopmentServices" element={<CodeIgniterDevelopmentServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/BizTalkDevelopmentServices" element={<BizTalkDevelopmentServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/VueJsDevelopmentServices" element={<VueJsDevelopmentServices />} />
+
+
+              {/* Digital Transformation  */}
+              <Route path="/services/ITServices/SoftwareDevelopment/DigitalTransformation" element={<DigitalTransformation />} />
+
+              {/* Network Infrastructure */}
+              <Route path="/services/ITServices/SoftwareDevelopment/NetworkInfrastructures" element={<NetworkInfrastructures />} />
+
+              {/* Database Service */}
+              <Route path="/services/ITServices/SoftwareDevelopment/DatabaseServices" element={<DatabaseServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/DatabaseDevelopmentServices" element={<DatabaseDevelopmentServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/SQLServerManagedServices" element={<SQLServerManagedServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/Neo4jManagedServices" element={<Neo4jManagedServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/DatabaseAdministrationServices" element={<DatabaseAdministrationServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/ApacheIgniteManagedServices" element={<ApacheIgniteManagedServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/CouchDBManagedServices" element={<CouchDBManagedServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/DatabaseManagementServices" element={<DatabaseManagementServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/MongoDBManagedServices" element={<MongoDBManagedServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/PostgreSQLService" element={<PostgreSQLService />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/DatabaseDesignServices" element={<DatabaseDesignServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/PostgreSQLManagedServices" element={<PostgreSQLManagedServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/JanusGraphService" element={<JanusGraphService />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/DatabaseMigrationService" element={<DatabaseMigrationService />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/GraphDBService" element={<GraphDBService />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/PatchManagementService" element={<PatchManagementService />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/MySQLManagedServices" element={<MySQLManagedServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/ArangoDBService" element={<ArangoDBService />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/MySQLDevelopmentServices" element={<MySQLDevelopmentServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/CassandraService" element={<CassandraService />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/ScyllaDBService" element={<ScyllaDBService />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/DevelopmentAndMigrationServices" element={<DevelopmentAndMigrationServices />} />
+
+
+              {/* Industries */}
+              <Route path="/services/ITServices/SoftwareDevelopment/SoftwareDevelopmentForIndustries" element={<SoftwareDevelopmentForIndustries />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/industries/AerospaceSoftwareServices" element={<AerospaceSoftwareServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/MediaAndEntertainmentServices" element={<MediaAndEntertainmentServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/FoodAndBeverageSoftware" element={<FoodAndBeverageSoftware />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/CustomsBrokerageSoftware" element={<CustomsBrokerageSoftware />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/RecruitmentSoftwareDevelopment" element={<RecruitmentSoftwareDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/SoftwareDevelopmentForISVs" element={<SoftwareDevelopmentForISVs />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/EducationSoftwareDevelopment" element={<EducationSoftwareDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/TravelPortalDevelopment" element={<TravelPortalDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/PublishingAndAdvertisingSoftware" element={<PublishingAndAdvertisingSoftware />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/BankingAndFinancialSoftware" element={<BankingAndFinancialSoftware />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/ConsumerGoodsSoftware" element={<ConsumerGoodsSoftware />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/AugmentedRealityDriverAssistance" element={<AugmentedRealityDriverAssistance />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/TravelsPortalDevelopment" element={<TravelsPortalDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/SchoolManagementSoftware" element={<SchoolManagementSoftware />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/AutomotiveTelematics" element={<AutomotiveTelematics />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/HealthcareSoftware" element={<HealthcareSoftware />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/FashionManagementSoftware" element={<FashionManagementSoftware />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/IoTHCApplicationManagement" element={<IoTHCApplicationManagement />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/AutomotiveSoftwareSolutions" element={<AutomotiveSoftwareSolutions />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/SportsAppDevelopment" element={<SportsAppDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/TelecomSoftwareDevelopment" element={<TelecomSoftwareDevelopment />} />
+
+
+              {/* Other Service */}
+              <Route path="/services/ITServices/SoftwareDevelopment/ProjectPortfolioManagement" element={<ProjectPortfolioManagement />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/ELearningContentDevelopment" element={<ELearningContentDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/PredictiveAnalytics" element={<PredictiveAnalyticsos />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/CorporateITTtraining" element={<CorporateITTtraining />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/ELearningArtDesign" element={<ELearningArtDesign />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/PrescriptiveAnalytics" element={<PrescriptiveAnalytics />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/ELearningServices" element={<ELearningServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/OpenSourceELearning" element={<OpenSourceELearning />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/ImageVideoAnalytics" element={<ImageVideoAnalytics />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/ELearningMobileAppDev" element={<ELearningMobileAppDev />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/DigitalGameELearning" element={<DigitalGameELearning />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/WebAnalyticsConfig" element={<WebAnalyticsConfig />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/ELearningSoftwareDevelopment" element={<ELearningSoftwareDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/ELearningContentPorting" element={<ELearningContentPorting />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/CustomWebAnalytics" element={<CustomWebAnalytics />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/ELearningSolutions" element={<ELearningSolutions />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/UipathConsulting" element={<UipathConsulting />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/CampaignAnalyticsServices" element={<CampaignAnalyticsServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/CorporateTrainingELearning" element={<CorporateTrainingELearning />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/PrimaveraConsulting" element={<PrimaveraConsulting />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/GoogleAnalyticsServices" element={<GoogleAnalyticsServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/PerformanceGapAnalysis" element={<PerformanceGapAnalysis />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/DomoConsultingServices" element={<DomoConsultingServices />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/RemoteWebAnalytics" element={<RemoteWebAnalytics />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/TrainingProductDevelopment" element={<TrainingProductDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/WebAnalyticsPhilippines" element={<WebAnalyticsPhilippines />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/MoodleDevelopment" element={<MoodleDevelopment />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/CustomDashboard" element={<CustomDashboard />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/RealEstateDashboard" element={<RealEstateDashboard />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/ProductDemos" element={<ProductDemos />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/WebAnalytics" element={<WebAnalytics />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/ClickstreamAnalytics" element={<ClickstreamAnalytics />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/InstructionalDesign" element={<InstructionalDesign />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/DataVisualization" element={<DataVisualization />} />
+              <Route path="/services/ITServices/SoftwareDevelopment/WorkforceAnalytics" element={<WorkforceAnalytics />} />
+
+              {/* Mechanical Engineering */}
+              <Route path="/engineering/mechanical/modular-plant-design-services.asp" element={<ModularPlantDesign />} />
+              <Route path="/engineering/mechanical/prototyping-rapid-prototyping-services.asp" element={<PrototypingAndRapidPrototyping />} />
+              <Route path="/engineering/mechanical/crash-analysis-services.asp" element={<CrashAnalysisServices />} />
+              <Route path="/engineering/mechanical/proposal-review-and-bid-management.asp" element={<ProposalAndBidManagement />} />
+              <Route path="/engineering/mechanical/finite-element-analysis-services.asp" element={<FiniteElementAnalysis />} />
+              <Route path="/engineering/mechanical/technical-publication-services.asp" element={<TechnicalPublicationServices />} />
+              <Route path="/engineering/mechanical/virtual-prototyping-services.asp" element={<VirtualPrototypingServices />} />
+              <Route path="/engineering/mechanical/product-design-and-development-services.asp" element={<ProductDesignAndDevelopment />} />
+              <Route path="/engineering/mechanical/product-lifecycle-support-services.asp" element={<ProductLifecycleSupport />} />
+              <Route path="/engineering/mechanical/detailed-engineering-design-services.asp" element={<DetailedEngineeringDesign />} />
+              <Route path="/engineering/mechanical/value-engineering-services.asp" element={<ValueEngineeringServices />} />
+              <Route path="/engineering/mechanical/finite-element-analysis-services.asp" element={<FatigueAnalysisServices />} />
+              <Route path="/engineering/mechanical/plant-design-engineering-services.asp" element={<PlantDesignEngineering />} />
+              <Route path="/engineering/mechanical/plant-design-management-system-services.asp" element={<PlantDesignManagementSystem />} />
+              <Route path="/engineering/mechanical/catia-services.asp" element={<CATIAServices />} />
+
+              {/* 23-09-2025 */}
+              <Route path="/engineering/mechanical/thermal-modeling-services.asp" element={<ThermalModeling />} />
+              <Route path="/engineering/mechanical/piping-design-drafting-services.asp" element={<PipingDesign />} />
+              <Route path="/engineering/mechanical/autodesk-inventor-services.asp" element={<AutodeskInventorServices />} />
+              <Route path="engineering/mechanical/tolerance-stackup-analysis-services.asp" element={<ToleranceStackup />} />
+              <Route path="/engineering/mechanical/sheet-metal-design-services.asp" element={<SheetMetalDesign />} />
+              <Route path="/engineering/mechanical/mechanical-concept-design-services.asp" element={<MechanicalConceptDesign />} />
+              <Route path="/engineering/mechanical/mechanical-engineering-analysis-services.asp" element={<MechanicalEngineeringAnalysis />} />
+              <Route path="/engineering/mechanical/casting-design-and-manufacturing-services.asp" element={<CastingDesign />} />
+              <Route path="/engineering/bim/revit-family-creation-services.asp" element={<RevitFamilyCreation />} />
+              <Route path="/engineering/mechanical/visual-merchandising-and-display-services.asp" element={<VisualMerchandising />} />
+              <Route path="/engineering/mechanical/reverse-engineering-services.asp" element={<ReverseEngineering />} />
+              <Route path="/engineering/mechanical/3d-laser-scanning-services.asp" element={<LaserScanning />} />
+              <Route path="/engineering/mechanical/cnc-programming-services.asp" element={<CNCProgrammingServices />} />
+              <Route path="/engineering/mechanical/process-planning-automation-solutions.asp" element={<ProcessPlanning />} />
+              <Route path="/engineering/mechanical/solidworks-design-services.asp" element={<SolidWorksDesign />} />
+              <Route path="/engineering/mechanical/3d-product-rendering-modeling-services.asp" element={<ProductRenderingModeling />} />
+              <Route path="/engineering/mechanical/structural-stress-analysis-services.asp" element={<StructuralStressAnalysis />} />
+              <Route path="/engineering/mechanical/assembly-drawing-services.asp" element={<AssemblyDrawings />} />
+              <Route path="/engineering/mechanical/3d-rendering-modeling-drafting-services.asp" element={<ThreeDModelingDrafting />} />
+              <Route path="/engineering/mechanical/3d-part-modeling-services.asp" element={<ThreeDPartModeling />} />
+              <Route path="/engineering/mechanical/assembly-modeling-services.asp" element={<AssemblyModelingServices />} />
+              <Route path="/engineering/mechanical/cae-modal-analysis-services.asp" element={<CAEModalAnalysis />} />
+              <Route path="/engineering/mechanical/jigs-and-fixture-design-services.asp" element={<JigsFixturesDesign />} />
+              <Route path="/engineering/mechanical/tooling-fixture-design-drafting-services.asp" element={<ToolingFixtureDesign />} />
+              <Route path="/engineering/mechanical/engineering-change-order-services.asp" element={<EngineeringChangeOrder />} />
+              <Route path="/engineering/mechanical/machine-design-and-development-services.asp" element={<MachineDesignDevelopment />} />
+              <Route path="/engineering/mechanical/hvac-system-replacement-services.asp" element={<HVACSystemReplacement />} />
+              <Route path="/engineering/mechanical/3ds-max-modeling-services.asp" element={<Max3DServices />} />
+              <Route path="/engineering/mechanical/mechanical-3d-product-animation-services.asp" element={<Mechanical3DAnimation />} />
+              <Route path="/engineering/mechanical/2d-drafting-services.asp" element={<Drafting2DServices />} />
+              <Route path="/engineering/mechanical/raster-to-vector-conversion-services.asp" element={<RasterToVector />} />
+              <Route path="/engineering/mechanical/microstation-conversion-services.asp" element={<MicroStationServiceses />} />
+              <Route path="/engineering/mechanical/pdf-to-dwg-conversion-services.asp" element={<PDFtoDWGConversion />} />
+              <Route path="/engineering/mechanical/dwg-to-dgn-conversion-services.asp" element={<DWGtoDGN />} />
+              <Route path="/engineering/mechanical/mcd-to-dwg-conversion-services.asp" element={<MCDtoDWGConversion />} />
+              <Route path="/engineering/mechanical/scanning-measurement-digitizing-services.asp" element={<ScanningMeasurementServices />} />
+              <Route path="/engineering/mechanical/plm-implementation-customization-services.asp" element={<PLMservices />} />
+              <Route path="/engineering/mechanical/tower-design-services.asp" element={<TowerDesign />} />
+              <Route path="/engineering/mechanical/project-management-tools-and-services.asp" element={<ProjectManagementServices />} />
+              <Route path="/engineering/mechanical/manufacturing-process-planning-and-support-services.asp" element={<ManufacturingServices />} />
+              <Route path="/engineering/mechanical/design-for-manufacturing-services.asp" element={<DFMservices />} />
+              <Route path="/engineering/mechanical/product-engineering-and-development-services.asp" element={<ProductEngineering />} />
+              <Route path="/engineering/mechanical/plumbing-and-firefighting-services.asp" element={<PlumbingFirefighting />} />
+              <Route path="/engineering/mechanical/fabrication-production-cost-estimation-services.asp" element={<FabricationCost />} />
+              <Route path="/engineering/mechanical/industrial-automation-services.asp" element={<IndustrialAutomationServices />} />
+              <Route path="/engineering/mechanical/failure-analysis-services.asp" element={<FailureAnalysis />} />
+              <Route path="/engineering/mechanical/computational-fluid-dynamics-services.asp" element={<CFDservices />} />
+              <Route path="/engineering/mechanical/fire-protection-engineering-services.asp" element={<FireProtectionServices />} />
+              <Route path="/engineering/mechanical/office-furniture-design-services.asp" element={<OfficeFurnitureServices />} />
+              <Route path="/engineering/mechanical/parametric-3d-modeling-services.asp" element={<ParametricModelingServices />} />
+              <Route path="/engineering/mechanical/simulation-engineering-services.asp" element={<SimulationEngineeringServices />} />
+              <Route path="/engineering/mechanical/radon-testing-services.asp" element={<RadonTestingServices />} />
+              <Route path="/engineering/mechanical/3d-modeling-drafting-rendering-oem.asp" element={<OEMservices />} />
+              <Route path="/engineering/mechanical/3d-rendering-modeling-drafting-for-visual-merchandising-manufacturers.asp" element={<VisualMerchandisingServices />} />
+              <Route path="/engineering/mechanical/ship-deck-design-drafting-services.asp" element={<ShipDeckDesignServices />} />
 
               {/* Shenbagavel End */}
 
