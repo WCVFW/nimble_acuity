@@ -86,7 +86,7 @@ const DataScienceSolutions: React.FC = () => {
       <DSMainMenu />
 
       {/* Hero Section with Background Image */}
-      <section className="relative bg-[url('/images/img-data.jpg')] bg-cover bg-center py-24 px-6 text-center text-[#006A7C]">
+      <section className="relative bg-[url('#')] bg-cover bg-center py-24 px-6 text-center text-[#006A7C]">
         <div className="absolute inset-0 bg-[#F0FAFB] "></div>
         <div className="relative z-10 max-w-3xl mx-auto">
           <h1 className="text-5xl font-bold mb-10">Data Science Solutions We Offer</h1>
