@@ -12,9 +12,7 @@ const MortgageService = () => {
       {/* Page Content */}
       <section className="py-16 bg-white mt-20">
         <div className="max-w-7xl mx-auto px-6 md:px-12 lg:px-24">
-          {/* Hero Section */}
-          <div className="max-w-4xl mb-12">
-            <h1 className="text-4xl font-bold text-[#006A7C] mb-4">
+          <h1 className="text-4xl text-center font-bold text-[#006A7C] mb-4">
               Mortgage Processing Support Services
             </h1>
             <p className="text-lg text-gray-600">
@@ -27,7 +25,14 @@ const MortgageService = () => {
               compliant — enabling teams to focus on growth and customer
               satisfaction.
             </p>
-          </div>
+            <div className="w-full mt-10 mb-12">
+          <img
+            src="/images/img2.jpg"
+            alt="Mortgage Processing Support"
+            className="w-full rounded-lg shadow-lg object-cover max-h-96 mx-auto"
+          />
+        </div>
+          {/* Hero Section */}
 
           {/* Intro */}
           <div className="grid md:grid-cols-2 gap-8 mb-16">

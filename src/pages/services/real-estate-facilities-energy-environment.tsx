@@ -3,56 +3,68 @@ import CCmainmenu from "./Call-center-services/CCmainmenu";
 
 const RealEstateFacilitiesEnergy: React.FC = () => {
   return (
-    <div className="w-full bg-gray-50 text-gray-800">
+    <div className="w-full bg-white text-gray-800">
       {/* Hero Section */}
-      <CCmainmenu/>
-      <section className="bg-green-100 py-16 px-6 md:px-20 text-center">
-        <h1 className="text-4xl md:text-5xl font-bold mb-4">
-          Outsource Inbound Call Center Services
-        </h1>
-        <p className="text-lg md:text-xl mb-6">
-          Leverage the benefits of our inbound call center services. Experience seamless technical support, efficient product handling, enhanced customer engagement, and high customer satisfaction.
-        </p>
-        <button className="bg-green-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-700 transition">
-          Get a FREE QUOTE!
-        </button>
-        <p className="mt-2 text-sm text-gray-600">
-          Will outsourcing work for you? Know in 24 hours!
-        </p>
+      <CCmainmenu />
+      <section className="bg-[#F0FAFB] py-16 px-6 md:px-20 text-center">
+        <div className="max-w-4xl mx-auto">
+          {/* Title */}
+          <h1 className="text-4xl md:text-5xl font-bold text-[#006A7C] mb-6">
+            Outsource Inbound Call Center Services
+          </h1>
+
+          {/* Image */}
+          <div className="mb-6 flex justify-center">
+            <img
+              src="/images/img6.png"
+              alt="Inbound Call Center"
+              className="rounded-lg shadow-lg max-h-80 w-full max-w-4xl object-cover"
+            />
+          </div>
+
+
+          {/* Content */}
+          <p className="text-lg md:text-xl text-gray-700 mb-6">
+            Leverage the benefits of our inbound call center services. Experience seamless technical support, efficient product handling, enhanced customer engagement, and high customer satisfaction.
+          </p>
+
+        </div>
       </section>
 
       {/* Form Section */}
-      <section className="py-12 px-6 md:px-20">
-        <div className="max-w-3xl mx-auto bg-white p-8 rounded-lg shadow-lg">
-          <h2 className="text-2xl font-bold mb-6 text-center">Request a Quote</h2>
+      {/* <section className="py-12 px-6 md:px-20">
+        <div className="max-w-3xl mx-auto bg-white p-8 rounded-2xl shadow-lg">
+          <h2 className="text-2xl font-bold mb-6 text-center text-[#006A7C]">
+            Request a Quote
+          </h2>
           <form className="space-y-4">
             <input
               type="text"
               placeholder="Name*"
-              className="w-full border border-gray-300 rounded px-4 py-2 focus:outline-none focus:ring-2 focus:ring-green-500"
+              className="w-full border border-gray-300 rounded px-4 py-2 focus:outline-none focus:ring-2 focus:ring-[#006A7C]"
             />
             <input
               type="email"
               placeholder="Email*"
-              className="w-full border border-gray-300 rounded px-4 py-2 focus:outline-none focus:ring-2 focus:ring-green-500"
+              className="w-full border border-gray-300 rounded px-4 py-2 focus:outline-none focus:ring-2 focus:ring-[#006A7C]"
             />
             <input
               type="tel"
               placeholder="Phone*"
-              className="w-full border border-gray-300 rounded px-4 py-2 focus:outline-none focus:ring-2 focus:ring-green-500"
+              className="w-full border border-gray-300 rounded px-4 py-2 focus:outline-none focus:ring-2 focus:ring-[#006A7C]"
             />
             <textarea
               placeholder="Enter your requirements*"
-              className="w-full border border-gray-300 rounded px-4 py-2 h-32 focus:outline-none focus:ring-2 focus:ring-green-500"
+              className="w-full border border-gray-300 rounded px-4 py-2 h-32 focus:outline-none focus:ring-2 focus:ring-[#006A7C]"
             />
             <input
               type="text"
               placeholder="Enter Captcha"
-              className="w-full border border-gray-300 rounded px-4 py-2 focus:outline-none focus:ring-2 focus:ring-green-500"
+              className="w-full border border-gray-300 rounded px-4 py-2 focus:outline-none focus:ring-2 focus:ring-[#006A7C]"
             />
             <button
               type="submit"
-              className="w-full bg-green-600 text-white px-4 py-2 rounded font-semibold hover:bg-green-700 transition"
+              className="w-full bg-[#006A7C] text-white px-4 py-2 rounded font-semibold hover:bg-[#005662] transition"
             >
               Submit
             </button>
@@ -61,11 +73,11 @@ const RealEstateFacilitiesEnergy: React.FC = () => {
             </p>
           </form>
         </div>
-      </section>
+      </section> */}
 
       {/* About Section */}
       <section className="py-16 px-6 md:px-20 bg-white">
-        <h2 className="text-3xl md:text-4xl font-bold text-center mb-6">
+        <h2 className="text-3xl md:text-4xl font-bold text-[#006A7C] text-center mb-6">
           Customer-centric Inbound Call Center Services
         </h2>
         <p className="max-w-4xl mx-auto text-gray-700 mb-6">
@@ -77,8 +89,8 @@ const RealEstateFacilitiesEnergy: React.FC = () => {
       </section>
 
       {/* Services Section */}
-      <section className="py-16 px-6 md:px-20 bg-green-50">
-        <h2 className="text-3xl md:text-4xl font-bold text-center mb-10">
+      <section className="py-16 px-6 md:px-20 bg-[#F0FAFB]">
+        <h2 className="text-3xl md:text-4xl font-bold text-[#006A7C] text-center mb-10">
           Improve Business Performance with Our Advanced Services
         </h2>
         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
@@ -90,8 +102,8 @@ const RealEstateFacilitiesEnergy: React.FC = () => {
             { title: "24/7 Help Desk Support", description: "Implement tiered resolution frameworks that use DMAIC-based root cause analysis techniques to minimize Mean Time to Resolution (MTTR) and maximize agent performance." },
             { title: "Multi-language Support", description: "Engage multi-lingual staff and get custom call-handling templates to deliver uniform customer experiences across geographies." },
           ].map((service, index) => (
-            <div key={index} className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition">
-              <h3 className="font-semibold text-xl mb-3">{service.title}</h3>
+            <div key={index} className="bg-white p-6 rounded-xl shadow hover:shadow-lg transition">
+              <h3 className="font-semibold text-xl mb-3 text-[#006A7C]">{service.title}</h3>
               <p className="text-gray-700">{service.description}</p>
             </div>
           ))}
@@ -100,14 +112,14 @@ const RealEstateFacilitiesEnergy: React.FC = () => {
 
       {/* Testimonials Section */}
       <section className="py-16 px-6 md:px-20 bg-white">
-        <h2 className="text-3xl md:text-4xl font-bold text-center mb-10">Customer Success Stories</h2>
+        <h2 className="text-3xl md:text-4xl font-bold text-[#006A7C] text-center mb-10">Customer Success Stories</h2>
         <div className="grid gap-8 md:grid-cols-2">
           {[
             { title: "Nimble Delivered Appointment Setting Services to a Mortgage Lender", description: "Leading UK Motorcycle Insurance Provider Streamlines Operations with Comprehensive Call Center Services. Nimble developed a customized solution that effectively managed the client's increasing volume of customer interactions and technical support needs." },
             { title: "Nimble Provided Appointment Setting Services for a US-based Mortgage Lender", description: "Successful Inbound Call Service Implementation for Prominent Indian Medical Coaching Center Leads to 100% Project Success." },
           ].map((story, index) => (
-            <div key={index} className="bg-green-50 p-6 rounded-lg shadow">
-              <h3 className="font-semibold text-xl mb-3">{story.title}</h3>
+            <div key={index} className="bg-[#F0FAFB] p-6 rounded-xl shadow">
+              <h3 className="font-semibold text-xl mb-3 text-[#006A7C]">{story.title}</h3>
               <p className="text-gray-700">{story.description}</p>
             </div>
           ))}
@@ -115,14 +127,14 @@ const RealEstateFacilitiesEnergy: React.FC = () => {
       </section>
 
       {/* CTA Section */}
-      <section className="py-16 px-6 md:px-20 bg-green-600 text-white text-center">
+      <section className="py-16 px-6 md:px-20 bg-white text-black text-center">
         <h2 className="text-3xl md:text-4xl font-bold mb-4">
           Transform Your Customer Service Approach with Nimble
         </h2>
-        <p className="max-w-2xl mx-auto mb-6">
+        <p className="max-w-2xl mx-auto mb-6 text-gray-900">
           When you partner with Nimble, you are not merely adding capacity; you are elevating your capabilities. Try our inbound call center solutions now to experience the change.
         </p>
-        <button className="bg-white text-green-600 font-semibold px-6 py-3 rounded hover:bg-gray-100 transition">
+        <button className="bg-white text-[#006A7C] font-semibold px-6 py-3 rounded hover:bg-[#006A7C] hover:text-white transition">
           Get Started
         </button>
       </section>

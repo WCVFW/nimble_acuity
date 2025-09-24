@@ -23,7 +23,7 @@ import OperationsProcurementSupplychainManufacturing from "./pages/services/oper
 import RealEstateFacilitiesEnergyEnvironment from "./pages/services/real-estate-facilities-energy-environment";
 import HRTrainingAdminSpecializedServices from "./pages/services/hr-training-admin-specialized-services";
 import GlobalOutsourcingOffshoring from "./pages/services/global-outsourcing-offshoring";
-import ImportExportServices from "./pages/services/import-export-services";
+import ResearchAnalysis from "./pages/services/import-export-services";
 
 
 {/* services */ }
@@ -2427,7 +2427,7 @@ const App = () => (
               <Route path="/services/real-estate-facilities-energy-environment" element={<RealEstateFacilitiesEnergyEnvironment />} />
               <Route path="/services/hr-training-admin-specialized-services" element={<HRTrainingAdminSpecializedServices />} />
               <Route path="/services/global-outsourcing-offshoring" element={<GlobalOutsourcingOffshoring />} />
-              <Route path="/services/import-export-services" element={<ImportExportServices />} />
+              <Route path="/services/import-export-services" element={<ResearchAnalysis />} />
 
 
               {/* services */}

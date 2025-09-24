@@ -143,42 +143,27 @@ const ITServices = () => {
       <section className="py-16 bg-white mt-20">
         <div className="max-w-7xl mx-auto px-6 md:px-12 lg:px-24">
           {/* Hero + Stats Section */}
-          <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
-            {/* Left Side: Heading + Paragraph + Stats */}
-            <div>
-              <h1 className="text-4xl font-bold text-[#006A7C] mb-4">
-                IT Outsourcing Services
-              </h1>
-              <p className="text-lg text-gray-600 mb-8">
-                At Nimble Acuity, we offer reliable and secure IT outsourcing
-                services to ensure zero business disruption. We empower your
-                business to embrace technological advancements by modernizing
-                your mission-critical IT needs.
-              </p>
+          <div className="px-4 md:px-6 max-w-7xl mx-auto space-y-12 pt-12">
+            {/* Page Title */}
+            <h1 className="text-4xl md:text-5xl font-bold text-center text-[#006A7C] mb-8">
+              IT Outsourcing Services
+            </h1>
+            <p className="text-center text-gray-600 mb-12 max-w-4xl mx-auto">
+              At Nimble Acuity, we offer reliable and secure IT outsourcing services
+              to ensure zero business disruption. We empower your business to
+              embrace technological advancements by modernizing your
+              mission-critical IT needs.
+            </p>
 
-              {/* Stats */}
-              <div className="grid grid-cols-2 gap-6 md:gap-8">
-                {stats.map((stat, idx) => (
-                  <div key={idx} className="text-center md:text-left">
-                    <p className="text-4xl font-bold text-[#006A7C]">
-                      {stat.value}
-                    </p>
-                    <p className="text-sm text-gray-600">{stat.label}</p>
-                  </div>
-                ))}
-              </div>
-            </div>
-
-            {/* Right Side: Image */}
-            <div className="flex justify-center">
+            {/* Main Image */}
+            <div className="w-full mb-12">
               <img
-                src="/images/software.jpg"        // <- leading slash
+                src="/images/img8.jpg"
                 alt="IT Outsourcing"
-                className="w-full max-w-md rounded-xl shadow-lg object-cover md:h-80"
+                className="w-full rounded-lg shadow-lg object-cover max-h-96 mx-auto"
               />
             </div>
           </div>
-
           {/* Intro Paragraphs */}
           <div className="mb-16">
             <h2 className="text-2xl font-bold text-[#006A7C] mb-6">

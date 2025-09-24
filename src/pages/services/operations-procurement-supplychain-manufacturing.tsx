@@ -60,30 +60,30 @@ const Section: React.FC<React.PropsWithChildren<{ id?: string; className?: strin
 );
 
 const Heading: React.FC<{ kicker?: string; title: string; sub?: string; center?: boolean; }>
-= ({ kicker, title, sub, center }) => (
-  <div className={center ? "text-center" : "text-left"}>
-    {kicker && <p className="text-sm font-semibold tracking-wider text-indigo-600 uppercase">{kicker}</p>}
-    <h2 className="mt-2 text-3xl font-bold tracking-tight sm:text-4xl">{title}</h2>
-    {sub && <p className="mt-3 max-w-2xl text-muted-foreground mx-auto">{sub}</p>}
-  </div>
-);
+  = ({ kicker, title, sub, center }) => (
+    <div className={center ? "text-center" : "text-left"}>
+      {kicker && <p className="text-sm font-semibold tracking-wider text-indigo-600 uppercase">{kicker}</p>}
+      <h2 className="mt-2 text-3xl font-bold tracking-tight sm:text-4xl">{title}</h2>
+      {sub && <p className="mt-3 max-w-2xl text-muted-foreground mx-auto">{sub}</p>}
+    </div>
+  );
 
 const ServiceCard: React.FC<{ title: string; desc: string; icon: React.ElementType; }>
-= ({ title, desc, icon: Icon }) => (
-  <Card className="h-full border-muted/40 shadow-sm hover:shadow-md transition-shadow rounded-2xl">
-    <CardHeader className="pb-2">
-      <div className="flex items-center gap-3">
-        <div className="rounded-2xl p-3 bg-indigo-50">
-          <Icon className="h-6 w-6" aria-hidden />
+  = ({ title, desc, icon: Icon }) => (
+    <Card className="h-full border-muted/40 shadow-sm hover:shadow-md transition-shadow rounded-2xl">
+      <CardHeader className="pb-2">
+        <div className="flex items-center gap-3">
+          <div className="rounded-2xl p-3 bg-indigo-50">
+            <Icon className="h-6 w-6" aria-hidden />
+          </div>
+          <CardTitle className="text-lg">{title}</CardTitle>
         </div>
-        <CardTitle className="text-lg">{title}</CardTitle>
-      </div>
-    </CardHeader>
-    <CardContent>
-      <p className="text-sm text-muted-foreground leading-relaxed">{desc}</p>
-    </CardContent>
-  </Card>
-);
+      </CardHeader>
+      <CardContent>
+        <p className="text-sm text-muted-foreground leading-relaxed">{desc}</p>
+      </CardContent>
+    </Card>
+  );
 
 const Pill: React.FC<React.PropsWithChildren> = ({ children }) => (
   <span className="inline-flex items-center rounded-full border px-3 py-1 text-xs font-medium text-muted-foreground">
@@ -96,19 +96,27 @@ export default function PhotoEditingServicesPage() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-white to-slate-50">
       {/* Hero */}
-      <PEMainMenu/>
-      <Section className="pt-16 pb-12">
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
+      <PEMainMenu />
+      <Section className="pt-16 pb-12 relative bg-cover bg-center bg-[url('/images/img9.jpg')]">
+
+        {/* Optional overlay for better text readability */}
+        <div className="absolute inset-0 bg-black/20"></div>
+
+        <div className="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
           <div className="lg:col-span-7">
-            <motion.div initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }}>
+            <motion.div
+              initial={{ opacity: 0, y: 12 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.5 }}
+            >
               <Badge className="rounded-full bg-indigo-600 hover:bg-indigo-600">Professional Photo Editing</Badge>
-              <h1 className="mt-4 text-4xl font-bold tracking-tight sm:text-5xl">
+              <h1 className="mt-4 text-4xl font-bold tracking-tight sm:text-5xl text-white">
                 Professional Photo Editing Services We Offer
               </h1>
-              <p className="mt-4 text-lg text-muted-foreground">
+              <p className="mt-4 text-lg text-white/90">
                 Despite powerful tools in the market, many businesses and marketers still struggle to meet their unique photo editing needs. If that sounds familiar, Nimble your image editing to seasoned professionals like us.
               </p>
-              <ul className="mt-6 space-y-2 text-muted-foreground">
+              <ul className="mt-6 space-y-2 text-white/90">
                 <li className="flex gap-2"><Check className="h-5 w-5 mt-0.5" /> 26+ years of industry experience and global delivery capability</li>
                 <li className="flex gap-2"><Check className="h-5 w-5 mt-0.5" /> Advanced tools & best‑practice workflows for flawless, high‑impact visuals</li>
                 <li className="flex gap-2"><Check className="h-5 w-5 mt-0.5" /> Fast, secure, and scalable services tailored to your goals</li>
@@ -124,11 +132,17 @@ export default function PhotoEditingServicesPage() {
                   Request a Quote
                 </Button>
               </div>
-              <p className="mt-4 text-xs text-muted-foreground">Photo Editing Services in the Philippines · Global Support</p>
+              <p className="mt-4 text-xs text-white/80">Photo Editing Services in the Philippines · Global Support</p>
             </motion.div>
           </div>
+
           <div className="lg:col-span-5">
-            <motion.div initial={{ opacity: 0, scale: 0.98 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.6 }} className="rounded-3xl border bg-white p-6 shadow-sm">
+            <motion.div
+              initial={{ opacity: 0, scale: 0.98 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ duration: 0.6 }}
+              className="rounded-3xl border bg-white p-6 shadow-sm"
+            >
               <div className="grid grid-cols-2 gap-4">
                 {services.slice(0, 6).map((s) => (
                   <div key={s.title} className="flex items-start gap-3">
@@ -144,6 +158,7 @@ export default function PhotoEditingServicesPage() {
           </div>
         </div>
       </Section>
+
 
       {/* Services Grid */}
       <Section id="services" className="py-12">
