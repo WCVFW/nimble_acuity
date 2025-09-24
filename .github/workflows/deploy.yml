@@ -10,33 +10,36 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout repository
+      # 1. Checkout
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2. Deploy dist folder, restart Apache, and renew SSL
-      - name: Deploy and renew SSL
+      # 2. Install & build
+      - name: Install dependencies
+        run: npm install --legacy-peer-deps
+
+      - name: Build React app
+        run: npm run build
+
+      # 3. Upload dist to EC2
+      - name: Upload build files
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_SSH_KEY }}
+          source: "dist/*"
+          target: "/var/www/html"
+
+      # 4. Restart Apache + renew SSL
+      - name: Restart Apache & Renew SSL
         uses: appleboy/ssh-action@v0.1.10
         with:
           host: ${{ secrets.EC2_HOST }}
           username: ${{ secrets.EC2_USER }}
           key: ${{ secrets.EC2_SSH_KEY }}
-          debug: true
           script: |
-            # Remove old files
-            sudo rm -rf /var/www/html/*
-
-            # Copy contents of nimble_acuity/dist to Apache root
-            sudo cp -r dist/* /var/www/html/
-
-            # Ensure Apache can access the files
             sudo chown -R www-data:www-data /var/www/html
-
-            # Restart Apache to serve the new files
             sudo systemctl restart apache2
-
-            # Renew SSL certificate using Certbot
             sudo certbot renew --apache --quiet
-
-            # Reload Apache to apply renewed certificate
             sudo systemctl reload apache2
