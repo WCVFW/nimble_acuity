@@ -27,7 +27,7 @@ jobs:
             sudo rm -rf /var/www/html/*
 
             # Copy contents of nimble_acuity/dist to Apache root
-            sudo cp -r nimble_acuity/dist/* /var/www/html/
+            sudo cp -r dist/* /var/www/html/
 
             # Ensure Apache can access the files
             sudo chown -R www-data:www-data /var/www/html
