@@ -35,7 +35,7 @@ const Home: React.FC = () => {
 
         <div className="relative z-10 text-center max-w-4xl px-6">
           <h1 className="text-5xl md:text-6xl font-extrabold mb-4 animate-fade-in">
-            Modern IT Solutions for Your Business1
+            Modern IT Solutions for Your Business
           </h1>
           <p className="text-lg md:text-xl text-gray-700 mb-8 animate-fade-in delay-200">
             End-to-end services from consulting to cloud, software, and security.
