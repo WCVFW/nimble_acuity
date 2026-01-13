@@ -193,9 +193,9 @@ const megaMenuData: MegaMenuItem[] = [
         { text: "PET/CT Reporting Services", href: "/services/healthcare-BPO-Service/Teleradiology/PETCTReporting" },
         { text: "Afterhours Teleradiology Services", href: "/services/healthcare-BPO-Service/Teleradiology/AfterTeleradiology-Services" },
         { text: "Final Teleradiology Reads and Reporting Services", href: "/services/healthcare-BPO-Service/Teleradiology/FinalTeleradiologyReads" },
-        { text: "Cardiac PET/CT Reporting Services", href: "/services/healthcare-BPO-Service/Teleradiology/CardiacPETCTReporting"},
-        { text: "CT Interpretation Services", href: "/services/healthcare-BPO-Service/Teleradiology/CTInterpretation"},
-        { text: "Dental X-Ray Imaging Services", href: "/services/healthcare-BPO-Service/Teleradiology/DentalXrayImaging"},
+        { text: "Cardiac PET/CT Reporting Services", href: "/services/healthcare-BPO-Service/Teleradiology/CardiacPETCTReporting" },
+        { text: "CT Interpretation Services", href: "/services/healthcare-BPO-Service/Teleradiology/CTInterpretation" },
+        { text: "Dental X-Ray Imaging Services", href: "/services/healthcare-BPO-Service/Teleradiology/DentalXrayImaging" },
       ],
     },
   },
@@ -246,7 +246,7 @@ const megaMenuData: MegaMenuItem[] = [
         { text: "Gastroenterology EMR Services", href: "/services/healthcare-BPO-Service/EMRServices/GastroenterologyEMR" },
         { text: "Neurology EMR Services", href: "/services/healthcare-BPO-Service/EMRServices/NeurologyEMR" },
         { text: "Hand Surgery EMR Services", href: "/services/healthcare-BPO-Service/EMRServices/HandSurgeryEMR" },
-        
+
       ],
     },
   },
@@ -413,9 +413,8 @@ const HealthcareHeader = () => {
 
         {/* Full-screen Mobile Menu */}
         <div
-          className={`fixed inset-0 bg-white z-50 transform ${
-            isMobileMenuOpen ? "translate-x-0" : "-translate-x-full"
-          } transition-transform duration-300 md:hidden overflow-y-auto`}
+          className={`fixed inset-0 bg-white z-50 transform ${isMobileMenuOpen ? "translate-x-0" : "-translate-x-full"
+            } transition-transform duration-300 md:hidden overflow-y-auto`}
         >
           <div className="p-6">
             <div className="flex justify-between items-center mb-6">
@@ -452,9 +451,8 @@ const HealthcareHeader = () => {
                       >
                         <span>{item.title}</span>
                         <svg
-                          className={`w-5 h-5 transform transition-transform duration-300 ${
-                            activeDropdown === item.title ? "rotate-180" : ""
-                          }`}
+                          className={`w-5 h-5 transform transition-transform duration-300 ${activeDropdown === item.title ? "rotate-180" : ""
+                            }`}
                           fill="none"
                           stroke="currentColor"
                           viewBox="0 0 24 24"
@@ -504,8 +502,8 @@ const HealthcareHeader = () => {
           </div>
         </div>
 
-        {/* Desktop Navigation with Mega Menu (unchanged) */}
-        <ul className="hidden md:flex space-x-4">
+        {/* Desktop Navigation with Mega Menu */}
+        <ul className="hidden md:flex flex-wrap space-x-4 pl-10"> {/* Added flex-wrap and pl-10 for row start space */}
           {megaMenuData.map((item, index) => {
             const isLast = index === megaMenuData.length - 1;
 
@@ -513,6 +511,12 @@ const HealthcareHeader = () => {
               <li
                 key={index}
                 className="relative group px-1 py-1 -ml-10 cursor-pointer hover:text-[#006A7C] transition-colors duration-200"
+                style={{
+                  // 12.5% is exactly 1/8th of the row. 
+                  // After the 8th item (index 7), it will wrap to the left.
+                  flex: index < 8 ? '0 0 12.5%' : '0 0 auto',
+                  marginBottom: index < 8 ? '0.5rem' : '0' // Optional: space between the two rows
+                }}
               >
                 <a
                   href={item.href}
@@ -524,13 +528,12 @@ const HealthcareHeader = () => {
                 {item.dropdown && (
                   <div
                     className={`absolute top-full mt-4 min-w-[22rem] max-w-[40rem] bg-white border border-gray-200 rounded-lg shadow-xl z-50 transition-all duration-300 opacity-0 invisible group-hover:opacity-100 group-hover:visible
-                    ${
-                      isLast
+            ${isLast
                         ? "right-0"
                         : index === 0
-                        ? "left-2"
-                        : "left-1/3 -translate-x-1/3"
-                    }`}
+                          ? "left-2"
+                          : "left-1/3 -translate-x-1/3"
+                      }`}
                   >
                     {/* Subheading */}
                     <div className="px-6 py-3 border-b border-gray-100">

@@ -2,16 +2,17 @@ import { Mail, Phone, MapPin } from "lucide-react";
 import { Link } from "react-router-dom";
 
 const Footer = () => {
+  // Updated to match the paths used in your Navbar
   const services = [
-    "IT Consulting",
-    "Cloud Solutions",
-    "Software Development",
-    "Cybersecurity"
+    { name: "Finance, Accounting & FinOps", href: "/services/finance-accounting-finops" },
+    { name: "Software Development", href: "/services/SoftwareDevelopment" },
+    { name: "Healthcare BPO", href: "/services/healthcare-BPO-Service" },
+    { name: "Data Services", href: "/services/it-software-cloud-cybersecurity" },
   ];
 
   return (
     <footer className="bg-[#006A7C] text-white relative overflow-hidden">
-      {/* Floating background blobs for effect */}
+      {/* Floating background blobs */}
       <div className="absolute -top-16 -left-16 w-72 h-72 bg-[#00A7BB]/20 rounded-full filter blur-3xl animate-blob opacity-70"></div>
       <div className="absolute -bottom-16 -right-16 w-72 h-72 bg-[#00A7BB]/20 rounded-full filter blur-3xl animate-blob-delay opacity-70"></div>
 
@@ -30,17 +31,17 @@ const Footer = () => {
           <div>
             <h4 className="text-xl font-semibold mb-4">Contact Info</h4>
             <div className="space-y-3">
-              <div className="flex items-center space-x-3 hover:text-[#00A7BB] transition">
+              <div className="flex items-center space-x-3 hover:text-[#00A7BB] transition cursor-pointer">
                 <Mail size={18} className="text-[#00A7BB]" />
                 <span>info@nimbleacuity.com</span>
               </div>
-              <div className="flex items-center space-x-3 hover:text-[#00A7BB] transition">
+              <div className="flex items-center space-x-3 hover:text-[#00A7BB] transition cursor-pointer">
                 <Phone size={18} className="text-[#00A7BB]" />
-                <span>+1 (555) 123-4567</span>
+                <span>+1 (510) 945-9514</span>
               </div>
-              <div className="flex items-center space-x-3 hover:text-[#00A7BB] transition">
+              <div className="flex items-center space-x-3 hover:text-[#00A7BB] transition cursor-pointer">
                 <MapPin size={18} className="text-[#00A7BB]" />
-                <span>New York, NY</span>
+                <span>710, Lakeway drive, Sunnyvale, California, USA 94087</span>
               </div>
             </div>
           </div>
@@ -50,12 +51,12 @@ const Footer = () => {
             <h4 className="text-xl font-semibold mb-4">Our Services</h4>
             <ul className="space-y-2">
               {services.map((service) => (
-                <li key={service}>
+                <li key={service.name}>
                   <Link
-                    to={`/services/${service.toLowerCase().replace(/ /g, "-")}`}
-                    className="hover:text-[#00A7BB] transition"
+                    to={service.href}
+                    className="hover:text-[#00A7BB] transition text-[#E6F3F5]"
                   >
-                    {service}
+                    {service.name}
                   </Link>
                 </li>
               ))}
@@ -64,14 +65,13 @@ const Footer = () => {
         </div>
 
         {/* Footer Bottom */}
-        <div className="border-t border-[#00A7BB] mt-12 pt-6 text-center text-[#E6F3F5]">
+        <div className="border-t border-[#00A7BB]/30 mt-12 pt-6 text-center text-[#E6F3F5]">
           <p>
             &copy; {new Date().getFullYear()} Nimble Acuity. All rights reserved.
           </p>
         </div>
       </div>
 
-      {/* Animations */}
       <style>
         {`
           @keyframes blob { 

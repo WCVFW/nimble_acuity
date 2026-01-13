@@ -73,7 +73,7 @@ const Navbar = () => {
               >
 
                 <Link
-                  to="/services">
+                  to="/#">
                   <button
                     className={`flex items-center px-3 py-2 text-sm font-medium transition-colors hover:text-[#006A7C] ${isServicesPage ? "text-[#006A7C]" : "text-gray-900"
                       }`}

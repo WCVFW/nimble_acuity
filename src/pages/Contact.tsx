@@ -32,14 +32,14 @@ const Contact = () => {
     {
       icon: <Phone className="h-6 w-6 text-white" />,
       title: "Phone",
-      details: "+1 (555) 123-4567",
-      subtitle: "Mon - Fri, 9 AM - 6 PM EST"
+      details: "+1 (510) 945-9514",
+      subtitle: "Mon - Fri, 9 AM - 6 PM PST"
     },
     {
       icon: <MapPin className="h-6 w-6 text-white" />,
       title: "Office",
-      details: "New York, NY",
-      subtitle: "Available for on-site consultations"
+      details: "710, Lakeway drive, Sunnyvale, California, USA 94087",
+      subtitle: ""
     }
   ];
 
