@@ -341,25 +341,33 @@ const AccountsHeader = () => {
             return (
               <li
                 key={index}
-                className="relative group px-1 py-1 -ml-10 cursor-pointer hover:text-[#006A7C] transition-colors duration-200"
+                // Added 'pb-4' to bridge the gap between the link and the dropdown
+                className="relative group px-1 pb-4 -ml-10 cursor-pointer transition-colors duration-200"
               >
                 <a
                   href={item.href}
-                  className="font-medium text-black text-sm whitespace-nowrap"
+                  className="font-medium text-black text-sm whitespace-nowrap group-hover:text-[#006A7C]"
                 >
                   {item.title}
                 </a>
 
                 {item.dropdown && (
                   <div
-                    className={`absolute top-full mt-4 min-w-[22rem] max-w-[40rem] bg-white border border-gray-200 rounded-lg shadow-xl z-50 transition-all duration-300 opacity-0 invisible group-hover:opacity-100 group-hover:visible
-                    ${isLast
-                        ? "right-0"
+                    className={`absolute top-full left-0 min-w-[22rem] max-w-[40rem] bg-white border border-gray-200 rounded-lg shadow-xl z-50 
+            transition-all duration-300 opacity-0 invisible 
+            group-hover:opacity-100 group-hover:visible
+            ${isLast
+                        ? "right-0 left-auto"
                         : index === 0
                           ? "left-2"
-                          : "left-1/3 -translate-x-1/3"
+                          : "left-1/2 -translate-x-1/2"
                       }`}
                   >
+                    {/* Optional: Add a "bridge" div if you still want a visual gap. 
+               This invisible div fills the space so the hover isn't lost.
+            */}
+                    <div className="absolute -top-4 left-0 w-full h-4 bg-transparent" />
+
                     {/* Subheading */}
                     <div className="px-6 py-3 border-b border-gray-100">
                       <h4 className="font-bold text-[#006A7C] text-lg">

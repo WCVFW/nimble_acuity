@@ -306,62 +306,66 @@ const MortgageHeader = () => {
 
         {/* Desktop Navigation Centered */}
         <ul className="hidden md:flex space-x-6">
-          {megaMenuData.map((item, index) => {
-            const isLast = index === megaMenuData.length - 1;
+  {megaMenuData.map((item, index) => {
+    const isLast = index === megaMenuData.length - 1;
 
-            return (
-              <li
-                key={index}
-                className="relative group px-1 py-1 cursor-pointer hover:text-[#006A7C] transition-colors duration-200"
-              >
-                <a
-                  href={item.href}
-                  className="font-medium text-black text-sm whitespace-nowrap"
-                >
-                  {item.title}
+    return (
+      <li
+        key={index}
+        // Added pb-4 to extend the hoverable area of the parent toward the dropdown
+        className="relative group px-1 pb-4 cursor-pointer transition-colors duration-200"
+      >
+        <a
+          href={item.href}
+          className="font-medium text-black text-sm whitespace-nowrap group-hover:text-[#006A7C]"
+        >
+          {item.title}
+        </a>
+
+        {item.dropdown && (
+          <div
+            className={`absolute top-full mt-2 min-w-[22rem] max-w-[40rem] bg-white border border-gray-200 rounded-lg shadow-xl z-50 transition-all duration-300 opacity-0 invisible group-hover:opacity-100 group-hover:visible
+            ${
+              isLast
+                ? "right-0"
+                : index === 0
+                ? "left-0"
+                : "left-1/2 -translate-x-1/2"
+            }`}
+          >
+            {/* HOVER BRIDGE: This invisible div fills the gap so the menu doesn't close */}
+            <div className="absolute -top-6 left-0 w-full h-6 bg-transparent" />
+
+            {/* Subheading */}
+            <div className="px-6 py-3 border-b border-gray-100">
+              <h4 className="font-bold text-[#006A7C] text-lg">
+                <a href={item.dropdown.subheadingHref}>
+                  {item.dropdown.subheading}
                 </a>
+              </h4>
+            </div>
 
-                {item.dropdown && (
-                  <div
-                    className={`absolute top-full mt-4 min-w-[22rem] max-w-[40rem] bg-white border border-gray-200 rounded-lg shadow-xl z-50 transition-all duration-300 opacity-0 invisible group-hover:opacity-100 group-hover:visible
-                  ${
-                    isLast
-                      ? "right-0"
-                      : index === 0
-                      ? "left-2"
-                      : "left-1/3 -translate-x-1/3"
-                  }`}
-                  >
-                    {/* Subheading */}
-                    <div className="px-6 py-3 border-b border-gray-100">
-                      <h4 className="font-bold text-[#006A7C] text-lg">
-                        <a href={item.dropdown.subheadingHref}>
-                          {item.dropdown.subheading}
-                        </a>
-                      </h4>
-                    </div>
-
-                    {/* Scrollable Links */}
-                    <div className="max-h-[400px] overflow-y-auto p-6">
-                      <ul className="grid grid-cols-2 gap-3">
-                        {item.dropdown.links.map((link, linkIndex) => (
-                          <li key={linkIndex}>
-                            <a
-                              href={link.href}
-                              className="block text-sm text-gray-800 px-2 py-1 rounded-md hover:bg-[#006A7C] hover:text-white transition"
-                            >
-                              {link.text}
-                            </a>
-                          </li>
-                        ))}
-                      </ul>
-                    </div>
-                  </div>
-                )}
-              </li>
-            );
-          })}
-        </ul>
+            {/* Scrollable Links */}
+            <div className="max-h-[400px] overflow-y-auto p-6">
+              <ul className="grid grid-cols-2 gap-3">
+                {item.dropdown.links.map((link, linkIndex) => (
+                  <li key={linkIndex}>
+                    <a
+                      href={link.href}
+                      className="block text-sm text-gray-800 px-2 py-1 rounded-md hover:bg-[#006A7C] hover:text-white transition"
+                    >
+                      {link.text}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </div>
+        )}
+      </li>
+    );
+  })}
+</ul>
       </div>
     </nav>
   );
