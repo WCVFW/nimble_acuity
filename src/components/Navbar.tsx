@@ -48,10 +48,14 @@ const Navbar = () => {
         <div className="flex justify-between h-16 items-center relative">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <Link to="/" className="text-3xl font-bold text-[#006A7C]">
-              Nimble Acuity
-            </Link>
-          </div>
+  <Link to="/" className="flex items-center text-[#006A7C]">
+    <img 
+      src="/images/nalogo.png" 
+      alt="Nimble Acuity" 
+      className="h-8 w-auto object-contain"
+    />
+  </Link>
+</div>
 
           {/* Desktop Navigation */}
           <div className="hidden lg:flex flex-1 justify-center items-center relative">

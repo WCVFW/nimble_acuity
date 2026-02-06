@@ -21,7 +21,13 @@ const Footer = () => {
           
           {/* About */}
           <div>
-            <h3 className="text-2xl font-bold mb-4">Nimble Acuity</h3>
+            <Link to="/" className="flex items-center text-[#006A7C]">
+                <img 
+                  src="/images/naflogo.png" 
+                  alt="Nimble Acuity" 
+                  className="h-12 w-auto object-contain"
+                />
+              </Link>
             <p className="text-[#E6F3F5] leading-relaxed">
               Delivering smart IT solutions that empower businesses to innovate, grow, and stay secure.
             </p>
